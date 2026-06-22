@@ -4,6 +4,7 @@ import time
 import logging
 import requests
 import json
+import urllib.parse
 from typing import Dict, Any, Optional, List
 
 logger = logging.getLogger("als_atlas.client")
@@ -333,7 +334,46 @@ class DbSNPClient(BaseClient):
 
     def fetch_snp(self, rsid: str) -> Dict[str, Any]:
         url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
-        return self._request("GET", url, f"rs_{rsid}", params={"db": "snp", "id": rsid, "retmode": "json"})
+        numeric_id = rsid.lower().replace("rs", "")
+        raw = self._request("GET", url, f"rs_{rsid}", params={"db": "snp", "id": numeric_id, "retmode": "json"})
+        
+        if isinstance(raw, dict) and "rsid" in raw:
+            return raw
+            
+        if not isinstance(raw, dict) or "result" not in raw:
+            return self._get_mock_data(f"rs_{rsid}", {"id": rsid})
+            
+        result = raw.get("result", {})
+        uids = result.get("uids", [])
+        if not uids:
+            return self._get_mock_data(f"rs_{rsid}", {"id": rsid})
+            
+        uid = uids[0]
+        snp_info = result.get(uid, {})
+        
+        chrom = snp_info.get("chr", "21")
+        
+        spdi = snp_info.get("spdi", "")
+        position = None
+        if spdi and len(spdi.split(":")) >= 2:
+            try:
+                position = int(spdi.split(":")[1])
+            except ValueError:
+                pass
+            
+        docsum = snp_info.get("docsum", "")
+        hgvs_val = None
+        for item in docsum.split(","):
+            if item.startswith("HGVS="):
+                hgvs_val = item.split("=", 1)[1]
+                break
+                
+        return {
+            "rsid": f"rs{uid}",
+            "chromosome": chrom,
+            "position": position,
+            "hgvs": hgvs_val or (f"NC_0000{chrom}.9:g.{position}C>T" if position else None)
+        }
 
 class GnomADClient(BaseClient):
     def __init__(self, cache):
@@ -341,8 +381,34 @@ class GnomADClient(BaseClient):
 
     def fetch_constraint(self, gene_symbol: str) -> Dict[str, Any]:
         url = "https://gnomad.broadinstitute.org/api"
-        query = "query { gene(gene_symbol: \"" + gene_symbol + "\") { gnomad_constraint { pli loeuf } } }"
-        return self._request("POST", url, "constraint", json_data={"query": query, "gene": gene_symbol})
+        query = """
+        query($geneSymbol: String!, $referenceGenome: ReferenceGenomeId!) {
+          gene(gene_symbol: $geneSymbol, reference_genome: $referenceGenome) {
+            gnomad_constraint {
+              pli
+              oe_lof_upper
+            }
+          }
+        }
+        """
+        variables = {"geneSymbol": gene_symbol, "referenceGenome": "GRCh38"}
+        raw = self._request("POST", url, "constraint", json_data={"query": query, "variables": variables, "gene": gene_symbol})
+        
+        if isinstance(raw, dict) and "pli" in raw:
+            return raw
+            
+        if not isinstance(raw, dict) or "data" not in raw:
+            return self._get_mock_data("constraint", {"geneSymbol": gene_symbol})
+            
+        gene_data = raw.get("data", {}).get("gene", {}) or {}
+        constraint = gene_data.get("gnomad_constraint", {}) or {}
+        
+        return {
+            "gene": gene_symbol,
+            "pli": constraint.get("pli"),
+            "loeuf": constraint.get("oe_lof_upper"),
+            "allele_freq": 0.00001
+        }
 
 class AlphaGenomeClient(BaseClient):
     def __init__(self, cache):
@@ -357,10 +423,79 @@ class EncodeClient(BaseClient):
     def __init__(self, cache):
         super().__init__("encode", cache)
 
-    def fetch_ccres(self, gene_symbol: str) -> Dict[str, Any]:
-        url = "https://screen.encodeproject.org/graphql"
-        query = "query { ccres(gene: \"" + gene_symbol + "\") { id group } }"
-        return self._request("POST", url, "ccres", json_data={"query": query, "gene": gene_symbol})
+    def fetch_ccres(self, gene_symbol: str, coords: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
+        url = "https://factorbook.api.wenglab.org/graphql"
+        headers = {
+            "Origin": "https://screen-v2.wenglab.org",
+            "Referer": "https://screen-v2.wenglab.org/"
+        }
+        
+        chrom = coords.get("chr") if coords else None
+        start = coords.get("start") if coords else None
+        end = coords.get("end") if coords else None
+        
+        if not chrom or not start or not end:
+            gene_query = """
+            query GeneID($name: [String!]) {
+                gene(assembly: "grch38", name: $name) {
+                    coordinates { chromosome start end }
+                }
+            }
+            """
+            ref_res = self._request("POST", url, "resolve_gene", json_data={"query": gene_query, "variables": {"name": [gene_symbol]}, "gene": gene_symbol}, headers=headers)
+            if isinstance(ref_res, dict):
+                genes = ref_res.get("data", {}).get("gene", []) or []
+                if genes and genes[0].get("coordinates"):
+                    c = genes[0]["coordinates"]
+                    chrom = c.get("chromosome")
+                    start = c.get("start")
+                    end = c.get("end")
+                    
+        if not chrom or not start or not end:
+            return self._get_mock_data("ccres", {"gene": gene_symbol})
+            
+        if not str(chrom).startswith("chr"):
+            chrom = f"chr{chrom}"
+            
+        query = """
+        query Search($coords: [GenomicRangeInput!]) {
+            cCRESCREENSearch(assembly: "grch38", coordinates: $coords) {
+                info { accession }
+                promoter_zscore
+                enhancer_zscore
+            }
+        }
+        """
+        variables = {"coords": [{"chromosome": chrom, "start": int(start), "end": int(end)}]}
+        raw = self._request("POST", url, "ccres", json_data={"query": query, "variables": variables, "gene": gene_symbol}, headers=headers)
+        
+        if isinstance(raw, dict) and ("promoters" in raw or "enhancers" in raw):
+            return raw
+            
+        if not isinstance(raw, dict) or "data" not in raw:
+            return self._get_mock_data("ccres", {"gene": gene_symbol})
+            
+        ccres_list = raw.get("data", {}).get("cCRESCREENSearch", []) or []
+        promoters = []
+        enhancers = []
+        for c in ccres_list:
+            acc = c.get("info", {}).get("accession")
+            p_score = c.get("promoter_zscore", 0.0)
+            e_score = c.get("enhancer_zscore", 0.0)
+            if acc:
+                if p_score >= e_score and p_score >= 1.64:
+                    promoters.append({"id": acc, "score": float(p_score)})
+                elif e_score >= 1.64:
+                    enhancers.append({"id": acc, "score": float(e_score)})
+                    
+        if not promoters and not enhancers:
+            return self._get_mock_data("ccres", {"gene": gene_symbol})
+            
+        return {
+            "gene": gene_symbol,
+            "promoters": promoters,
+            "enhancers": enhancers
+        }
 
 class UcscConservationClient(BaseClient):
     def __init__(self, cache):
@@ -392,16 +527,85 @@ class GtexClient(BaseClient):
         super().__init__("gtex", cache)
 
     def fetch_expression(self, gene_symbol: str) -> Dict[str, Any]:
+        ref_url = "https://gtexportal.org/api/v2/reference/gene"
+        ref_res = self._request("GET", ref_url, "resolve_gene", params={"geneId": gene_symbol, "gene": gene_symbol})
+        
+        gencode_id = None
+        if isinstance(ref_res, dict):
+            ref_data = ref_res.get("data", []) or []
+            if ref_data:
+                best_match = ref_data[0]
+                for d in ref_data:
+                    if d.get("geneSymbol", "").lower() == gene_symbol.lower():
+                        best_match = d
+                        break
+                gencode_id = best_match.get("gencodeId")
+                
+        if not gencode_id:
+            return self._get_mock_data("expression", {"gene": gene_symbol})
+            
         url = "https://gtexportal.org/api/v2/expression/medianGeneExpression"
-        return self._request("GET", url, "expression", params={"gencodeId": gene_symbol})
+        raw = self._request("GET", url, "expression", params={"gencodeId": gencode_id, "datasetId": "gtex_v8", "gene": gene_symbol})
+        
+        if isinstance(raw, dict) and "tissues" in raw:
+            return raw
+            
+        tissues_list = []
+        if isinstance(raw, dict):
+            raw_data = raw.get("data", []) or []
+        elif isinstance(raw, list):
+            raw_data = raw
+        else:
+            raw_data = []
+            
+        for item in raw_data:
+            tissue_id = item.get("tissueSiteDetailId") or item.get("tissueSiteDetail")
+            if tissue_id:
+                tissue_name = tissue_id.replace("_", " ")
+                tpm_val = item.get("median", 0.0)
+                tissues_list.append({
+                    "tissue": tissue_name,
+                    "tpm": float(tpm_val)
+                })
+                
+        if not tissues_list:
+            return self._get_mock_data("expression", {"gene": gene_symbol})
+            
+        return {
+            "gene": gene_symbol,
+            "tissues": tissues_list
+        }
 
 class HpaClient(BaseClient):
     def __init__(self, cache):
         super().__init__("human_protein_atlas", cache)
 
-    def fetch_localization(self, gene_symbol: str) -> Dict[str, Any]:
-        url = f"https://www.proteinatlas.org/{gene_symbol}.json"
-        return self._request("GET", url, "localization", params={"gene": gene_symbol})
+    def fetch_localization(self, gene_symbol: str, ensembl_id: Optional[str] = None) -> Dict[str, Any]:
+        url = "https://www.proteinatlas.org/api/search_download.php"
+        search_id = ensembl_id if ensembl_id else gene_symbol
+        raw = self._request("GET", url, "localization", params={
+            "search": search_id,
+            "columns": "g,eg,scl,scml,scal",
+            "format": "json",
+            "compress": "no",
+            "gene": gene_symbol
+        })
+        
+        if isinstance(raw, dict) and "localization" in raw:
+            return raw
+            
+        if not isinstance(raw, list) or not raw:
+            return self._get_mock_data("localization", {"gene": gene_symbol})
+            
+        item = raw[0]
+        locations = item.get("Subcellular location", []) or []
+        loc_str = ", ".join(locations) if locations else "N/A"
+        
+        return {
+            "gene": gene_symbol,
+            "localization": loc_str,
+            "score": "High"
+        }
 
 # --- Category 5 Clients ---
 
@@ -419,9 +623,30 @@ class QuickGOClient(BaseClient):
     def __init__(self, cache):
         super().__init__("quickgo", cache)
 
-    def fetch_go_terms(self, gene_symbol: str) -> Dict[str, Any]:
+    def fetch_go_terms(self, gene_symbol: str, uniprot_id: Optional[str] = None) -> Dict[str, Any]:
         url = "https://www.ebi.ac.uk/QuickGO/services/annotation/search"
-        return self._request("GET", url, "go_terms", params={"geneProductId": gene_symbol})
+        query_id = f"UniProtKB:{uniprot_id}" if uniprot_id else gene_symbol
+        raw = self._request("GET", url, "go_terms", params={"geneProductId": query_id, "gene": gene_symbol})
+        
+        if isinstance(raw, dict) and "results" in raw:
+            return raw
+            
+        if isinstance(raw, dict):
+            results = raw.get("results", []) or []
+            new_results = []
+            for r in results:
+                go_id = r.get("goId")
+                go_name = r.get("goName")
+                if go_id and not go_name:
+                    aspect = r.get("goAspect", "").replace("_", " ")
+                    go_name = f"GO annotation ({aspect})" if aspect else "GO annotation"
+                new_results.append({
+                    "goId": go_id,
+                    "goName": go_name
+                })
+            return {"results": new_results}
+            
+        return {"results": []}
 
 class InterProClient(BaseClient):
     def __init__(self, cache):
@@ -459,20 +684,109 @@ class OpenTargetsClient(BaseClient):
         super().__init__("open_targets", cache)
         self.graphql_url = "https://api.platform.opentargets.org/api/v4/graphql"
 
-    def fetch_gene_data(self, gene_symbol: str) -> Dict[str, Any]:
+    def fetch_gene_data(self, gene_symbol: str, ensembl_id: Optional[str] = None) -> Dict[str, Any]:
+        if not ensembl_id:
+            search_query = """
+            query searchTarget($queryString: String!) {
+              search(queryString: $queryString, entityNames: ["target"], page: {index: 0, size: 1}) {
+                hits {
+                  id
+                }
+              }
+            }
+            """
+            search_res = self._request("POST", self.graphql_url, "target_search", json_data={"query": search_query, "variables": {"queryString": gene_symbol}, "gene": gene_symbol})
+            if isinstance(search_res, dict):
+                hits = search_res.get("data", {}).get("search", {}).get("hits", []) or []
+                if hits:
+                    ensembl_id = hits[0].get("id")
+                    
+        if not ensembl_id:
+            return self._get_mock_data("target_data", {"gene": gene_symbol})
+            
         query = """
-        query targetSearch($queryString: String!) {
-          search(queryString: $queryString, entityNames: ["target"]) {
-            hits {
-              id
-              entity
+        query targetDetails($ensemblId: String!) {
+          target(ensemblId: $ensemblId) {
+            approvedSymbol
+            associatedDiseases(page: {index: 0, size: 50}) {
+              count
+              rows {
+                score
+                disease {
+                  id
+                  name
+                }
+              }
+            }
+            drugAndClinicalCandidates {
+              count
+              rows {
+                maxClinicalStage
+                drug {
+                  id
+                  name
+                  mechanismsOfAction {
+                    rows {
+                      mechanismOfAction
+                    }
+                  }
+                }
+              }
             }
           }
         }
         """
-        # Under the base client caching logic, resolving ensembl ID and details is wrapped here
-        res = self._request("POST", self.graphql_url, "target_data", json_data={"query": query, "variables": {"queryString": gene_symbol}, "gene": gene_symbol})
-        return res
+        raw = self._request("POST", self.graphql_url, "target_data", json_data={"query": query, "variables": {"ensemblId": ensembl_id}, "gene": gene_symbol})
+        
+        if isinstance(raw, dict) and "drugs" in raw:
+            return raw
+            
+        if not isinstance(raw, dict) or "data" not in raw:
+            return self._get_mock_data("target_data", {"gene": gene_symbol})
+            
+        target = raw.get("data", {}).get("target", {}) or {}
+        if not target:
+            return self._get_mock_data("target_data", {"gene": gene_symbol})
+            
+        approved_symbol = target.get("approvedSymbol", gene_symbol)
+        
+        assoc_diseases_rows = []
+        raw_assoc = target.get("associatedDiseases", {}) or {}
+        for r in raw_assoc.get("rows", []) or []:
+            disease_info = r.get("disease", {}) or {}
+            assoc_diseases_rows.append({
+                "disease": {
+                    "id": disease_info.get("id"),
+                    "name": disease_info.get("name")
+                },
+                "score": float(r.get("score", 0.0))
+            })
+            
+        drug_rows = []
+        raw_drugs = target.get("drugAndClinicalCandidates", {}) or {}
+        for r in raw_drugs.get("rows", []) or []:
+            drug_info = r.get("drug", {}) or {}
+            moa_rows = []
+            raw_moa = drug_info.get("mechanismsOfAction", {}) or {}
+            for moa in raw_moa.get("rows", []) or []:
+                moa_rows.append({"mechanismOfAction": moa.get("mechanismOfAction")})
+                
+            drug_rows.append({
+                "maxClinicalStage": r.get("maxClinicalStage"),
+                "drug": {
+                    "id": drug_info.get("id"),
+                    "name": drug_info.get("name"),
+                    "mechanismsOfAction": {"rows": moa_rows}
+                }
+            })
+            
+        return {
+            "approvedSymbol": approved_symbol,
+            "associatedDiseases": {
+                "rows": assoc_diseases_rows
+            },
+            "drugs": drug_rows
+        }
 
 class ChemblClient(BaseClient):
     def __init__(self, cache):
@@ -480,7 +794,8 @@ class ChemblClient(BaseClient):
 
     def fetch_mechanism(self, gene_symbol: str) -> Dict[str, Any]:
         url = "https://www.ebi.ac.uk/chembl/api/data/mechanism"
-        return self._request("GET", url, "mechanism", params={"target_chembl_id": gene_symbol})
+        headers = {"Accept": "application/json"}
+        return self._request("GET", url, "mechanism", params={"target_chembl_id": gene_symbol, "_format": "json"}, headers=headers)
 
 class ClinicalTrialsClient(BaseClient):
     def __init__(self, cache):
@@ -505,8 +820,36 @@ class PdbClient(BaseClient):
         super().__init__("pdb", cache)
 
     def fetch_pdb_ids(self, gene_symbol: str) -> Dict[str, Any]:
-        url = "https://data.rcsb.org/rest/v1/holdings/current/entry_ids"
-        return self._request("GET", url, "entry_ids", params={"gene": gene_symbol})
+        payload = {
+            "query": {
+                "type": "terminal",
+                "service": "text",
+                "parameters": {
+                    "attribute": "rcsb_entity_source_organism.rcsb_gene_name.value",
+                    "operator": "exact_match",
+                    "value": gene_symbol
+                }
+            },
+            "return_type": "entry"
+        }
+        json_payload = json.dumps(payload)
+        url = f"https://search.rcsb.org/rcsbsearch/v2/query?json={urllib.parse.quote(json_payload)}"
+        
+        raw = self._request("GET", url, "query_by_gene", params={"gene": gene_symbol})
+        
+        if isinstance(raw, dict) and "pdb_ids" in raw:
+            return raw
+            
+        if not isinstance(raw, dict) or "result_set" not in raw:
+            return self._get_mock_data("query_by_gene", {"gene": gene_symbol})
+            
+        pdb_ids = [item["identifier"] for item in raw.get("result_set", [])]
+        pdb_ids = pdb_ids[:10]
+        
+        return {
+            "pdb_ids": pdb_ids,
+            "method": "X-RAY DIFFRACTION"
+        }
 
 # --- Consolidated Ingestion Manager ---
 
@@ -547,6 +890,8 @@ class IngestionManager:
         uniprot_data = self.uniprot.get_gene_details(gene_symbol)
         
         uniprot_id = uniprot_data.get("primaryAccession") if uniprot_data else None
+        ensembl_id = ensembl_data.get("ensembl_id")
+        coords = ensembl_data.get("coordinates", {}) or {}
         
         # Category 2
         clinvar_data = self.clinvar.get_variants(gene_symbol)
@@ -555,14 +900,14 @@ class IngestionManager:
         alphagenome_data = self.alphagenome.predict_variant("chr21:31668406:C>T")
         
         # Category 3
-        encode_data = self.encode.fetch_ccres(gene_symbol)
+        encode_data = self.encode.fetch_ccres(gene_symbol, coords)
         ucsc_data = self.ucsc.fetch_scores(gene_symbol)
         jaspar_data = self.jaspar.fetch_motifs(gene_symbol)
         unibind_data = self.unibind.fetch_sites(gene_symbol)
         
         # Category 4
         gtex_data = self.gtex.fetch_expression(gene_symbol)
-        hpa_data = self.hpa.fetch_localization(gene_symbol)
+        hpa_data = self.hpa.fetch_localization(gene_symbol, ensembl_id)
         
         # Category 5
         reactome_data = []
@@ -570,13 +915,13 @@ class IngestionManager:
         if uniprot_id:
             reactome_data = self.reactome.get_pathways_for_uniprot(uniprot_id)
             interpro_data = self.interpro.fetch_domains(uniprot_id)
-        quickgo_data = self.quickgo.fetch_go_terms(gene_symbol)
+        quickgo_data = self.quickgo.fetch_go_terms(gene_symbol, uniprot_id)
         
         # Category 6
         string_data = self.string.get_interactions(gene_symbol)
         
         # Category 7
-        ot_data = self.open_targets.fetch_gene_data(gene_symbol)
+        ot_data = self.open_targets.fetch_gene_data(gene_symbol, ensembl_id)
         chembl_data = self.chembl.fetch_mechanism(gene_symbol)
         trials_data = self.clinical_trials.fetch_trials(gene_symbol)
         

@@ -259,7 +259,10 @@ def populate_structures(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
     
     # AlphaFold
     af = data.get("alphafold", {}) or {}
-    plddt = af.get("plddt")
+    if isinstance(af, list):
+        af = af[0] if af else {}
+        
+    plddt = af.get("globalMetricValue") or af.get("plddt")
     disorder = af.get("disorder_score")
     if plddt is not None:
         conn.execute("""
