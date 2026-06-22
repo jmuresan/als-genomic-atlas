@@ -51,6 +51,11 @@ class Config:
         if self.pubmed_limit_per_gene <= 0:
             raise ValueError(f"PubMed limit per gene must be greater than 0, got {self.pubmed_limit_per_gene}")
         
+        foldseek = api_settings.get("foldseek", {})
+        self.foldseek_probability_threshold: float = foldseek.get("probability_threshold", 0.7)
+        self.foldseek_limit_hits: int = foldseek.get("limit_hits", 5)
+
+        
         raw_weights = self.data.get("scoring_weights", {})
         self.scoring_weights = {}
         if raw_weights:

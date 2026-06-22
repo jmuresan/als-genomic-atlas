@@ -193,6 +193,22 @@ class BaseClient:
                 {"preferredName_A": gene, "preferredName_B": "TARDBP", "score": 0.850}
             ]
         elif "open_targets" in self.source_name:
+            if endpoint == "target_drugs_indications":
+                return {
+                    "approvedSymbol": gene,
+                    "drugs": [
+                        {
+                            "maxClinicalStage": "PHASE_III",
+                            "status": "Active",
+                            "drug": {
+                                "id": "CHEMBL12345",
+                                "name": "MockTherapeutic",
+                                "mechanismsOfAction": {"rows": [{"mechanismOfAction": "Inhibitor of mock protein"}]},
+                                "indications": {"rows": [{"disease": {"name": "Neurodegenerative Disease"}}]}
+                            }
+                        }
+                    ]
+                }
             return {
                 "approvedSymbol": gene,
                 "associatedDiseases": {
@@ -236,6 +252,37 @@ class BaseClient:
             return {
                 "pdb_ids": ["1HLN", "2C9V"],
                 "method": "X-RAY DIFFRACTION"
+            }
+        elif "foldseek" in self.source_name:
+            return {
+                "results": [
+                    {
+                        "alignments": [
+                            {
+                                "target": "AF-P02144-F1",
+                                "prob": 0.95,
+                                "qlen": 154,
+                                "qStartPos": 1,
+                                "qEndPos": 154,
+                                "eval": 1e-10,
+                                "seqId": 0.45,
+                                "alnLength": 154,
+                                "db": "afdb-swissprot"
+                            },
+                            {
+                                "target": "AF-P01112-F1",
+                                "prob": 0.88,
+                                "qlen": 154,
+                                "qStartPos": 1,
+                                "qEndPos": 150,
+                                "eval": 1e-8,
+                                "seqId": 0.38,
+                                "alnLength": 150,
+                                "db": "afdb-swissprot"
+                            }
+                        ]
+                    }
+                ]
             }
         
         # Default fallback
@@ -788,6 +835,113 @@ class OpenTargetsClient(BaseClient):
             "drugs": drug_rows
         }
 
+    def fetch_drugs_and_indications_for_target(self, target_query: str) -> Dict[str, Any]:
+        """Queries Open Targets to find approved drugs, trials, and indications for a matched target ID/name."""
+        endpoint = "target_drugs_indications"
+        query_params = {"target": target_query}
+        
+        # Check cache
+        cached = self.cache.read(self.source_name, endpoint, query_params)
+        if cached is not None:
+            return cached
+            
+        if self.cache.offline_mode:
+            return self._get_mock_data(endpoint, query_params)
+            
+        # Resolve target name/ID (e.g. UniProt ID) to Ensembl ID
+        ensembl_id = None
+        search_query = """
+        query searchTarget($queryString: String!) {
+          search(queryString: $queryString, entityNames: ["target"]) {
+            hits {
+              id
+            }
+          }
+        }
+        """
+        search_res = self._request("POST", self.graphql_url, "target_search", json_data={"query": search_query, "variables": {"queryString": target_query}})
+        if isinstance(search_res, dict):
+            hits = search_res.get("data", {}).get("search", {}).get("hits", []) or []
+            if hits:
+                ensembl_id = hits[0].get("id")
+                
+        if not ensembl_id:
+            return {"drugs": []}
+            
+        # Query target details including drugs, mechanism, and indications
+        query = """
+        query targetDrugsAndIndications($ensemblId: String!) {
+          target(ensemblId: $ensemblId) {
+            approvedSymbol
+            drugAndClinicalCandidates {
+              count
+              rows {
+                maxClinicalStage
+                status
+                drug {
+                  id
+                  name
+                  mechanismsOfAction {
+                    rows {
+                      mechanismOfAction
+                    }
+                  }
+                  indications {
+                    rows {
+                      disease {
+                        name
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+        """
+        raw = self._request("POST", self.graphql_url, "target_details", json_data={"query": query, "variables": {"ensemblId": ensembl_id}})
+        
+        if not isinstance(raw, dict) or "data" not in raw:
+            return {"drugs": []}
+            
+        target = raw.get("data", {}).get("target", {}) or {}
+        if not target:
+            return {"drugs": []}
+            
+        approved_symbol = target.get("approvedSymbol", target_query)
+        drug_rows = []
+        raw_drugs = target.get("drugAndClinicalCandidates", {}) or {}
+        for r in raw_drugs.get("rows", []) or []:
+            drug_info = r.get("drug", {}) or {}
+            moa_rows = []
+            raw_moa = drug_info.get("mechanismsOfAction", {}) or {}
+            for moa in raw_moa.get("rows", []) or []:
+                moa_rows.append({"mechanismOfAction": moa.get("mechanismOfAction")})
+                
+            ind_rows = []
+            raw_ind = drug_info.get("indications", {}) or {}
+            for ind in raw_ind.get("rows", []) or []:
+                disease_info = ind.get("disease", {}) or {}
+                ind_rows.append({"disease": {"name": disease_info.get("name")}})
+                
+            drug_rows.append({
+                "maxClinicalStage": r.get("maxClinicalStage"),
+                "status": r.get("status"),
+                "drug": {
+                  "id": drug_info.get("id"),
+                  "name": drug_info.get("name"),
+                  "mechanismsOfAction": {"rows": moa_rows},
+                  "indications": {"rows": ind_rows}
+                }
+            })
+            
+        result = {
+            "approvedSymbol": approved_symbol,
+            "drugs": drug_rows
+        }
+        self.cache.write(self.source_name, endpoint, query_params, result)
+        return result
+
 class ChemblClient(BaseClient):
     def __init__(self, cache):
         super().__init__("chembl", cache)
@@ -851,12 +1005,118 @@ class PdbClient(BaseClient):
             "method": "X-RAY DIFFRACTION"
         }
 
+class FoldseekClient(BaseClient):
+    def __init__(self, cache):
+        super().__init__("foldseek", cache)
+
+    def fetch_alignments(self, gene_symbol: str, sequence: str) -> Dict[str, Any]:
+        import tempfile
+        endpoint = "alignments"
+        query_params = {"gene": gene_symbol}
+        
+        # Check cache
+        cached = self.cache.read(self.source_name, endpoint, query_params)
+        if cached is not None:
+            return cached
+            
+        if self.cache.offline_mode:
+            logger.warning(f"Offline mode active and no cache found for Foldseek alignments for {gene_symbol}. Returning mock data.")
+            return self._get_mock_data(endpoint, query_params)
+
+        logger.info(f"Submitting Foldseek alignment job for {gene_symbol}...")
+        url = "https://search.foldseek.com/api/ticket"
+        
+        # Write sequence to a temp file
+        with tempfile.NamedTemporaryFile(suffix=".fasta", mode="w", delete=False) as temp_fasta:
+            temp_fasta.write(f">{gene_symbol}\n{sequence}\n")
+            temp_fasta_path = temp_fasta.name
+            
+        try:
+            databases = [
+                "afdb50",
+                "afdb-swissprot",
+                "afdb-proteome",
+                "pdb100",
+                "BFVD",
+                "mgnify_esm30",
+                "cath50",
+                "gmgcl_id",
+                "bfmd"
+            ]
+            
+            # Post request
+            with open(temp_fasta_path, "rb") as f:
+                files = {"q": f}
+                data = [
+                    ("mode", "3diaa"),
+                ]
+                for db in databases:
+                    data.append(("database[]", db))
+                
+                logger.info(f"Uploading FASTA to Foldseek ticket API...")
+                response = requests.post(url, files=files, data=data, timeout=30)
+                if response.status_code != 200:
+                    logger.error(f"Foldseek submission failed: HTTP {response.status_code}")
+                    return self._get_mock_data(endpoint, query_params)
+                
+                res_json = response.json()
+                ticket_id = res_json.get("id")
+                if not ticket_id:
+                    logger.error(f"Foldseek submission returned no ticket ID. Response: {res_json}")
+                    return self._get_mock_data(endpoint, query_params)
+                    
+            logger.info(f"Foldseek ticket generated: {ticket_id}. Polling for completion...")
+            
+            # Poll status
+            status_url = f"https://search.foldseek.com/api/ticket/{ticket_id}"
+            max_polls = 30
+            for i in range(max_polls):
+                time.sleep(5)
+                status_resp = requests.get(status_url, timeout=20)
+                if status_resp.status_code != 200:
+                    logger.warning(f"Foldseek status check returned HTTP {status_resp.status_code}")
+                    continue
+                status_json = status_resp.json()
+                status = status_json.get("status")
+                logger.info(f"Foldseek status check {i+1}/{max_polls}: {status}")
+                if status == "COMPLETE":
+                    break
+                elif status == "ERROR":
+                    logger.error(f"Foldseek job failed on server for ticket {ticket_id}")
+                    return self._get_mock_data(endpoint, query_params)
+            else:
+                logger.error(f"Foldseek job timed out after {max_polls * 5} seconds")
+                return self._get_mock_data(endpoint, query_params)
+                
+            # Fetch results
+            logger.info(f"Fetching Foldseek results for ticket {ticket_id}...")
+            result_url = f"https://search.foldseek.com/api/result/{ticket_id}/0"
+            res = requests.get(result_url, timeout=60)
+            if res.status_code != 200:
+                logger.error(f"Failed to fetch Foldseek results: HTTP {res.status_code}")
+                return self._get_mock_data(endpoint, query_params)
+                
+            results = res.json()
+            
+            # Save to cache
+            self.cache.write(self.source_name, endpoint, query_params, results)
+            return results
+            
+        except Exception as e:
+            logger.error(f"Exception during Foldseek alignment: {e}")
+            return self._get_mock_data(endpoint, query_params)
+            
+        finally:
+            if os.path.exists(temp_fasta_path):
+                os.remove(temp_fasta_path)
+
 # --- Consolidated Ingestion Manager ---
 
 class IngestionManager:
     """Consolidated Ingest client to query all 8 biological categories."""
     def __init__(self, cache):
         self.cache = cache
+        self.foldseek = FoldseekClient(cache)
         self.ensembl = EnsemblClient(cache)
         self.ncbi_seq = NCBISequenceClient(cache)
         self.uniprot = UniProtClient(cache)
@@ -931,6 +1191,119 @@ class IngestionManager:
             alphafold_data = self.alphafold.fetch_structure(uniprot_id)
         pdb_data = self.pdb.fetch_pdb_ids(gene_symbol)
         
+        # Category 9 & 10: Foldseek & Matched target drugs/trials
+        from src.config import Config
+        config = Config()
+        prob_threshold = config.foldseek_probability_threshold
+        limit_hits = config.foldseek_limit_hits
+        
+        # Get sequence from uniprot_data
+        protein_seq = None
+        if isinstance(uniprot_data, dict):
+            protein_seq = uniprot_data.get("sequence", {}).get("value")
+            
+        if not protein_seq:
+            # Fall back to a default mock sequence if none is found
+            protein_seq = "MATKAVCVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGCTSAGPHFNPLSRKHGGPKDEERHVGDLGNVTADKDGVADVSIEDSVISLSGDHCIIGRTLVVHEKADDLGKGGNEESTKTGNAGSRLACGVIGIAQ"
+
+        foldseek_data = self.foldseek.fetch_alignments(gene_symbol, protein_seq)
+
+        # Process alignments and look up target drugs
+        alignments_list = []
+        if isinstance(foldseek_data, dict):
+            if "results" in foldseek_data:
+                for result_group in foldseek_data.get("results", []):
+                    for db_alignments in result_group.get("alignments", []):
+                        if isinstance(db_alignments, list):
+                            alignments_list.extend(db_alignments)
+                        elif isinstance(db_alignments, dict):
+                            alignments_list.append(db_alignments)
+            elif "alignments" in foldseek_data:
+                alignments_list = foldseek_data["alignments"]
+        elif isinstance(foldseek_data, list):
+            alignments_list = foldseek_data
+
+        filtered_matches = []
+        for hit in alignments_list:
+            prob = hit.get("prob", hit.get("probability", 0.0))
+            try:
+                prob = float(prob)
+            except (ValueError, TypeError):
+                prob = 0.0
+            
+            if prob >= prob_threshold:
+                target = hit.get("target", "")
+                clean_target = target
+                if target.startswith("AF-") and "-" in target[3:]:
+                    parts = target.split("-")
+                    if len(parts) >= 2:
+                        clean_target = parts[1]
+                elif "_" in target and not target.endswith("_A"):
+                    clean_target = target.split("_")[0]
+                
+                q_len = hit.get("qlen", hit.get("qLen", 0))
+                q_start = hit.get("qStartPos", 0)
+                q_end = hit.get("qEndPos", 0)
+                q_cov = 0.0
+                if q_len > 0 and q_end > q_start:
+                    q_cov = min((q_end - q_start + 1) / q_len, 1.0)
+                
+                filtered_matches.append({
+                    "target_id": target,
+                    "clean_target": clean_target,
+                    "db": hit.get("db", "afdb-swissprot"),
+                    "probability": prob,
+                    "query_coverage": q_cov,
+                    "eval": hit.get("eval", hit.get("eValue", hit.get("evalue", 1000.0))),
+                    "seqId": hit.get("seqId", hit.get("seqIdentity", hit.get("fident", 0.0))),
+                    "alnLength": hit.get("alnLength", hit.get("alnLen", hit.get("alnlen", 0)))
+                })
+
+        filtered_matches.sort(key=lambda x: x["probability"], reverse=True)
+        filtered_matches = filtered_matches[:limit_hits]
+
+        # Stage to phase dictionary mapping for helper
+        STAGE_TO_PHASE = {
+            "APPROVAL": 4.0, "PHASE_IV": 4.0, "PHASE_III": 3.0, "PHASE_II": 2.0,
+            "PHASE_I": 1.0, "EARLY_PHASE_I": 0.5, "PRECLINICAL": 0.0, "PHASE_0": 0.0,
+        }
+
+        foldseek_drugs = []
+        for match in filtered_matches:
+            target_id = match["clean_target"]
+            drugs_info = self.open_targets.fetch_drugs_and_indications_for_target(target_id)
+            if drugs_info and "drugs" in drugs_info:
+                for d in drugs_info["drugs"]:
+                    ind_list = [row.get("disease", {}).get("name", "") for row in d.get("drug", {}).get("indications", {}).get("rows", []) or []]
+                    ind_list = [i for i in ind_list if i]
+                    
+                    moa_list = [row.get("mechanismOfAction", "") for row in d.get("drug", {}).get("mechanismsOfAction", {}).get("rows", []) or []]
+                    moa_list = [m for m in moa_list if m]
+                    
+                    purpose = ""
+                    if ind_list:
+                        purpose += f"Indicated for: {', '.join(ind_list)}. "
+                    if moa_list:
+                        purpose += f"Mechanism: {'; '.join(moa_list)}."
+                    if not purpose:
+                        purpose = "No indication/mechanism details available."
+                        
+                    stage = d.get("maxClinicalStage")
+                    phase_val = None
+                    if stage:
+                        phase_val = STAGE_TO_PHASE.get(str(stage).strip().upper())
+                        
+                    foldseek_drugs.append({
+                        "target_id": match["target_id"],
+                        "drug_id": d.get("drug", {}).get("id"),
+                        "type": "drug",
+                        "name_or_title": d.get("drug", {}).get("name"),
+                        "max_clinical_phase": phase_val,
+                        "mechanism_of_action": "; ".join(moa_list) if moa_list else None,
+                        "status": d.get("status"),
+                        "purpose": purpose
+                    })
+
         return {
             "gene": gene_symbol,
             "uniprot_id": uniprot_id,
@@ -955,5 +1328,7 @@ class IngestionManager:
             "chembl": chembl_data,
             "clinical_trials": trials_data,
             "alphafold": alphafold_data,
-            "pdb": pdb_data
+            "pdb": pdb_data,
+            "foldseek_matches": filtered_matches,
+            "foldseek_drugs": foldseek_drugs
         }

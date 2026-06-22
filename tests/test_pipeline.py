@@ -134,7 +134,30 @@ def test_database_population():
         },
         "clinical_trials": {"trials": [{"nct_id": "NCT00000123", "title": "Riluzole Trial", "status": "COMPLETED"}]},
         "alphafold": {"plddt": 95.0, "disorder_score": 0.05},
-        "pdb": {"pdb_ids": ["1HLN"], "method": "X-RAY"}
+        "pdb": {"pdb_ids": ["1HLN"], "method": "X-RAY"},
+        "foldseek_matches": [
+            {
+                "target_id": "AF-P02144-F1",
+                "db": "afdb-swissprot",
+                "probability": 0.95,
+                "query_coverage": 1.0,
+                "eval": 1e-10,
+                "seqId": 0.45,
+                "alnLength": 154
+            }
+        ],
+        "foldseek_drugs": [
+            {
+                "target_id": "AF-P02144-F1",
+                "drug_id": "CHEMBL12345",
+                "type": "drug",
+                "name_or_title": "MockTherapeutic",
+                "max_clinical_phase": 3.0,
+                "mechanism_of_action": "Inhibitor of mock protein",
+                "status": "Active",
+                "purpose": "Indicated for: Neurodegenerative Disease"
+            }
+        ]
     }
     
     populate_all(conn, mock_data)
@@ -148,6 +171,12 @@ def test_database_population():
     
     nvar = conn.execute("SELECT COUNT(*) FROM variants").fetchone()[0]
     assert nvar == 1
+
+    nfs = conn.execute("SELECT COUNT(*) FROM foldseek_matches").fetchone()[0]
+    assert nfs == 1
+    
+    nfs_drugs = conn.execute("SELECT COUNT(*) FROM foldseek_matched_drugs_trials").fetchone()[0]
+    assert nfs_drugs == 1
     
     conn.close()
 

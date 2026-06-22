@@ -133,3 +133,37 @@ def create_tables(conn: duckdb.DuckDBPyConnection):
         FOREIGN KEY (gene_symbol) REFERENCES genes(gene_symbol)
     )
     """)
+
+    # 9. Foldseek matches table
+    conn.execute("""
+    CREATE TABLE IF NOT EXISTS foldseek_matches (
+        query_gene_symbol VARCHAR,
+        target_id VARCHAR,
+        db VARCHAR,
+        probability DOUBLE,
+        query_coverage DOUBLE,
+        evalue DOUBLE,
+        seq_identity DOUBLE,
+        alignment_length INTEGER,
+        PRIMARY KEY (query_gene_symbol, target_id),
+        FOREIGN KEY (query_gene_symbol) REFERENCES genes(gene_symbol)
+    )
+    """)
+
+    # 10. Foldseek matched target drugs and trials table
+    conn.execute("""
+    CREATE TABLE IF NOT EXISTS foldseek_matched_drugs_trials (
+        query_gene_symbol VARCHAR,
+        target_id VARCHAR,
+        drug_or_trial_id VARCHAR,
+        type VARCHAR, -- drug or trial
+        name_or_title VARCHAR,
+        max_clinical_phase DOUBLE,
+        mechanism_of_action VARCHAR,
+        status VARCHAR,
+        purpose VARCHAR, -- what the drug/trial is for
+        PRIMARY KEY (query_gene_symbol, target_id, drug_or_trial_id),
+        FOREIGN KEY (query_gene_symbol) REFERENCES genes(gene_symbol)
+    )
+    """)
+

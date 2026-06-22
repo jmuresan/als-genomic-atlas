@@ -185,6 +185,48 @@ def generate_report(db_path: str, output_path: str):
             else:
                 f.write("*No 3D structure mappings.*\n\n")
                 
+            # Category 9: Foldseek Structural Similarity Matches
+            foldseek = conn.execute("""
+                SELECT target_id, db, probability, query_coverage, evalue, seq_identity, alignment_length 
+                FROM foldseek_matches 
+                WHERE query_gene_symbol = ?
+                ORDER BY probability DESC
+            """, [symbol]).fetchall()
+            
+            f.write("### Category 9: Foldseek Structural Similarity Matches\n")
+            if foldseek:
+                f.write("| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |\n")
+                f.write("| --- | --- | --- | --- | --- | --- | --- |\n")
+                for fs in foldseek:
+                    target_id, db, prob, q_cov, evalue, seq_id, aln_len = fs
+                    q_cov_str = f"{q_cov * 100:.1f}%" if q_cov is not None else "N/A"
+                    prob_str = f"{prob:.3f}" if prob is not None else "N/A"
+                    seq_id_str = f"{seq_id * 100:.1f}%" if seq_id is not None else "N/A"
+                    f.write(f"| `{target_id}` | {db} | {prob_str} | {q_cov_str} | {evalue} | {seq_id_str} | {aln_len} |\n")
+                f.write("\n")
+            else:
+                f.write("*No Foldseek structural similarity matches found.*\n\n")
+                
+            # Category 10: Matched Target Drugs & Clinical Trials
+            matched_drugs = conn.execute("""
+                SELECT target_id, drug_or_trial_id, name_or_title, type, max_clinical_phase, mechanism_of_action, status, purpose 
+                FROM foldseek_matched_drugs_trials 
+                WHERE query_gene_symbol = ?
+                ORDER BY max_clinical_phase DESC NULLS LAST
+            """, [symbol]).fetchall()
+            
+            f.write("### Category 10: Matched Target Drugs & Clinical Trials\n")
+            if matched_drugs:
+                f.write("| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |\n")
+                f.write("| --- | --- | --- | --- | --- | --- |\n")
+                for md in matched_drugs:
+                    target_id, drug_id, name, d_type, phase, moa, status, purpose = md
+                    phase_str = f"Phase {phase}" if phase is not None else (status or "N/A")
+                    f.write(f"| `{target_id}` | `{drug_id}` | {name or 'N/A'} | {d_type.capitalize()} | {phase_str} | {purpose or 'N/A'} |\n")
+                f.write("\n")
+            else:
+                f.write("*No drugs or clinical trials associated with matched target proteins.*\n\n")
+                
             f.write("\n---\n\n")
             
     conn.close()
