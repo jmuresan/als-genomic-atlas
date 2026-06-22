@@ -1,0 +1,2590 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4849695",
+      "4809810",
+      "4809561",
+      "4805731",
+      "4805018",
+      "4804544",
+      "4803275",
+      "4801197",
+      "4800632",
+      "4797801",
+      "4797431",
+      "4768172",
+      "4763211",
+      "4754671",
+      "4753462",
+      "4752855",
+      "4751693",
+      "4748626",
+      "4744270",
+      "4739623"
+    ],
+    "4849695": {
+      "uid": "4849695",
+      "obj_type": "Deletion",
+      "accession": "VCV004849695",
+      "accession_version": "VCV004849695.1",
+      "title": "NM_020919.4(ALS2):c.1039_1042del (p.Glu347fs)",
+      "variation_set": [
+        {
+          "measure_id": "4960749",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.1039_1042del (p.Glu347fs)",
+          "cdna_change": "c.1039_1042del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201760952",
+              "stop": "201760955",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201760952",
+              "display_stop": "201760955",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202625675",
+              "stop": "202625678",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202625675",
+              "display_stop": "202625678",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000002.12:201760951:ATTCATT:ATT",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007592442"
+        ],
+        "rcv": [
+          "RCV006694256"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2026/02/13 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201760952",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "E347fs",
+      "fda_recognized_database": ""
+    },
+    "4809810": {
+      "uid": "4809810",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004809810",
+      "accession_version": "VCV004809810.1",
+      "title": "NM_020919.4(ALS2):c.3249-14C>T",
+      "variation_set": [
+        {
+          "measure_id": "4918252",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.3249-14C>T",
+          "cdna_change": "NM_020919.4(ALS2):c.3249-14C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201725468",
+              "stop": "201725468",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201725468",
+              "display_stop": "201725468",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202590191",
+              "stop": "202590191",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202590191",
+              "display_stop": "202590191",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201725467:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007513074"
+        ],
+        "rcv": [
+          "RCV006633168"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/12/17 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201725468",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4809561": {
+      "uid": "4809561",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004809561",
+      "accession_version": "VCV004809561.1",
+      "title": "NM_020919.4(ALS2):c.1596G>A (p.Gly532=)",
+      "variation_set": [
+        {
+          "measure_id": "4918004",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.1596G>A (p.Gly532=)",
+          "cdna_change": "c.1596G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201754547",
+              "stop": "201754547",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201754547",
+              "display_stop": "201754547",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202619270",
+              "stop": "202619270",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202619270",
+              "display_stop": "202619270",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201754546:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007512785"
+        ],
+        "rcv": [
+          "RCV006632919"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/12/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201754547",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4805731": {
+      "uid": "4805731",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004805731",
+      "accession_version": "VCV004805731.1",
+      "title": "NM_020919.4(ALS2):c.1998+12T>C",
+      "variation_set": [
+        {
+          "measure_id": "4910420",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.1998+12T>C",
+          "cdna_change": "NM_020919.4(ALS2):c.1998+12T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201746554",
+              "stop": "201746554",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201746554",
+              "display_stop": "201746554",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202611277",
+              "stop": "202611277",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202611277",
+              "display_stop": "202611277",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201746553:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007507958"
+        ],
+        "rcv": [
+          "RCV006623787"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201746554",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4805018": {
+      "uid": "4805018",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004805018",
+      "accession_version": "VCV004805018.1",
+      "title": "NM_020919.4(ALS2):c.1640+18T>A",
+      "variation_set": [
+        {
+          "measure_id": "4916966",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.1640+18T>A",
+          "cdna_change": "NM_020919.4(ALS2):c.1640+18T>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201754485",
+              "stop": "201754485",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201754485",
+              "display_stop": "201754485",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202619208",
+              "stop": "202619208",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202619208",
+              "display_stop": "202619208",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201754484:A:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007507054"
+        ],
+        "rcv": [
+          "RCV006619749"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/12/29 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201754485",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4804544": {
+      "uid": "4804544",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004804544",
+      "accession_version": "VCV004804544.1",
+      "title": "NM_020919.4(ALS2):c.2912+20C>T",
+      "variation_set": [
+        {
+          "measure_id": "4920397",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.2912+20C>T",
+          "cdna_change": "NM_020919.4(ALS2):c.2912+20C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201727685",
+              "stop": "201727685",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201727685",
+              "display_stop": "201727685",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202592408",
+              "stop": "202592408",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202592408",
+              "display_stop": "202592408",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201727684:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007506445"
+        ],
+        "rcv": [
+          "RCV006615698"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/05/27 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201727685",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4803275": {
+      "uid": "4803275",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004803275",
+      "accession_version": "VCV004803275.1",
+      "title": "NM_020919.4(ALS2):c.1041A>G (p.Glu347=)",
+      "variation_set": [
+        {
+          "measure_id": "4916522",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.1041A>G (p.Glu347=)",
+          "cdna_change": "c.1041A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201760953",
+              "stop": "201760953",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201760953",
+              "display_stop": "201760953",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202625676",
+              "stop": "202625676",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202625676",
+              "display_stop": "202625676",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201760952:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007504804"
+        ],
+        "rcv": [
+          "RCV006619494"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/13 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201760953",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4801197": {
+      "uid": "4801197",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004801197",
+      "accession_version": "VCV004801197.1",
+      "title": "NM_020919.4(ALS2):c.834C>T (p.Pro278=)",
+      "variation_set": [
+        {
+          "measure_id": "4915743",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.834C>T (p.Pro278=)",
+          "cdna_change": "c.834C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201761160",
+              "stop": "201761160",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201761160",
+              "display_stop": "201761160",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202625883",
+              "stop": "202625883",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202625883",
+              "display_stop": "202625883",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201761159:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007501452"
+        ],
+        "rcv": [
+          "RCV006618901"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/05 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201761160",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4800632": {
+      "uid": "4800632",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004800632",
+      "accession_version": "VCV004800632.1",
+      "title": "NM_020919.4(ALS2):c.2097T>C (p.Ala699=)",
+      "variation_set": [
+        {
+          "measure_id": "4909214",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.2097T>C (p.Ala699=)",
+          "cdna_change": "c.2097T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201744331",
+              "stop": "201744331",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201744331",
+              "display_stop": "201744331",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202609054",
+              "stop": "202609054",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202609054",
+              "display_stop": "202609054",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201744330:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007502417"
+        ],
+        "rcv": [
+          "RCV006614756"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/07/03 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201744331",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4797801": {
+      "uid": "4797801",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004797801",
+      "accession_version": "VCV004797801.1",
+      "title": "NM_020919.4(ALS2):c.2980-7C>A",
+      "variation_set": [
+        {
+          "measure_id": "4914947",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.2980-7C>A",
+          "cdna_change": "NM_020919.4(ALS2):c.2980-7C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201726873",
+              "stop": "201726873",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201726873",
+              "display_stop": "201726873",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202591596",
+              "stop": "202591596",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202591596",
+              "display_stop": "202591596",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201726872:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007497733"
+        ],
+        "rcv": [
+          "RCV006621803"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/09/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201726873",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4797431": {
+      "uid": "4797431",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004797431",
+      "accession_version": "VCV004797431.1",
+      "title": "NM_020919.4(ALS2):c.3216T>C (p.Tyr1072=)",
+      "variation_set": [
+        {
+          "measure_id": "4918480",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.3216T>C (p.Tyr1072=)",
+          "cdna_change": "c.3216T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201726516",
+              "stop": "201726516",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201726516",
+              "display_stop": "201726516",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202591239",
+              "stop": "202591239",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202591239",
+              "display_stop": "202591239",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201726515:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007497267"
+        ],
+        "rcv": [
+          "RCV006621433"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/02/05 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201726516",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4768172": {
+      "uid": "4768172",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004768172",
+      "accession_version": "VCV004768172.1",
+      "title": "NM_020919.4(ALS2):c.3347+14G>C",
+      "variation_set": [
+        {
+          "measure_id": "4872979",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.3347+14G>C",
+          "cdna_change": "NM_020919.4(ALS2):c.3347+14G>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201725342",
+              "stop": "201725342",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201725342",
+              "display_stop": "201725342",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202590065",
+              "stop": "202590065",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202590065",
+              "display_stop": "202590065",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201725341:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007460102"
+        ],
+        "rcv": [
+          "RCV006587034"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/03 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201725342",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4763211": {
+      "uid": "4763211",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004763211",
+      "accession_version": "VCV004763211.1",
+      "title": "NM_020919.4(ALS2):c.4758C>A (p.Val1586=)",
+      "variation_set": [
+        {
+          "measure_id": "4871909",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.4758C>A (p.Val1586=)",
+          "cdna_change": "c.4758C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201704534",
+              "stop": "201704534",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201704534",
+              "display_stop": "201704534",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202569257",
+              "stop": "202569257",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202569257",
+              "display_stop": "202569257",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201704533:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007454259"
+        ],
+        "rcv": [
+          "RCV006575962"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/05/08 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201704534",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4754671": {
+      "uid": "4754671",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004754671",
+      "accession_version": "VCV004754671.1",
+      "title": "NM_020919.4(ALS2):c.2418-14T>A",
+      "variation_set": [
+        {
+          "measure_id": "4860798",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.2418-14T>A",
+          "cdna_change": "NM_020919.4(ALS2):c.2418-14T>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201733452",
+              "stop": "201733452",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201733452",
+              "display_stop": "201733452",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202598175",
+              "stop": "202598175",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202598175",
+              "display_stop": "202598175",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201733451:A:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007430796"
+        ],
+        "rcv": [
+          "RCV006535862"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/09/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201733452",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4753462": {
+      "uid": "4753462",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004753462",
+      "accession_version": "VCV004753462.1",
+      "title": "NM_020919.4(ALS2):c.3489T>C (p.Tyr1163=)",
+      "variation_set": [
+        {
+          "measure_id": "4860465",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.3489T>C (p.Tyr1163=)",
+          "cdna_change": "c.3489T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201724318",
+              "stop": "201724318",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201724318",
+              "display_stop": "201724318",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202589041",
+              "stop": "202589041",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202589041",
+              "display_stop": "202589041",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201724317:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007429081"
+        ],
+        "rcv": [
+          "RCV006539117"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/04/02 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201724318",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4752855": {
+      "uid": "4752855",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004752855",
+      "accession_version": "VCV004752855.1",
+      "title": "NM_020919.4(ALS2):c.2766C>T (p.Ala922=)",
+      "variation_set": [
+        {
+          "measure_id": "4862462",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.2766C>T (p.Ala922=)",
+          "cdna_change": "c.2766C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201728587",
+              "stop": "201728587",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201728587",
+              "display_stop": "201728587",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202593310",
+              "stop": "202593310",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202593310",
+              "display_stop": "202593310",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201728586:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007428192"
+        ],
+        "rcv": [
+          "RCV006535535"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/04/30 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201728587",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4751693": {
+      "uid": "4751693",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004751693",
+      "accession_version": "VCV004751693.1",
+      "title": "NM_020919.4(ALS2):c.2980-13T>C",
+      "variation_set": [
+        {
+          "measure_id": "4860007",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.2980-13T>C",
+          "cdna_change": "NM_020919.4(ALS2):c.2980-13T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201726879",
+              "stop": "201726879",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201726879",
+              "display_stop": "201726879",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202591602",
+              "stop": "202591602",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202591602",
+              "display_stop": "202591602",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201726878:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007426491"
+        ],
+        "rcv": [
+          "RCV006541754"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/06/02 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201726879",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4748626": {
+      "uid": "4748626",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004748626",
+      "accession_version": "VCV004748626.1",
+      "title": "NM_020919.4(ALS2):c.2955C>T (p.Leu985=)",
+      "variation_set": [
+        {
+          "measure_id": "4864746",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.2955C>T (p.Leu985=)",
+          "cdna_change": "c.2955C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201727236",
+              "stop": "201727236",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201727236",
+              "display_stop": "201727236",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202591959",
+              "stop": "202591959",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202591959",
+              "display_stop": "202591959",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201727235:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007422041"
+        ],
+        "rcv": [
+          "RCV006534285"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/04/01 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201727236",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4744270": {
+      "uid": "4744270",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004744270",
+      "accession_version": "VCV004744270.1",
+      "title": "NM_020919.4(ALS2):c.529G>A (p.Gly177Ser)",
+      "variation_set": [
+        {
+          "measure_id": "4858230",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.529G>A (p.Gly177Ser)",
+          "cdna_change": "c.529G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201761465",
+              "stop": "201761465",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201761465",
+              "display_stop": "201761465",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202626188",
+              "stop": "202626188",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202626188",
+              "display_stop": "202626188",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201761464:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007415111"
+        ],
+        "rcv": [
+          "RCV006542767"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/11/25 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201761465",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "G177S",
+      "fda_recognized_database": ""
+    },
+    "4739623": {
+      "uid": "4739623",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004739623",
+      "accession_version": "VCV004739623.1",
+      "title": "NM_020919.4(ALS2):c.2542G>A (p.Ala848Thr)",
+      "variation_set": [
+        {
+          "measure_id": "4854464",
+          "variation_xrefs": [],
+          "variation_name": "NM_020919.4(ALS2):c.2542G>A (p.Ala848Thr)",
+          "cdna_change": "c.2542G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "201733314",
+              "stop": "201733314",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "201733314",
+              "display_stop": "201733314",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2q33.1",
+              "start": "202598037",
+              "stop": "202598037",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "202598037",
+              "display_stop": "202598037",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:201733313:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007409063"
+        ],
+        "rcv": [
+          "RCV006517354"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/10/29 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "293168"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931441"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011797"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607225"
+              }
+            ],
+            "trait_name": "Infantile-onset ascending hereditary spastic paralysis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ALS2",
+      "chr_sort": "02",
+      "location_sort": "00000000000201733314",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ALS2",
+          "geneid": "57679",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "A848T",
+      "fda_recognized_database": ""
+    }
+  }
+}

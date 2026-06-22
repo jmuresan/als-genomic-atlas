@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "897",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4849695",
+      "4809810",
+      "4809561",
+      "4805731",
+      "4805018",
+      "4804544",
+      "4803275",
+      "4801197",
+      "4800632",
+      "4797801",
+      "4797431",
+      "4768172",
+      "4763211",
+      "4754671",
+      "4753462",
+      "4752855",
+      "4751693",
+      "4748626",
+      "4744270",
+      "4739623"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "ALS2[gene]",
+        "field": "gene",
+        "count": "1238",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "ALS2[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

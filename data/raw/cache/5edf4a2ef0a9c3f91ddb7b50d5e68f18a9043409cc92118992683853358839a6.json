@@ -1,0 +1,97 @@
+{
+  "count": 43,
+  "next": "https://jaspar.elixir.no/api/v1/matrix/?page=2&search=ANG",
+  "previous": null,
+  "results": [
+    {
+      "matrix_id": "MA0259.1",
+      "name": "ARNT::HIF1A",
+      "collection": "CORE",
+      "base_id": "MA0259",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/MA0259.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/MA0259.1/"
+    },
+    {
+      "matrix_id": "MA0259.2",
+      "name": "ARNT::HIF1A",
+      "collection": "CORE",
+      "base_id": "MA0259",
+      "version": "2",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/MA0259.2.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/MA0259.2/"
+    },
+    {
+      "matrix_id": "MA1481.1",
+      "name": "DRGX",
+      "collection": "CORE",
+      "base_id": "MA1481",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/MA1481.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/MA1481.1/"
+    },
+    {
+      "matrix_id": "MA1481.2",
+      "name": "DRGX",
+      "collection": "CORE",
+      "base_id": "MA1481",
+      "version": "2",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/MA1481.2.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/MA1481.2/"
+    },
+    {
+      "matrix_id": "UN0947.1",
+      "name": "DRGX::TBX21",
+      "collection": "UNVALIDATED",
+      "base_id": "UN0947",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/UN0947.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/UN0947.1/"
+    },
+    {
+      "matrix_id": "MA2464.1",
+      "name": "E(spl)m8-HLH",
+      "collection": "CORE",
+      "base_id": "MA2464",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/MA2464.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/MA2464.1/"
+    },
+    {
+      "matrix_id": "MA2222.1",
+      "name": "E(spl)mgamma-HLH",
+      "collection": "CORE",
+      "base_id": "MA2222",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/MA2222.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/MA2222.1/"
+    },
+    {
+      "matrix_id": "UN0491.1",
+      "name": "E2F3::DRGX",
+      "collection": "UNVALIDATED",
+      "base_id": "UN0491",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/UN0491.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/UN0491.1/"
+    },
+    {
+      "matrix_id": "UN0491.2",
+      "name": "E2F3::DRGX",
+      "collection": "UNVALIDATED",
+      "base_id": "UN0491",
+      "version": "2",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/UN0491.2.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/UN0491.2/"
+    },
+    {
+      "matrix_id": "MA1940.1",
+      "name": "ETV2::DRGX",
+      "collection": "CORE",
+      "base_id": "MA1940",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/MA1940.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/MA1940.1/"
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01650818",
+          "orgStudyIdInfo": {
+            "id": "CEC641"
+          },
+          "organization": {
+            "fullName": "Fondazione Salvatore Maugeri",
+            "class": "OTHER"
+          },
+          "briefTitle": "Aerobic Exercise Training in Amyotrophic Lateral Sclerosis",
+          "officialTitle": "Exercise traiNing in Amyotrophic Lateral Sclerosis: a ranDomized Trial Comparing Home-based Aerobic endUrance tRAiNing vs. Usual physiCal Therapy intErvention",
+          "acronym": "ENDURANCE"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2013-09",
+          "overallStatus": "UNKNOWN",
+          "lastKnownStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2014-06",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2014-06",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2012-07-24",
+          "studyFirstSubmitQcDate": "2012-07-25",
+          "studyFirstPostDateStruct": {
+            "date": "2012-07-26",
+            "type": "ESTIMATED"
+          },
+          "lastUpdateSubmitDate": "2013-09-08",
+          "lastUpdatePostDateStruct": {
+            "date": "2013-09-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "Alessandro Mezzani",
+            "investigatorTitle": "MD, FESC",
+            "investigatorAffiliation": "Fondazione Salvatore Maugeri"
+          },
+          "leadSponsor": {
+            "name": "Fondazione Salvatore Maugeri",
+            "class": "OTHER"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": true
+        },
+        "descriptionModule": {
+          "briefSummary": "The purpose of this study is to compare the safety and the effects of moderate-intensity aerobic endurance training to those of an usual physical therapy intervention on exercise capacity and quality of life in patients with amyotrophic lateral sclerosis (ALS).",
+          "detailedDescription": "Scarce evidence is available regarding aerobic exercise training of patients with ALS. Some studies using transgenic mouse models of familial ALS have shown markedly slowed disease progression, improved functional capacity, and extension of survival in animals undergoing aerobic exercise training. In humans, only one non-randomized study has shown that moderate-intensity aerobic exercise training was of little beneficial effect in a small group of patients with Kennedy disease, a rare X-linked progressive neuromuscular disease involving lower motorneurons, presenting a pathophysiological picture quite different from that of ALS. To the best of our knowledge, the safety and the effects of aerobic exercise training on functional capacity and quality of life of patients with ALS have not been systematically evaluated as yet in a randomized, controlled trial with an adequate sample size."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ],
+          "keywords": [
+            "Amyotrophic lateral sclerosis",
+            "Aerobic training",
+            "Peak oxygen consumption",
+            "Quality of life"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "SUPPORTIVE_CARE",
+            "maskingInfo": {
+              "masking": "DOUBLE",
+              "whoMasked": [
+                "INVESTIGATOR",
+                "OUTCOMES_ASSESSOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Aerobic exercise training",
+              "type": "EXPERIMENTAL",
+              "interventionNames": [
+                "Other: Aerobic exercise training"
+              ]
+            },
+            {
+              "label": "Standard physical therapy",
+              "type": "ACTIVE_COMPARATOR",
+              "interventionNames": [
+                "Other: Standard physical therapy (Stretching/Range-of-motion)"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "Aerobic exercise training",
+              "description": "Intensity: heart rate corresponding to 40% peak VO2. Frequency: 5 sessions/week. Duration: 5 min warm-up + 20 min training + 5 min cool-down during the 1st month; 5 min warm-up + 30 min training + 5 min cool-down during the 2nd and 3rd month",
+              "armGroupLabels": [
+                "Aerobic exercise training"
+              ]
+            },
+            {
+              "type": "OTHER",
+              "name": "Standard physical therapy (Stretching/Range-of-motion)",
+              "description": "Intensity: N/A. Frequency: 5 sessions/week. Duration: 5 min warm-up + 20 min training + 5 min cool-down during the 1st month; 5 min warm-up + 30 min training + 5 min cool-down during the 2nd and 3rd month",
+              "armGroupLabels": [
+                "Standard physical therapy"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Change from baseline in peak oxygen consumption (peak VO2)",
+              "description": "Evaluate the effects of aerobic training on peak VO2, as assessed by cardiopulmonary exercise testing",
+              "timeFrame": "3 months"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Aerobic training safety and tolerability",
+              "description": "Evaluate aerobic training safety and tolerability in terms of adverse events incidence and adherence to training program",
+              "timeFrame": "3 months"
+            },
+            {
+              "measure": "Change from baseline in quality of life",
+              "description": "Evaluate the effects of aerobic training on quality of life, as assessed by McGill questionary",
+              "timeFrame": "3 months"
+            },
+            {
+              "measure": "Change from baseline in Amyotrophic Lateral Sclerosis Functional Rating Scale Revised (ALSFRS-R) score",
+              "description": "Evaluate the effects of aerobic training on the ALSFRS-R score",
+              "timeFrame": "3 months"
+            },
+            {
+              "measure": "Change from baseline in lower limbs muscle strength",
+              "description": "Evaluate the effects of aerobic training on isometric muscle strength of lower limbs, as assessed by isometric dynamometry",
+              "timeFrame": "3 months"
+            },
+            {
+              "measure": "Change from baseline in upper and lower motor neurons function at the upper and lower limbs level",
+              "description": "Evaluate the effects of aerobic training on upper and lower motor neurons function at the upper and lower limbs level, as determined by compound muscle action potential and neurophysiological index and motor evoked potentials",
+              "timeFrame": "3 months"
+            },
+            {
+              "measure": "Change from baseline in ventilatory function",
+              "description": "Evaluate the effects of aerobic training on ventilatory function, as assessed by spirometry and measurement of maximal inspiratory and expiratory pressures",
+              "timeFrame": "3 months"
+            },
+            {
+              "measure": "Change from baseline in circulating inflammatory markers, growth factors and descriptors of skeletal muscle damage",
+              "description": "Evaluate the effects of aerobic training on circulating inflammatory markers and growth factors (CRP, TNF-alfa, IL-6, Angiogenin, Angiopoietin 1 and 2, Thrombospondin, VEGF, BDNF, IGF-1) and markers of skeletal muscle damage (CPK)",
+              "timeFrame": "3 months"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of definite ALS, probable ALS, or probable-laboratory supported ALS according to the El Escorial criteria or diagnosis of progressive muscular atrophy.\n* Ability to perform a baseline symptom-limited cardiopulmonary exercise test with attainment of peak power and respiratory exchange ratio of \\>= 50 W and \\>= 1.00, respectively.\n* Time since symptoms onset \\<= 18 months.\n* Forced vital capacity \\>= 70% of predicted.\n* Informed written consent.\n\nExclusion Criteria:\n\n* Coexisting neurological disease.\n* Coexisting extra-neurological disease significantly affecting exercise capacity.\n* Coexisting malignancy.\n* Ongoing/planned pregnancy.\n* Involvement in formal endurance and/or strength training program.\n* Enrolment in any other clinical trial.\n* Cognitive impairment.",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Fabrizio Pisano, MD",
+              "role": "CONTACT",
+              "phone": "+39-0322-884723",
+              "email": "fabrizio.pisano@fsm.it"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Alessandro Mezzani, MD",
+              "affiliation": "Fondazione Salvatore Maugeri, IRCCS - Scientific Institute of Veruno",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Fabrizio Pisano, MD",
+              "affiliation": "Fondazione Salvatore Maugeri, IRCCS - Scientific Institute of Veruno",
+              "role": "STUDY_DIRECTOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "Fondazione Salvatore Maugeri, IRCCS - Scientific Institute of Veruno",
+              "status": "RECRUITING",
+              "city": "Veruno",
+              "zip": "28010",
+              "country": "Italy",
+              "contacts": [
+                {
+                  "name": "Alessandro Mezzani, MD, FESC",
+                  "role": "CONTACT",
+                  "phone": "3403119299",
+                  "email": "alessandro.mezzani@fsm.it"
+                },
+                {
+                  "name": "Alessandro Mezzani, MD, FESC",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 45.68887,
+                "lon": 8.52863
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "21830991",
+              "type": "BACKGROUND",
+              "citation": "Mezzani A, Pisano F, Cavalli A, Tommasi MA, Corra U, Colombo S, Grassi B, Marzorati M, Porcelli S, Morandi L, Giannuzzi P. Reduced exercise capacity in early-stage amyotrophic lateral sclerosis: Role of skeletal muscle. Amyotroph Lateral Scler. 2012 Jan;13(1):87-94. doi: 10.3109/17482968.2011.601463. Epub 2011 Aug 11."
+            }
+          ]
+        }
+      },
+      "annotationSection": {
+        "annotationModule": {
+          "unpostedAnnotation": {
+            "unpostedResponsibleParty": "Alessandro Mezzani, MD, MD, FESC, Fondazione Salvatore Maugeri",
+            "unpostedEvents": [
+              {
+                "type": "RELEASE",
+                "date": "2018-05-18"
+              },
+              {
+                "type": "RESET",
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22",
+          "submissionTracking": {
+            "estimatedResultsFirstSubmitDate": "2018-05-18",
+            "submissionInfos": [
+              {
+                "releaseDate": "2018-05-18",
+                "resetDate": "2018-12-11"
+              }
+            ]
+          }
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D016059",
+              "term": "Range of Motion, Articular"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D010808",
+              "term": "Physical Examination"
+            },
+            {
+              "id": "D019937",
+              "term": "Diagnostic Techniques and Procedures"
+            },
+            {
+              "id": "D003933",
+              "term": "Diagnosis"
+            },
+            {
+              "id": "D009142",
+              "term": "Musculoskeletal Physiological Phenomena"
+            },
+            {
+              "id": "D055687",
+              "term": "Musculoskeletal and Neural Physiological Phenomena"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ]
+}

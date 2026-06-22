@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "76",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "3362477",
+      "3065775",
+      "2439621",
+      "1343331",
+      "1343330",
+      "1192640",
+      "1192639",
+      "914957",
+      "914956",
+      "914912",
+      "914911",
+      "914910",
+      "914858",
+      "914857",
+      "914445",
+      "914444",
+      "914443",
+      "914442",
+      "914441",
+      "914440"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "C9orf72[gene]",
+        "field": "gene",
+        "count": "187",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "C9orf72[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

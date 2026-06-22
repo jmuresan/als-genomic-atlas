@@ -1,0 +1,60 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR027819",
+        "name": "Guanine nucleotide exchange factor C9orf72",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF15019": "C9orf72-like protein family"
+          },
+          "panther": {
+            "PTHR31855": "GUANINE NUCLEOTIDE EXCHANGE C9ORF72"
+          },
+          "profile": {
+            "PS51835": "Tripartite DENN C9ORF72-type domain profile"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0005085",
+            "name": "guanyl-nucleotide exchange factor activity",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "q96lt7",
+          "protein_length": 481,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 4,
+                  "end": 480,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "strand": -1,
+  "display_name": "ANXA11",
+  "source": "ensembl_havana",
+  "db_type": "core",
+  "end": 80205713,
+  "description": "annexin A11 [Source:HGNC Symbol;Acc:HGNC:535]",
+  "logic_name": "ensembl_havana_gene_homo_sapiens",
+  "id": "ENSG00000122359",
+  "biotype": "protein_coding",
+  "seq_region_name": "10",
+  "species": "homo_sapiens",
+  "start": 80150889,
+  "object_type": "Gene",
+  "version": 20,
+  "assembly_name": "GRCh38",
+  "canonical_transcript": "ENST00000422982.8"
+}

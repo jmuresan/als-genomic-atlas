@@ -1,0 +1,18 @@
+{
+  "source": "ensembl_havana",
+  "object_type": "Gene",
+  "db_type": "core",
+  "display_name": "ANG",
+  "start": 20682866,
+  "biotype": "protein_coding",
+  "description": "angiogenin [Source:HGNC Symbol;Acc:HGNC:483]",
+  "end": 20698971,
+  "logic_name": "ensembl_havana_gene_homo_sapiens",
+  "species": "homo_sapiens",
+  "id": "ENSG00000214274",
+  "assembly_name": "GRCh38",
+  "strand": 1,
+  "version": 12,
+  "seq_region_name": "14",
+  "canonical_transcript": "ENST00000397990.5"
+}

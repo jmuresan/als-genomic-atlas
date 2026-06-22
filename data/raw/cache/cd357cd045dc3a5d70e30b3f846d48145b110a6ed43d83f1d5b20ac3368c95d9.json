@@ -1,0 +1,18 @@
+{
+  "object_type": "Gene",
+  "source": "ensembl_havana",
+  "start": 201700267,
+  "biotype": "protein_coding",
+  "display_name": "ALS2",
+  "db_type": "core",
+  "logic_name": "ensembl_havana_gene_homo_sapiens",
+  "species": "homo_sapiens",
+  "description": "alsin Rho guanine nucleotide exchange factor ALS2 [Source:HGNC Symbol;Acc:HGNC:443]",
+  "end": 201782112,
+  "id": "ENSG00000003393",
+  "seq_region_name": "2",
+  "canonical_transcript": "ENST00000264276.11",
+  "strand": -1,
+  "assembly_name": "GRCh38",
+  "version": 18
+}

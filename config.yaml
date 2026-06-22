@@ -1,0 +1,72 @@
+# config.yaml - ALS Genomic Atlas Configuration
+
+# Seed genes for analysis
+# 46-gene ALS panel: the 41 human genes carrying the UniProt "Amyotrophic lateral sclerosis"
+# keyword (KW-0036), plus 5 ALS genes from the OMIM ALS phenotypic series PS105400 / GeneReviews ALS:
+# CFAP410, MOBP, SCFD1, TAF15, UNC13A.
+seed_genes:
+  - ALS2
+  - ANG
+  - ANXA11
+  - ATXN2
+  - C9orf72
+  - CCNF
+  - CFAP410
+  - CHCHD10
+  - CHMP2B
+  - CYLD
+  - DAO
+  - DCTN1
+  - ELP3
+  - ERBB4
+  - FGGY
+  - FIG4
+  - FUS
+  - HNRNPA1
+  - KIF5A
+  - LRP12
+  - MATR3
+  - MOBP
+  - NEFH
+  - NEK1
+  - OPTN
+  - PFN1
+  - PRPH
+  - SCFD1
+  - SETX
+  - SIGMAR1
+  - SOD1
+  - SPG11
+  - SPTLC1
+  - SQSTM1
+  - TAF15
+  - TARDBP
+  - TBK1
+  - TIA1
+  - TMEM106B
+  - TRPM7
+  - TUBA4A
+  - UBQLN2
+  - UBQLN4
+  - UNC13A
+  - VAPB
+  - VCP
+
+# Ingestion and API Settings
+api_settings:
+  offline_mode: false
+  cache_dir: "data/raw/cache"
+  string_db:
+    confidence_threshold: 0.7
+    partner_limit: 10
+  pubmed:
+    limit_per_gene: 10
+
+# Scoring weights configured for the genomic mapping ranking/priority
+scoring_weights:
+  open_targets_association: 0.25
+  clinvar_pathogenicity: 0.20
+  pathway_centrality: 0.15
+  string_centrality: 0.15
+  literature_volume: 0.15
+  druggability: 0.10

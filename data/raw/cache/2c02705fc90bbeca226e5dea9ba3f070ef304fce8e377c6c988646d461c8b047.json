@@ -1,0 +1,18 @@
+{
+  "id": "ENSG00000147894",
+  "assembly_name": "GRCh38",
+  "strand": -1,
+  "canonical_transcript": "ENST00000380003.8",
+  "display_name": "C9orf72",
+  "db_type": "core",
+  "object_type": "Gene",
+  "biotype": "protein_coding",
+  "start": 27535640,
+  "source": "ensembl_havana",
+  "description": "C9orf72-SMCR8 complex subunit [Source:HGNC Symbol;Acc:HGNC:28337]",
+  "logic_name": "ensembl_havana_gene_homo_sapiens",
+  "seq_region_name": "9",
+  "version": 19,
+  "end": 27573895,
+  "species": "homo_sapiens"
+}

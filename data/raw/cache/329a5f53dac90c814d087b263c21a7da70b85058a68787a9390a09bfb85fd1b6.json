@@ -1,0 +1,18 @@
+{
+  "species": "homo_sapiens",
+  "db_type": "core",
+  "object_type": "Gene",
+  "display_name": "ATXN2",
+  "biotype": "protein_coding",
+  "logic_name": "ensembl_havana_gene_homo_sapiens",
+  "end": 111599676,
+  "description": "ataxin 2 [Source:HGNC Symbol;Acc:HGNC:10555]",
+  "id": "ENSG00000204842",
+  "seq_region_name": "12",
+  "strand": -1,
+  "start": 111443485,
+  "canonical_transcript": "ENST00000673436.1",
+  "source": "ensembl_havana",
+  "assembly_name": "GRCh38",
+  "version": 20
+}

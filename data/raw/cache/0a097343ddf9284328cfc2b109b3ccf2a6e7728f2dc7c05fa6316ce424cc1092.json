@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "40",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4819859",
+      "4531569",
+      "4293445",
+      "3779545",
+      "3706373",
+      "3673194",
+      "3393203",
+      "2982289",
+      "2910245",
+      "2910244",
+      "2871504",
+      "2870112",
+      "2634560",
+      "2634471",
+      "2152085",
+      "2152084",
+      "2069548",
+      "2043857",
+      "1966979",
+      "1943820"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "ANXA11[gene]",
+        "field": "gene",
+        "count": "526",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "ANXA11[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}
