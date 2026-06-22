@@ -19,10 +19,10 @@ OMIM and GeneReviews informed gene selection only; this pipeline does not query 
 
 | # | Category | Sources (as implemented in `src/ingest/client.py`) |
 |---|----------|-----------------------------------------------------|
-| 1 | Gene and transcript mapping | Ensembl REST, NCBI Entrez (nuccore), UniProt REST |
-| 2 | Variants and pathogenicity | ClinVar and dbSNP (NCBI E-utilities), gnomAD GraphQL API, AlphaGenome API |
-| 3 | Transcriptional regulation and epigenomics | ENCODE SCREEN / Factorbook GraphQL, UCSC hub API, JASPAR REST, UniBind REST |
-| 4 | Expression and tissue specificity | GTEx Portal API v2, Human Protein Atlas download API |
+| 1 | Gene and transcript mapping | Ensembl REST, UniProt REST |
+| 2 | Variants and pathogenicity | ClinVar (NCBI E-utilities) — per-variant rsID (via dbSNP cross-reference), GRCh38 coordinates, HGVS, molecular consequence, and gnomAD allele frequency; gnomAD GraphQL API for gene-level pLI/LOEUF constraint |
+| 3 | Transcriptional regulation and epigenomics | ENCODE SCREEN / Factorbook GraphQL |
+| 4 | Expression and tissue specificity | GTEx Portal API v2, Human Protein Atlas download API (subcellular localization) |
 | 5 | Pathways and functional annotation | Reactome Content Service, EBI QuickGO, InterPro REST |
 | 6 | Protein–protein interactions | STRING REST |
 | 7 | Clinical translation and druggability | Open Targets Platform GraphQL, ChEMBL REST, ClinicalTrials.gov API v2 |
@@ -44,7 +44,7 @@ Categories 9–11 are sequential: Foldseek searches use AlphaFold-derived coordi
 
 HTTP responses are cached under `data/raw/cache/` keyed by SHA-256 of the request (`src/ingest/cache.py`). With `api_settings.offline_mode: true`, cache misses raise an error instead of calling the network.
 
-On request failure, individual clients return empty structures; the run continues for other genes and endpoints. AlphaGenome, UCSC conservation, and UniBind endpoints are often unavailable and may yield empty sections.
+On request failure, individual clients return empty structures; the run continues for other genes and endpoints. Some upstreams are incomplete in practice — notably the Open Targets target resolution behind categories 10–11, and PDB/Reactome for a handful of genes — so those sections can be sparse or absent for affected genes. Fields are only emitted when the source actually returns data: variant rsID, coordinates and allele frequency are blank where ClinVar carries no such cross-reference, rather than being filled with placeholders.
 
 NCBI E-utilities calls in this codebase do not currently set the recommended `tool` and `email` query parameters. Operators should add them before high-volume or production use (see NCBI policy in Credits).
 
@@ -117,7 +117,38 @@ src/db/populate.py
 src/atlas/generate_atlas.py
 tests/test_pipeline.py
 video/als_atlas_eli5.py   # optional Manim explainer; not part of the data pipeline
+scripts/export_gephi.py   # DuckDB -> Gephi CSV (gene-pathway, foldseek, gene-bodyimpact)
 ```
+
+### Gephi network export
+
+**One combined graph (recommended):**
+
+```bash
+python scripts/export_gephi.py
+# same as: python scripts/export_gephi.py --network unified
+```
+
+Import in Gephi:
+
+1. `outputs/gephi/atlas_unified_edges.csv` (edges)
+2. `outputs/gephi/atlas_unified_nodes.csv` (nodes)
+
+All layers share the same gene node ids (e.g. `SOD1`), so STRING, pathway, tissue, disease, and Foldseek edges attach to one node set. Use the edge column **`network`** to show or hide layers (Filters → Attributes → `network`). Color seed genes: Appearance → Nodes → Partition → **`als_seed`** (1 = ALS panel).
+
+| `network` value | Meaning | Weight (Gephi) |
+|-----------------|---------|----------------|
+| `string` | STRING PPI | 0–1 within layer (`WeightRaw` = confidence) |
+| `gene-pathway` | Reactome / GO / InterPro | 0.33 when constant raw weight |
+| `gene-bodyimpact` | GTEx tissue expression | 0–1 within layer (`WeightRaw` = TPM) |
+| `gene-disease` | ClinVar trait / disease | 0–1 within layer (`WeightRaw` = count) |
+| `foldseek` | structural neighbor | 0–1 within layer (`WeightRaw` = probability) |
+
+Edge **Weight** is min–max scaled to [0, 1] **per `network`** so layers are comparable in Gephi ranking; use **WeightRaw** if you need the original units.
+
+Smaller unified graph (no Foldseek): `python scripts/export_gephi.py --no-foldseek`
+
+Per-layer CSVs: `python scripts/export_gephi.py --network all` or `python scripts/export_gephi.py --split`
 
 ## Credits and attribution
 
@@ -131,7 +162,7 @@ The atlas aggregates facts retrieved from the resources below. If you publish wo
 
 ### NCBI / National Library of Medicine
 
-- **Sites:** https://www.ncbi.nlm.nih.gov (Entrez, ClinVar, dbSNP, nuccore)  
+- **Sites:** https://www.ncbi.nlm.nih.gov (Entrez E-utilities, ClinVar; dbSNP rsIDs are surfaced via ClinVar cross-references)  
 - **Attribution:** Acknowledge the National Library of Medicine (NLM) and National Center for Biotechnology Information (NCBI) as the source. NLM-authored material is in the public domain; downstream use should include appropriate NLM acknowledgment.  
 - **E-utilities:** https://www.ncbi.nlm.nih.gov/books/NBK25497/ — identify your application with `tool` and `email` parameters; observe usage frequency limits.  
 - **Molecular databases:** https://www.ncbi.nlm.nih.gov/home/about/policies/
@@ -154,33 +185,10 @@ The atlas aggregates facts retrieved from the resources below. If you publish wo
 - **Attribution:** Karczewski KJ, et al. The mutational constraint spectrum quantified from variation in 141,456 humans. *Nature* 581, 434–443 (2020). PMID 32461654.  
 - **License:** Data distributed under CC BY 4.0 (confirm on https://gnomad.broadinstitute.org/faq).
 
-### AlphaGenome
-
-- **Site:** https://www.alphagenome.ai / https://api.alphagenome.org  
-- **Attribution:** Follow citation and terms published by the AlphaGenome provider for the API version and model release you query.
-
 ### ENCODE, SCREEN, and Factorbook
 
 - **Sites:** https://www.encodeproject.org , https://screen.wenglab.org , Factorbook GraphQL (`factorbook.api.wenglab.org`)  
 - **Attribution:** Cite ENCODE Consortium publications, acknowledge the producing laboratory, and reference ENCODE accessions (ENCSR…, ENCFF…) where applicable. See https://www.encodeproject.org/help/citing-encode/
-
-### UCSC Genome Browser
-
-- **Site:** https://genome.ucsc.edu  
-- **Attribution:** Cite the Genome Browser update article (see https://genome.ucsc.edu/cite.html) and reference http://genome.ucsc.edu.  
-- **Graphics / data:** https://genome.ucsc.edu/license/
-
-### JASPAR
-
-- **Site:** https://jaspar.elixir.no  
-- **Attribution:** Khan A, et al. JASPAR 2024: 20th anniversary of the open-access database of transcription factor binding profiles. *Nucleic Acids Res.* (2024).  
-- **Policy:** https://jaspar.elixir.no/cite
-
-### UniBind
-
-- **Site:** https://unibind.uio.no  
-- **Attribution:** Pinter RC, et al. UniBind–a database of direct TF-DNA interactions. *Nucleic Acids Res.* 51(D1):D185–D191 (2023).  
-- **License:** CC BY 4.0 (stated on provider site).
 
 ### GTEx Portal
 
