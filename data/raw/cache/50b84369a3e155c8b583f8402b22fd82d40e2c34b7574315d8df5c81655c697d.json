@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "90",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4855183",
+      "4848869",
+      "4291730",
+      "3580755",
+      "3580754",
+      "3580753",
+      "3241259",
+      "3241258",
+      "3241257",
+      "3241256",
+      "3241255",
+      "3241254",
+      "3241253",
+      "3241252",
+      "3241251",
+      "3241250",
+      "3241249",
+      "3241248",
+      "3241247",
+      "3241246"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "CYLD[gene]",
+        "field": "gene",
+        "count": "480",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "CYLD[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

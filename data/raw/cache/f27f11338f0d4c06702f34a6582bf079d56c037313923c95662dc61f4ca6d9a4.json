@@ -1,0 +1,63 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "121912442"
+    ],
+    "121912442": {
+      "uid": "121912442",
+      "snp_id": 121912442,
+      "allele_origin": "",
+      "global_mafs": [
+        {
+          "study": "GnomAD_exomes",
+          "freq": "T=0.000003/2"
+        },
+        {
+          "study": "PAGE_STUDY",
+          "freq": "T=0.000013/1"
+        },
+        {
+          "study": "ALFA",
+          "freq": "T=0.000031/1"
+        }
+      ],
+      "global_population": "",
+      "global_samplesize": "",
+      "suspected": "",
+      "clinical_significance": "pathogenic",
+      "genes": [
+        {
+          "name": "SOD1",
+          "gene_id": "6647"
+        }
+      ],
+      "acc": "NC_000021.9",
+      "chr": "21",
+      "handle": "ILLUMINA,PAGE_CC,GNOMAD,OMIM-CURATED-RECORDS,EVA",
+      "spdi": "NC_000021.9:31659782:C:T",
+      "fxn_class": "coding_sequence_variant,missense_variant",
+      "validated": "by-frequency,by-alfa,by-cluster",
+      "docsum": "HGVS=NC_000021.9:g.31659783C>T,NC_000021.8:g.33032096C>T,NG_008689.1:g.5162C>T,NM_000454.5:c.14C>T,NM_000454.4:c.14C>T,NR_187558.1:n.242G>A,NP_000445.1:p.Ala5Val|SEQ=[C/T]|LEN=1|GENE=SOD1:6647",
+      "tax_id": 9606,
+      "orig_build": 133,
+      "upd_build": 157,
+      "createdate": "2010/11/19 14:30",
+      "updatedate": "2024/11/02 10:26",
+      "ss": "275486809,1959948515,2744804034,3022154412,3652613662,3725943586,3744497547,3772070166,6469984753,8847932438,8979627425",
+      "allele": "Y",
+      "snp_class": "snv",
+      "chrpos": "21:31659783",
+      "chrpos_prev_assm": "21:33032096",
+      "text": "",
+      "snp_id_sort": "0121912442",
+      "clinical_sort": "1",
+      "cited_sort": "",
+      "chrpos_sort": "0031659783",
+      "merged_sort": "0"
+    }
+  }
+}

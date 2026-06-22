@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr16",
+      "dataSource": "HAVANA",
+      "description": "CYLD lysine 63 deubiquitinase [Source:HGNC Symbol;Acc:HGNC:2584]",
+      "end": 50801935,
+      "entrezGeneId": 1540,
+      "gencodeId": "ENSG00000083799.17",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "CYLD",
+      "geneSymbolUpper": "CYLD",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 50742050,
+      "strand": "+",
+      "tss": 50742050
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

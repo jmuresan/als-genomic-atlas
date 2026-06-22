@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr16",
+      "dataSource": "HAVANA",
+      "description": "FUS RNA binding protein [Source:HGNC Symbol;Acc:HGNC:4010]",
+      "end": 31194871,
+      "entrezGeneId": 2521,
+      "gencodeId": "ENSG00000089280.18",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "FUS",
+      "geneSymbolUpper": "FUS",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 31180110,
+      "strand": "+",
+      "tss": 31180110
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

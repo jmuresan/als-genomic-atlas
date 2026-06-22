@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "KIF5A",
+      "associatedDiseases": {
+        "count": 185,
+        "rows": [
+          {
+            "score": 0.8029405627392309,
+            "disease": {
+              "id": "MONDO_0011408",
+              "name": "hereditary spastic paraplegia 10"
+            }
+          },
+          {
+            "score": 0.7716628098948672,
+            "disease": {
+              "id": "Orphanet_100991",
+              "name": "Autosomal dominant spastic paraplegia type 10"
+            }
+          },
+          {
+            "score": 0.7083132413472336,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.6941426733173435,
+            "disease": {
+              "id": "MONDO_0014979",
+              "name": "myoclonus, intractable, neonatal"
+            }
+          },
+          {
+            "score": 0.5745934707744423,
+            "disease": {
+              "id": "MONDO_0019064",
+              "name": "hereditary spastic paraplegia"
+            }
+          },
+          {
+            "score": 0.556771235021367,
+            "disease": {
+              "id": "HP_0001258",
+              "name": "Spastic paraplegia"
+            }
+          },
+          {
+            "score": 0.3991462430594779,
+            "disease": {
+              "id": "HP_0001249",
+              "name": "Intellectual disability"
+            }
+          },
+          {
+            "score": 0.3991462430594779,
+            "disease": {
+              "id": "MONDO_0024237",
+              "name": "inherited neurodegenerative disorder"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0017940",
+              "name": "autosomal dominant Charcot-Marie-Tooth disease type 2 due to KIF5A mutation"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0003334",
+              "name": "demyelinating polyneuropathy"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0011506",
+              "name": "familial infantile myoclonic epilepsy"
+            }
+          },
+          {
+            "score": 0.2706795151424981,
+            "disease": {
+              "id": "MONDO_0018993",
+              "name": "Charcot-Marie-Tooth disease type 2"
+            }
+          },
+          {
+            "score": 0.27003983553720723,
+            "disease": {
+              "id": "MONDO_0015626",
+              "name": "Charcot-Marie-Tooth disease"
+            }
+          },
+          {
+            "score": 0.26882372825636314,
+            "disease": {
+              "id": "EFO_0003100",
+              "name": "peripheral neuropathy"
+            }
+          },
+          {
+            "score": 0.26609749537298527,
+            "disease": {
+              "id": "MONDO_0014641",
+              "name": "frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+            }
+          },
+          {
+            "score": 0.26609749537298527,
+            "disease": {
+              "id": "MONDO_0021944",
+              "name": "auditory neuropathy"
+            }
+          },
+          {
+            "score": 0.1928561980170578,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.14914104220270363,
+            "disease": {
+              "id": "MONDO_0045002",
+              "name": "vertebral disorder"
+            }
+          },
+          {
+            "score": 0.1486532304398467,
+            "disease": {
+              "id": "MONDO_0015087",
+              "name": "autosomal dominant complex spastic paraplegia"
+            }
+          },
+          {
+            "score": 0.14229376972668664,
+            "disease": {
+              "id": "EFO_0022599",
+              "name": "DNA methylation"
+            }
+          },
+          {
+            "score": 0.11826555349910459,
+            "disease": {
+              "id": "MONDO_0015427",
+              "name": "paroxysmal dyskinesia"
+            }
+          },
+          {
+            "score": 0.11826555349910459,
+            "disease": {
+              "id": "MONDO_0018949",
+              "name": "distal myopathy"
+            }
+          },
+          {
+            "score": 0.11181330520273414,
+            "disease": {
+              "id": "MONDO_0008315",
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "score": 0.11087395640541053,
+            "disease": {
+              "id": "MONDO_0005090",
+              "name": "schizophrenia"
+            }
+          },
+          {
+            "score": 0.11087395640541053,
+            "disease": {
+              "id": "Orphanet_1331",
+              "name": "Familial prostate cancer"
+            }
+          },
+          {
+            "score": 0.09280560795415844,
+            "disease": {
+              "id": "EFO_0000571",
+              "name": "lung adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.07855199110657256,
+            "disease": {
+              "id": "EFO_1001052",
+              "name": "myeloid sarcoma"
+            }
+          },
+          {
+            "score": 0.07633117528730489,
+            "disease": {
+              "id": "MONDO_0004986",
+              "name": "urinary bladder carcinoma"
+            }
+          },
+          {
+            "score": 0.07548155226581305,
+            "disease": {
+              "id": "EFO_0005543",
+              "name": "glioma"
+            }
+          },
+          {
+            "score": 0.05918092479173204,
+            "disease": {
+              "id": "Orphanet_264675",
+              "name": "Congenital pulmonary alveolar proteinosis"
+            }
+          },
+          {
+            "score": 0.05311232091673849,
+            "disease": {
+              "id": "Orphanet_217563",
+              "name": "Neonatal acute respiratory distress with surfactant metabolism deficiency"
+            }
+          },
+          {
+            "score": 0.05041438797754017,
+            "disease": {
+              "id": "EFO_0001063",
+              "name": "deafness"
+            }
+          },
+          {
+            "score": 0.04749101132698418,
+            "disease": {
+              "id": "MONDO_0019448",
+              "name": "benign adult familial myoclonic epilepsy"
+            }
+          },
+          {
+            "score": 0.04743555370894026,
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "score": 0.046687175143044955,
+            "disease": {
+              "id": "Orphanet_330041",
+              "name": "Autosomal dominant methemoglobinemia"
+            }
+          },
+          {
+            "score": 0.04615965584538915,
+            "disease": {
+              "id": "EFO_0004698",
+              "name": "insomnia"
+            }
+          },
+          {
+            "score": 0.0430043118911119,
+            "disease": {
+              "id": "MONDO_0019489",
+              "name": "diffuse palmoplantar keratoderma - acrocyanosis syndrome"
+            }
+          },
+          {
+            "score": 0.0430043118911119,
+            "disease": {
+              "id": "Orphanet_86918",
+              "name": "Diffuse palmoplantar keratoderma-acrocyanosis syndrome"
+            }
+          },
+          {
+            "score": 0.04225036898755511,
+            "disease": {
+              "id": "MONDO_0010986",
+              "name": "autosomal recessive nonsyndromic hearing loss 9"
+            }
+          },
+          {
+            "score": 0.04060943443275503,
+            "disease": {
+              "id": "MONDO_0009929",
+              "name": "surfactant metabolism dysfunction, pulmonary, 1"
+            }
+          },
+          {
+            "score": 0.039330688135545966,
+            "disease": {
+              "id": "MONDO_0009936",
+              "name": "familial primary pulmonary hypoplasia"
+            }
+          },
+          {
+            "score": 0.038532395649427016,
+            "disease": {
+              "id": "MONDO_0019587",
+              "name": "autosomal dominant nonsyndromic hearing loss"
+            }
+          },
+          {
+            "score": 0.03734974011443596,
+            "disease": {
+              "id": "MONDO_0018023",
+              "name": "hemoglobin M disease"
+            }
+          },
+          {
+            "score": 0.035917098187871914,
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            }
+          },
+          {
+            "score": 0.035915770278259325,
+            "disease": {
+              "id": "MONDO_0024465",
+              "name": "surfactant metabolism dysfunction, pulmonary, 2"
+            }
+          },
+          {
+            "score": 0.0358196795160413,
+            "disease": {
+              "id": "MONDO_0007536",
+              "name": "congenital lobar emphysema"
+            }
+          },
+          {
+            "score": 0.032656075959940245,
+            "disease": {
+              "id": "MONDO_0019588",
+              "name": "hearing loss, autosomal recessive"
+            }
+          },
+          {
+            "score": 0.032505819886519294,
+            "disease": {
+              "id": "EFO_0005670",
+              "name": "smoking initiation"
+            }
+          },
+          {
+            "score": 0.031754301114509574,
+            "disease": {
+              "id": "MONDO_0100131",
+              "name": "pediatric acute respiratory distress syndrome"
+            }
+          },
+          {
+            "score": 0.03141428764819965,
+            "disease": {
+              "id": "EFO_0010970",
+              "name": "severe malarial anemia"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

@@ -1,0 +1,3444 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4795006",
+      "4794969",
+      "4794866",
+      "4794682",
+      "4794679",
+      "4794486",
+      "4794441",
+      "4794397",
+      "4794348",
+      "4794277",
+      "4793978",
+      "4793962",
+      "4793849",
+      "4793835",
+      "4793714",
+      "4793579",
+      "4793421",
+      "4793338",
+      "4793168",
+      "4793119"
+    ],
+    "4795006": {
+      "uid": "4795006",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004795006",
+      "accession_version": "VCV004795006.1",
+      "title": "NM_004082.5(DCTN1):c.434C>T (p.Thr145Ile)",
+      "variation_set": [
+        {
+          "measure_id": "4904937",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.434C>T (p.Thr145Ile)",
+          "cdna_change": "c.434C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74372947",
+              "stop": "74372947",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74372947",
+              "display_stop": "74372947",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74600074",
+              "stop": "74600074",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74600074",
+              "display_stop": "74600074",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74372946:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007493035"
+        ],
+        "rcv": [
+          "RCV006597442"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/09/30 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074372947",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "intron variant"
+      ],
+      "protein_change": "T138I, T11I, T122I, T128I, T145I",
+      "fda_recognized_database": ""
+    },
+    "4794969": {
+      "uid": "4794969",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794969",
+      "accession_version": "VCV004794969.1",
+      "title": "NM_004082.5(DCTN1):c.3415C>T (p.Pro1139Ser)",
+      "variation_set": [
+        {
+          "measure_id": "4904900",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.3415C>T (p.Pro1139Ser)",
+          "cdna_change": "c.3415C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74363108",
+              "stop": "74363108",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74363108",
+              "display_stop": "74363108",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74590235",
+              "stop": "74590235",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74590235",
+              "display_stop": "74590235",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74363107:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007493003"
+        ],
+        "rcv": [
+          "RCV006597405"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/10/28 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074363108",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "P1097S, P1116S, P1005S, P1132S, P1000S, P1114S, P1122S, P1139S",
+      "fda_recognized_database": ""
+    },
+    "4794866": {
+      "uid": "4794866",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794866",
+      "accession_version": "VCV004794866.1",
+      "title": "NM_004082.5(DCTN1):c.1585-12C>G",
+      "variation_set": [
+        {
+          "measure_id": "4906240",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.1585-12C>G",
+          "cdna_change": "NM_004082.5(DCTN1):c.1585-12C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74369226",
+              "stop": "74369226",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74369226",
+              "display_stop": "74369226",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74596353",
+              "stop": "74596353",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74596353",
+              "display_stop": "74596353",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74369225:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492878"
+        ],
+        "rcv": [
+          "RCV006597302"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/25 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074369226",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794682": {
+      "uid": "4794682",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794682",
+      "accession_version": "VCV004794682.1",
+      "title": "NM_004082.5(DCTN1):c.712C>T (p.Arg238Trp)",
+      "variation_set": [
+        {
+          "measure_id": "4906057",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.712C>T (p.Arg238Trp)",
+          "cdna_change": "c.712C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74371110",
+              "stop": "74371110",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74371110",
+              "display_stop": "74371110",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74598237",
+              "stop": "74598237",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74598237",
+              "display_stop": "74598237",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74371109:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492733"
+        ],
+        "rcv": [
+          "RCV006593694"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/06/15 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074371110",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "R215W, R231W, R104W, R221W, R238W, R218W, R201W",
+      "fda_recognized_database": ""
+    },
+    "4794679": {
+      "uid": "4794679",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794679",
+      "accession_version": "VCV004794679.1",
+      "title": "NM_004082.5(DCTN1):c.3700G>A (p.Ala1234Thr)",
+      "variation_set": [
+        {
+          "measure_id": "4906054",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.3700G>A (p.Ala1234Thr)",
+          "cdna_change": "c.3700G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74361636",
+              "stop": "74361636",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74361636",
+              "display_stop": "74361636",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74588763",
+              "stop": "74588763",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74588763",
+              "display_stop": "74588763",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74361635:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492732"
+        ],
+        "rcv": [
+          "RCV006593691"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/08/13 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074361636",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "A1227T, A1100T, A1211T, A1217T, A1095T, A1192T, A1209T, A1234T",
+      "fda_recognized_database": ""
+    },
+    "4794486": {
+      "uid": "4794486",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794486",
+      "accession_version": "VCV004794486.1",
+      "title": "NM_004082.5(DCTN1):c.1701+18G>A",
+      "variation_set": [
+        {
+          "measure_id": "4902695",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.1701+18G>A",
+          "cdna_change": "NM_004082.5(DCTN1):c.1701+18G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74369080",
+              "stop": "74369080",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74369080",
+              "display_stop": "74369080",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74596207",
+              "stop": "74596207",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74596207",
+              "display_stop": "74596207",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74369079:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492303"
+        ],
+        "rcv": [
+          "RCV006593498"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/07/26 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074369080",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794441": {
+      "uid": "4794441",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794441",
+      "accession_version": "VCV004794441.1",
+      "title": "NM_004082.5(DCTN1):c.416C>T (p.Ala139Val)",
+      "variation_set": [
+        {
+          "measure_id": "4902650",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.416C>T (p.Ala139Val)",
+          "cdna_change": "c.416C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74374339",
+              "stop": "74374339",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74374339",
+              "display_stop": "74374339",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74601466",
+              "stop": "74601466",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74601466",
+              "display_stop": "74601466",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74374338:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492337"
+        ],
+        "rcv": [
+          "RCV006593453"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/12/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074374339",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "intron variant"
+      ],
+      "protein_change": "A132V, A122V, A5V, A139V",
+      "fda_recognized_database": ""
+    },
+    "4794397": {
+      "uid": "4794397",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794397",
+      "accession_version": "VCV004794397.1",
+      "title": "NM_004082.5(DCTN1):c.280-4T>G",
+      "variation_set": [
+        {
+          "measure_id": "4902607",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.280-4T>G",
+          "cdna_change": "NM_004082.5(DCTN1):c.280-4T>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74377730",
+              "stop": "74377730",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74377730",
+              "display_stop": "74377730",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74604857",
+              "stop": "74604857",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74604857",
+              "display_stop": "74604857",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74377729:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492267"
+        ],
+        "rcv": [
+          "RCV006593409"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/11 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074377730",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794348": {
+      "uid": "4794348",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794348",
+      "accession_version": "VCV004794348.1",
+      "title": "NM_004082.5(DCTN1):c.1222C>G (p.Gln408Glu)",
+      "variation_set": [
+        {
+          "measure_id": "4902558",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.1222C>G (p.Gln408Glu)",
+          "cdna_change": "c.1222C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74370251",
+              "stop": "74370251",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74370251",
+              "display_stop": "74370251",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74597378",
+              "stop": "74597378",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74597378",
+              "display_stop": "74597378",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74370250:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492197"
+        ],
+        "rcv": [
+          "RCV006593360"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/08/28 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074370251",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "Q371E, Q408E, Q274E, Q388E, Q401E, Q385E, Q391E",
+      "fda_recognized_database": ""
+    },
+    "4794277": {
+      "uid": "4794277",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794277",
+      "accession_version": "VCV004794277.1",
+      "title": "NM_004082.5(DCTN1):c.3539G>A (p.Ser1180Asn)",
+      "variation_set": [
+        {
+          "measure_id": "4902487",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.3539G>A (p.Ser1180Asn)",
+          "cdna_change": "c.3539G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74362720",
+              "stop": "74362720",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74362720",
+              "display_stop": "74362720",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74589847",
+              "stop": "74589847",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74589847",
+              "display_stop": "74589847",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74362719:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492071"
+        ],
+        "rcv": [
+          "RCV006593289"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/06/02 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074362720",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "S1046N, S1138N, S1157N, S1155N, S1173N, S1180N, S1041N, S1163N",
+      "fda_recognized_database": ""
+    },
+    "4793978": {
+      "uid": "4793978",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793978",
+      "accession_version": "VCV004793978.1",
+      "title": "NM_004082.5(DCTN1):c.2810A>G (p.Asp937Gly)",
+      "variation_set": [
+        {
+          "measure_id": "4903915",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.2810A>G (p.Asp937Gly)",
+          "cdna_change": "c.2810A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74365969",
+              "stop": "74365969",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74365969",
+              "display_stop": "74365969",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74593096",
+              "stop": "74593096",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74593096",
+              "display_stop": "74593096",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74365968:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491651"
+        ],
+        "rcv": [
+          "RCV006604732"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/08/29 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074365969",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "D914G, D917G, D930G, D803G, D900G, D920G, D937G",
+      "fda_recognized_database": ""
+    },
+    "4793962": {
+      "uid": "4793962",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793962",
+      "accession_version": "VCV004793962.1",
+      "title": "NM_004082.5(DCTN1):c.1069A>G (p.Ser357Gly)",
+      "variation_set": [
+        {
+          "measure_id": "4903899",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.1069A>G (p.Ser357Gly)",
+          "cdna_change": "c.1069A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74370524",
+              "stop": "74370524",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74370524",
+              "display_stop": "74370524",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74597651",
+              "stop": "74597651",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74597651",
+              "display_stop": "74597651",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74370523:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491723"
+        ],
+        "rcv": [
+          "RCV006604716"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/03/15 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074370524",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "S350G, S223G, S357G, S334G, S340G, S320G, S337G",
+      "fda_recognized_database": ""
+    },
+    "4793849": {
+      "uid": "4793849",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793849",
+      "accession_version": "VCV004793849.1",
+      "title": "NM_004082.5(DCTN1):c.2409G>T (p.Arg803Ser)",
+      "variation_set": [
+        {
+          "measure_id": "4903786",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.2409G>T (p.Arg803Ser)",
+          "cdna_change": "c.2409G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74366840",
+              "stop": "74366840",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74366840",
+              "display_stop": "74366840",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74593967",
+              "stop": "74593967",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74593967",
+              "display_stop": "74593967",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74366839:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491548"
+        ],
+        "rcv": [
+          "RCV006604603"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/12/13 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074366840",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "R783S, R796S, R766S, R780S, R803S, R669S, R786S",
+      "fda_recognized_database": ""
+    },
+    "4793835": {
+      "uid": "4793835",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793835",
+      "accession_version": "VCV004793835.1",
+      "title": "NM_004082.5(DCTN1):c.2184+7G>T",
+      "variation_set": [
+        {
+          "measure_id": "4903772",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.2184+7G>T",
+          "cdna_change": "NM_004082.5(DCTN1):c.2184+7G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74367689",
+              "stop": "74367689",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74367689",
+              "display_stop": "74367689",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74594816",
+              "stop": "74594816",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74594816",
+              "display_stop": "74594816",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74367688:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491572"
+        ],
+        "rcv": [
+          "RCV006604589"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/06/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074367689",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793714": {
+      "uid": "4793714",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793714",
+      "accession_version": "VCV004793714.1",
+      "title": "NM_004082.5(DCTN1):c.3345+8A>T",
+      "variation_set": [
+        {
+          "measure_id": "4903652",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.3345+8A>T",
+          "cdna_change": "NM_004082.5(DCTN1):c.3345+8A>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74363286",
+              "stop": "74363286",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74363286",
+              "display_stop": "74363286",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74590413",
+              "stop": "74590413",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74590413",
+              "display_stop": "74590413",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74363285:T:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491357"
+        ],
+        "rcv": [
+          "RCV006601040"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/04/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074363286",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793579": {
+      "uid": "4793579",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793579",
+      "accession_version": "VCV004793579.1",
+      "title": "NM_004082.5(DCTN1):c.2713A>G (p.Thr905Ala)",
+      "variation_set": [
+        {
+          "measure_id": "4904812",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.2713A>G (p.Thr905Ala)",
+          "cdna_change": "c.2713A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74366291",
+              "stop": "74366291",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74366291",
+              "display_stop": "74366291",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74593418",
+              "stop": "74593418",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74593418",
+              "display_stop": "74593418",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74366290:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491206"
+        ],
+        "rcv": [
+          "RCV006600905"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/11/27 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074366291",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "T885A, T905A, T882A, T888A, T771A, T898A, T868A",
+      "fda_recognized_database": ""
+    },
+    "4793421": {
+      "uid": "4793421",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793421",
+      "accession_version": "VCV004793421.1",
+      "title": "NM_004082.5(DCTN1):c.3699+10A>C",
+      "variation_set": [
+        {
+          "measure_id": "4904654",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.3699+10A>C",
+          "cdna_change": "NM_004082.5(DCTN1):c.3699+10A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74362042",
+              "stop": "74362042",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74362042",
+              "display_stop": "74362042",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74589169",
+              "stop": "74589169",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74589169",
+              "display_stop": "74589169",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74362041:T:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491009"
+        ],
+        "rcv": [
+          "RCV006600747"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/09/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074362042",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793338": {
+      "uid": "4793338",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793338",
+      "accession_version": "VCV004793338.1",
+      "title": "NM_004082.5(DCTN1):c.7C>G (p.Gln3Glu)",
+      "variation_set": [
+        {
+          "measure_id": "4904571",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.7C>G (p.Gln3Glu)",
+          "cdna_change": "c.7C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74380031",
+              "stop": "74380031",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74380031",
+              "display_stop": "74380031",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74607158",
+              "stop": "74607158",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74607158",
+              "display_stop": "74607158",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74380030:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490936"
+        ],
+        "rcv": [
+          "RCV006600664"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/04/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074380031",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "intron variant"
+      ],
+      "protein_change": "Q3E",
+      "fda_recognized_database": ""
+    },
+    "4793168": {
+      "uid": "4793168",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793168",
+      "accession_version": "VCV004793168.1",
+      "title": "NM_004082.5(DCTN1):c.3281T>C (p.Leu1094Pro)",
+      "variation_set": [
+        {
+          "measure_id": "4905844",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.3281T>C (p.Leu1094Pro)",
+          "cdna_change": "c.3281T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74363358",
+              "stop": "74363358",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74363358",
+              "display_stop": "74363358",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74590485",
+              "stop": "74590485",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74590485",
+              "display_stop": "74590485",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74363357:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490714"
+        ],
+        "rcv": [
+          "RCV006597068"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/03/31 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074363358",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "L1052P, L1069P, L1077P, L1087P, L1094P, L960P, L955P, L1071P",
+      "fda_recognized_database": ""
+    },
+    "4793119": {
+      "uid": "4793119",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793119",
+      "accession_version": "VCV004793119.1",
+      "title": "NM_004082.5(DCTN1):c.2934G>A (p.Lys978=)",
+      "variation_set": [
+        {
+          "measure_id": "4905795",
+          "variation_xrefs": [],
+          "variation_name": "NM_004082.5(DCTN1):c.2934G>A (p.Lys978=)",
+          "cdna_change": "c.2934G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74365610",
+              "stop": "74365610",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74365610",
+              "display_stop": "74365610",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.1",
+              "start": "74592737",
+              "stop": "74592737",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "74592737",
+              "display_stop": "74592737",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:74365609:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490673"
+        ],
+        "rcv": [
+          "RCV006597019"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/09/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1862939"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007103"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105400"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139589"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1843315"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011879"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "607641"
+              }
+            ],
+            "trait_name": "Neuronopathy, distal hereditary motor, type 7B"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "178509"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1868594"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008201"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "168605"
+              }
+            ],
+            "trait_name": "Perry syndrome"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "DCTN1",
+      "chr_sort": "02",
+      "location_sort": "00000000000074365610",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "DCTN1",
+          "geneid": "1639",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    }
+  }
+}

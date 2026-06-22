@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr22",
+      "dataSource": "HAVANA",
+      "description": "coiled-coil-helix-coiled-coil-helix domain containing 10 [Source:HGNC Symbol;Acc:HGNC:15559]",
+      "end": 23768443,
+      "entrezGeneId": 400916,
+      "gencodeId": "ENSG00000250479.8",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "CHCHD10",
+      "geneSymbolUpper": "CHCHD10",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 23765834,
+      "strand": "-",
+      "tss": 23768443
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

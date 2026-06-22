@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr2",
+      "dataSource": "HAVANA",
+      "description": "dynactin subunit 1 [Source:HGNC Symbol;Acc:HGNC:2711]",
+      "end": 74392087,
+      "entrezGeneId": 1639,
+      "gencodeId": "ENSG00000204843.12",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "DCTN1",
+      "geneSymbolUpper": "DCTN1",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 74361154,
+      "strand": "-",
+      "tss": 74392087
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

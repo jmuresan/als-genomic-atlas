@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "C9orf72",
+      "associatedDiseases": {
+        "count": 738,
+        "rows": [
+          {
+            "score": 0.6103425432677596,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.5660311237408793,
+            "disease": {
+              "id": "MONDO_0007105",
+              "name": "frontotemporal dementia and/or amyotrophic lateral sclerosis 1"
+            }
+          },
+          {
+            "score": 0.37431998607589156,
+            "disease": {
+              "id": "HP_0000924",
+              "name": "Abnormality of the skeletal system"
+            }
+          },
+          {
+            "score": 0.36994943453938645,
+            "disease": {
+              "id": "MONDO_0017161",
+              "name": "frontotemporal dementia with motor neuron disease"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0018425",
+              "name": "Huntington disease-like syndrome due to C9ORF72 expansions"
+            }
+          },
+          {
+            "score": 0.32217749238910004,
+            "disease": {
+              "id": "MONDO_0020950",
+              "name": "viral eye infection"
+            }
+          },
+          {
+            "score": 0.29454637076908696,
+            "disease": {
+              "id": "EFO_0001073",
+              "name": "obesity"
+            }
+          },
+          {
+            "score": 0.2574681190931728,
+            "disease": {
+              "id": "EFO_0004329",
+              "name": "alcohol drinking"
+            }
+          },
+          {
+            "score": 0.2546994532165696,
+            "disease": {
+              "id": "EFO_0005670",
+              "name": "smoking initiation"
+            }
+          },
+          {
+            "score": 0.23694206868993634,
+            "disease": {
+              "id": "EFO_0009518",
+              "name": "complication"
+            }
+          },
+          {
+            "score": 0.23186454345293053,
+            "disease": {
+              "id": "MONDO_0005148",
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.22882055846766222,
+            "disease": {
+              "id": "EFO_0009003",
+              "name": "ovarian dysfunction"
+            }
+          },
+          {
+            "score": 0.21384464864024635,
+            "disease": {
+              "id": "EFO_0001357",
+              "name": "sporadic amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.20789919796725106,
+            "disease": {
+              "id": "MONDO_0003916",
+              "name": "overnutrition"
+            }
+          },
+          {
+            "score": 0.194773147055578,
+            "disease": {
+              "id": "MONDO_0002043",
+              "name": "ectropion"
+            }
+          },
+          {
+            "score": 0.19435814882926886,
+            "disease": {
+              "id": "EFO_0010282",
+              "name": "gastrointestinal disease"
+            }
+          },
+          {
+            "score": 0.19106472960199716,
+            "disease": {
+              "id": "EFO_1001754",
+              "name": "Abruptio Placentae"
+            }
+          },
+          {
+            "score": 0.1872590775727526,
+            "disease": {
+              "id": "EFO_0005558",
+              "name": "hemolytic anemia"
+            }
+          },
+          {
+            "score": 0.16944916842189,
+            "disease": {
+              "id": "EFO_0004264",
+              "name": "vascular disease"
+            }
+          },
+          {
+            "score": 0.16870595393819499,
+            "disease": {
+              "id": "EFO_0004319",
+              "name": "smoking cessation"
+            }
+          },
+          {
+            "score": 0.1448710477130116,
+            "disease": {
+              "id": "HP_0031047",
+              "name": "Paraproteinemia"
+            }
+          },
+          {
+            "score": 0.13307698246889643,
+            "disease": {
+              "id": "MONDO_0017276",
+              "name": "frontotemporal dementia"
+            }
+          },
+          {
+            "score": 0.1112986435556903,
+            "disease": {
+              "id": "EFO_0003096",
+              "name": "Pick disease"
+            }
+          },
+          {
+            "score": 0.11070498985223579,
+            "disease": {
+              "id": "EFO_0000668",
+              "name": "preeclampsia"
+            }
+          },
+          {
+            "score": 0.09750255450669008,
+            "disease": {
+              "id": "EFO_0000660",
+              "name": "polycystic ovary syndrome"
+            }
+          },
+          {
+            "score": 0.09750255450669008,
+            "disease": {
+              "id": "EFO_0009543",
+              "name": "disturbances of sensation of smell and taste"
+            }
+          },
+          {
+            "score": 0.09737083902989621,
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "score": 0.09709333880781905,
+            "disease": {
+              "id": "EFO_0009505",
+              "name": "head injury"
+            }
+          },
+          {
+            "score": 0.09173655196798385,
+            "disease": {
+              "id": "EFO_0004270",
+              "name": "restless legs syndrome"
+            }
+          },
+          {
+            "score": 0.08194024085997967,
+            "disease": {
+              "id": "EFO_0007982",
+              "name": "mild neurocognitive disorder"
+            }
+          },
+          {
+            "score": 0.07494717290999293,
+            "disease": {
+              "id": "HP_0001626",
+              "name": "Abnormality of the cardiovascular system"
+            }
+          },
+          {
+            "score": 0.07178702055657904,
+            "disease": {
+              "id": "MONDO_0032803",
+              "name": "immunodeficiency 64"
+            }
+          },
+          {
+            "score": 0.07061952600851573,
+            "disease": {
+              "id": "MONDO_0011158",
+              "name": "autoimmune lymphoproliferative syndrome type 1"
+            }
+          },
+          {
+            "score": 0.07061952600851573,
+            "disease": {
+              "id": "MONDO_0017979",
+              "name": "autoimmune lymphoproliferative syndrome"
+            }
+          },
+          {
+            "score": 0.06841451814728171,
+            "disease": {
+              "id": "MONDO_0013767",
+              "name": "autoimmune lymphoproliferative syndrome type 4"
+            }
+          },
+          {
+            "score": 0.06841451814728171,
+            "disease": {
+              "id": "Orphanet_268114",
+              "name": "RAS-associated autoimmune leukoproliferative disease"
+            }
+          },
+          {
+            "score": 0.06825078400554932,
+            "disease": {
+              "id": "MONDO_0011086",
+              "name": "severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive"
+            }
+          },
+          {
+            "score": 0.0679264674169564,
+            "disease": {
+              "id": "MONDO_0011383",
+              "name": "autoimmune lymphoproliferative syndrome type 2A"
+            }
+          },
+          {
+            "score": 0.06779737112049364,
+            "disease": {
+              "id": "MONDO_0100096",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "score": 0.06776041313502515,
+            "disease": {
+              "id": "MONDO_0957494",
+              "name": "autoinflammatory disease, multisystem, with immune dysregulation, X-linked"
+            }
+          },
+          {
+            "score": 0.06647476801386197,
+            "disease": {
+              "id": "Orphanet_2442",
+              "name": "X-linked lymphoproliferative disease"
+            }
+          },
+          {
+            "score": 0.06630144532812193,
+            "disease": {
+              "id": "Orphanet_169355",
+              "name": "Immunodeficiency syndrome with autoimmunity"
+            }
+          },
+          {
+            "score": 0.06572932339374153,
+            "disease": {
+              "id": "Orphanet_277",
+              "name": "Severe combined immunodeficiency due to adenosine deaminase deficiency"
+            }
+          },
+          {
+            "score": 0.06545038505163965,
+            "disease": {
+              "id": "EFO_0010737",
+              "name": "autoinflammation with episodic fever and lymphadenopathy"
+            }
+          },
+          {
+            "score": 0.0644700231565531,
+            "disease": {
+              "id": "MONDO_0030971",
+              "name": "immunodeficiency 78 with autoimmunity and developmental delay"
+            }
+          },
+          {
+            "score": 0.06393996554872301,
+            "disease": {
+              "id": "Orphanet_540",
+              "name": "Familial hemophagocytic lymphohistiocytosis"
+            }
+          },
+          {
+            "score": 0.06389481317716468,
+            "disease": {
+              "id": "MONDO_0011381",
+              "name": "dominant beta-thalassemia"
+            }
+          },
+          {
+            "score": 0.06385939510775739,
+            "disease": {
+              "id": "MONDO_0019537",
+              "name": "hemoglobin D disease"
+            }
+          },
+          {
+            "score": 0.0632856223833594,
+            "disease": {
+              "id": "MONDO_0044721",
+              "name": "severe combined immunodeficiency due to LAT deficiency"
+            }
+          },
+          {
+            "score": 0.06314061772737385,
+            "disease": {
+              "id": "EFO_0005555",
+              "name": "gamma chain deficiency"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "CFAP410",
+      "associatedDiseases": {
+        "count": 216,
+        "rows": [
+          {
+            "score": 0.7452940610809471,
+            "disease": {
+              "id": "MONDO_0011211",
+              "name": "axial spondylometaphyseal dysplasia"
+            }
+          },
+          {
+            "score": 0.7339109241205064,
+            "disease": {
+              "id": "MONDO_0060507",
+              "name": "retinal dystrophy with or without macular staphyloma"
+            }
+          },
+          {
+            "score": 0.5682101425267765,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.5443006522234273,
+            "disease": {
+              "id": "HP_0000556",
+              "name": "Retinal dystrophy"
+            }
+          },
+          {
+            "score": 0.5109133037564847,
+            "disease": {
+              "id": "Orphanet_1872",
+              "name": "Cone rod dystrophy"
+            }
+          },
+          {
+            "score": 0.51022552160638,
+            "disease": {
+              "id": "MONDO_0015993",
+              "name": "cone-rod dystrophy"
+            }
+          },
+          {
+            "score": 0.4810332301734014,
+            "disease": {
+              "id": "MONDO_0019200",
+              "name": "retinitis pigmentosa"
+            }
+          },
+          {
+            "score": 0.3711273645224374,
+            "disease": {
+              "id": "HP_0000510",
+              "name": "Rod-cone dystrophy"
+            }
+          },
+          {
+            "score": 0.3326218692162316,
+            "disease": {
+              "id": "MONDO_0018998",
+              "name": "Leber congenital amaurosis"
+            }
+          },
+          {
+            "score": 0.30693861807751016,
+            "disease": {
+              "id": "EFO_0000275",
+              "name": "atrial fibrillation"
+            }
+          },
+          {
+            "score": 0.2601842176980301,
+            "disease": {
+              "id": "MONDO_0000455",
+              "name": "cone dystrophy"
+            }
+          },
+          {
+            "score": 0.16905711825056466,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.02875645980334828,
+            "disease": {
+              "id": "MONDO_0018770",
+              "name": "Jeune syndrome"
+            }
+          },
+          {
+            "score": 0.023942776185834614,
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            }
+          },
+          {
+            "score": 0.02376406321008717,
+            "disease": {
+              "id": "EFO_0003900",
+              "name": "ciliopathy"
+            }
+          },
+          {
+            "score": 0.023324142959465218,
+            "disease": {
+              "id": "MONDO_0004580",
+              "name": "retinal degeneration"
+            }
+          },
+          {
+            "score": 0.023106552315915845,
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            }
+          },
+          {
+            "score": 0.02229038764674183,
+            "disease": {
+              "id": "EFO_0003839",
+              "name": "retinopathy"
+            }
+          },
+          {
+            "score": 0.019402942370946846,
+            "disease": {
+              "id": "MONDO_0800195",
+              "name": "achalasia-alacrima syndrome"
+            }
+          },
+          {
+            "score": 0.01650790017591668,
+            "disease": {
+              "id": "MONDO_0002050",
+              "name": "depressive disorder"
+            }
+          },
+          {
+            "score": 0.01626151360612688,
+            "disease": {
+              "id": "EFO_0000717",
+              "name": "systemic scleroderma"
+            }
+          },
+          {
+            "score": 0.016043461491862906,
+            "disease": {
+              "id": "EFO_0000182",
+              "name": "hepatocellular carcinoma"
+            }
+          },
+          {
+            "score": 0.015152774042072773,
+            "disease": {
+              "id": "EFO_0004244",
+              "name": "interstitial lung disease"
+            }
+          },
+          {
+            "score": 0.014783194187388075,
+            "disease": {
+              "id": "MONDO_0009894",
+              "name": "short-rib thoracic dysplasia 6 with or without polydactyly"
+            }
+          },
+          {
+            "score": 0.014783194187388075,
+            "disease": {
+              "id": "MONDO_0011415",
+              "name": "Leber congenital amaurosis 3"
+            }
+          },
+          {
+            "score": 0.01337427365247339,
+            "disease": {
+              "id": "EFO_0001064",
+              "name": "Down syndrome"
+            }
+          },
+          {
+            "score": 0.011102794801152916,
+            "disease": {
+              "id": "EFO_0004286",
+              "name": "venous thromboembolism"
+            }
+          },
+          {
+            "score": 0.011087395640541052,
+            "disease": {
+              "id": "MONDO_0009971",
+              "name": "respiratory distress syndrome in premature infants"
+            }
+          },
+          {
+            "score": 0.010163446003829301,
+            "disease": {
+              "id": "EFO_0003767",
+              "name": "inflammatory bowel disease"
+            }
+          },
+          {
+            "score": 0.010158807399530704,
+            "disease": {
+              "id": "MONDO_0007254",
+              "name": "breast cancer"
+            }
+          },
+          {
+            "score": 0.009822200604670423,
+            "disease": {
+              "id": "HP_0000739",
+              "name": "Anxiety"
+            }
+          },
+          {
+            "score": 0.009403754080310744,
+            "disease": {
+              "id": "MONDO_0001056",
+              "name": "gastric cancer"
+            }
+          },
+          {
+            "score": 0.009262697769106086,
+            "disease": {
+              "id": "MONDO_0100135",
+              "name": "Dravet syndrome"
+            }
+          },
+          {
+            "score": 0.008736457120463368,
+            "disease": {
+              "id": "MONDO_0019950",
+              "name": "congenital muscular dystrophy"
+            }
+          },
+          {
+            "score": 0.008479804443598991,
+            "disease": {
+              "id": "EFO_0004254",
+              "name": "membranous glomerulonephritis"
+            }
+          },
+          {
+            "score": 0.008377143372853241,
+            "disease": {
+              "id": "EFO_0000685",
+              "name": "rheumatoid arthritis"
+            }
+          },
+          {
+            "score": 0.00813075680306344,
+            "disease": {
+              "id": "EFO_0000401",
+              "name": "diabetic nephropathy"
+            }
+          },
+          {
+            "score": 0.007925434661571938,
+            "disease": {
+              "id": "EFO_0003888",
+              "name": "attention deficit hyperactivity disorder"
+            }
+          },
+          {
+            "score": 0.007761176948378739,
+            "disease": {
+              "id": "EFO_0000571",
+              "name": "lung adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.0073915970936940375,
+            "disease": {
+              "id": "EFO_1000653",
+              "name": "sarcopenia"
+            }
+          },
+          {
+            "score": 0.0073915970936940375,
+            "disease": {
+              "id": "EFO_0000773",
+              "name": "temporal lobe epilepsy"
+            }
+          },
+          {
+            "score": 0.0073915970936940375,
+            "disease": {
+              "id": "EFO_0009579",
+              "name": "postpartum hemorrhage"
+            }
+          },
+          {
+            "score": 0.0073915970936940375,
+            "disease": {
+              "id": "EFO_0005537",
+              "name": "triple-negative breast cancer"
+            }
+          },
+          {
+            "score": 0.0073915970936940375,
+            "disease": {
+              "id": "MONDO_0008670",
+              "name": "Waardenburg syndrome type 1"
+            }
+          },
+          {
+            "score": 0.0073915970936940375,
+            "disease": {
+              "id": "MONDO_0002492",
+              "name": "acute kidney injury"
+            }
+          },
+          {
+            "score": 0.0073915970936940375,
+            "disease": {
+              "id": "EFO_1001069",
+              "name": "ocular hypertension"
+            }
+          },
+          {
+            "score": 0.0073915970936940375,
+            "disease": {
+              "id": "EFO_1001065",
+              "name": "normal pressure hydrocephalus"
+            }
+          },
+          {
+            "score": 0.006652437384324632,
+            "disease": {
+              "id": "DOID_0050890",
+              "name": "synucleinopathy"
+            }
+          },
+          {
+            "score": 0.006652437384324632,
+            "disease": {
+              "id": "EFO_1000652",
+              "name": "acute pancreatitis"
+            }
+          },
+          {
+            "score": 0.005838951059735304,
+            "disease": {
+              "id": "MONDO_0022410",
+              "name": "retinal ciliopathy"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

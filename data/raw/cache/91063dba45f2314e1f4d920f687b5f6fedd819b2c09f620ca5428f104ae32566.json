@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "DCTN1",
+      "associatedDiseases": {
+        "count": 248,
+        "rows": [
+          {
+            "score": 0.7987174889736033,
+            "disease": {
+              "id": "MONDO_0008201",
+              "name": "Perry syndrome"
+            }
+          },
+          {
+            "score": 0.7513042672658676,
+            "disease": {
+              "id": "MONDO_0011879",
+              "name": "neuronopathy, distal hereditary motor, type 7B"
+            }
+          },
+          {
+            "score": 0.7288264852122261,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.677646227249788,
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.6759231866519626,
+            "disease": {
+              "id": "EFO_0001357",
+              "name": "sporadic amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.5451398758360809,
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            }
+          },
+          {
+            "score": 0.5296484837431038,
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0021143",
+              "name": "melanocytic neoplasm"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0015355",
+              "name": "distal hereditary motor neuropathy type 7"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0044793",
+              "name": "spitz nevus"
+            }
+          },
+          {
+            "score": 0.3061763773921263,
+            "disease": {
+              "id": "MONDO_0015626",
+              "name": "Charcot-Marie-Tooth disease"
+            }
+          },
+          {
+            "score": 0.2987437158701339,
+            "disease": {
+              "id": "MONDO_0024257",
+              "name": "hereditary motor neuron disease"
+            }
+          },
+          {
+            "score": 0.2987437158701339,
+            "disease": {
+              "id": "Orphanet_98505",
+              "name": "Genetic motor neuron disease"
+            }
+          },
+          {
+            "score": 0.2674963498975226,
+            "disease": {
+              "id": "MONDO_0017276",
+              "name": "frontotemporal dementia"
+            }
+          },
+          {
+            "score": 0.1937721051276453,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.18940967552590965,
+            "disease": {
+              "id": "EFO_0000182",
+              "name": "hepatocellular carcinoma"
+            }
+          },
+          {
+            "score": 0.1889180541806901,
+            "disease": {
+              "id": "MONDO_0015798",
+              "name": "inflammatory myofibroblastic tumor"
+            }
+          },
+          {
+            "score": 0.18673022157944558,
+            "disease": {
+              "id": "EFO_1001949",
+              "name": "colon adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.1865864960804015,
+            "disease": {
+              "id": "EFO_0003060",
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "score": 0.1854777565163474,
+            "disease": {
+              "id": "EFO_0000571",
+              "name": "lung adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.1854366920880491,
+            "disease": {
+              "id": "MONDO_0005184",
+              "name": "pancreatic ductal adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.18534429712437792,
+            "disease": {
+              "id": "EFO_0000503",
+              "name": "gastric adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.18525190216070678,
+            "disease": {
+              "id": "EFO_0000389",
+              "name": "cutaneous melanoma"
+            }
+          },
+          {
+            "score": 0.18515950719703558,
+            "disease": {
+              "id": "EFO_0005543",
+              "name": "glioma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "MONDO_0004986",
+              "name": "urinary bladder carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0005540",
+              "name": "bile duct carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "MONDO_0005341",
+              "name": "skin basal cell carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0006544",
+              "name": "bladder transitional cell carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0008509",
+              "name": "lobular breast carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0001378",
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0008515",
+              "name": "nodular melanoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_1000020",
+              "name": "cecum adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "MONDO_0044925",
+              "name": "oral cavity carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0000641",
+              "name": "papillary thyroid carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0000756",
+              "name": "melanoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "MONDO_0002529",
+              "name": "skin squamous cell carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0005631",
+              "name": "rectal adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_1000294",
+              "name": "HER2 Positive Breast Carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0008550",
+              "name": "Hepatobiliary Neoplasm"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0001071",
+              "name": "lung carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_1001968",
+              "name": "soft tissue sarcoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0000181",
+              "name": "head and neck squamous cell carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0002618",
+              "name": "pancreatic carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0006318",
+              "name": "breast ductal adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "MONDO_0020638",
+              "name": "superficial spreading melanoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_1000262",
+              "name": "Gallbladder Adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "MONDO_0000640",
+              "name": "central nervous system primitive neuroectodermal neoplasm"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0002892",
+              "name": "thyroid carcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_1000223",
+              "name": "Duodenal Adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0000222",
+              "name": "acute myeloid leukemia"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

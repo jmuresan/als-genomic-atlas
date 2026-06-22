@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr10",
+      "dataSource": "HAVANA",
+      "description": "annexin A11 [Source:HGNC Symbol;Acc:HGNC:535]",
+      "end": 80205572,
+      "entrezGeneId": 311,
+      "gencodeId": "ENSG00000122359.17",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "ANXA11",
+      "geneSymbolUpper": "ANXA11",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 80150889,
+      "strand": "-",
+      "tss": 80205572
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

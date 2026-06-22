@@ -1,0 +1,2907 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07175935",
+          "orgStudyIdInfo": {
+            "id": "COA No. 0262/2025"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "NST",
+              "type": "OTHER_GRANT",
+              "domain": "The Neurological Society of Thailand"
+            }
+          ],
+          "organization": {
+            "fullName": "Chulalongkorn University",
+            "class": "OTHER"
+          },
+          "briefTitle": "Amyotrophic Lateral Sclerosis Registry in Thailand",
+          "officialTitle": "A Prospective, Multicenter Registry Study of Amyotrophic Lateral Sclerosis in Thailand",
+          "acronym": "Thai ALS Regis"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2025-09",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2025-03-01",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2030-12-31",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-31",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2025-08-27",
+          "studyFirstSubmitQcDate": "2025-09-14",
+          "studyFirstPostDateStruct": {
+            "date": "2025-09-16",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2025-09-14",
+          "lastUpdatePostDateStruct": {
+            "date": "2025-09-16",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "Jakkrit Amornvit, MD.",
+            "investigatorTitle": "Priciple Investigator",
+            "investigatorAffiliation": "Chulalongkorn University"
+          },
+          "leadSponsor": {
+            "name": "Chulalongkorn University",
+            "class": "OTHER"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "This is a prospective, observational, multicenter registry designed to collect comprehensive clinical, genetic, and outcome data from patients diagnosed with amyotrophic lateral sclerosis (ALS) across Thailand. The registry will establish a national dataset to describe epidemiology, clinical presentation, progression, and treatment outcomes, and will serve as a platform for future clinical and translational research.",
+          "detailedDescription": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder that affects upper and lower motor neurons, leading to progressive muscle weakness, disability, and respiratory failure. Despite increasing research worldwide, Thailand lacks large-scale systematic data on ALS epidemiology, clinical characteristics, genetic profiles, and outcomes.\n\nThis registry will prospectively enroll ALS patients from major academic hospitals and specialized neuromuscular centers nationwide. Patients will be followed longitudinally using standardized assessments, including ALSFRS-R, staging systems (King, MiTos, 9-point), motor and respiratory function, quality-of-life measures, and cognitive/behavioral evaluations.\n\nData will be collected through a REDCap electronic database, ensuring confidentiality and compliance with Thai PDPA and international data protection standards. No experimental interventions will be performed; patients will receive standard of care treatments as determined by their treating physicians."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "ALS (Amyotrophic Lateral Sclerosis)"
+          ],
+          "keywords": [
+            "Amyotrophic Lateral Sclerosis",
+            "Epidemiological",
+            "Natural History"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": true,
+          "targetDuration": "10 Years",
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Survival",
+              "description": "Time Frame: From enrollment until death from any cause (assessed continuously, with updates at each follow-up).\n\nOutcome: Overall survival in ALS patients across Thailand, with survival curves stratified by demographic, clinical, and genetic factors.",
+              "timeFrame": "10 years"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "ALS Functional Decline",
+              "description": "Measure: Change in ALS Functional Rating Scale-Revised (ALSFRS-R) score.\n\nTime Frame: Every 6-12 months.\n\nOutcome: Rate of functional decline, expressed as points lost per month/year.",
+              "timeFrame": "10 years"
+            },
+            {
+              "measure": "Disease Staging Progression",
+              "description": "Measure: King's and MiToS staging systems, 9-point staging.\n\nTime Frame: Every 6-12 months.\n\nOutcome: Proportion of patients progressing to higher stages; median time to stage transitions.",
+              "timeFrame": "10 years"
+            },
+            {
+              "measure": "Respiratory Outcomes",
+              "description": "Measure: Forced vital capacity (FVC % predicted).\n\nTime Frame: Every 6-12 months.\n\nOutcome: Decline in FVC",
+              "timeFrame": "10 years"
+            },
+            {
+              "measure": "Changes in health-related quality of life over time.",
+              "description": "Measure: EQ-5D-5L.\n\nTime Frame: Annually.\n\nOutcome: Changes in health-related quality of life over time.",
+              "timeFrame": "10 years"
+            },
+            {
+              "measure": "Cognitive and Behavioral Profile",
+              "description": "Measure: Edinburgh Cognitive and Behavioral ALS Screen (ECAS)\n\nTime Frame: Annually.\n\nOutcome: Frequency and pattern of cognitive/behavioral impairment in ALS patients.",
+              "timeFrame": "10 years"
+            },
+            {
+              "measure": "Genetic and Environmental Risk Associations",
+              "description": "Measure: Frequency of ALS-associated genetic variants (e.g., SOD1, C9orf72, TARDBP, FUS) and correlation with clinical phenotype and progression.\n\nTime Frame: As available.\n\nOutcome: Genotype-phenotype correlation; association with disease onset, progression, and survival.",
+              "timeFrame": "10 years"
+            },
+            {
+              "measure": "Healthcare Utilization and Treatment Patterns",
+              "description": "Measure: Use of riluzole, edaravone, non-invasive ventilation, gastrostomy, and multidisciplinary ALS clinic care.\n\nTime Frame: Throughout follow-up.\n\nOutcome: Patterns of treatment access and their association with survival and quality of life.",
+              "timeFrame": "10 years"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of ALS according to El Escorial or Gold Coast criteria\n* Age ≥ 18 years\n* Ability and willingness to provide informed consent\n\nExclusion Criteria:\n\n* Patients unwilling to provide informed consent\n* Patients with alternative diagnoses mimicking ALS",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "stdAges": [
+            "CHILD",
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "ALS patients attending university hospitals, tertiary neuromuscular clinics, and referral hospitals in Thailand.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Jakkrit Amornvit, MD",
+              "role": "CONTACT",
+              "phone": "+66622169338",
+              "email": "jakkrit.a@chula.ac.th"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "King Chulalongkorn Memorial hospital, The Thai Red Cross Society",
+              "status": "RECRUITING",
+              "city": "Pathum Wan",
+              "state": "Bangkok",
+              "zip": "10330",
+              "country": "Thailand",
+              "contacts": [
+                {
+                  "name": "Jakkrit Amornvit, MD",
+                  "role": "CONTACT",
+                  "phone": "+66622169338",
+                  "email": "jakkrit.a@chula.ac.th"
+                },
+                {
+                  "name": "Phuettha Sangrut, MSc",
+                  "role": "CONTACT",
+                  "phone": "022564000",
+                  "phoneExt": "80722",
+                  "email": "phuettha.s@chulahospital.org"
+                }
+              ],
+              "geoPoint": {
+                "lat": 13.73698,
+                "lon": 100.52329
+              }
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "YES",
+          "description": "De-identified individual participant data (IPD) underlying the results of this study (including clinical, demographic, and outcome measures) will be made available to qualified researchers upon reasonable request, following publication of the primary results. Access will be provided to investigators whose proposed use of the data has been approved by an independent review committee to ensure scientific merit and compliance with ethical standards. Data will be shared through secure data transfer under a data sharing agreement that protects participant confidentiality. Supporting documents, including the study protocol, statistical analysis plan, and informed consent form, will also be made available where applicable.",
+          "infoTypes": [
+            "STUDY_PROTOCOL",
+            "CSR"
+          ],
+          "timeFrame": "IPD will be available beginning 6-12 months after publication of the primary results and for up to 5 years thereafter.",
+          "accessCriteria": "Requests for access should be directed to the Principal Investigator via institutional contact email. Applicants will be required to submit a research proposal outlining objectives, methods, and intended use of the data. Approval will be contingent on adherence to ethical and scientific standards, and execution of a data sharing agreement."
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03865420",
+          "orgStudyIdInfo": {
+            "id": "AAAR7275"
+          },
+          "organization": {
+            "fullName": "Columbia University",
+            "class": "OTHER"
+          },
+          "briefTitle": "Amyotrophic Lateral Sclerosis (ALS) Families Project",
+          "officialTitle": "Amyotrophic Lateral Sclerosis (ALS) Families Project"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-01",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2018-09-11",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2019-02-25",
+          "studyFirstSubmitQcDate": "2019-03-05",
+          "studyFirstPostDateStruct": {
+            "date": "2019-03-06",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2026-01-05",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-01-07",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Columbia University",
+            "class": "OTHER"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "This program provides family members of individuals with familial ALS the opportunity to contribute to research focused on learning more about why motor neuron degeneration begins and how or why it progresses. This study provides genetic counseling and testing to help participants understand and manage their risk and determine if they want to learn their genetic status. This study will follow unaffected ALS gene mutation carriers on an annual basis to gather essential information that will ultimately help researchers develop novel therapies for the prevention and treatment of ALS.",
+          "detailedDescription": "Approximately 10% of people with amyotrophic lateral sclerosis (ALS), or Lou Gehrig's Disease, have a family history of ALS or a related condition called frontotemporal dementia (FTD). In most of these familial cases, and a significant number of \"sporadic\" patients with no family history, a mutation is present in one of a growing number of genes that have been associated with ALS and/or FTD.\n\nThe ALS Families Project will study unaffected carriers of ALS/FTD-associated gene mutations to investigate the first steps in the disease process that leads to motor neuron degeneration, with the goal of identifying early disease targets and points of intervention to slow or stop disease onset and progression.\n\nUnaffected individuals who have either a family member with a known ALS/FTD-associated gene mutation or have a strong family history of ALS and FTD are invited to participate in the ALS Families Project. For those who enroll, research visits will occur every 6-12 months."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "ALS"
+          ],
+          "keywords": [
+            "Pre-symptomatic",
+            "Familial",
+            "FALS",
+            "Genetic testing",
+            "C9orf72",
+            "SOD1",
+            "TARDBP",
+            "FUS",
+            "VCP",
+            "PFN1"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "FAMILY_BASED",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "DNA, RNA, spinal fluid, plasma, serum and Peripheral blood mononuclear cells (PBMCs)"
+          },
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Time to emergence of symptoms attributable to gene mutations",
+              "description": "Emergence of symptoms will defined by the development of any of the following: a) any weakness on neurological examination, b) evidence of nerve loss on electromyography (EMG)-nerve conduction studies, or c) evidence of cognitive impairment on the ECAS or ALS-Cognitive Behavioral Scale (ALS-CBS).",
+              "timeFrame": "Up to 10 years"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Men or women of any race or ethnicity aged 18 or older\n* No symptoms of ALS or fronto-temporal dementia at enrollment\n* Scenario 1: has already had genetic testing that identified an ALS-spectrum gene mutation.\n* Scenario 2: has a first degree relative who was/is an obligate carrier of a familial ALS-spectrum gene mutation.\n* Scenario 3: has a first degree relative who has/had an ALS-spectrum diagnosis who had a confirmed ALS-spectrum gene mutation or comes from a family with a high burden of ALS-spectrum diagnoses and a known ALS-spectrum gene mutation.\n* Scenario 4: is deemed to be at high risk for carrying an ALS-spectrum gene mutation as judged by a review of the family structure and genetic information by the study team.\n* Willing to undergo genetic analysis, with option of whether or not to learn results\n* Willing to travel to Columbia University Irving Medical Center (CUIMC) every 6-24 months for study procedures\n* Capable of providing informed consent and following study procedures, or has a legally authorized representative who is able to consent for the subject.\n\nExclusion Criteria for participation in biosample portion of the study:\n\n* Known HIV\n* Known hepatitis B\n* Known hepatitis C",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "105 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Unaffected individuals who have either a family member with a known ALS/FTD-associated gene mutation or have a strong family history of ALS and FTD.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Elizabeth Harrington, MS, CGC",
+              "role": "CONTACT",
+              "phone": "347-852-5315",
+              "email": "ALSFamiliesProject@cumc.columbia.edu"
+            },
+            {
+              "name": "Matthew Harms, MD",
+              "role": "CONTACT"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Matthew Harms, MD",
+              "affiliation": "Columbia University",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "Columbia University",
+              "status": "RECRUITING",
+              "city": "New York",
+              "state": "New York",
+              "zip": "10032",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Elizabeth Harrington, MS, CGC",
+                  "role": "CONTACT",
+                  "phone": "347-852-5315",
+                  "email": "ALSFamiliesProject@cumc.columbia.edu"
+                }
+              ],
+              "geoPoint": {
+                "lat": 40.71427,
+                "lon": -74.00597
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "39192497",
+              "type": "DERIVED",
+              "citation": "Lee I, Garret MA, Wuu J, Harrington EA, Berry JD, Miller TM, Harms M, Benatar M, Shneider N. Body mass index is lower in asymptomatic C9orf72 expansion carriers but not in SOD1 pathogenic variant carriers compared to gene negatives. Amyotroph Lateral Scler Frontotemporal Degener. 2024 Nov;25(7-8):672-679. doi: 10.1080/21678421.2024.2396831. Epub 2024 Aug 27."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "C566288",
+              "term": "Frontotemporal Dementia With Motor Neuron Disease"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07567664",
+          "orgStudyIdInfo": {
+            "id": "StG-2016_714388_NeuroTRACK_"
+          },
+          "organization": {
+            "fullName": "IRCCS San Raffaele",
+            "class": "OTHER"
+          },
+          "briefTitle": "Tracking and Predicting How Brain Damage Spreads in Neurodegenerative Diseases",
+          "officialTitle": "Tracking and Predicting Neurodegeneration Spreading Across the Brain Connectome"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-04",
+          "overallStatus": "ENROLLING_BY_INVITATION",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2017-06-01",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-02-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-01",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2025-11-26",
+          "studyFirstSubmitQcDate": "2026-04-30",
+          "studyFirstPostDateStruct": {
+            "date": "2026-05-05",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2026-04-30",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-05-05",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "Prof. Massimo Filippi",
+            "investigatorTitle": "FULL PROFESSOR",
+            "investigatorAffiliation": "IRCCS San Raffaele"
+          },
+          "leadSponsor": {
+            "name": "IRCCS San Raffaele",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "IRCCS Istituto delle Scienze Neurologiche di Bologna",
+              "class": "OTHER"
+            },
+            {
+              "name": "Azienda Ospedaliera San Gerardo di Monza",
+              "class": "OTHER"
+            },
+            {
+              "name": "Istituto Auxologico Italiano",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "Neurodegenerative diseases, including frontotemporal lobar degeneration (FTLD) spectrum syndromes, are characterized by the accumulation of insoluble protein aggregates in the central nervous system. A common feature of these diseases is that pathological changes accumulate over time following a stereotyped spatial pattern, which contributes to the onset and progression of clinical symptoms. Until recently, the causes of such progression were still unknown. Recent pathological and neuroimaging studies have, however, suggested that insoluble and pathological protein aggregates are able to alter the conformation of neighboring proteins and spread through cell-to-cell transmission. According to this theory, called the 'brain connectome,' the brain network is established as a set of nodes, which correspond to different anatomical regions.\n\nThese brain networks are highly connected to each other and their internal organization is fundamental for an efficient integration of information coming from different regions and to guarantee adequate levels of motor/cognitive performance. Thanks to magnetic resonance studies and research in the field of brain networks, it is possible to understand the pathophysiology of neurodegenerative diseases and reveal the connectivity profiles associated with different clinical outcomes.\n\nThe main objective of this project is to explore the mechanisms of neurodegeneration associated with the different FTLD spectrum syndromes, and in particular the hypothesis that the neurodegenerative process is driven by the structural architecture of the brain 'connectome'. The ultimate goal is to apply mathematical models to structural and functional connectivity data to predict the evolution of the neurodegenerative process in sporadic and genetic forms of Frontotemporal Lobar Degeneration Disease.\n\nThis study aims to investigate the spatiotemporal progression of neurodegeneration in frontotemporal lobar degeneration (FTLD) using advanced neuroimaging and connectomics. 360 patients with sporadic FTLD (including bvFTD, semantic and nonfluent PPA, PSPs, CBS, and ALS) and 65 patients with genetic FTLD (MAPT, GRN, and C9orf72 mutati will be enrolled. The study also plans to enroll 120 subjects who are members of families carrying FLTD-associated mutations (including 60 mutation carriers). Finally, 100 healthy controls will also be enrolled, including 50 young healthy controls and 50 healthy controls comparable with patients by sex and age. Participants will undergo clinical, neuropsychological, and behavioral assessments, blood and Cerebrospinal fluid (CSF) collection, and multimodal 3Tesla Magnetic Resonance Imaging MRI at baseline and every 6 months for up to 2 years. Primary objectives include mapping longitudinal changes in structural and functional brain networks, developing predictive models of network degeneration and clinical decline, and characterizing protein-specific patterns of network degeneration. Secondary aims include identifying early network biomarkers in presymptomatic carriers and correlating network changes with biological markers."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neurodegenerative Disease",
+            "Behavioral Variant Frontotemporal Dementia (bvFTD)",
+            "Primary Progressive Aphasia(PPA)",
+            "Progressive Supranuclear Palsy(PSP)",
+            "Amyotrophic Lateral Sclerosis (ALS)",
+            "Cortical Basal Syndrome (CBS)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "interventionModelDescription": "Intervention, multicentric and multiparametric study",
+            "primaryPurpose": "DIAGNOSTIC",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 645,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls",
+              "type": "EXPERIMENTAL",
+              "description": "Partecipants affected by behavioral variant of FTLD (bvFTD), primary progressive aphasia (PPA), semantic variant of PPA (svPPA), non-fluent variant of PPA (nfvPPA), progressive supranuclear paralysis (PSP), corticobasal syndrome (CBS), amyotrophic lateral sclerosis (ALS), genetic and sporadic FTLD. Asymptomatic familiar. Healthy elderly and young controls.",
+              "interventionNames": [
+                "Diagnostic Test: 3 Tesla MRI without contrast medium",
+                "Genetic: Blood sample for genetic analysis",
+                "Diagnostic Test: Cerebrospinal fluid sampling (CSF)",
+                "Diagnostic Test: Neurological evaluation",
+                "Diagnostic Test: Neuropsychological evaluation"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "3 Tesla MRI without contrast medium",
+              "description": "3 Tesla MRI examination without contrast medium in which resting functional MRI sequences, diffusion-weighted sequence, structural MRI sequences will be obtained",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            },
+            {
+              "type": "GENETIC",
+              "name": "Blood sample for genetic analysis",
+              "description": "During the screening/basal visit, a blood sample will be taken to assess the genetic profile of patients, consanguineous family members, and healthy elderly controls. Objective is to evaluate the major genes that have been shown to play a role in the pathogenesis of FTLD The genes GRN, MAPT, C9orf72, TARDBP, SOD1, FUS, OPTN, VCP will be analyzed.",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Cerebrospinal fluid sampling (CSF)",
+              "description": "During the baseline visit, patients will undergo lumbar puncture for the collection of CSF for quantification of biological biomarkers",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Neurological evaluation",
+              "description": "A neurological evaluation will be conducted in order to be able to exclude from the study all participants with a history of psychiatric illness, head injury, alcohol or psychotropic substance use",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Neuropsychological evaluation",
+              "description": "A neuropsychological assessment will be conducted in order to be able to exclude from the study all participants with a history of psychiatric illness, alcohol or psychotropic substance use",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Longitudinal change in the structural connectome via Neurite Orientation Dispersion and Density Imaging (NODDI)",
+              "description": "Evaluating structural white matter integrity over time through graph-theoretical analysis based on NODDI-derived metrics",
+              "timeFrame": "6 months, 12 months, 18 months, 24 months"
+            },
+            {
+              "measure": "Longitudinal change in the structural connectome via Diffusion Tensor Imaging (DTI)",
+              "description": "Evaluating structural white matter integrity over time through graph-theoretical analysis",
+              "timeFrame": "6 months, 12 months, 18 months, 24 months"
+            },
+            {
+              "measure": "Longitudinal change in brain functional connectome via functional MRI",
+              "description": "Evaluating functional brain changes in functional brain networks using graph-theoretical analysis of fMRI-derived connectivity",
+              "timeFrame": "6 months, 12 months, 18 months, 24 months"
+            },
+            {
+              "measure": "Prediction of pathological spreading through the structural connectome",
+              "description": "To predict spatial and temporal spreading of neurodegeneration through the structural connectome using network diffusion model",
+              "timeFrame": "6 months, 12 months, 18 months, 24 months"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\nAdult participants, under 85 years of age, diagnosed with bvFTD, semantic variant PPA, non-fluent variant PPA, PSP, CBS, and early-stage ALS, according to the criteria of Rascovsky (2011), Gorno-Tempini (2011), Litvan (1996), Armstrong (2013), and Brooks (2000), respectively;\n\nParticipants with genetic forms of FTLD associated with mutations in the c9orf72, GRN, MAPT genes, and asymptomatic family members related to FTLD patients carrying such mutations\n\nHealthy participants (age between 20 and 30 years old); Healthy participants matched to patients for age and sex\n\nExclusion Criteria:\n\n* Participants with a history of other neurological and/or psychiatric disorders, head trauma, alcohol or psychoactive substance use, or a family history of other neurodegenerative diseases.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "85 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "overallOfficials": [
+            {
+              "name": "Prof. Massimo Filippi",
+              "affiliation": "IRCCS San Raffaele",
+              "role": "STUDY_DIRECTOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "IRCCS San Raffaele",
+              "city": "Milan",
+              "state": "Lombardy",
+              "zip": "20132",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 45.46427,
+                "lon": 9.18951
+              }
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "UNDECIDED",
+          "description": "Still undecided"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D018888",
+              "term": "Aphasia, Primary Progressive"
+            },
+            {
+              "id": "D013494",
+              "term": "Supranuclear Palsy, Progressive"
+            },
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D003704",
+              "term": "Dementia"
+            },
+            {
+              "id": "D001927",
+              "term": "Brain Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D001037",
+              "term": "Aphasia"
+            },
+            {
+              "id": "D013064",
+              "term": "Speech Disorders"
+            },
+            {
+              "id": "D007806",
+              "term": "Language Disorders"
+            },
+            {
+              "id": "D003147",
+              "term": "Communication Disorders"
+            },
+            {
+              "id": "D019954",
+              "term": "Neurobehavioral Manifestations"
+            },
+            {
+              "id": "D009461",
+              "term": "Neurologic Manifestations"
+            },
+            {
+              "id": "D012816",
+              "term": "Signs and Symptoms"
+            },
+            {
+              "id": "D013568",
+              "term": "Pathological Conditions, Signs and Symptoms"
+            },
+            {
+              "id": "D019965",
+              "term": "Neurocognitive Disorders"
+            },
+            {
+              "id": "D001523",
+              "term": "Mental Disorders"
+            },
+            {
+              "id": "D001480",
+              "term": "Basal Ganglia Diseases"
+            },
+            {
+              "id": "D009069",
+              "term": "Movement Disorders"
+            },
+            {
+              "id": "D009886",
+              "term": "Ophthalmoplegia"
+            },
+            {
+              "id": "D015835",
+              "term": "Ocular Motility Disorders"
+            },
+            {
+              "id": "D003389",
+              "term": "Cranial Nerve Diseases"
+            },
+            {
+              "id": "D024801",
+              "term": "Tauopathies"
+            },
+            {
+              "id": "D010243",
+              "term": "Paralysis"
+            },
+            {
+              "id": "D005128",
+              "term": "Eye Diseases"
+            },
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D001800",
+              "term": "Blood Specimen Collection"
+            },
+            {
+              "id": "D005820",
+              "term": "Genetic Testing"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013048",
+              "term": "Specimen Handling"
+            },
+            {
+              "id": "D019411",
+              "term": "Clinical Laboratory Techniques"
+            },
+            {
+              "id": "D019937",
+              "term": "Diagnostic Techniques and Procedures"
+            },
+            {
+              "id": "D003933",
+              "term": "Diagnosis"
+            },
+            {
+              "id": "D011677",
+              "term": "Punctures"
+            },
+            {
+              "id": "D013514",
+              "term": "Surgical Procedures, Operative"
+            },
+            {
+              "id": "D008919",
+              "term": "Investigative Techniques"
+            },
+            {
+              "id": "D005821",
+              "term": "Genetic Techniques"
+            },
+            {
+              "id": "D033142",
+              "term": "Genetic Services"
+            },
+            {
+              "id": "D006296",
+              "term": "Health Services"
+            },
+            {
+              "id": "D005159",
+              "term": "Health Care Facilities Workforce and Services"
+            },
+            {
+              "id": "D003954",
+              "term": "Diagnostic Services"
+            },
+            {
+              "id": "D011314",
+              "term": "Preventive Health Services"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05852405",
+          "orgStudyIdInfo": {
+            "id": "400634"
+          },
+          "organization": {
+            "fullName": "Ambulanzpartner Soziotechnologie APST GmbH",
+            "class": "INDUSTRY"
+          },
+          "briefTitle": "Clinical Characteristics, Natural History, Health Care Measures, and Genetic Screening in Patients With ALS",
+          "officialTitle": "Clinical Characteristics, Natural History, Health Care Measures, and the Frequency of Genetic Variants in the Genes of SOD1, C9orf72, FUS and TARDBP in Patients With Sporadic and Familial Amyotrophic Lateral Sclerosis (ALS)",
+          "acronym": "ID-ALS"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2025-01",
+          "overallStatus": "COMPLETED",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2021-08-01",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ACTUAL"
+          },
+          "studyFirstSubmitDate": "2023-04-28",
+          "studyFirstSubmitQcDate": "2023-05-02",
+          "studyFirstPostDateStruct": {
+            "date": "2023-05-10",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2025-01-28",
+          "lastUpdatePostDateStruct": {
+            "date": "2025-01-29",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Ambulanzpartner Soziotechnologie APST GmbH",
+            "class": "INDUSTRY"
+          },
+          "collaborators": [
+            {
+              "name": "Charite University, Berlin, Germany",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "Patients with sporadic ALS (sALS), which refers to those without a family history of ALS, are typically not subjected to genetic investigations as part of their standard care. Therefore, their mutation status is often unknown. Even patients with familial ALS (fALS), who have a known family history of ALS, are not regularly screened for genetic mutations. This project aims to study a large group of ALS patients, examining their family history, clinical characteristics, healthcare measures, and genetic variants in ALS's most commonly mutated genes: SOD1, C9orf72, FUS, and TARDBP. Examining genetically distinct ALS cohorts is significant, as understanding the relationship between genotype and disease progression is essential in determining the therapeutic potential of future genetic therapies.",
+          "detailedDescription": "Only limited data are available on the frequency of genetic variants in patients with sporadic ALS (sALS) and familial ALS (fALS). Genetic investigations do not belong to the standard of care in patients with sALS (patients without a family history of ALS). As a result, the patient's mutation status is commonly unknown. Even in patients with fALS (with a known family history of ALS), screening for genetic mutations is not performed regularly due to lacking treatment options in gene therapy. However, this paradigm is about to change as clinical trials on genetic medicines are ongoing and might result in the approval of new genetically investigated drugs. This project aims to explore a large cohort of ALS patients on family history, clinical characteristics, healthcare measures, and genetic variants in SOD1, C9orf72, FUS, and TARDBP - the most commonly mutated genes in ALS. This cohort study will allow us to determine the frequency of gene mutations in ALS patients in a real-world setting of ALS centers in Germany. Furthermore, the project shall enhance insights into potential differences between genetically defined cohorts using the course of the disease and the provision of health care measures. The investigation of genetically distinct ALS cohorts is particularly relevant, as an improved understanding of the relationship between the genotype and the journey of disease is scientifically indispensable to determine the therapeutic potential of future genetic therapies."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Motor Neuron Disease, Amyotrophic Lateral Sclerosis"
+          ],
+          "keywords": [
+            "ID-ALS",
+            "ALSFRS-R-SE",
+            "ALSFRS-R",
+            "Neurofilament light chain NfL",
+            "APST Research",
+            "ALS-App",
+            "SOD1",
+            "C9orf72",
+            "FUS",
+            "TARDBP",
+            "Biomarker"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": true,
+          "targetDuration": "6 Months",
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "whole blood and serum"
+          },
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ACTUAL"
+          }
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Genetic variants in the genes of SOD1, C9orf72, FUS and TARDBP",
+              "description": "• To identify the frequency of genetic variants in the genes of SOD1, C9orf72, FUS and TARDBP in patients with sALS and fALS",
+              "timeFrame": "2 years"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* ALS, including classical ALS, Progressive Muscle atrophy (PMA) or Primary Lateral Sclerosis (PLS)\n* Ability to understand the purpose and risks of the study and provide signed and dated informed consent and authorization to use protected health information (PHI) under national and local subject privacy regulations\n* Age of 18 years old at the time of informed consent\n\nExclusion Criteria:\n\n* Inability to provide patient directives about the notification of individual study results on genetic variants of SOD1, C9orf72, FUS and TARDBP\n* Inability to comply with study requirements\n* Unspecified reasons that, in the opinion of the site investigator, perceive the subject as unsuitable for enrollment",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "The enrollment of subjects takes place in specialized ALS outpatient centers in Germany. ALS patients eligible for the investigation will be invited to participate in this cohort study. After obtaining informed consent, subjects will be enrolled in the study.",
+          "samplingMethod": "PROBABILITY_SAMPLE"
+        },
+        "contactsLocationsModule": {
+          "overallOfficials": [
+            {
+              "name": "Thomas Meyer, Prof. Dr.",
+              "affiliation": "Center for ALS and other motor neuron disorders, Charité - Universitätsmedizin Berlin",
+              "role": "STUDY_DIRECTOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "Center for ALS and other motor neuron disorders, Charité - Universitätsmedizin Berlin",
+              "city": "Berlin",
+              "zip": "13353",
+              "country": "Germany",
+              "geoPoint": {
+                "lat": 52.52437,
+                "lon": 13.41053
+              }
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "documentSection": {
+        "largeDocumentModule": {
+          "largeDocs": [
+            {
+              "typeAbbrev": "Prot_SAP",
+              "hasProtocol": true,
+              "hasSap": true,
+              "hasIcf": false,
+              "label": "Study Protocol and Statistical Analysis Plan",
+              "date": "2021-06-02",
+              "uploadDate": "2023-04-28T06:13",
+              "filename": "Prot_SAP_000.pdf",
+              "size": 652876
+            }
+          ]
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            },
+            {
+              "id": "C566288",
+              "term": "Frontotemporal Dementia With Motor Neuron Disease"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03321487",
+          "orgStudyIdInfo": {
+            "id": "ALSFUS001"
+          },
+          "organization": {
+            "fullName": "InSightec",
+            "class": "INDUSTRY"
+          },
+          "briefTitle": "Blood-Brain Barrier Opening Using MR-Guided Focused Ultrasound in Patients With Amyotrophic Lateral Sclerosis",
+          "officialTitle": "Safety and Feasibility of Primary Motor Cortex Blood-Brain Barrier Opening Using Transcranial MR-Guided Focused Ultrasound With Intravenous Ultrasound Contrast Agent in Patients With Amyotrophic Lateral Sclerosis"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-03",
+          "overallStatus": "COMPLETED",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2018-04-13",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2021-12-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-11",
+            "type": "ACTUAL"
+          },
+          "studyFirstSubmitDate": "2017-10-23",
+          "studyFirstSubmitQcDate": "2017-10-23",
+          "studyFirstPostDateStruct": {
+            "date": "2017-10-25",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2026-03-18",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-03-20",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "InSightec",
+            "class": "INDUSTRY"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "The purpose of this study is to evaluate the safety, tolerability, and feasibility of Blood-Brain Barrier (BBB) opening using transcranial MRI-guided focused ultrasound in conjunction with an intravenous ultrasound contrast agent in patients with Amyotrophic Lateral Sclerosis (ALS)."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ],
+          "keywords": [
+            "Blood-Brain Barrier disruption",
+            "Blood-Brain Barrier opening",
+            "magnetic resonance-guided focused ultrasound"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NON_RANDOMIZED",
+            "interventionModel": "SEQUENTIAL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Stage I Cohort",
+              "type": "EXPERIMENTAL",
+              "description": "Blood-Brain Barrier opening with MRgFUS. BBB opening of a small volume of the primary motor cortex",
+              "interventionNames": [
+                "Device: Blood-Brain Barrier opening with MRgFUS"
+              ]
+            },
+            {
+              "label": "Stage II Cohort",
+              "type": "EXPERIMENTAL",
+              "description": "Blood-Brain Barrier opening with MRgFUS. BBB opening of a larger volume of the primary motor cortex",
+              "interventionNames": [
+                "Device: Blood-Brain Barrier opening with MRgFUS"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DEVICE",
+              "name": "Blood-Brain Barrier opening with MRgFUS",
+              "description": "ExAblate Transcranial MR-guided Focused Ultrasound to temporarily open the Blood-Brain Barrier",
+              "armGroupLabels": [
+                "Stage I Cohort",
+                "Stage II Cohort"
+              ],
+              "otherNames": [
+                "Focused Ultrasound (FUS)",
+                "Blood-Brain Barrier Disruption (BBBD)",
+                "ExAblate MRgFUS"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Safety - Device and Procedure related adverse events",
+              "description": "The number and severity of device and BBB opening procedure related adverse events will be evaluated.",
+              "timeFrame": "At the time of the ExAblate MRgFUS procedure"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Degree of contrast enhancement seen on post-procedure MRI",
+              "description": "The extent and reversibility of BBB opening will be determined by the degree of contrast enhancement seen on post-procedure MRI with gadolinium-based contrast agent.",
+              "timeFrame": "At the time of the ExAblate MRgFUS procedure and 24 hours post-procedure"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Diagnosed with laboratory supported probable, clinically probable or definite ALS according to the World Federation of Neurology Revised El Escorial criteria (Brooks et al. 2000).\n2. Right-hand dominant male or female aged 18 years or older.\n3. Capable of providing informed consent and complying with study procedures, including tolerability in the supine position and MRI examination without significant claustrophobia.\n4. If taking riluzole, on a stable dose for at least 30 days prior to Screening Visit.\n5. Slow Vital Capacity equal to or more than 50% predicted value for gender, height and age in the 30 days prior to the Screening Visit and able to lie supine without BiPAP.\n6. Severe left arm weakness and functional impairment, defined as Medical Research Council muscle strength score equals 3 or less in the index finger abduction and thumb abduction on the left side; OR severe left leg weakness and functional impairment, defined as Medical Research Council muscle strength score equals 3 or less at the hip flexors and ankle dorsiflexors on the left side.\n7. Able to communicate during the ExAblate® MRI-guided FUS procedure.\n\nExclusion Criteria:\n\n1. Unable to complete high-density CT and MRI studies of the head at the Screening Visit or any other MRI contraindication, such as:\n\n   * Large body habitus and not fitting comfortably into the scanner\n   * Difficulty lying supine and still for up to 3 hours in the MRI unit or significant claustrophobia\n2. MRI findings:\n\n   * Active infection/inflammation\n   * Acute or chronic brain hemorrhages, specifically lobar or subcortical microbleeds, siderosis or macrohemorrhages\n   * Tumor/space occupying lesion\n   * Meningeal enhancement\n3. More than 30% of the skull area traversed by the sonication pathway is covered by scars, scalp disorders (e.g., eczema), or atrophy of the scalp.\n4. Clips or other metallic implanted objects in the skull or the brain, except shunts.\n5. Significant cardiac disease or unstable hemodynamic status including:\n\n   * Documented myocardial infarction within six months of enrollment\n   * Unstable angina on medication\n   * Unstable or worsening congestive heart failure\n   * Left ventricular ejection fraction below the lower limit of normal\n   * History of a hemodynamically unstable cardiac arrhythmia\n   * Cardiac or phrenic pacemaker\n   * Known right-to-left, bidirectional, or transient right-to-left cardiac shunt\n   * Patients with relative contraindications to perflutren including subjects with a family or personal history of QT prolongation or taking concomitant medications known to cause QTc prolongation,\n   * QT prolongation observed on screening ECG (QTc \\> 450 for men and \\>470 for women)\n6. Uncontrolled hypertension (systolic \\> 150 or diastolic BP \\> 100 on medication).\n7. On medications that increase the bleeding risk, specifically: a) aspirin or another antiplatelet medication (clopidogrel, prasugrel, ticlopidine, abciximab) for the last 7 days prior to treatment; b) oral, subcutaneous or intravenous anticoagulant medications, such as oral vitamin K inhibitors for the last 7 days, non-vitamin K inhibitor oral anticoagulant (dabigatran, apixaban, rivaroxaban) for the last 72 hours, and intravenous or subcutaneous heparin-derived compounds for the last 48 hours.\n8. History of a bleeding disorder, coagulopathy or a history of spontaneous hemorrhage.\n9. Known frontotemporal dementia.\n10. Abnormal coagulation profile, specifically: platelet \\<100,000/μl, Prothrombin Time \\>14 seconds, activated partial thromboplastin time (aPTT) \\>36 seconds, and INR \\> 1.3.\n11. Known cerebral or systemic vasculopathy, specifically cerebral amyloid angiopathy or systemic or central nervous system vasculitis.\n12. Known auto-immune condition with or without neurological manifestations (e.g., multiple sclerosis (MS), systemic lupus erythematous (SLE), Rheumatoid arthritis).\n13. Current or planned use of oral, intramuscular or intravenous steroid drugs (such as prednisone, prednisolone, dexamethasone, triamcinolone, methylprednisolone, oxandrolone, and others) or immunosuppressant drugs (azathioprine, mycophenolate, tacrolimus, sirolimus, cyclophosphamide, and others) for more than 7 days.\n14. Known sensitivity/allergy to gadolinium (an alternative product may be used), DEFINITY® contrast or any of its components.\n15. Untreated, uncontrolled sleep apnea.\n16. Impaired renal function with cystatin C-based estimated glomerular filtration rate \\<30 mL/min/1.73m2 and acute renal injury.\n17. Currently in a clinical trial involving an investigational product or non-approved use of a drug or device.\n18. Known respiratory diseases, specifically: chronic pulmonary disorders e.g., severe/uncontrolled COPD, pulmonary vasculitis, or other causes of reduced pulmonary vascular cross-sectional area, asthma or hay fever.\n19. Patients with a history of drug allergies or multiple allergies where the benefit/risk of administering DEFINITY® is considered unfavorable by the study physicians in relation to the product monograph for DEFINITY®.\n20. Unqualified fit for the anesthesia by an anesthesiologist assessment, ASA I-III.",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "overallOfficials": [
+            {
+              "name": "Lorne Zinman, MD",
+              "affiliation": "Medical Director, ALS/Neuromuscular Clinic, Sunnybrook Health Sciences Centre",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "Sunnybrook Health Sciences Centre",
+              "city": "Toronto",
+              "state": "Ontario",
+              "zip": "M4N 3M5",
+              "country": "Canada",
+              "geoPoint": {
+                "lat": 43.70643,
+                "lon": -79.39864
+              }
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05747937",
+          "orgStudyIdInfo": {
+            "id": "SBLAB/SLA20"
+          },
+          "organization": {
+            "fullName": "Istituti Clinici Scientifici Maugeri SpA",
+            "class": "OTHER"
+          },
+          "briefTitle": "Longitudinal Assessment of Autonomic and Sensory Nervous System in ALS",
+          "officialTitle": "Longitudinal Assessment of Autonomic and Sensory Nervous System in ALS"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-04",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2021-05-15",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-09-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-30",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2023-01-26",
+          "studyFirstSubmitQcDate": "2023-02-17",
+          "studyFirstPostDateStruct": {
+            "date": "2023-02-28",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2026-04-14",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-04-17",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Istituti Clinici Scientifici Maugeri SpA",
+            "class": "OTHER"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "The goal of this interventional non-pharmacological study is to evaluate, using a multimodal approach, the progression of autonomic and sensory involvement in in amyotrophic lateral sclerosis (ALS) patients enrolled within 18 months from motor onset and its relationship with the progression of overall clinical disability.\n\nThe main questions it aims to answer are:\n\n* Is autonomic dysfunction at diagnosis associated with disease progression and survival in patients with Amyotrophic Lateral Sclerosis ?\n* Can we identify in the skin biomarkers to be used as reliable measures of disease progression and to apply in future clinical trials for patient stratification and to assess response to drug treatment ? Participants at time 0 will receive a full clinical and instrumental examination and a blood sample testing to check inclusion and exclusion criteria, genetic screening for the most common genes associated with ALS (SOD1, FUS, TARDBP and c9orf72), questionnaires about clinical characteristics, quality of life, pain and a multidomain battery of neuropsychological tests, multimodal assessment of the autonomic nervous system including skin biopsy for morphological study. At follow-up we'll perform clinical scales and skin biopsy.\n\nResearchers will compare results from ALS patients with data obtained from a population of age and sex matched healthy subjects."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ],
+          "keywords": [
+            "Autonomic nervous system",
+            "skin biopsy",
+            "biomarkers",
+            "cutaneous sensory an autonomic innervation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NON_RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "BASIC_SCIENCE",
+            "maskingInfo": {
+              "masking": "NONE",
+              "maskingDescription": "There are not masking participants"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Amyotrophic Lateral Sclerosis patients",
+              "type": "EXPERIMENTAL",
+              "description": "Amyotrophic Lateral Sclerosis (ALS) patients within 18 months from symptoms onset will be recruited",
+              "interventionNames": [
+                "Diagnostic Test: Skin biopsy",
+                "Diagnostic Test: Cardiovascular Reflexes testing",
+                "Diagnostic Test: Administration of clinical scales evaluating autonomic symptoms, pain small fiber neuropathy symptoms",
+                "Diagnostic Test: Dinamic Sweat Test"
+              ]
+            },
+            {
+              "label": "Healthy controls",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "A population of healthy controls matched for sex and age will be enrolled",
+              "interventionNames": [
+                "Diagnostic Test: Skin biopsy",
+                "Diagnostic Test: Cardiovascular Reflexes testing",
+                "Diagnostic Test: Administration of clinical scales evaluating autonomic symptoms, pain small fiber neuropathy symptoms",
+                "Diagnostic Test: Dinamic Sweat Test"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Skin biopsy",
+              "description": "A punch skin biopsy of 3mm will be used to analyze cutaneous innervation",
+              "armGroupLabels": [
+                "Amyotrophic Lateral Sclerosis patients",
+                "Healthy controls"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Cardiovascular Reflexes testing",
+              "description": "Cardiovascular reflex tests including deep breathing, head-up Tilt, standing, isometric exercises, mental arithmetic and Valsalva maneuver.",
+              "armGroupLabels": [
+                "Amyotrophic Lateral Sclerosis patients",
+                "Healthy controls"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Administration of clinical scales evaluating autonomic symptoms, pain small fiber neuropathy symptoms",
+              "description": "We'll characterize patients' symptoms through the administration of clinical scales such as: SCOPA-AUT autonomic symptoms scale; Brief Pain Inventory questionnaire",
+              "armGroupLabels": [
+                "Amyotrophic Lateral Sclerosis patients",
+                "Healthy controls"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Dinamic Sweat Test",
+              "description": "Test for the functional assessment of postganglionic sudomotor pathway",
+              "armGroupLabels": [
+                "Amyotrophic Lateral Sclerosis patients",
+                "Healthy controls"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Sensory peripheral innervation (IENF)",
+              "description": "Quantification Intraepidermal Nerve Fibers (IENF ff/mm) in skin biopsy from fingertip, thigh and leg.",
+              "timeFrame": "At recruitment"
+            },
+            {
+              "measure": "Autonomic peripheral innervation",
+              "description": "Quantification of nerves in sweat gland (fiber lenght/um3) in skin biopsy from fingertip, thigh and leg.\n\nQuantification of nerves in arrector pili muscle (ff/mm) in skin biopsy from thigh and leg.",
+              "timeFrame": "At recruitment"
+            },
+            {
+              "measure": "Autonomic peripheral innervation",
+              "description": "Quantification sweat gland (fiber lenght/um3) and arrector pili muscle (ff/mm) innervation in skin biopsy from thigh.",
+              "timeFrame": "At follow-up, an average of 6 months"
+            },
+            {
+              "measure": "Sensory peripheral innervation (IENF)",
+              "description": "Quantification Intraepidermal Nerve Fibers (IENF ff/mm) in skin biopsy from thigh.",
+              "timeFrame": "At follow-up, an average of 6 months"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Sensory and autonomic symptoms evaluated by clinical scales",
+              "description": "Data of sensory and autonomic symptoms (Small fiber neuropathy Symptoms inventory questionnaire (SFN-SIQ) and Scale for Outcomes in Parkinson's disease for Autonomic Symptoms (SCOPA AUT)) will be collected",
+              "timeFrame": "At the recruitment"
+            },
+            {
+              "measure": "Sensory and autonomic symptoms evaluated by clinical scales",
+              "description": "Data of sensory and autonomic symptoms (Small fiber neuropathy Symptoms inventory questionnaire (SFN-SIQ) and Scale for Outcomes in Parkinson's disease for Autonomic Symptoms (SCOPA AUT)) will be collected",
+              "timeFrame": "At follow-up, an average of 6 months"
+            },
+            {
+              "measure": "Assessment of Cardiovascular function",
+              "description": "Data from cardiovascular reflex test will be analyzed and compared with morphological data and clinical motor severity",
+              "timeFrame": "baseline"
+            },
+            {
+              "measure": "Sudomotor function",
+              "description": "Data from dinamic sweat test will be analyzed and compared with morphological data and clinical motor severity",
+              "timeFrame": "baseline"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* ALS patients will be recruited within 18 months from the motor symptoms onset\n\nExclusion Criteria:\n\n* glucose intolerance or conditions potentially affecting the peripheral nervous system",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Maria Nolano, MD, PhD",
+              "role": "CONTACT",
+              "phone": "+390824909257",
+              "email": "maria.nolano@icsmaugeri.it"
+            },
+            {
+              "name": "Giuseppe Caporaso",
+              "role": "CONTACT",
+              "phone": "+390824909645",
+              "email": "giuseppe.caporaso@icsmaugeri.it"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Maria Nolano, MD, PhD",
+              "affiliation": "Istituti Clinici Scientifici Maugeri SpA",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "ICS Maugeri - IRCCS of Telese Terme",
+              "status": "RECRUITING",
+              "city": "Telese Terme",
+              "state": "Benevento",
+              "zip": "82037",
+              "country": "Italy",
+              "contacts": [
+                {
+                  "name": "Vincenzo Provitera, MD",
+                  "role": "CONTACT",
+                  "phone": "+390824909257",
+                  "email": "vincenzo.provitera@icsmaugeri.it"
+                }
+              ],
+              "geoPoint": {
+                "lat": 41.21752,
+                "lon": 14.52681
+              }
+            },
+            {
+              "facility": "Department of Neurosciences, Reproductive Sciences and Odontostomatology, University of Naples Federico II",
+              "status": "RECRUITING",
+              "city": "Naples",
+              "zip": "80131",
+              "country": "Italy",
+              "contacts": [
+                {
+                  "name": "Raffaele Dubbioso, MD",
+                  "role": "CONTACT",
+                  "phone": "0817464587",
+                  "email": "raffaele.dubbioso@unina.it"
+                }
+              ],
+              "geoPoint": {
+                "lat": 40.85216,
+                "lon": 14.26811
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "33993457",
+              "type": "BACKGROUND",
+              "citation": "Mahoney CJ, Ahmed RM, Huynh W, Tu S, Rohrer JD, Bedlack RS, Hardiman O, Kiernan MC. Pathophysiology and Treatment of Non-motor Dysfunction in Amyotrophic Lateral Sclerosis. CNS Drugs. 2021 May;35(5):483-505. doi: 10.1007/s40263-021-00820-1. Epub 2021 May 15."
+            },
+            {
+              "pmid": "31293369",
+              "type": "BACKGROUND",
+              "citation": "Gentile F, Scarlino S, Falzone YM, Lunetta C, Tremolizzo L, Quattrini A, Riva N. The Peripheral Nervous System in Amyotrophic Lateral Sclerosis: Opportunities for Translational Research. Front Neurosci. 2019 Jun 25;13:601. doi: 10.3389/fnins.2019.00601. eCollection 2019."
+            },
+            {
+              "pmid": "26908600",
+              "type": "BACKGROUND",
+              "citation": "Sassone J, Taiana M, Lombardi R, Porretta-Serapiglia C, Freschi M, Bonanno S, Marcuzzo S, Caravello F, Bendotti C, Lauria G. ALS mouse model SOD1G93A displays early pathology of sensory small fibers associated to accumulation of a neurotoxic splice variant of peripherin. Hum Mol Genet. 2016 Apr 15;25(8):1588-99. doi: 10.1093/hmg/ddw035. Epub 2016 Feb 9."
+            },
+            {
+              "pmid": "21646630",
+              "type": "BACKGROUND",
+              "citation": "Weis J, Katona I, Muller-Newen G, Sommer C, Necula G, Hendrich C, Ludolph AC, Sperfeld AD. Small-fiber neuropathy in patients with ALS. Neurology. 2011 Jun 7;76(23):2024-9. doi: 10.1212/WNL.0b013e31821e553a."
+            },
+            {
+              "pmid": "25683764",
+              "type": "BACKGROUND",
+              "citation": "Truini A, Biasiotta A, Onesti E, Di Stefano G, Ceccanti M, La Cesa S, Pepe A, Giordano C, Cruccu G, Inghilleri M. Small-fibre neuropathy related to bulbar and spinal-onset in patients with ALS. J Neurol. 2015;262(4):1014-8. doi: 10.1007/s00415-015-7672-0. Epub 2015 Feb 17."
+            },
+            {
+              "pmid": "27288647",
+              "type": "BACKGROUND",
+              "citation": "Nolano M, Provitera V, Manganelli F, Iodice R, Caporaso G, Stancanelli A, Marinou K, Lanzillo B, Santoro L, Mora G. Non-motor involvement in amyotrophic lateral sclerosis: new insight from nerve and vessel analysis in skin biopsy. Neuropathol Appl Neurobiol. 2017 Feb;43(2):119-132. doi: 10.1111/nan.12332. Epub 2016 Jul 7."
+            },
+            {
+              "pmid": "33372053",
+              "type": "BACKGROUND",
+              "citation": "deCarvalho M, Gromicho M, Andersen P, Grosskreutz J, Kuzma-Kozakiewicz M, Petri S, Uysal H, Pinto S. Peripheral neuropathy in ALS: phenotype association. J Neurol Neurosurg Psychiatry. 2021 Oct;92(10):1133-1134. doi: 10.1136/jnnp-2020-325164. Epub 2020 Dec 28. No abstract available."
+            },
+            {
+              "pmid": "27964824",
+              "type": "BACKGROUND",
+              "citation": "Chio A, Mora G, Lauria G. Pain in amyotrophic lateral sclerosis. Lancet Neurol. 2017 Feb;16(2):144-157. doi: 10.1016/S1474-4422(16)30358-1. Epub 2016 Dec 8."
+            },
+            {
+              "pmid": "32897040",
+              "type": "BACKGROUND",
+              "citation": "Fasolino A, Di Stefano G, Leone C, Galosi E, Gioia C, Lucchino B, Terracciano A, Di Franco M, Cruccu G, Truini A. Small-fibre pathology has no impact on somatosensory system function in patients with fibromyalgia. Pain. 2020 Oct;161(10):2385-2393. doi: 10.1097/j.pain.0000000000001920."
+            },
+            {
+              "pmid": "27115670",
+              "type": "BACKGROUND",
+              "citation": "Finnerup NB, Haroutounian S, Kamerman P, Baron R, Bennett DLH, Bouhassira D, Cruccu G, Freeman R, Hansson P, Nurmikko T, Raja SN, Rice ASC, Serra J, Smith BH, Treede RD, Jensen TS. Neuropathic pain: an updated grading system for research and clinical practice. Pain. 2016 Aug;157(8):1599-1606. doi: 10.1097/j.pain.0000000000000492."
+            },
+            {
+              "pmid": "22236582",
+              "type": "BACKGROUND",
+              "citation": "Damon-Perriere N, Foubert-Samier A, De Cock VC, Gerdelat-Mas A, Debs R, Pavy-Le Traon A, Senard JM, Rascol O, Tison F, Meissner WG. Assessment of the Scopa-Aut questionnaire in multiple system atrophy: relation to UMSARS scores and progression over time. Parkinsonism Relat Disord. 2012 Jun;18(5):612-5. doi: 10.1016/j.parkreldis.2011.12.009. Epub 2012 Jan 9."
+            },
+            {
+              "pmid": "11464847",
+              "type": "BACKGROUND",
+              "citation": "Brooks BR, Miller RG, Swash M, Munsat TL; World Federation of Neurology Research Group on Motor Neuron Diseases. El Escorial revisited: revised criteria for the diagnosis of amyotrophic lateral sclerosis. Amyotroph Lateral Scler Other Motor Neuron Disord. 2000 Dec;1(5):293-9. doi: 10.1080/146608200300079536. No abstract available."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07193953",
+          "orgStudyIdInfo": {
+            "id": "6271"
+          },
+          "organization": {
+            "fullName": "Sunnybrook Health Sciences Centre",
+            "class": "OTHER"
+          },
+          "briefTitle": "Intravenous Immunoglobulin (IVIG) and Blood-Brain Barrier Disruption in Amyotrophic Lateral Sclerosis (ALS)",
+          "officialTitle": "Targeting Neuroinflammation With Enhanced Delivery of Intravenous Immunoglobulin to the Motor Cortex Using Next Generation Dome Helmet Focused Ultrasound in Amyotrophic Lateral Sclerosis: A Phase I, Open Label Trial",
+          "acronym": "ALSFUS003"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2025-09",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2025-04-15",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-11-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-05-30",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2025-05-12",
+          "studyFirstSubmitQcDate": "2025-09-18",
+          "studyFirstPostDateStruct": {
+            "date": "2025-09-26",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2025-09-18",
+          "lastUpdatePostDateStruct": {
+            "date": "2025-09-26",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "Dr. Nir Lipsman",
+            "investigatorTitle": "Chief of Hurvitz Brain Sciences Program, Director of Harquail Centre for Neuromodulation, Director of Neurosurgery Residency Program, Principal Investigator, Associate Professor",
+            "investigatorAffiliation": "Sunnybrook Health Sciences Centre"
+          },
+          "leadSponsor": {
+            "name": "Sunnybrook Health Sciences Centre",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "Focused Ultrasound Foundation",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "The goal of this study is to evaluate the safety and feasibility of IVIg administration in conjunction with primary motor cortex BBB opening using the Next Generation Dome Helmet (NGDH) FUS in adult participants with ALS.",
+          "detailedDescription": "This study is a prospective, single-arm, open-label, multiple-ascending dose (MAD), phase I trial to evaluate safety, feasibility, pharmacodynamics, and pharmacokinetics of enhanced delivery of IVIg 0.4 or 0.8g/kg to the primary motor cortex in 6 patients with ALS by using a single BBB opening procedure targeting the primary motor cortex in both brain hemispheres. Six participants will be enrolled in two sequential cohorts. The first cohort (n = 3) will receive 0.4g/kg of IVIg divided in two doses, while the second cohort (n = 3) will receive a 0.8g/kg of IVIg divided in two doses. In both cohorts, the second dose of IVIg will be accompanied by a single BBB opening procedure targeting the primary motor cortex in both brain hemispheres with focused ultrasound (FUS) using Next Generation Dome Helmet and intravenous microbubbles (DEFINITY®, Lantheus Medical Imaging Canada, Inc., Montreal, QC, Canada). This FUS procedure will occur during 2 weeks after the first dose administration. Follow-up visits will occur over the span of 24 weeks from the first dose."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis",
+            "ALS"
+          ],
+          "keywords": [
+            "ALS",
+            "Focused Ultrasound",
+            "Blood Brain Barrier Opening",
+            "Intravenous Immunoglobulin",
+            "Motor Neuron Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SEQUENTIAL",
+            "interventionModelDescription": "The first cohort (n = 3) will receive 0.4g/kg of IVIg, divided into two 0.2g/kg doses. After a preliminary safety and tolerability assessment of the first cohort, patients will be enrolled to the second cohort (n = 3). It will follow the same design but with 0.8g/kg divided into two 0.4g/kg doses.",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Intravenous Immunoglobulin Administration using Focused Ultrasound",
+              "type": "EXPERIMENTAL",
+              "description": "ALS patients will be assigned to receive Intravenous Immunoglobulin (IVIg) and DEFINITY® microbubbles. The first three enrolled patients will participate in the first cohort, receiving 0.4g/kg divided in two doses. After a preliminary safety assessment of the first cohort, the next three successfully screened patients will be enrolled in the second cohort, receiving 0.8g/kg divided in two doses. The second IVIg dose in each cohort will be administered in combination with Next Generation Dome Helmet (NGDH) focused ultrasound (FUS) to transiently open the blood-brain barrier and enhance IVIg delivery to the primary motor cortex.",
+              "interventionNames": [
+                "Device: Next Generation Dome Helmet Focused Ultrasound",
+                "Drug: Intravenous immunoglobulin (IVIG), 10% solution for infusion",
+                "Drug: Definity® Vial for (Perflutren Lipid Microsphere) Injectable Suspension"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DEVICE",
+              "name": "Next Generation Dome Helmet Focused Ultrasound",
+              "description": "Two doses of IVIg will be administered 2 weeks apart. The first dose at Week 0 will be a standalone administration. The second dose at Week 2 will be combined with Next Generation Dome Helmet (NGDH) Focused Ultrasound (FUS) blood brain barrier (BBB) opening.",
+              "armGroupLabels": [
+                "Intravenous Immunoglobulin Administration using Focused Ultrasound"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Intravenous immunoglobulin (IVIG), 10% solution for infusion",
+              "description": "Two doses of IVIg will be administered 2 weeks apart. The first dose at Week 0 will be a standalone administration. The second dose at Week 2 will be combined with Next Generation Dome Helmet (NGDH) Focused Ultrasound (FUS) blood brain barrier (BBB) opening. Cohort I will receive 0.2g/kg of IVIg at each dose. Cohort II will receive 0.4g/kg of IVIg at each dose.\n\nPrivigen® IVIg comes in vials containing 10% active ingredient. It is supplied in 2.5 g (25 mL bottle), 5 g (50 mL bottle), 10 g (100 mL bottle), 20 g (200 mL bottle) or 40 g (400 mL bottle). The IVIg dose will be determined based on the patient's ideal body weight.",
+              "armGroupLabels": [
+                "Intravenous Immunoglobulin Administration using Focused Ultrasound"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Definity® Vial for (Perflutren Lipid Microsphere) Injectable Suspension",
+              "description": "DEFINITY® Perflutren Injectable Microbubbles is an ultrasound contrast imaging agent that will be used for blood brain barrier opening during focused ultrasound. These microbubbles will be injected during the focused ultrasound procedure on the day of the second IVIg dose.",
+              "armGroupLabels": [
+                "Intravenous Immunoglobulin Administration using Focused Ultrasound"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Safety of IVIg in patients with ALS",
+              "description": "This will be assessed up through the incidence of drug-related adverse events, serious adverse events, and discontinuations due to adverse events after Intravenous Immunoglobulin (IVIg) administration.",
+              "timeFrame": "During and after IVIg administration at Week 0 and Week 2 Day 1 until Week 24."
+            },
+            {
+              "measure": "Safety of DEFINITY® microbubbles",
+              "description": "This will be assessed up through the incidence of drug-related adverse events, serious adverse events, and discontinuations due to adverse events after DEFINITY® infusion during focused ultrasound (FUS) blood brain barrier (BBB) opening.",
+              "timeFrame": "During and after DEFINITY® administration at Week 2 Day 1 until Week 24."
+            },
+            {
+              "measure": "Feasibility of FUS BBB opening in the motor cortex",
+              "description": "This will be measured as detectable gadolinium enhancement at the arm, leg and bulbar regions of the motor cortex bilaterally following FUS with posterior normalization.",
+              "timeFrame": "During and after Week 2 Day 1 FUS BBB opening until Week 24."
+            },
+            {
+              "measure": "Safety of FUS BBB opening in the motor cortex",
+              "description": "Incidence of BBB opening-related and FUS-related adverse events, serious adverse events, incidence of asymptomatic or symptomatic radiologic complication, such as evidence of bleeding or swelling after FUS, incidence of electrographic complication, such as epileptiform discharges on EEG, or accelerated ALS disease progression, defined as ≥ 6-point decline in the ALSFRS-R scores from Baseline to week 8.",
+              "timeFrame": "From up to 30 days before Week 0 to Week 24."
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Neurofilament light chain (NfL) levels in blood plasma and cerebrospinal fluid",
+              "description": "Change in concentration of serum neurofilaments from Baseline to Week 24",
+              "timeFrame": "From up to 30 days before Week 0 to Week 24."
+            },
+            {
+              "measure": "Inflammatory markers in blood and cerebrospinal fluid",
+              "description": "Change in cerebrospinal fluid (CSF) and blood inflammatory markers, including but not limited to TNF-α, IL-1β, IL-2, IL-6, IL-8, IL-17, CHIT1, CHI3L1, CHI3L2, TGF-β, IL-10, and CRP",
+              "timeFrame": "From up to 30 days before Week 0 to Week 24."
+            }
+          ],
+          "otherOutcomes": [
+            {
+              "measure": "Pharmacokinetics Outcome - Immunoglobulin G Concentration",
+              "description": "Change in the cerebrospinal fluid (CSF)/whole blood ratio of Immunoglobulin G (IgG) concentration. This will serve as a pharmacokinetics outcome of enhanced IVIg delivery to the central nervous system after blood brain barrier opening.",
+              "timeFrame": "From up to 30 days before Week 0 to Week 24."
+            },
+            {
+              "measure": "Exploratory Outcomes - ALSFRS-R scores",
+              "description": "A ≥ 4-point increase in the Amyotrophic Lateral Sclerosis Functional Rating Scale Revised (ALSFRS-R) scores or significant clinical improvement at week 8.",
+              "timeFrame": "From up to 30 days before Week 0 to Week 24."
+            },
+            {
+              "measure": "Exploratory Outcomes - Changes in levels of cerebral chemicals measured using Magnetic Resonance Spectroscopy",
+              "description": "Changes in cerebral chemicals through Magnetic Resonance Spectroscopy (MRS). These include N-acetylaspartate (NAA), total choline (Cho), total creatine (Cr), myo-inositol (Ino), Glutamate (Glu), and Gamma-aminobutyric acid (GABA). All measurements use the same units.",
+              "timeFrame": "From up to 30 days before Week 0 to Week 24."
+            },
+            {
+              "measure": "Pharmacokinetics Outcome - Neurofilament light chain levels",
+              "description": "Change in cerebrospinal fluid and blood neurofilament light chain (NfL) post Next Generation Dome Helmet Focused Ultrasound (FUS) procedure, from week 2 to 24. This will serve as a pharmacokinetic outcome of NfL behavior post FUS procedure.",
+              "timeFrame": "From up to 30 days before Week 0 to Week 24."
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Diagnosed with ALS as per the Gold Coast Criteria;\n2. Aged 18 years or older;\n3. Capable of providing informed consent and complying with study procedures;\n4. If taking Riluzole, on a stable dose for at least 4 weeks prior to Baseline;\n5. If taking Edaravone, on a stable dose of one completed cycle prior to Baseline;\n6. Respiratory Function Criterion:\n\n   * Able to lie supine without BiPAP or breathing discomfort; OR\n   * Forced vital capacity or slow vital capacity ≥50% of the predicted value for sex, height and age, if available\n7. Able to communicate sensations during the Dome FUS procedure.\n8. Qualified fit for the anesthesia by an anesthesiologist, ASA I-III.\n\nExclusion Criteria:\n\n1. MRI findings:\n\n   1. Active infection/inflammation\n   2. Acute or chronic hemorrhages, specifically \\> 4 lobar microbleeds, and no siderosis or macrohemorrhages\n   3. Tumor/space occupying lesion causing significant mass effect\n   4. Meningeal enhancement\n   5. Intracranial hypotension\n2. More than 30% of the skull area traversed by the sonication pathway is covered by scars, scalp disorders (e.g., eczema), or atrophy of the scalp\n3. Clips or other metallic implanted objects in the skull or the brain, except shunts\n4. Significant cardiac disease or unstable hemodynamic status including:\n\n   1. Documented myocardial infarction within six months of screening\n   2. Unstable angina on medication\n   3. Unstable or worsening congestive heart failure\n   4. Left ventricular ejection fraction below the lower limit of normal\n   5. History of a hemodynamically unstable cardiac arrhythmia\n   6. Cardiac pacemaker\n   7. Severe hypertension (diastolic BP \\> 100 on medication)\n   8. Patient has right-to-left, bidirectional, or transient right-to-left cardiac shunts\n   9. QT prolongation observed on screening ECG (QTc \\> 450 for men and \\> 470 for women)\n5. Uncontrolled hypertension (systolic \\> 150 and diastolic BP \\> 100 on medication)\n6. Patients should not take medications known to increase risk of hemorrhage (e.g., aspirin or class I and III anticoagulants) for at least 7 days prior to treatment or lumbar puncture; patients should not take Avastin for 30 days prior to treatment\n7. History of a bleeding disorder, coagulopathy or a history of spontaneous hemorrhage or use of anticoagulants, specifically recent thrombosis or stroke in past 3 months; abnormal coagulation profile (PLT \\< 100,00/μl), PT (\\> 14 sec) or PTT (\\> 36 sec), and INR \\> 1.3\n8. No more than 1 non-strategic lacune \\&lt;1.5 cm\n9. Known cerebral or systemic vasculopathy\n10. Significant depression and at potential risk of suicide\n11. Known sensitivity/allergy to gadolinium (an alternative product may be used) and DEFINITY®.\n12. Any contraindications to MRI scanning, including:\n\n    1. Large participants not fitting comfortably into the scanner\n    2. Difficulty lying supine and still for up to 3 hours in the MRI unit or claustrophobia\n13. Any contraindication to lumbar puncture for collection of cerebral spinal fluid, including:\n\n    a. Intracranial hypotension\n14. Untreated, uncontrolled sleep apnea\n15. Impaired renal function with estimated glomerular filtration rate \\< 30 mL/min/1.73m2 or on dialysis.\n16. IVIg use in the previous 6 months.\n17. Live viral vaccination within the 30 days before study entry\n18. Currently, or in the last 3 months participated in a clinical trial delivering an investigational product or non-approved use of a drug or device or in any other type of medical research.\n19. Respiratory: chronic pulmonary disorders e.g. severe emphysema, pulmonary vasculitis, or other causes of reduced pulmonary vascular cross-sectional area, patients with a history of drug allergies, uncontrolled asthma or hay fever, and multiple allergies where the benefit/risk of administering DEFINITY® is considered unfavorable by the study physicians in relation to the product monograph for DEFINITY®.\n20. Motor cortex atrophy deemed severe enough to limit targeting\n21. Previous major allergic or anaphylactic reaction to IVIg\n22. Known IgA deficiency with anti-IgA.\n23. Known frontotemporal dementia;\n24. Definitely or possibly pregnant (if applicable);\n25. Known auto-immune condition with or without neurological manifestations (e.g., multiple sclerosis (MS), systemic lupus erythematous (SLE), Rheumatoid arthritis).\n26. Current, planned or previous use of oral, intramuscular or intravenous steroid drugs (such as prednisone, prednisolone, dexamethasone, triamcinolone, methylprednisolone, oxandrolone, and others), immunosuppressant drugs (azathioprine, mycophenolate, tacrolimus, sirolimus, cyclophosphamide, and others) or NSAIDs (ibuprofen, naproxen, celecoxib, and others) in the past 30 days;\n27. Other unspecified reasons that, in the opinion of the Investigator or the Sponsor, make the participant unsuitable for enrollment",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Nir Lipsman, MD, PhD, FRCPC",
+              "role": "CONTACT",
+              "phone": "(416) 480-6100",
+              "phoneExt": "687561",
+              "email": "alsresearch@sunnybrook.ca"
+            },
+            {
+              "name": "Caroline Giuricich, MSc",
+              "role": "CONTACT",
+              "phone": "(416) 480-6100",
+              "phoneExt": "687561",
+              "email": "caroline.giuricich@sri.utoronto.ca"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "Sunnybrook Health Sciences Centre",
+              "status": "RECRUITING",
+              "city": "Toronto",
+              "state": "Ontario",
+              "zip": "M4N 3M5",
+              "country": "Canada",
+              "contacts": [
+                {
+                  "name": "Nir Lipsman, MD, PhD, FRCPC",
+                  "role": "CONTACT",
+                  "phone": "(416) 480-6100",
+                  "phoneExt": "687561",
+                  "email": "alsresearch@sunnybrook.ca"
+                },
+                {
+                  "name": "Caroline Giuricich",
+                  "role": "CONTACT",
+                  "phone": "(416) 480-6100",
+                  "phoneExt": "687561",
+                  "email": "caroline.giuricich@sri.utoronto.ca"
+                },
+                {
+                  "name": "Nir Lipsman, MD, PhD, FRCPC",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Agessandro Abrahao, MD, MSc",
+                  "role": "SUB_INVESTIGATOR"
+                },
+                {
+                  "name": "Lorne Zinman, MD, MSc, FRCPC",
+                  "role": "SUB_INVESTIGATOR"
+                },
+                {
+                  "name": "Kullervo Hynynen, PhD",
+                  "role": "SUB_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 43.70643,
+                "lon": -79.39864
+              }
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D016756",
+              "term": "Immunoglobulins, Intravenous"
+            },
+            {
+              "id": "D012996",
+              "term": "Solutions"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D007074",
+              "term": "Immunoglobulin G"
+            },
+            {
+              "id": "D007132",
+              "term": "Immunoglobulin Isotypes"
+            },
+            {
+              "id": "D000906",
+              "term": "Antibodies"
+            },
+            {
+              "id": "D007136",
+              "term": "Immunoglobulins"
+            },
+            {
+              "id": "D007162",
+              "term": "Immunoproteins"
+            },
+            {
+              "id": "D001798",
+              "term": "Blood Proteins"
+            },
+            {
+              "id": "D011506",
+              "term": "Proteins"
+            },
+            {
+              "id": "D000602",
+              "term": "Amino Acids, Peptides, and Proteins"
+            },
+            {
+              "id": "D012712",
+              "term": "Serum Globulins"
+            },
+            {
+              "id": "D005916",
+              "term": "Globulins"
+            },
+            {
+              "id": "D004364",
+              "term": "Pharmaceutical Preparations"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00317616",
+          "orgStudyIdInfo": {
+            "id": "Pre-fALS"
+          },
+          "organization": {
+            "fullName": "University of Miami",
+            "class": "OTHER"
+          },
+          "briefTitle": "The Pre-symptomatic Familial Amyotrophic Lateral Sclerosis (Pre-fALS) Study",
+          "officialTitle": "The Pre-symptomatic Familial Amyotrophic Lateral Sclerosis (Pre-fALS) Study",
+          "acronym": "Pre-fALS"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-03",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2006-04"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2037-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2037-12",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2006-04-24",
+          "studyFirstSubmitQcDate": "2006-04-24",
+          "studyFirstPostDateStruct": {
+            "date": "2006-04-25",
+            "type": "ESTIMATED"
+          },
+          "lastUpdateSubmitDate": "2026-03-19",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-03-20",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "Michael Benatar",
+            "investigatorTitle": "Professor",
+            "investigatorAffiliation": "University of Miami"
+          },
+          "leadSponsor": {
+            "name": "University of Miami",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "ALS Association",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "Pre-fALS is a prospective natural history and biomarker study of people not yet affected with ALS, but who are at genetic risk for developing ALS. The investigators aim to recruit unaffected (healthy) people from familial ALS (fALS) pedigrees in which a known genetic mutation associated with ALS has been identified; for this study, a fALS pedigree is one with two biologically related individuals who have or have had ALS and/or FTD. Individuals who may be at genetic risk for ALS and who belong to families with at least one affected family member who has tested positive for a known ALS genetic mutation may also be eligible to participate. Our goal is to study the pre-symptomatic phase, onset and progression of ALS and to learn more about genetic and environmental factors that put people at risk for developing ALS.",
+          "detailedDescription": "Healthy individuals from fALS families with a known genetic mutation will be included in this study. We encourage people who have previously undergone genetic testing and were found to carry the mutation that affects their family as well as those who do not know their genetic status to contact us. Those who wish to participate and to learn the results of genetic testing, may do so after undergoing genetic counseling. It is also possible to participate without learning the results of genetic testing. Participants eligible to complete study visits will travel to Miami (at our expense) approximately every 12-24 months for a period of 10 years or longer and will perform various biomarker procedures. Between visits, participants will complete phone calls about their health."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ],
+          "keywords": [
+            "FALS",
+            "SOD1",
+            "familial",
+            "genetic testing",
+            "genetic counseling",
+            "ALS",
+            "C9ORF72",
+            "TARDBP",
+            "VCP",
+            "FUS",
+            "PFN1"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "Serum, Plasma, CSF, DNA, Urine, Cell lines"
+          },
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Unaffected individuals from families in which the genetic cause of ALS is known",
+              "description": "This population would include pre-symptomatic individuals at genetic risk for ALS or a related neurodegenerative disorder (i.e., FTD)."
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Risk Factors for Progression to familial ALS",
+              "timeFrame": "Years"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria\n\n* A member of a family in which a mutation in a gene associated with ALS has been identified.\n* No symptoms to suggest the presence of ALS (i.e. study participants must currently be healthy).\n* Having at least 50% probability of carrying an ALS associated gene mutation based on family pedigree.\n* Willingness to undergo genetic testing, with the option of whether or not to learn the results.\n* Willingness and availability to travel to Miami for a few days approximately every 12 to 24 months to complete biomarker procedures (e.g, MRI, blood draws, spinal tab/lumbar puncture, cognitive testing)\n\nExclusion Criteria\n\n* Diagnosis of ALS\n* Any condition or situation which, in the PI's opinion, could confound the biomarker data or may interfere with the individual's participation and compliance with the study protocol, including but not limited to neurological, psychological and/or medical conditions.",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Healthy individuals who harbor a mutation in a gene associated with ALS.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Anne-Laure M Grignon, MD",
+              "role": "CONTACT",
+              "phone": "1-888-413-9315",
+              "email": "fals@med.miami.edu"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Michael G Benatar, MD, PhD.",
+              "affiliation": "University of Miami",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "University of Miami",
+              "status": "RECRUITING",
+              "city": "Miami",
+              "state": "Florida",
+              "zip": "33136",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Anne-Laure Grignon",
+                  "role": "CONTACT",
+                  "phone": "1-888-413-9315",
+                  "email": "fals@med.miami.edu"
+                },
+                {
+                  "name": "Danielle Dauphin",
+                  "role": "CONTACT"
+                }
+              ],
+              "geoPoint": {
+                "lat": 25.77427,
+                "lon": -80.19366
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "39192497",
+              "type": "DERIVED",
+              "citation": "Lee I, Garret MA, Wuu J, Harrington EA, Berry JD, Miller TM, Harms M, Benatar M, Shneider N. Body mass index is lower in asymptomatic C9orf72 expansion carriers but not in SOD1 pathogenic variant carriers compared to gene negatives. Amyotroph Lateral Scler Frontotemporal Degener. 2024 Nov;25(7-8):672-679. doi: 10.1080/21678421.2024.2396831. Epub 2024 Aug 27."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            },
+            {
+              "id": "C566288",
+              "term": "Frontotemporal Dementia With Motor Neuron Disease"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07080801",
+          "orgStudyIdInfo": {
+            "id": "HX-A-2025021"
+          },
+          "organization": {
+            "fullName": "Beijing Tiantan Hospital",
+            "class": "OTHER"
+          },
+          "briefTitle": "Study on the Safety and Efficacy of RAG-21 in the Treatment of Amyotrophic Lateral Sclerosis Patients With FUS Gene Mutations",
+          "officialTitle": "Study on the Safety and Efficacy of RAG-21 in the Treatment of Amyotrophic Lateral Sclerosis Patients With FUS Gene Mutations",
+          "acronym": "RAG-21-FUS-ALS"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2025-07",
+          "overallStatus": "NOT_YET_RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2025-08",
+            "type": "ESTIMATED"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2025-07-06",
+          "studyFirstSubmitQcDate": "2025-07-19",
+          "studyFirstPostDateStruct": {
+            "date": "2025-07-23",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2025-07-19",
+          "lastUpdatePostDateStruct": {
+            "date": "2025-07-23",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "yilong Wang",
+            "investigatorTitle": "Vice-President of Beijing Tiantan Hospital,Chief Scientist of Neurology Center",
+            "investigatorAffiliation": "Beijing Tiantan Hospital"
+          },
+          "leadSponsor": {
+            "name": "Beijing Tiantan Hospital",
+            "class": "OTHER"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "Amyotrophic lateral sclerosis (ALS) is a chronic progressive neurodegenerative disease that remains incurable, with limited existing therapies or drugs available. Familial ALS can be caused by mutations in various genes. In Asia, mutations in the FUS gene are relatively common among early-onset familial ALS patients. Reducing the levels of toxic FUS protein may be an effective therapeutic approach for such ALS patients without causing side effects.\n\nRAG-21 is a small interfering ribonucleic acid (siRNA) with a molecular weight of 20 kDa. Through the RNA interference mechanism, it targets the FUS gene, recognizes the corresponding mRNA, and mediates its degradation, thereby downregulating FUS gene expression and reducing toxic FUS protein levels. Accordingly, this project plans to conduct a single-center, dose-escalation clinical study aimed at evaluating the safety, tolerability, and pharmacokinetics of intrathecal bolus administration of RAG-21 in ALS patients carrying FUS gene mutations."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis (ALS)"
+          ],
+          "keywords": [
+            "RAG-21",
+            "FUS gene mutations"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "EARLY_PHASE1"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "RAG-21",
+              "type": "EXPERIMENTAL",
+              "interventionNames": [
+                "Drug: RAG-21"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "RAG-21",
+              "description": "Intrathecal bolus administration of RAG-21 will be initiated at a dose of 120 mg, prepared with a dedicated solvent into a 10 mL sterile aqueous solution. Dosing will occur every 2 weeks, with the dose escalating to 180 mg after 3 administrations. Subsequently, the dosing interval will be extended to every 4 weeks. The investigator will then select an optimal dose from the completed dose cohorts or continue dose escalation until the maximum tolerated dose (MTD) is reached, with a predefined maximum dose of 210 mg. For continued treatment, the investigator-determined optimal dose will be administered as a fixed dose every 4 weeks, with a total treatment duration of 6 months (8 administrations).",
+              "armGroupLabels": [
+                "RAG-21"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "AE&SAE",
+              "description": "Incidence of Adverse Events (AEs) and Serious Adverse Events (SAEs) after RAG-21 treatment.",
+              "timeFrame": "15±1, 29±2, 57±3, 85±3, 113±3, 141±3, 169±3, 197±7days after treatment"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age 18-75 years, gender unlimited.\n2. Clearly identify amyotrophic lateral sclerosis (ALS) patients with FUS gene mutations (known FUS mutation sites and reported disease progression).\n3. Forced vital capacity (FVC) during screening period ≥ 50% of expected lung capacity.\n4. ALS patients diagnosed according to the Gold Coast criteria (2020) with limb-onset weakness.\n5. The patient or their legal representative clearly understands and voluntarily participates in the study and signs an informed consent form.\n6. The subjects (including male subjects) have no family planning throughout the entire study and within 3 months after, voluntarily take effective contraceptive measures and without any plans to donate sperm or ovum.\n\nExclusion Criteria:\n\n1. FUS mutation sites located within nucleotides 928-970 (calculated from the translation of FUS protein).\n2. Patients who have previously received or are currently receiving Ulefnersen treatment.\n3. Human immunodeficiency virus (HIV) test positive or positive test history.\n4. Patients with active hepatitis C or hepatitis B infection.\n5. Other experimental drugs used within one month or within five drug half-lives.\n6. Lumbar diseases and deformities.\n7. ALS with bulbar-onset symptoms, or suffering from other diseases known to be related to motor neuron dysfunction, which may confuse or blur the diagnosis of ALS.\n8. Other psychiatric disorders diagnosed according to Diagnostic and Statistical Manual of Mental Disorders (DSM-V) diagnostic criteria, or obvious suicidal intentions.\n9. Combined with severe liver dysfunction, renal dysfunction, or severe heart dysfunction (severe liver dysfunction refers to alanine aminotransferase (ALT) value ≥ 2.0 times the upper limit of normal value or aspartate aminotransferase (AST) value ≥ 2.0 times the upper limit of normal value; severe renal dysfunction refers to creatinine (CRE) ≥ 1.5 times the upper limit of normal value or estimated glomerular filtration rate (eGFR) \\< 40mL/min/1.73m\\^2; severe heart dysfunction refers to New York College of Cardiology (NYHA) 3-4 levels).\n10. Permanent and sustained dependence on ventilator assisted ventilation.\n11. History of combined alcohol and drug abuse.\n12. Pregnant, lactating, or potentially pregnant patients, as well as those planning to conceive.\n13. Patients participating in other clinical trials or applying other biologics, drugs, or devices under study.\n14. Patients who have received any vaccination within 28 days.\n15. Those who can't complete follow-up due to other reasons.",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Xinru Liu",
+              "role": "CONTACT",
+              "phone": "13521588395",
+              "email": "liuxinru0826@163.com"
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03707795",
+          "orgStudyIdInfo": {
+            "id": "17-0159-F6A"
+          },
+          "organization": {
+            "fullName": "University of Kentucky",
+            "class": "OTHER"
+          },
+          "briefTitle": "Treatment of FUS-Related ALS With Betamethasone - The TRANSLATE Study",
+          "officialTitle": "Treatment of FUS-Related ALS With Betamethasone - The TRANSLATE Study",
+          "acronym": "TRANSLATE"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2020-02",
+          "overallStatus": "COMPLETED",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2017-08-21",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2019-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-01-10",
+            "type": "ACTUAL"
+          },
+          "studyFirstSubmitDate": "2017-09-14",
+          "studyFirstSubmitQcDate": "2018-10-12",
+          "studyFirstPostDateStruct": {
+            "date": "2018-10-16",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2020-02-09",
+          "lastUpdatePostDateStruct": {
+            "date": "2020-02-11",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR_INVESTIGATOR",
+            "investigatorFullName": "Edward Kasaraskis",
+            "investigatorTitle": "Principal Investigator",
+            "investigatorAffiliation": "University of Kentucky"
+          },
+          "leadSponsor": {
+            "name": "Edward Kasaraskis",
+            "class": "OTHER"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": true,
+          "isFdaRegulatedDevice": false,
+          "isUsExport": false
+        },
+        "descriptionModule": {
+          "briefSummary": "By doing this study the investigator hopes to learn more about a potential cause of amyotrophic lateral sclerosis (ALS) called \"oxidative stress\". Oxidative stress is essentially an imbalance between the production of certain chemicals in the body called \"free radicals\" and the ability of the body to counteract or detoxify their harmful effects through neutralization by antioxidants. It is thought that factors such as environmental exposure (chemicals and lead), diet, smoking,alcohol consumption, physical activity and psychological stress cause oxidative stress to occur inside the body.\n\nBy doing this study, the investigator hopes to learn whether the FDA-approved steroid medication called Betamethasone will restore overall antioxidant activity fALS patients with mutations in the Fused in Sarcoma gene (FUS gene).\n\nParticipants who agree to take part in this research study, agree to the following responsibilities:\n\n* Attend all scheduled visits\n* Notify the study doctor of any illnesses, unexpected or troublesome side effects, or any other medical problems that occur during the study\n* Be completely honest with their answers to all questions\n* Check with the study doctor before taking any new medications, whether prescribed or \"over the counter,\" even vitamins and herbal supplements.",
+          "detailedDescription": "This will be a single-blinded, pharmacokinetic and pharmacodynamics study of intramuscular (IM) betamethasone in ALS patients and non-ALS relatives from families with a mutation in the FUS gene. Participants remain blinded as to their genotype.\n\nBetamethasone is a FDA-approved drug and is only available in an IM dosing form (Celestone®). This will be a proof-of-concept translational study built on discoveries made by our research team at the University of Kentucky. All participants will receive active drug.\n\nThe research procedures will be conducted at the University of Kentucky (UK) Albert B. Chandler Hospital, Pavilion H, 800 Rose Street, Lexington, KY. Participants will need to come to Center for Clinical and Translational Science (CCTS) on the 3rd Floor (Room C300) of Pavilion H, at UK Albert B. Chandler Hospital, for a Consent/Screening Visit. If found eligible and qualify for the study, participants will be asked to give voluntary written consent to participate.\n\nFollowing signing the consent form, participants will be admitted to the UK Albert B. Chandler Hospital, CCTS Inpatient Unit, 5th Floor, 5 North Wing of the Hospital for 2 nights (approximately 48 hours). The following tests and procedures will take place:\n\n* Neurological Exam\n* Vital Signs (blood pressure, heart rate and respiratory rate) will be measured\n* Medical and medication history will be collected\n* Questionnaire\n* blood specimen for Pharmacokinetic and Pharmacodynamic will be collected testing\\*\n* Participants will also be asked to do some testing of their breathing and physical abilities.\n\nThe study drug (betamethasone sodium phosphate/betamethasone acetate \\[Celestone® Soluspan®\\]) will be injected into a muscle such as arm or buttock - this will be the first of the four injections of the study drug administered during the study.\n\nAt 24 hours after the first injection with the study drug, and while still in the the hospital, the study drug will again be injected into a muscle such as arm or buttock - this will be the second of the four injections of the study drug administered during the study.\n\nFollowing this second treatment, and after the study doctor determines it is safe, the participant will be discharged from the hospital. They will will stay in a local motel overnight, awaiting the next day's blood draw, assessments, testing and 3rd treatment with study drug.\n\nParticipants who do not live close to the hospital, motel accommodations will be provided at no charge, for an overnight stay between the 48 Hour visit, and the 72 Hour scheduled follow-up visit.\n\nAt 72 hours after first injection with the study drug, the study drug will again be injected into a muscle such as arm or buttock - this will be the fourth and last of the four injections administered during the study. Following this fourth treatment, and after the study doctor determines if is safe, participants will be allowed to leave.\n\nThe 72 Hour (Day 3), 168 Hour (Day 7) and 336 Hour (Day 14) visits will take about 1 hour each. The approximate, total amount of time participants will be asked to volunteer for this study is 51 hours over the 336 hour (14 day) duration of this research study.\n\nParticipants or their insurance company, Medicare or Medicaid will be responsible for the costs of all routine medical care and treatment they would normally receive for their condition. The University of Kentucky may not be allowed to bill insurance companies, Medicare or Medicaid for the medical procedures done strictly for research.\n\nNeither the participant or their provider will be charged for costs of any of the procedures performed for the research study."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Familial Amyotrophic Lateral Sclerosis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "EARLY_PHASE1"
+          ],
+          "designInfo": {
+            "allocation": "NON_RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "SINGLE",
+              "maskingDescription": "Participants remain blinded as to their genotype.",
+              "whoMasked": [
+                "PARTICIPANT"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Arm 1 - Amyotrophic Lateral Sclerosis",
+              "type": "EXPERIMENTAL",
+              "description": "Betamethasone sodium phosphate/betamethasone acetate (Celestone® Soluspan®), 30 mg IM once a day for four days",
+              "interventionNames": [
+                "Drug: Betamethasone sodium phosphate/betamethasone acetate (Celestone® Soluspan®), 30 mg IM once a day for four days"
+              ]
+            },
+            {
+              "label": "Arm 2 - Familial Amyotrophic Lateral Sclerosis",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Betamethasone sodium phosphate/betamethasone acetate (Celestone® Soluspan®), 30 mg IM once a day for four days",
+              "interventionNames": [
+                "Drug: Betamethasone sodium phosphate/betamethasone acetate (Celestone® Soluspan®), 30 mg IM once a day for four days"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Betamethasone sodium phosphate/betamethasone acetate (Celestone® Soluspan®), 30 mg IM once a day for four days",
+              "description": "Participants will be given four IM injections throughout the study",
+              "armGroupLabels": [
+                "Arm 1 - Amyotrophic Lateral Sclerosis",
+                "Arm 2 - Familial Amyotrophic Lateral Sclerosis"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Betamethasone plasma levels",
+              "description": "Blood will be collected at multiple time points (baseline, 24 hours, 48 hours, 72 hours, day 7 and day 14) for analysis of Betamethasone levels. Data will be reported as the change in Betamethasone over time.",
+              "timeFrame": "14 days"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Protein carbonyl plasma levels",
+              "description": "Blood will be collected at multiple time points (baseline, 24 hours, 48 hours, 72 hours, day 7 and day 14) for analysis of Protein carbonyl levels. Data will be reported as the change in Protein carbonyl over time.",
+              "timeFrame": "14 days"
+            },
+            {
+              "measure": "Superoxide dismutase plasma levels",
+              "description": "Blood will be collected at multiple time points (baseline, 24 hours, 48 hours, 72 hours, day 7 and day 14) for analysis of Superoxide dismutase levels. Data will be reported as the change in Superoxide dismutase over time.",
+              "timeFrame": "14 days"
+            },
+            {
+              "measure": "Peroxide plasma levels",
+              "description": "Blood will be collected at multiple time points (baseline, 24 hours, 48 hours, 72 hours, day 7 and day 14) for analysis of Peroxide levels. Data will be reported as the change in Peroxide over time.",
+              "timeFrame": "14 days"
+            },
+            {
+              "measure": "Glutathione disulfide plasma levels",
+              "description": "Blood will be collected at multiple time points (baseline, 24 hours, 48 hours, 72 hours, day 7 and day 14) for analysis of Glutathione disulfide levels. Data will be reported as the change in Glutathione disulfide over time.",
+              "timeFrame": "14 days"
+            },
+            {
+              "measure": "Glutathione plasma levels",
+              "description": "Blood will be collected at multiple time points (baseline, 24 hours, 48 hours, 72 hours, day 7 and day 14) for analysis of Glutathione disulfide levels. Data will be reported as the change in Glutathione disulfide over time.",
+              "timeFrame": "14 days"
+            }
+          ],
+          "otherOutcomes": [
+            {
+              "measure": "Slow vital capacity",
+              "description": "Participants will blow into a spirometer at a natural rate of exhale to measure the vital capacity of their respratory system. Data will be reported as the change in vital capacity over time.",
+              "timeFrame": "14 days"
+            },
+            {
+              "measure": "Maximum voluntary ventilation (MVV)",
+              "description": "Participants will inhale as deeply and quickly as possible into a spirometerr to over the course of 15 seconds to assess respiratory function. Data will be reported as the change in MMV over time.",
+              "timeFrame": "14 days"
+            },
+            {
+              "measure": "Grip strength",
+              "description": "Participants will squeeze a dynamometer which will measure the maximal force generated in mmHG. Data will be reported as the change in grip strength over time.",
+              "timeFrame": "14 days"
+            },
+            {
+              "measure": "Manual dexterity",
+              "description": "Participants will have their gross movements of their arms, hands and fingers and their fine motor capacities measured using the Purdue Pegboard assessment. The test involves the placement of small pegs in a board at varying ranges of extremity extension. Participants are scored on the number of pegs they can place in a 30 second assessment. Data are presented as the change in number of pegs placed over time.",
+              "timeFrame": "14 days"
+            },
+            {
+              "measure": "Sit to stand assessment",
+              "description": "Participants will be timed in their ability to rise from a seated position to standing fully upright. Data are presented as the change in time to rise over time.",
+              "timeFrame": "14 days"
+            },
+            {
+              "measure": "Time walk assessment",
+              "description": "Participants will be time in their ability to walk 20 feet. Data are presented as the change in time to cover the distance over time.",
+              "timeFrame": "14 days"
+            },
+            {
+              "measure": "Isometric strength generation",
+              "description": "Utilizing an Accurate Test of Limb Isometric Strength (ATLIS) participants will their static isometric limb strength measured. Data are presented as the change in limb strength over time.",
+              "timeFrame": "14 days"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of familial ALS (fALS)\n* Relative of a fALS person and carry the FUS gene\n\nExclusion Criteria:\n\n* Under 20 years or over 80 years of age\n* Cannot tolerate steroids, including betamethasone\n* Are unwilling or unable to attend all scheduled research visits\n* Currently participating in another clinical drug trial\n* Major neurological disease, other than ALS\n* Pregnant",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "genderBased": true,
+          "minimumAge": "20 Years",
+          "maximumAge": "80 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "overallOfficials": [
+            {
+              "name": "Edward Kasarskis, MD",
+              "affiliation": "University of Kentucky",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "University of Kentucky Medical Center",
+              "city": "Lexington",
+              "state": "Kentucky",
+              "zip": "40475",
+              "country": "United States",
+              "geoPoint": {
+                "lat": 37.98869,
+                "lon": -84.47772
+              }
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "C028994",
+              "term": "betamethasone sodium phosphate"
+            },
+            {
+              "id": "C580789",
+              "term": "betamethasone acetate"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ],
+  "nextPageToken": "ZVNj7o2Elu8o3lp0U8OiprbumpOQJJxsZfGi1fUTkA"
+}

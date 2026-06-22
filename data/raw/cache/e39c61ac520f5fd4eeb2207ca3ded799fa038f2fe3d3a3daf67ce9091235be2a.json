@@ -1,0 +1,680 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "ERBB4",
+      "associatedDiseases": {
+        "count": 741,
+        "rows": [
+          {
+            "score": 0.6754899662390331,
+            "disease": {
+              "id": "EFO_0003060",
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "score": 0.6618060975031084,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.6213597395769466,
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            }
+          },
+          {
+            "score": 0.6087758154471016,
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            }
+          },
+          {
+            "score": 0.5699130510009216,
+            "disease": {
+              "id": "MONDO_0007254",
+              "name": "breast cancer"
+            }
+          },
+          {
+            "score": 0.5594517866277547,
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.5444087126187782,
+            "disease": {
+              "id": "EFO_0000660",
+              "name": "polycystic ovary syndrome"
+            }
+          },
+          {
+            "score": 0.5387221438817108,
+            "disease": {
+              "id": "HP_0000924",
+              "name": "Abnormality of the skeletal system"
+            }
+          },
+          {
+            "score": 0.522811454611225,
+            "disease": {
+              "id": "MONDO_0015277",
+              "name": "medullary thyroid gland carcinoma"
+            }
+          },
+          {
+            "score": 0.5180936803640461,
+            "disease": {
+              "id": "EFO_0000275",
+              "name": "atrial fibrillation"
+            }
+          },
+          {
+            "score": 0.5020520891035044,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.48286087470738126,
+            "disease": {
+              "id": "EFO_0000305",
+              "name": "breast carcinoma"
+            }
+          },
+          {
+            "score": 0.467667047487172,
+            "disease": {
+              "id": "EFO_0003869",
+              "name": "breast neoplasm"
+            }
+          },
+          {
+            "score": 0.44795703562722305,
+            "disease": {
+              "id": "EFO_0004318",
+              "name": "smoking behavior"
+            }
+          },
+          {
+            "score": 0.4411528718515113,
+            "disease": {
+              "id": "EFO_0002892",
+              "name": "thyroid carcinoma"
+            }
+          },
+          {
+            "score": 0.4409385121236511,
+            "disease": {
+              "id": "EFO_0004329",
+              "name": "alcohol drinking"
+            }
+          },
+          {
+            "score": 0.4399792572803428,
+            "disease": {
+              "id": "EFO_0002618",
+              "name": "pancreatic carcinoma"
+            }
+          },
+          {
+            "score": 0.4391811956996054,
+            "disease": {
+              "id": "EFO_0000571",
+              "name": "lung adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.43213749720281097,
+            "disease": {
+              "id": "EFO_0004337",
+              "name": "intelligence"
+            }
+          },
+          {
+            "score": 0.4170675338335303,
+            "disease": {
+              "id": "EFO_0000389",
+              "name": "cutaneous melanoma"
+            }
+          },
+          {
+            "score": 0.4116618623295816,
+            "disease": {
+              "id": "MONDO_0005090",
+              "name": "schizophrenia"
+            }
+          },
+          {
+            "score": 0.4101159302693228,
+            "disease": {
+              "id": "MONDO_0005148",
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.4047995000590352,
+            "disease": {
+              "id": "EFO_0009003",
+              "name": "ovarian dysfunction"
+            }
+          },
+          {
+            "score": 0.4025716454045818,
+            "disease": {
+              "id": "EFO_0000673",
+              "name": "prostate adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.4009925910100546,
+            "disease": {
+              "id": "HP_0001249",
+              "name": "Intellectual disability"
+            }
+          },
+          {
+            "score": 0.38842842727362153,
+            "disease": {
+              "id": "EFO_0003841",
+              "name": "thyroid neoplasm"
+            }
+          },
+          {
+            "score": 0.38801759211460907,
+            "disease": {
+              "id": "EFO_0003911",
+              "name": "atrial flutter"
+            }
+          },
+          {
+            "score": 0.3865805280001981,
+            "disease": {
+              "id": "EFO_0001663",
+              "name": "prostate carcinoma"
+            }
+          },
+          {
+            "score": 0.37891295392864477,
+            "disease": {
+              "id": "EFO_0000178",
+              "name": "gastric carcinoma"
+            }
+          },
+          {
+            "score": 0.3778901337245657,
+            "disease": {
+              "id": "MONDO_0008903",
+              "name": "lung cancer"
+            }
+          },
+          {
+            "score": 0.37225930863116585,
+            "disease": {
+              "id": "MONDO_0002529",
+              "name": "skin squamous cell carcinoma"
+            }
+          },
+          {
+            "score": 0.371978685763119,
+            "disease": {
+              "id": "EFO_0000181",
+              "name": "head and neck squamous cell carcinoma"
+            }
+          },
+          {
+            "score": 0.37172033800975063,
+            "disease": {
+              "id": "MONDO_0005341",
+              "name": "skin basal cell carcinoma"
+            }
+          },
+          {
+            "score": 0.37152014892179647,
+            "disease": {
+              "id": "MONDO_0005184",
+              "name": "pancreatic ductal adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.37079382184627024,
+            "disease": {
+              "id": "EFO_0001071",
+              "name": "lung carcinoma"
+            }
+          },
+          {
+            "score": 0.36994943453938645,
+            "disease": {
+              "id": "EFO_0001642",
+              "name": "lymphoid neoplasm"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0016748",
+              "name": "hemangioblastoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_1000613",
+              "name": "Uterine Carcinosarcoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0009259",
+              "name": "skin carcinoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0003865",
+              "name": "kidney neoplasm"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0020638",
+              "name": "superficial spreading melanoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0006318",
+              "name": "breast ductal adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0018531",
+              "name": "carcinoma of liver and intrahepatic biliary tract"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0015802",
+              "name": "autosomal dominant non-syndromic intellectual disability"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0000478",
+              "name": "esophageal adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0044785",
+              "name": "desmoplastic melanoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0008515",
+              "name": "nodular melanoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_1000417",
+              "name": "Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_1000045",
+              "name": "pancreatic neuroendocrine tumor"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0005540",
+              "name": "bile duct carcinoma"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 14,
+        "rows": [
+          {
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL4650289",
+              "name": "KBP5209",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL2105712",
+              "name": "AFATINIB DIMALEATE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL24828",
+              "name": "VANDETANIB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Ephrin receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase BRK inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase receptor RET inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase SRC inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase TIE-2 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL3989921",
+              "name": "NERATINIB MALEATE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL3545154",
+              "name": "POZIOTINIB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL545315",
+              "name": "CANERTINIB DIHYDROCHLORIDE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL3109738",
+              "name": "JNJ-26483327",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase Lyn inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase YES inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase FYN inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase LCK inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase SRC inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor receptor 3 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL2110732",
+              "name": "DACOMITINIB ANHYDROUS",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL2105719",
+              "name": "DACOMITINIB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL180022",
+              "name": "NERATINIB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4297661",
+              "name": "TARLOXOTINIB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1173655",
+              "name": "AFATINIB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL3545396",
+              "name": "BMS-690514",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor receptor inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL1645462",
+              "name": "AC-480",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

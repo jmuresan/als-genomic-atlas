@@ -1,0 +1,147 @@
+{
+  "count": 3,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR001611",
+        "name": "Leucine-rich repeat",
+        "source_database": "interpro",
+        "type": "repeat",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF13855": "Leucine rich repeat",
+            "PF13516": "Leucine Rich repeat",
+            "PF00560": "Leucine Rich Repeat"
+          },
+          "profile": {
+            "PS51450": "Leucine-rich repeat profile"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0005515",
+            "name": "protein binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "o43822",
+          "protein_length": 256,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 41,
+                  "end": 62,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 63,
+                  "end": 84,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR003603",
+        "name": "U2A'/phosphoprotein 32 family A, C-terminal",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "smart": {
+            "SM00446": "occurring C-terminal to leucine-rich repeats"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "o43822",
+          "protein_length": 256,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 104,
+                  "end": 122,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR032675",
+        "name": "Leucine-rich repeat domain superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:3.80.10.10": "Ribonuclease Inhibitor"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "o43822",
+          "protein_length": 256,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 8,
+                  "end": 136,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr8",
+      "dataSource": "HAVANA",
+      "description": "elongator acetyltransferase complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:20696]",
+      "end": 28191156,
+      "entrezGeneId": 55140,
+      "gencodeId": "ENSG00000134014.16",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "ELP3",
+      "geneSymbolUpper": "ELP3",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 28089673,
+      "strand": "+",
+      "tss": 28089673
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

@@ -1,0 +1,2972 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4820031",
+      "4820024",
+      "4795097",
+      "4794755",
+      "4794547",
+      "4794086",
+      "4793899",
+      "4793600",
+      "4792766",
+      "4792719",
+      "4792377",
+      "4792303",
+      "4792150",
+      "4792054",
+      "4791635",
+      "4791324",
+      "4791119",
+      "4790226",
+      "4790149",
+      "4789942"
+    ],
+    "4820031": {
+      "uid": "4820031",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004820031",
+      "accession_version": "VCV004820031.1",
+      "title": "NM_004960.4(FUS):c.928A>G (p.Ile310Val)",
+      "variation_set": [
+        {
+          "measure_id": "4931135",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.928A>G (p.Ile310Val)",
+          "cdna_change": "c.928A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31189218",
+              "stop": "31189218",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31189218",
+              "display_stop": "31189218",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31200539",
+              "stop": "31200539",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31200539",
+              "display_stop": "31200539",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31189217:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007540489"
+        ],
+        "rcv": [
+          "RCV006649690"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/04/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0002736"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0004976"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007354"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031189218",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "I306V, I309V, I310V",
+      "fda_recognized_database": ""
+    },
+    "4820024": {
+      "uid": "4820024",
+      "obj_type": "Deletion",
+      "accession": "VCV004820024",
+      "accession_version": "VCV004820024.1",
+      "title": "NM_004960.4:c.520_525del",
+      "variation_set": [
+        {
+          "measure_id": "4931128",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4:c.520_525del",
+          "cdna_change": "NM_004960.4:c.520_525del",
+          "aliases": [],
+          "variation_loc": [],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007540479"
+        ],
+        "rcv": [
+          "RCV006649683"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/04/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0002736"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0004976"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007354"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "ZZZ",
+      "location_sort": "99999999999999999999",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4795097": {
+      "uid": "4795097",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004795097",
+      "accession_version": "VCV004795097.1",
+      "title": "NM_004960.4(FUS):c.477C>G (p.Asn159Lys)",
+      "variation_set": [
+        {
+          "measure_id": "4905027",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.477C>G (p.Asn159Lys)",
+          "cdna_change": "c.477C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31184350",
+              "stop": "31184350",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31184350",
+              "display_stop": "31184350",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31195671",
+              "stop": "31195671",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31195671",
+              "display_stop": "31195671",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31184349:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007493164"
+        ],
+        "rcv": [
+          "RCV006597533"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/04/17 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031184350",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "N158K, N159K",
+      "fda_recognized_database": ""
+    },
+    "4794755": {
+      "uid": "4794755",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794755",
+      "accession_version": "VCV004794755.1",
+      "title": "NM_004960.4(FUS):c.216C>G (p.Pro72=)",
+      "variation_set": [
+        {
+          "measure_id": "4906129",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.216C>G (p.Pro72=)",
+          "cdna_change": "c.216C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31183883",
+              "stop": "31183883",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31183883",
+              "display_stop": "31183883",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31195204",
+              "stop": "31195204",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31195204",
+              "display_stop": "31195204",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31183882:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492763"
+        ],
+        "rcv": [
+          "RCV006597191"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/03/18 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031183883",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794547": {
+      "uid": "4794547",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794547",
+      "accession_version": "VCV004794547.1",
+      "title": "NM_004960.4(FUS):c.1029C>T (p.Asp343=)",
+      "variation_set": [
+        {
+          "measure_id": "4905922",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.1029C>T (p.Asp343=)",
+          "cdna_change": "c.1029C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31189757",
+              "stop": "31189757",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31189757",
+              "display_stop": "31189757",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31201078",
+              "stop": "31201078",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31201078",
+              "display_stop": "31201078",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31189756:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492502"
+        ],
+        "rcv": [
+          "RCV006593559"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/13 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031189757",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794086": {
+      "uid": "4794086",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794086",
+      "accession_version": "VCV004794086.1",
+      "title": "NM_004960.4(FUS):c.39C>T (p.Ser13=)",
+      "variation_set": [
+        {
+          "measure_id": "4902296",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.39C>T (p.Ser13=)",
+          "cdna_change": "c.39C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31182513",
+              "stop": "31182513",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31182513",
+              "display_stop": "31182513",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31193834",
+              "stop": "31193834",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31193834",
+              "display_stop": "31193834",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31182512:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007493389"
+        ],
+        "rcv": [
+          "RCV006604840"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/04/17 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031182513",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793899": {
+      "uid": "4793899",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793899",
+      "accession_version": "VCV004793899.1",
+      "title": "NM_004960.4(FUS):c.72C>A (p.Gly24=)",
+      "variation_set": [
+        {
+          "measure_id": "4903836",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.72C>A (p.Gly24=)",
+          "cdna_change": "c.72C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31182546",
+              "stop": "31182546",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31182546",
+              "display_stop": "31182546",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31193867",
+              "stop": "31193867",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31193867",
+              "display_stop": "31193867",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31182545:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491637"
+        ],
+        "rcv": [
+          "RCV006604653"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/09 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031182546",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793600": {
+      "uid": "4793600",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793600",
+      "accession_version": "VCV004793600.1",
+      "title": "NM_004960.4(FUS):c.361A>G (p.Ser121Gly)",
+      "variation_set": [
+        {
+          "measure_id": "4904833",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.361A>G (p.Ser121Gly)",
+          "cdna_change": "c.361A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31184234",
+              "stop": "31184234",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31184234",
+              "display_stop": "31184234",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31195555",
+              "stop": "31195555",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31195555",
+              "display_stop": "31195555",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31184233:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491203"
+        ],
+        "rcv": [
+          "RCV006600926"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/07/03 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031184234",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "S121G, S120G",
+      "fda_recognized_database": ""
+    },
+    "4792766": {
+      "uid": "4792766",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792766",
+      "accession_version": "VCV004792766.1",
+      "title": "NM_004960.4(FUS):c.13+6T>A",
+      "variation_set": [
+        {
+          "measure_id": "4902276",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.13+6T>A",
+          "cdna_change": "NM_004960.4(FUS):c.13+6T>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31180233",
+              "stop": "31180233",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31180233",
+              "display_stop": "31180233",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31191554",
+              "stop": "31191554",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31191554",
+              "display_stop": "31191554",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31180232:T:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490212"
+        ],
+        "rcv": [
+          "RCV006593242"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/04/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031180233",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4792719": {
+      "uid": "4792719",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792719",
+      "accession_version": "VCV004792719.1",
+      "title": "NM_004960.4(FUS):c.487A>C (p.Ser163Arg)",
+      "variation_set": [
+        {
+          "measure_id": "4902229",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.487A>C (p.Ser163Arg)",
+          "cdna_change": "c.487A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31184360",
+              "stop": "31184360",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31184360",
+              "display_stop": "31184360",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31195681",
+              "stop": "31195681",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31195681",
+              "display_stop": "31195681",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31184359:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490151"
+        ],
+        "rcv": [
+          "RCV006593195"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/12/21 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031184360",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "S162R, S163R",
+      "fda_recognized_database": ""
+    },
+    "4792377": {
+      "uid": "4792377",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792377",
+      "accession_version": "VCV004792377.2",
+      "title": "NM_004960.4(FUS):c.1441C>T (p.Arg481Ter)",
+      "variation_set": [
+        {
+          "measure_id": "4901887",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.1441C>T (p.Arg481Ter)",
+          "cdna_change": "c.1441C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31191010",
+              "stop": "31191010",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31191010",
+              "display_stop": "31191010",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31202331",
+              "stop": "31202331",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31202331",
+              "display_stop": "31202331",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31191009:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007489757",
+          "SCV007593300"
+        ],
+        "rcv": [
+          "RCV006592853",
+          "RCV006694586"
+        ]
+      },
+      "germline_classification": {
+        "description": "Pathogenic/Likely pathogenic",
+        "last_evaluated": "2025/12/29 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031191010",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "nonsense",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "R481*, R480*, R477*",
+      "fda_recognized_database": ""
+    },
+    "4792303": {
+      "uid": "4792303",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792303",
+      "accession_version": "VCV004792303.1",
+      "title": "NM_004960.4(FUS):c.524-20C>T",
+      "variation_set": [
+        {
+          "measure_id": "4903538",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.524-20C>T",
+          "cdna_change": "NM_004960.4(FUS):c.524-20C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31184919",
+              "stop": "31184919",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31184919",
+              "display_stop": "31184919",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31196240",
+              "stop": "31196240",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31196240",
+              "display_stop": "31196240",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31184918:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007489803"
+        ],
+        "rcv": [
+          "RCV006592779"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/07/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031184919",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4792150": {
+      "uid": "4792150",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792150",
+      "accession_version": "VCV004792150.1",
+      "title": "NM_004960.4(FUS):c.1292+17T>C",
+      "variation_set": [
+        {
+          "measure_id": "4903385",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.1292+17T>C",
+          "cdna_change": "NM_004960.4(FUS):c.1292+17T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31190415",
+              "stop": "31190415",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31190415",
+              "display_stop": "31190415",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31201736",
+              "stop": "31201736",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31201736",
+              "display_stop": "31201736",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31190414:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007489457"
+        ],
+        "rcv": [
+          "RCV006604368"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/11/24 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031190415",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4792054": {
+      "uid": "4792054",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792054",
+      "accession_version": "VCV004792054.1",
+      "title": "NM_004960.4(FUS):c.979G>A (p.Asp327Asn)",
+      "variation_set": [
+        {
+          "measure_id": "4903289",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.979G>A (p.Asp327Asn)",
+          "cdna_change": "c.979G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31189707",
+              "stop": "31189707",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31189707",
+              "display_stop": "31189707",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31201028",
+              "stop": "31201028",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31201028",
+              "display_stop": "31201028",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31189706:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007489252"
+        ],
+        "rcv": [
+          "RCV006604272"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/07/02 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031189707",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "D323N, D326N, D327N",
+      "fda_recognized_database": ""
+    },
+    "4791635": {
+      "uid": "4791635",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004791635",
+      "accession_version": "VCV004791635.1",
+      "title": "NM_004960.4(FUS):c.471G>A (p.Gln157=)",
+      "variation_set": [
+        {
+          "measure_id": "4904163",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.471G>A (p.Gln157=)",
+          "cdna_change": "c.471G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31184344",
+              "stop": "31184344",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31184344",
+              "display_stop": "31184344",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31195665",
+              "stop": "31195665",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31195665",
+              "display_stop": "31195665",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31184343:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007488909"
+        ],
+        "rcv": [
+          "RCV006600425"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/30 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031184344",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4791324": {
+      "uid": "4791324",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004791324",
+      "accession_version": "VCV004791324.1",
+      "title": "NM_004960.4(FUS):c.14-4G>A",
+      "variation_set": [
+        {
+          "measure_id": "4905293",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.14-4G>A",
+          "cdna_change": "NM_004960.4(FUS):c.14-4G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31182394",
+              "stop": "31182394",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31182394",
+              "display_stop": "31182394",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31193715",
+              "stop": "31193715",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31193715",
+              "display_stop": "31193715",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31182393:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007488530"
+        ],
+        "rcv": [
+          "RCV006600114"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/05/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031182394",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4791119": {
+      "uid": "4791119",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004791119",
+      "accession_version": "VCV004791119.1",
+      "title": "NM_004960.4(FUS):c.1314C>T (p.Phe438=)",
+      "variation_set": [
+        {
+          "measure_id": "4905090",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.1314C>T (p.Phe438=)",
+          "cdna_change": "c.1314C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31190763",
+              "stop": "31190763",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31190763",
+              "display_stop": "31190763",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31202084",
+              "stop": "31202084",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31202084",
+              "display_stop": "31202084",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31190762:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007488163"
+        ],
+        "rcv": [
+          "RCV006596483"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/03 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031190763",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4790226": {
+      "uid": "4790226",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004790226",
+      "accession_version": "VCV004790226.1",
+      "title": "NM_004960.4(FUS):c.13+6T>C",
+      "variation_set": [
+        {
+          "measure_id": "4902760",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.13+6T>C",
+          "cdna_change": "NM_004960.4(FUS):c.13+6T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31180233",
+              "stop": "31180233",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31180233",
+              "display_stop": "31180233",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31191554",
+              "stop": "31191554",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31191554",
+              "display_stop": "31191554",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31180232:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007487256"
+        ],
+        "rcv": [
+          "RCV006603908"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/07/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031180233",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4790149": {
+      "uid": "4790149",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004790149",
+      "accession_version": "VCV004790149.1",
+      "title": "NM_004960.4(FUS):c.524-12C>A",
+      "variation_set": [
+        {
+          "measure_id": "4899256",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.524-12C>A",
+          "cdna_change": "NM_004960.4(FUS):c.524-12C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31184927",
+              "stop": "31184927",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31184927",
+              "display_stop": "31184927",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31196248",
+              "stop": "31196248",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31196248",
+              "display_stop": "31196248",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31184926:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007487051"
+        ],
+        "rcv": [
+          "RCV006603831"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/10/01 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031184927",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4789942": {
+      "uid": "4789942",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004789942",
+      "accession_version": "VCV004789942.2",
+      "title": "NM_004960.4(FUS):c.1296C>T (p.Thr432=)",
+      "variation_set": [
+        {
+          "measure_id": "4901357",
+          "variation_xrefs": [],
+          "variation_name": "NM_004960.4(FUS):c.1296C>T (p.Thr432=)",
+          "cdna_change": "c.1296C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31190745",
+              "stop": "31190745",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31190745",
+              "display_stop": "31190745",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "16",
+              "band": "16p11.2",
+              "start": "31202066",
+              "stop": "31202066",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "31202066",
+              "display_stop": "31202066",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000016.10:31190744:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007486960",
+          "SCV007584378"
+        ],
+        "rcv": [
+          "RCV006603624",
+          "RCV006691509"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/03/25 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2931786"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011951"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608030"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 6"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3539195"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013888"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614782"
+              }
+            ],
+            "trait_name": "Tremor, hereditary essential, 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "FUS",
+      "chr_sort": "16",
+      "location_sort": "00000000000031190745",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "FUS",
+          "geneid": "2521",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    }
+  }
+}

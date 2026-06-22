@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "LRP12",
+      "associatedDiseases": {
+        "count": 119,
+        "rows": [
+          {
+            "score": 0.4651451100314557,
+            "disease": {
+              "id": "MONDO_0025193",
+              "name": "oculopharyngodistal myopathy"
+            }
+          },
+          {
+            "score": 0.4539321319188798,
+            "disease": {
+              "id": "MONDO_0020793",
+              "name": "oculopharyngodistal myopathy 1"
+            }
+          },
+          {
+            "score": 0.4330757269409485,
+            "disease": {
+              "id": "MONDO_0957538",
+              "name": "amyotrophic lateral sclerosis 28"
+            }
+          },
+          {
+            "score": 0.4118555014736017,
+            "disease": {
+              "id": "EFO_0000537",
+              "name": "hypertension"
+            }
+          },
+          {
+            "score": 0.4035964426249334,
+            "disease": {
+              "id": "MONDO_0005148",
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.3766121380307857,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.30575954222879614,
+            "disease": {
+              "id": "MONDO_0024355",
+              "name": "respiratory tract infectious disorder"
+            }
+          },
+          {
+            "score": 0.29505621226875844,
+            "disease": {
+              "id": "EFO_0000275",
+              "name": "atrial fibrillation"
+            }
+          },
+          {
+            "score": 0.2862993977288181,
+            "disease": {
+              "id": "EFO_0004329",
+              "name": "alcohol drinking"
+            }
+          },
+          {
+            "score": 0.24788316682686726,
+            "disease": {
+              "id": "HP_0032263",
+              "name": "Increased blood pressure"
+            }
+          },
+          {
+            "score": 0.23427974073933508,
+            "disease": {
+              "id": "EFO_0003911",
+              "name": "atrial flutter"
+            }
+          },
+          {
+            "score": 0.22415454358816797,
+            "disease": {
+              "id": "EFO_0000319",
+              "name": "cardiovascular disease"
+            }
+          },
+          {
+            "score": 0.21699030036166791,
+            "disease": {
+              "id": "MONDO_0024470",
+              "name": "benign chondrogenic neoplasm"
+            }
+          },
+          {
+            "score": 0.21523357954031463,
+            "disease": {
+              "id": "EFO_0009578",
+              "name": "placental retention"
+            }
+          },
+          {
+            "score": 0.20858131591818596,
+            "disease": {
+              "id": "EFO_0003763",
+              "name": "cerebrovascular disorder"
+            }
+          },
+          {
+            "score": 0.2084353098539587,
+            "disease": {
+              "id": "HP_0001438",
+              "name": "Abnormal abdomen morphology"
+            }
+          },
+          {
+            "score": 0.20255156153100592,
+            "disease": {
+              "id": "EFO_0004190",
+              "name": "open-angle glaucoma"
+            }
+          },
+          {
+            "score": 0.19680553472782739,
+            "disease": {
+              "id": "EFO_0004269",
+              "name": "cardiac arrhythmia"
+            }
+          },
+          {
+            "score": 0.19312374844077987,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.19105525727133663,
+            "disease": {
+              "id": "GO_0009410",
+              "name": "response to xenobiotic stimulus"
+            }
+          },
+          {
+            "score": 0.1859470496328953,
+            "disease": {
+              "id": "EFO_0007442",
+              "name": "placenta praevia"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "HP_0007002",
+              "name": "Motor axonal neuropathy"
+            }
+          },
+          {
+            "score": 0.17845473346757504,
+            "disease": {
+              "id": "EFO_0008568",
+              "name": "Sleep Disorder"
+            }
+          },
+          {
+            "score": 0.17365136140057824,
+            "disease": {
+              "id": "MONDO_0100096",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "score": 0.17297981446051708,
+            "disease": {
+              "id": "MONDO_0044782",
+              "name": "esophageal ulcer"
+            }
+          },
+          {
+            "score": 0.17297981446051708,
+            "disease": {
+              "id": "HP_0003124",
+              "name": "Hypercholesterolemia"
+            }
+          },
+          {
+            "score": 0.1727166802052488,
+            "disease": {
+              "id": "EFO_0001421",
+              "name": "liver disease"
+            }
+          },
+          {
+            "score": 0.17113455998604693,
+            "disease": {
+              "id": "EFO_0000400",
+              "name": "diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.16438165876227478,
+            "disease": {
+              "id": "EFO_0003777",
+              "name": "heart disease"
+            }
+          },
+          {
+            "score": 0.16294535604701949,
+            "disease": {
+              "id": "EFO_0000389",
+              "name": "cutaneous melanoma"
+            }
+          },
+          {
+            "score": 0.1478319418738807,
+            "disease": {
+              "id": "Orphanet_101016",
+              "name": "Romano-Ward syndrome"
+            }
+          },
+          {
+            "score": 0.11826555349910459,
+            "disease": {
+              "id": "Orphanet_145",
+              "name": "Hereditary breast and ovarian cancer syndrome"
+            }
+          },
+          {
+            "score": 0.11826555349910459,
+            "disease": {
+              "id": "MONDO_0003582",
+              "name": "hereditary breast ovarian cancer syndrome"
+            }
+          },
+          {
+            "score": 0.10402671036380469,
+            "disease": {
+              "id": "MONDO_0001134",
+              "name": "essential hypertension"
+            }
+          },
+          {
+            "score": 0.09927508365662528,
+            "disease": {
+              "id": "EFO_0000668",
+              "name": "preeclampsia"
+            }
+          },
+          {
+            "score": 0.09867266270170974,
+            "disease": {
+              "id": "EFO_0003144",
+              "name": "heart failure"
+            }
+          },
+          {
+            "score": 0.04933008174832355,
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            }
+          },
+          {
+            "score": 0.04601269190824537,
+            "disease": {
+              "id": "MONDO_0001056",
+              "name": "gastric cancer"
+            }
+          },
+          {
+            "score": 0.04282402141423486,
+            "disease": {
+              "id": "EFO_0000694",
+              "name": "severe acute respiratory syndrome"
+            }
+          },
+          {
+            "score": 0.034199563476902776,
+            "disease": {
+              "id": "EFO_0009003",
+              "name": "ovarian dysfunction"
+            }
+          },
+          {
+            "score": 0.03353621946505023,
+            "disease": {
+              "id": "EFO_0009617",
+              "name": "knee fracture"
+            }
+          },
+          {
+            "score": 0.02734890924666793,
+            "disease": {
+              "id": "MONDO_0003455",
+              "name": "bile duct papillary neoplasm"
+            }
+          },
+          {
+            "score": 0.024663099079957868,
+            "disease": {
+              "id": "HP_0000975",
+              "name": "Hyperhidrosis"
+            }
+          },
+          {
+            "score": 0.024546471008700617,
+            "disease": {
+              "id": "MONDO_0024431",
+              "name": "bilirubin metabolism disease"
+            }
+          },
+          {
+            "score": 0.02448985846464183,
+            "disease": {
+              "id": "EFO_0003060",
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "score": 0.024377487215002932,
+            "disease": {
+              "id": "EFO_0005922",
+              "name": "esophageal squamous cell carcinoma"
+            }
+          },
+          {
+            "score": 0.019587732298289195,
+            "disease": {
+              "id": "EFO_0000574",
+              "name": "lymphoma"
+            }
+          },
+          {
+            "score": 0.019402942370946846,
+            "disease": {
+              "id": "EFO_0004286",
+              "name": "venous thromboembolism"
+            }
+          },
+          {
+            "score": 0.017349720956031836,
+            "disease": {
+              "id": "EFO_0000222",
+              "name": "acute myeloid leukemia"
+            }
+          },
+          {
+            "score": 0.01579020021579522,
+            "disease": {
+              "id": "EFO_0001071",
+              "name": "lung carcinoma"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

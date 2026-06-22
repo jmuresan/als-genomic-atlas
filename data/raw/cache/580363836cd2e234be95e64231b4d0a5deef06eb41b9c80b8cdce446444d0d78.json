@@ -1,0 +1,25 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "matrix_id": "MA0670.1",
+      "name": "NFIA",
+      "collection": "CORE",
+      "base_id": "MA0670",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/MA0670.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/MA0670.1/"
+    },
+    {
+      "matrix_id": "MA0670.2",
+      "name": "NFIA",
+      "collection": "CORE",
+      "base_id": "MA0670",
+      "version": "2",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/MA0670.2.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/MA0670.2/"
+    }
+  ]
+}

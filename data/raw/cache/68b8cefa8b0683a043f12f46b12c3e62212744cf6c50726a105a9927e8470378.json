@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr6",
+      "dataSource": "HAVANA",
+      "description": "FIG4 phosphoinositide 5-phosphatase [Source:HGNC Symbol;Acc:HGNC:16873]",
+      "end": 109825428,
+      "entrezGeneId": 9896,
+      "gencodeId": "ENSG00000112367.10",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "FIG4",
+      "geneSymbolUpper": "FIG4",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 109691312,
+      "strand": "+",
+      "tss": 109691312
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

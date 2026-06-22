@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr9",
+      "dataSource": "HAVANA",
+      "description": "chromosome 9 open reading frame 72 [Source:HGNC Symbol;Acc:HGNC:28337]",
+      "end": 27573866,
+      "entrezGeneId": 203228,
+      "gencodeId": "ENSG00000147894.14",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "C9orf72",
+      "geneSymbolUpper": "C9ORF72",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 27546545,
+      "strand": "-",
+      "tss": 27573866
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

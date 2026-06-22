@@ -1,0 +1,194 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01378026",
+          "orgStudyIdInfo": {
+            "id": "DMR100-IRB-069"
+          },
+          "organization": {
+            "fullName": "China Medical University Hospital",
+            "class": "OTHER"
+          },
+          "briefTitle": "Study of the Role of G72 in Amyotrophic Lateral Sclerosis: Biomarker Discovery and Mechanism Investigation"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2011-06",
+          "overallStatus": "UNKNOWN",
+          "lastKnownStatus": "NOT_YET_RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "studyFirstSubmitDate": "2011-06-20",
+          "studyFirstSubmitQcDate": "2011-06-20",
+          "studyFirstPostDateStruct": {
+            "date": "2011-06-22",
+            "type": "ESTIMATED"
+          },
+          "lastUpdateSubmitDate": "2011-06-20",
+          "lastUpdatePostDateStruct": {
+            "date": "2011-06-22",
+            "type": "ESTIMATED"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "oldNameTitle": "Hao-Teng Chang, Ph.D.",
+            "oldOrganization": "China Medical University"
+          },
+          "leadSponsor": {
+            "name": "China Medical University Hospital",
+            "class": "OTHER"
+          }
+        },
+        "descriptionModule": {
+          "briefSummary": "G72 gene is located on the common linkage locus in bipolar disorder and schizophrenia, and it encodes D-amino acid oxidase activator (DAOA). There are evidences that elucidated G72 and D-amino acid oxidase(DAO) together playing a critical role in the pathophysiology of schizophrenia. Recently, reports discovered missense mutations in the DAO (R199W DAO and R38H DAO) are associated with familial amyotrophic lateral sclerosis (FALS), and our preliminary data showed that the level of G72 autoantibody decreases in patients with ALS compared with normal control. Thus, we want to find out whether G72 plays a role in ALS and neurodegenerative diseases including Alzheimer disease and Parkinson's disease. First, we detect G72 protein and its autoantibody in sera of neurodegenerative diseases patients using ELISA and Western blotting, and the data are compared with normal control. We hypothesize the levels of G72 protein and its autoantibody in neurodegenerative diseases are less than those in normal control. Then, we extract genomic DNA of neurodegenerative diseases patients, and use polymerase chain reaction(PCR) to detect single nucleotide polymorphism (SNP) of G72. We aim to detect G72 missense SNP variants presented in ALS, AD and PD."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis",
+            "Alzheimer Disease",
+            "Parkinson's Disease"
+          ],
+          "keywords": [
+            "Amyotrophic Lateral Sclerosis",
+            "G72",
+            "SNP"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "designInfo": {
+            "observationalModel": "CASE_CONTROL",
+            "timePerspective": "RETROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "whole blood, serum and DNA"
+          },
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Alzheimer's Disease, Parkinson's disease and amyotrophic lateral sclerosis\n\nExclusion Criteria:\n\n\\-",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "32 Years",
+          "maximumAge": "87 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "patients were from Taipei city hospital-ZhongXiao branch.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            },
+            {
+              "id": "D000544",
+              "term": "Alzheimer Disease"
+            },
+            {
+              "id": "D010300",
+              "term": "Parkinson Disease"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            },
+            {
+              "id": "D003704",
+              "term": "Dementia"
+            },
+            {
+              "id": "D001927",
+              "term": "Brain Diseases"
+            },
+            {
+              "id": "D024801",
+              "term": "Tauopathies"
+            },
+            {
+              "id": "D019965",
+              "term": "Neurocognitive Disorders"
+            },
+            {
+              "id": "D001523",
+              "term": "Mental Disorders"
+            },
+            {
+              "id": "D020734",
+              "term": "Parkinsonian Disorders"
+            },
+            {
+              "id": "D001480",
+              "term": "Basal Ganglia Diseases"
+            },
+            {
+              "id": "D009069",
+              "term": "Movement Disorders"
+            },
+            {
+              "id": "D000080874",
+              "term": "Synucleinopathies"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ]
+}

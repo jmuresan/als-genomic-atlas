@@ -1,0 +1,58 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR005024",
+        "name": "Snf7 family",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF03357": "Snf7"
+          },
+          "panther": {
+            "PTHR10476": "CHARGED MULTIVESICULAR BODY PROTEIN",
+            "PTHR22761": "CHARGED MULTIVESICULAR BODY PROTEIN"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0007034",
+            "name": "vacuolar transport",
+            "category": {
+              "code": "P",
+              "name": "biological_process"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "q9uqn3",
+          "protein_length": 213,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 5,
+                  "end": 210,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

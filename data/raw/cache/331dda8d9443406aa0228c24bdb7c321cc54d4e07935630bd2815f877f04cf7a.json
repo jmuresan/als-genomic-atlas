@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr12",
+      "dataSource": "HAVANA",
+      "description": "D-amino acid oxidase [Source:HGNC Symbol;Acc:HGNC:2671]",
+      "end": 108901043,
+      "entrezGeneId": 1610,
+      "gencodeId": "ENSG00000110887.7",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "DAO",
+      "geneSymbolUpper": "DAO",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 108858932,
+      "strand": "+",
+      "tss": 108858932
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

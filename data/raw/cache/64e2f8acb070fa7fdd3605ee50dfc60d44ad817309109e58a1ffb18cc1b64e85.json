@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr3",
+      "dataSource": "HAVANA",
+      "description": "charged multivesicular body protein 2B [Source:HGNC Symbol;Acc:HGNC:24537]",
+      "end": 87255548,
+      "entrezGeneId": 25978,
+      "gencodeId": "ENSG00000083937.8",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "CHMP2B",
+      "geneSymbolUpper": "CHMP2B",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 87227271,
+      "strand": "+",
+      "tss": 87227271
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR002013",
+        "name": "SAC domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "profile": {
+            "PS50275": "Sac phosphatase domain profile"
+          },
+          "pfam": {
+            "PF02383": "SacI homology domain"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0016791",
+            "name": "phosphatase activity",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "q92562",
+          "protein_length": 907,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 93,
+                  "end": 547,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR043573",
+        "name": "Polyphosphoinositide phosphatase Fig4-like",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR45738": "POLYPHOSPHOINOSITIDE PHOSPHATASE"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0043813",
+            "name": "phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          },
+          {
+            "identifier": "GO:0046856",
+            "name": "phosphatidylinositol dephosphorylation",
+            "category": {
+              "code": "P",
+              "name": "biological_process"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "q92562",
+          "protein_length": 907,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 11,
+                  "end": 810,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

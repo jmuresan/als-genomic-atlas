@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "CHMP2B",
+      "associatedDiseases": {
+        "count": 412,
+        "rows": [
+          {
+            "score": 0.7726650520331655,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.7588695477940862,
+            "disease": {
+              "id": "MONDO_0017276",
+              "name": "frontotemporal dementia"
+            }
+          },
+          {
+            "score": 0.7461039022637662,
+            "disease": {
+              "id": "MONDO_0017160",
+              "name": "behavioral variant of frontotemporal dementia"
+            }
+          },
+          {
+            "score": 0.4640537050384787,
+            "disease": {
+              "id": "EFO_0000763",
+              "name": "viral disease"
+            }
+          },
+          {
+            "score": 0.462898767992589,
+            "disease": {
+              "id": "HP_0001332",
+              "name": "Dystonia"
+            }
+          },
+          {
+            "score": 0.4623443982105619,
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.4619748183558772,
+            "disease": {
+              "id": "EFO_0000764",
+              "name": "HIV infection"
+            }
+          },
+          {
+            "score": 0.46015375485735993,
+            "disease": {
+              "id": "MONDO_0008315",
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "score": 0.42883888433014955,
+            "disease": {
+              "id": "EFO_0001663",
+              "name": "prostate carcinoma"
+            }
+          },
+          {
+            "score": 0.37050380432141355,
+            "disease": {
+              "id": "MONDO_0100096",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0007105",
+              "name": "frontotemporal dementia and/or amyotrophic lateral sclerosis 1"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0000694",
+              "name": "severe acute respiratory syndrome"
+            }
+          },
+          {
+            "score": 0.2726758193036988,
+            "disease": {
+              "id": "EFO_1000941",
+              "name": "frozen shoulder"
+            }
+          },
+          {
+            "score": 0.26189263967809107,
+            "disease": {
+              "id": "EFO_0003893",
+              "name": "ovarian neoplasm"
+            }
+          },
+          {
+            "score": 0.2236949920818753,
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            }
+          },
+          {
+            "score": 0.21450982739182553,
+            "disease": {
+              "id": "EFO_0001074",
+              "name": "morbid obesity"
+            }
+          },
+          {
+            "score": 0.17916309500601527,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.1260088191348478,
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "score": 0.11826555349910459,
+            "disease": {
+              "id": "MONDO_0021095",
+              "name": "parkinsonian disorder"
+            }
+          },
+          {
+            "score": 0.11087395640541053,
+            "disease": {
+              "id": "EFO_0004718",
+              "name": "vascular dementia"
+            }
+          },
+          {
+            "score": 0.10410352435685846,
+            "disease": {
+              "id": "EFO_0000540",
+              "name": "immune system disease"
+            }
+          },
+          {
+            "score": 0.08293306302990024,
+            "disease": {
+              "id": "MONDO_0007254",
+              "name": "breast cancer"
+            }
+          },
+          {
+            "score": 0.08089603213291977,
+            "disease": {
+              "id": "Orphanet_101016",
+              "name": "Romano-Ward syndrome"
+            }
+          },
+          {
+            "score": 0.07561453941685711,
+            "disease": {
+              "id": "Orphanet_871",
+              "name": "Familial progressive cardiac conduction defect"
+            }
+          },
+          {
+            "score": 0.07346104893414472,
+            "disease": {
+              "id": "MONDO_0018054",
+              "name": "familial atrial fibrillation"
+            }
+          },
+          {
+            "score": 0.07289079748447329,
+            "disease": {
+              "id": "Orphanet_51083",
+              "name": "Familial short QT syndrome"
+            }
+          },
+          {
+            "score": 0.0704316541958296,
+            "disease": {
+              "id": "MONDO_0017990",
+              "name": "catecholaminergic polymorphic ventricular tachycardia"
+            }
+          },
+          {
+            "score": 0.07001433283680529,
+            "disease": {
+              "id": "MONDO_0015263",
+              "name": "Brugada syndrome"
+            }
+          },
+          {
+            "score": 0.06995016120328866,
+            "disease": {
+              "id": "EFO_0000713",
+              "name": "subarachnoid hemorrhage"
+            }
+          },
+          {
+            "score": 0.06839044207297042,
+            "disease": {
+              "id": "Orphanet_247",
+              "name": "Arrhythmogenic right ventricular dysplasia"
+            }
+          },
+          {
+            "score": 0.0671029211408277,
+            "disease": {
+              "id": "EFO_0000538",
+              "name": "hypertrophic cardiomyopathy"
+            }
+          },
+          {
+            "score": 0.0671029211408277,
+            "disease": {
+              "id": "Orphanet_99739",
+              "name": "Rare familial disorder with hypertrophic cardiomyopathy"
+            }
+          },
+          {
+            "score": 0.0645136158674202,
+            "disease": {
+              "id": "EFO_0003096",
+              "name": "Pick disease"
+            }
+          },
+          {
+            "score": 0.06329034479261371,
+            "disease": {
+              "id": "EFO_0000275",
+              "name": "atrial fibrillation"
+            }
+          },
+          {
+            "score": 0.06229308258064612,
+            "disease": {
+              "id": "EFO_0005537",
+              "name": "triple-negative breast cancer"
+            }
+          },
+          {
+            "score": 0.06190277776041413,
+            "disease": {
+              "id": "EFO_0004278",
+              "name": "sudden cardiac arrest"
+            }
+          },
+          {
+            "score": 0.06104537573119014,
+            "disease": {
+              "id": "MONDO_0005129",
+              "name": "cataract"
+            }
+          },
+          {
+            "score": 0.06055463257938094,
+            "disease": {
+              "id": "EFO_0003060",
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "score": 0.06009964866287772,
+            "disease": {
+              "id": "MONDO_0005148",
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.05906810027498246,
+            "disease": {
+              "id": "Orphanet_228140",
+              "name": "Idiopathic ventricular fibrillation, not Brugada type"
+            }
+          },
+          {
+            "score": 0.057696753691960735,
+            "disease": {
+              "id": "EFO_0000407",
+              "name": "dilated cardiomyopathy"
+            }
+          },
+          {
+            "score": 0.055274363066643996,
+            "disease": {
+              "id": "MONDO_0013960",
+              "name": "sinoatrial node dysfunction and deafness"
+            }
+          },
+          {
+            "score": 0.054824912898919095,
+            "disease": {
+              "id": "Orphanet_1344",
+              "name": "Atrial stand still"
+            }
+          },
+          {
+            "score": 0.05344124698740788,
+            "disease": {
+              "id": "MONDO_0100042",
+              "name": "cardiac conduction defect"
+            }
+          },
+          {
+            "score": 0.052221633466948365,
+            "disease": {
+              "id": "MONDO_0012736",
+              "name": "long QT syndrome 9"
+            }
+          },
+          {
+            "score": 0.05135681660698617,
+            "disease": {
+              "id": "MONDO_0013372",
+              "name": "long QT syndrome 5"
+            }
+          },
+          {
+            "score": 0.05129768383023661,
+            "disease": {
+              "id": "MONDO_0012313",
+              "name": "short QT syndrome type 2"
+            }
+          },
+          {
+            "score": 0.05124594265058075,
+            "disease": {
+              "id": "EFO_1001450",
+              "name": "Wolff-Parkinson-White Syndrome"
+            }
+          },
+          {
+            "score": 0.051244094751307326,
+            "disease": {
+              "id": "Orphanet_300751",
+              "name": "Familial dilated cardiomyopathy with conduction defect due to LMNA mutation"
+            }
+          },
+          {
+            "score": 0.05061396109906991,
+            "disease": {
+              "id": "Orphanet_983",
+              "name": "Testicular regression syndrome"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

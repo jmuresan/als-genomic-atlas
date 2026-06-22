@@ -1,0 +1,2723 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4820033",
+      "4811433",
+      "4811259",
+      "4810866",
+      "4810472",
+      "4807864",
+      "4807421",
+      "4805531",
+      "4800745",
+      "4799712",
+      "4797745",
+      "4781709",
+      "4779109",
+      "4777870",
+      "4776919",
+      "4770685",
+      "4770168",
+      "4766365",
+      "4764302",
+      "4750589"
+    ],
+    "4820033": {
+      "uid": "4820033",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004820033",
+      "accession_version": "VCV004820033.1",
+      "title": "NM_018834.6(MATR3):c.2051T>C (p.Leu684Ser)",
+      "variation_set": [
+        {
+          "measure_id": "4931137",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.2051T>C (p.Leu684Ser)",
+          "cdna_change": "c.2051T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139322870",
+              "stop": "139322870",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139322870",
+              "display_stop": "139322870",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138658559",
+              "stop": "138658559",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138658559",
+              "display_stop": "138658559",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139322869:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007540491"
+        ],
+        "rcv": [
+          "RCV006649692"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/04/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0002736"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0004976"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007354"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LOC126807526",
+      "chr_sort": "05",
+      "location_sort": "00000000000139322870",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LOC126807526",
+          "geneid": "126807526",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "L346S, L384S, L396S, L397S, L684S",
+      "fda_recognized_database": ""
+    },
+    "4811433": {
+      "uid": "4811433",
+      "obj_type": "Deletion",
+      "accession": "VCV004811433",
+      "accession_version": "VCV004811433.1",
+      "title": "NM_018834.6(MATR3):c.1778+7del",
+      "variation_set": [
+        {
+          "measure_id": "4914771",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.1778+7del",
+          "cdna_change": "NM_018834.6(MATR3):c.1778+7del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139322511",
+              "stop": "139322511",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139322511",
+              "display_stop": "139322511",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138658200",
+              "stop": "138658200",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138658200",
+              "display_stop": "138658200",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000005.10:139322510:TTT:TT",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007515179"
+        ],
+        "rcv": [
+          "RCV006632311"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/11/24 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139322511",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "LOC126807526",
+          "geneid": "126807526",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4811259": {
+      "uid": "4811259",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004811259",
+      "accession_version": "VCV004811259.1",
+      "title": "NM_018834.6(MATR3):c.129A>G (p.Gly43=)",
+      "variation_set": [
+        {
+          "measure_id": "4914598",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.129A>G (p.Gly43=)",
+          "cdna_change": "c.129A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139307544",
+              "stop": "139307544",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139307544",
+              "display_stop": "139307544",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138643233",
+              "stop": "138643233",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138643233",
+              "display_stop": "138643233",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139307543:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007514961"
+        ],
+        "rcv": [
+          "RCV006632137"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/09/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139307544",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4810866": {
+      "uid": "4810866",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004810866",
+      "accession_version": "VCV004810866.1",
+      "title": "NM_018834.6(MATR3):c.423C>T (p.Ile141=)",
+      "variation_set": [
+        {
+          "measure_id": "4922454",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.423C>T (p.Ile141=)",
+          "cdna_change": "c.423C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139307838",
+              "stop": "139307838",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139307838",
+              "display_stop": "139307838",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138643527",
+              "stop": "138643527",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138643527",
+              "display_stop": "138643527",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139307837:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007514447"
+        ],
+        "rcv": [
+          "RCV006630381"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/11 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139307838",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4810472": {
+      "uid": "4810472",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004810472",
+      "accession_version": "VCV004810472.1",
+      "title": "NM_018834.6(MATR3):c.267T>C (p.Ile89=)",
+      "variation_set": [
+        {
+          "measure_id": "4922929",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.267T>C (p.Ile89=)",
+          "cdna_change": "c.267T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139307682",
+              "stop": "139307682",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139307682",
+              "display_stop": "139307682",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138643371",
+              "stop": "138643371",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138643371",
+              "display_stop": "138643371",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139307681:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007513960"
+        ],
+        "rcv": [
+          "RCV006628502"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/05/22 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139307682",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4807864": {
+      "uid": "4807864",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004807864",
+      "accession_version": "VCV004807864.1",
+      "title": "NM_018834.6(MATR3):c.2123C>T (p.Ala708Val)",
+      "variation_set": [
+        {
+          "measure_id": "4921102",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.2123C>T (p.Ala708Val)",
+          "cdna_change": "c.2123C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139322942",
+              "stop": "139322942",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139322942",
+              "display_stop": "139322942",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138658631",
+              "stop": "138658631",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138658631",
+              "display_stop": "138658631",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139322941:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007510644"
+        ],
+        "rcv": [
+          "RCV006632710"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/10/22 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139322942",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "LOC126807526",
+          "geneid": "126807526",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "A370V, A408V, A420V, A421V, A708V",
+      "fda_recognized_database": ""
+    },
+    "4807421": {
+      "uid": "4807421",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004807421",
+      "accession_version": "VCV004807421.1",
+      "title": "NM_018834.6(MATR3):c.242A>G (p.His81Arg)",
+      "variation_set": [
+        {
+          "measure_id": "4910798",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.242A>G (p.His81Arg)",
+          "cdna_change": "c.242A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139307657",
+              "stop": "139307657",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139307657",
+              "display_stop": "139307657",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138643346",
+              "stop": "138643346",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138643346",
+              "display_stop": "138643346",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139307656:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007510084"
+        ],
+        "rcv": [
+          "RCV006623989"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/09/27 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139307657",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "intron variant"
+      ],
+      "protein_change": "H81R",
+      "fda_recognized_database": ""
+    },
+    "4805531": {
+      "uid": "4805531",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004805531",
+      "accession_version": "VCV004805531.1",
+      "title": "NM_018834.6(MATR3):c.2381A>G (p.Tyr794Cys)",
+      "variation_set": [
+        {
+          "measure_id": "4910220",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.2381A>G (p.Tyr794Cys)",
+          "cdna_change": "c.2381A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139326172",
+              "stop": "139326172",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139326172",
+              "display_stop": "139326172",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138661861",
+              "stop": "138661861",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138661861",
+              "display_stop": "138661861",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139326171:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007507707"
+        ],
+        "rcv": [
+          "RCV006623587"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/09/21 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139326172",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "Y456C, Y494C, Y504C, Y506C, Y507C, Y794C, Y842C",
+      "fda_recognized_database": ""
+    },
+    "4800745": {
+      "uid": "4800745",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004800745",
+      "accession_version": "VCV004800745.1",
+      "title": "NM_018834.6(MATR3):c.101A>G (p.Gln34Arg)",
+      "variation_set": [
+        {
+          "measure_id": "4919195",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.101A>G (p.Gln34Arg)",
+          "cdna_change": "c.101A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139307516",
+              "stop": "139307516",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139307516",
+              "display_stop": "139307516",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138643205",
+              "stop": "138643205",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138643205",
+              "display_stop": "138643205",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139307515:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007502579"
+        ],
+        "rcv": [
+          "RCV006614869"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/06/11 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139307516",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "intron variant"
+      ],
+      "protein_change": "Q34R",
+      "fda_recognized_database": ""
+    },
+    "4799712": {
+      "uid": "4799712",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004799712",
+      "accession_version": "VCV004799712.1",
+      "title": "NM_018834.6(MATR3):c.1015A>G (p.Met339Val)",
+      "variation_set": [
+        {
+          "measure_id": "4915558",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.1015A>G (p.Met339Val)",
+          "cdna_change": "c.1015A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139315737",
+              "stop": "139315737",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139315737",
+              "display_stop": "139315737",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138651426",
+              "stop": "138651426",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138651426",
+              "display_stop": "138651426",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139315736:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007500352"
+        ],
+        "rcv": [
+          "RCV006622226"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/10/28 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139315737",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "initiator_codon_variant"
+      ],
+      "protein_change": "M1V, M339V, M39V, M51V, M52V",
+      "fda_recognized_database": ""
+    },
+    "4797745": {
+      "uid": "4797745",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004797745",
+      "accession_version": "VCV004797745.1",
+      "title": "NM_018834.6(MATR3):c.960G>C (p.Gln320His)",
+      "variation_set": [
+        {
+          "measure_id": "4914891",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.960G>C (p.Gln320His)",
+          "cdna_change": "c.960G>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139314722",
+              "stop": "139314722",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139314722",
+              "display_stop": "139314722",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138650411",
+              "stop": "138650411",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138650411",
+              "display_stop": "138650411",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139314721:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007497670"
+        ],
+        "rcv": [
+          "RCV006621747"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/11/01 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139314722",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "5 prime UTR variant",
+        "intron variant"
+      ],
+      "protein_change": "Q20H, Q320H, Q32H, Q33H",
+      "fda_recognized_database": ""
+    },
+    "4781709": {
+      "uid": "4781709",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004781709",
+      "accession_version": "VCV004781709.1",
+      "title": "NM_018834.6(MATR3):c.2231G>T (p.Gly744Val)",
+      "variation_set": [
+        {
+          "measure_id": "4893235",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.2231G>T (p.Gly744Val)",
+          "cdna_change": "c.2231G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139325522",
+              "stop": "139325522",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139325522",
+              "display_stop": "139325522",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138661211",
+              "stop": "138661211",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138661211",
+              "display_stop": "138661211",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139325521:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007475643"
+        ],
+        "rcv": [
+          "RCV006597823"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/02/17 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139325522",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "G406V, G454V, G744V, G444V, G456V, G457V, G792V",
+      "fda_recognized_database": ""
+    },
+    "4779109": {
+      "uid": "4779109",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004779109",
+      "accession_version": "VCV004779109.1",
+      "title": "NM_018834.6(MATR3):c.1779-5T>A",
+      "variation_set": [
+        {
+          "measure_id": "4888046",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.1779-5T>A",
+          "cdna_change": "NM_018834.6(MATR3):c.1779-5T>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139322593",
+              "stop": "139322593",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139322593",
+              "display_stop": "139322593",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138658282",
+              "stop": "138658282",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138658282",
+              "display_stop": "138658282",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139322592:T:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007472613"
+        ],
+        "rcv": [
+          "RCV006579957"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/01/17 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LOC126807526",
+      "chr_sort": "05",
+      "location_sort": "00000000000139322593",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LOC126807526",
+          "geneid": "126807526",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4777870": {
+      "uid": "4777870",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004777870",
+      "accession_version": "VCV004777870.1",
+      "title": "NM_018834.6(MATR3):c.211A>G (p.Ser71Gly)",
+      "variation_set": [
+        {
+          "measure_id": "4885511",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.211A>G (p.Ser71Gly)",
+          "cdna_change": "c.211A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139307626",
+              "stop": "139307626",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139307626",
+              "display_stop": "139307626",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138643315",
+              "stop": "138643315",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138643315",
+              "display_stop": "138643315",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139307625:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007471218"
+        ],
+        "rcv": [
+          "RCV006584829"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/06/09 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139307626",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "intron variant"
+      ],
+      "protein_change": "S71G",
+      "fda_recognized_database": ""
+    },
+    "4776919": {
+      "uid": "4776919",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004776919",
+      "accession_version": "VCV004776919.1",
+      "title": "NM_018834.6(MATR3):c.1883A>C (p.Glu628Ala)",
+      "variation_set": [
+        {
+          "measure_id": "4889506",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.1883A>C (p.Glu628Ala)",
+          "cdna_change": "c.1883A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139322702",
+              "stop": "139322702",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139322702",
+              "display_stop": "139322702",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138658391",
+              "stop": "138658391",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138658391",
+              "display_stop": "138658391",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139322701:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007470104"
+        ],
+        "rcv": [
+          "RCV006574295"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/03/21 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139322702",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "LOC126807526",
+          "geneid": "126807526",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "E328A, E290A, E341A, E628A, E340A",
+      "fda_recognized_database": ""
+    },
+    "4770685": {
+      "uid": "4770685",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004770685",
+      "accession_version": "VCV004770685.1",
+      "title": "NM_018834.6(MATR3):c.1494A>T (p.Ile498=)",
+      "variation_set": [
+        {
+          "measure_id": "4883962",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.1494A>T (p.Ile498=)",
+          "cdna_change": "c.1494A>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139319393",
+              "stop": "139319393",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139319393",
+              "display_stop": "139319393",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138655082",
+              "stop": "138655082",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138655082",
+              "display_stop": "138655082",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139319392:A:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007462837"
+        ],
+        "rcv": [
+          "RCV006572524"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/12/21 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139319393",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4770168": {
+      "uid": "4770168",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004770168",
+      "accession_version": "VCV004770168.1",
+      "title": "NM_018834.6(MATR3):c.1512G>C (p.Pro504=)",
+      "variation_set": [
+        {
+          "measure_id": "4873682",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.1512G>C (p.Pro504=)",
+          "cdna_change": "c.1512G>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139319411",
+              "stop": "139319411",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139319411",
+              "display_stop": "139319411",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138655100",
+              "stop": "138655100",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138655100",
+              "display_stop": "138655100",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139319410:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007462446"
+        ],
+        "rcv": [
+          "RCV006587542"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/12/15 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139319411",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4766365": {
+      "uid": "4766365",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004766365",
+      "accession_version": "VCV004766365.1",
+      "title": "NM_018834.6(MATR3):c.1778+12T>C",
+      "variation_set": [
+        {
+          "measure_id": "4875923",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.1778+12T>C",
+          "cdna_change": "NM_018834.6(MATR3):c.1778+12T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139322518",
+              "stop": "139322518",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139322518",
+              "display_stop": "139322518",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138658207",
+              "stop": "138658207",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138658207",
+              "display_stop": "138658207",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139322517:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007458107"
+        ],
+        "rcv": [
+          "RCV006586715"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/18 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LOC126807526",
+      "chr_sort": "05",
+      "location_sort": "00000000000139322518",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LOC126807526",
+          "geneid": "126807526",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4764302": {
+      "uid": "4764302",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004764302",
+      "accession_version": "VCV004764302.1",
+      "title": "NM_018834.6(MATR3):c.2127A>G (p.Ala709=)",
+      "variation_set": [
+        {
+          "measure_id": "4875158",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.2127A>G (p.Ala709=)",
+          "cdna_change": "c.2127A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139322946",
+              "stop": "139322946",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139322946",
+              "display_stop": "139322946",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138658635",
+              "stop": "138658635",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138658635",
+              "display_stop": "138658635",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139322945:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007455346"
+        ],
+        "rcv": [
+          "RCV006586140"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/04/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139322946",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "LOC126807526",
+          "geneid": "126807526",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4750589": {
+      "uid": "4750589",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004750589",
+      "accession_version": "VCV004750589.1",
+      "title": "NM_018834.6(MATR3):c.2134A>G (p.Lys712Glu)",
+      "variation_set": [
+        {
+          "measure_id": "4865413",
+          "variation_xrefs": [],
+          "variation_name": "NM_018834.6(MATR3):c.2134A>G (p.Lys712Glu)",
+          "cdna_change": "c.2134A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "139322953",
+              "stop": "139322953",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "139322953",
+              "display_stop": "139322953",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "5",
+              "band": "5q31.2",
+              "start": "138658642",
+              "stop": "138658642",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "138658642",
+              "display_stop": "138658642",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000005.10:139322952:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007431836"
+        ],
+        "rcv": [
+          "RCV006534758"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/07/15 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "600"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3807521"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011632"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "606070"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 21"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MATR3",
+      "chr_sort": "05",
+      "location_sort": "00000000000139322953",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MATR3",
+          "geneid": "9782",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "LOC126807526",
+          "geneid": "126807526",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "K374E, K712E, K424E, K425E, K412E",
+      "fda_recognized_database": ""
+    }
+  }
+}

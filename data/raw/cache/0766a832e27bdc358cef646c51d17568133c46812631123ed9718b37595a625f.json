@@ -1,0 +1,97 @@
+{
+  "count": 44,
+  "next": "https://jaspar.elixir.no/api/v1/matrix/?page=2&search=FUS",
+  "previous": null,
+  "results": [
+    {
+      "matrix_id": "UN0114.1",
+      "name": "BCL11B",
+      "collection": "UNVALIDATED",
+      "base_id": "UN0114",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/UN0114.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/UN0114.1/"
+    },
+    {
+      "matrix_id": "UN1156.1",
+      "name": "CREB1::ERG",
+      "collection": "UNVALIDATED",
+      "base_id": "UN1156",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/UN1156.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/UN1156.1/"
+    },
+    {
+      "matrix_id": "MA0474.2",
+      "name": "ERG",
+      "collection": "CORE",
+      "base_id": "MA0474",
+      "version": "2",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/MA0474.2.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/MA0474.2/"
+    },
+    {
+      "matrix_id": "UN0977.1",
+      "name": "ERG::TBX21",
+      "collection": "UNVALIDATED",
+      "base_id": "UN0977",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/UN0977.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/UN0977.1/"
+    },
+    {
+      "matrix_id": "UN1196.1",
+      "name": "ERG::TBX6",
+      "collection": "UNVALIDATED",
+      "base_id": "UN1196",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/UN1196.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/UN1196.1/"
+    },
+    {
+      "matrix_id": "MA0645.1",
+      "name": "ETV6",
+      "collection": "CORE",
+      "base_id": "MA0645",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/MA0645.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/MA0645.1/"
+    },
+    {
+      "matrix_id": "MA0645.2",
+      "name": "ETV6",
+      "collection": "CORE",
+      "base_id": "MA0645",
+      "version": "2",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/MA0645.2.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/MA0645.2/"
+    },
+    {
+      "matrix_id": "UN1010.1",
+      "name": "FOXB1::TCF3",
+      "collection": "UNVALIDATED",
+      "base_id": "UN1010",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/UN1010.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/UN1010.1/"
+    },
+    {
+      "matrix_id": "UN1012.1",
+      "name": "FOXC2::TCF3",
+      "collection": "UNVALIDATED",
+      "base_id": "UN1012",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/UN1012.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/UN1012.1/"
+    },
+    {
+      "matrix_id": "UN1013.1",
+      "name": "FOXD2::TCF3",
+      "collection": "UNVALIDATED",
+      "base_id": "UN1013",
+      "version": "1",
+      "sequence_logo": "https://jaspar.elixir.no/static/logos/svg/UN1013.1.svg",
+      "url": "https://jaspar.elixir.no/api/v1/matrix/UN1013.1/"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr1",
+      "dataSource": "HAVANA",
+      "description": "FGGY carbohydrate kinase domain containing [Source:HGNC Symbol;Acc:HGNC:25610]",
+      "end": 59810647,
+      "entrezGeneId": 55277,
+      "gencodeId": "ENSG00000172456.17",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "FGGY",
+      "geneSymbolUpper": "FGGY",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 59296638,
+      "strand": "+",
+      "tss": 59296638
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

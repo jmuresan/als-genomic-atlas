@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "582",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4820033",
+      "4811433",
+      "4811259",
+      "4810866",
+      "4810472",
+      "4807864",
+      "4807421",
+      "4805531",
+      "4800745",
+      "4799712",
+      "4797745",
+      "4781709",
+      "4779109",
+      "4777870",
+      "4776919",
+      "4770685",
+      "4770168",
+      "4766365",
+      "4764302",
+      "4750589"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "MATR3[gene]",
+        "field": "gene",
+        "count": "736",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "MATR3[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

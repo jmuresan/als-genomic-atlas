@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr12",
+      "dataSource": "HAVANA",
+      "description": "kinesin family member 5A [Source:HGNC Symbol;Acc:HGNC:6323]",
+      "end": 57586632,
+      "entrezGeneId": 3798,
+      "gencodeId": "ENSG00000155980.11",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "KIF5A",
+      "geneSymbolUpper": "KIF5A",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 57549998,
+      "strand": "+",
+      "tss": 57549998
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

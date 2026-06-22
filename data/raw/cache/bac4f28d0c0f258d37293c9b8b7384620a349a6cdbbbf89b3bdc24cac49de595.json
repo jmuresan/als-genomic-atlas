@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "148",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4820029",
+      "4794131",
+      "4793051",
+      "4790726",
+      "4788375",
+      "4787876",
+      "4787802",
+      "4787439",
+      "4787017",
+      "4787016",
+      "4784838",
+      "4783343",
+      "4531908",
+      "4078278",
+      "3896799",
+      "3896798",
+      "3763852",
+      "3763154",
+      "3757285",
+      "3752478"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "CHMP2B[gene]",
+        "field": "gene",
+        "count": "218",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "CHMP2B[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

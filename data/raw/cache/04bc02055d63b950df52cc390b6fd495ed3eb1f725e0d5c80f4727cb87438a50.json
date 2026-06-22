@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "DAO",
+      "associatedDiseases": {
+        "count": 274,
+        "rows": [
+          {
+            "score": 0.4722124357810391,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.312892801990394,
+            "disease": {
+              "id": "EFO_0005670",
+              "name": "smoking initiation"
+            }
+          },
+          {
+            "score": 0.3052834144267129,
+            "disease": {
+              "id": "EFO_0000326",
+              "name": "central nervous system cancer"
+            }
+          },
+          {
+            "score": 0.24731180355146323,
+            "disease": {
+              "id": "MONDO_0002040",
+              "name": "dermatomycosis"
+            }
+          },
+          {
+            "score": 0.21803087290038997,
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "score": 0.20685650912681014,
+            "disease": {
+              "id": "MONDO_0005090",
+              "name": "schizophrenia"
+            }
+          },
+          {
+            "score": 0.18971254220655723,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.0839989979380611,
+            "disease": {
+              "id": "EFO_0000182",
+              "name": "hepatocellular carcinoma"
+            }
+          },
+          {
+            "score": 0.0640549518475586,
+            "disease": {
+              "id": "MONDO_0005277",
+              "name": "migraine disorder"
+            }
+          },
+          {
+            "score": 0.052581243010732796,
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "score": 0.05163961247257606,
+            "disease": {
+              "id": "HP_0000739",
+              "name": "Anxiety"
+            }
+          },
+          {
+            "score": 0.049187382859986965,
+            "disease": {
+              "id": "MONDO_0009345",
+              "name": "histidinemia"
+            }
+          },
+          {
+            "score": 0.04673131940346563,
+            "disease": {
+              "id": "EFO_0000712",
+              "name": "stroke"
+            }
+          },
+          {
+            "score": 0.04087552093905303,
+            "disease": {
+              "id": "EFO_0000349",
+              "name": "clear cell renal carcinoma"
+            }
+          },
+          {
+            "score": 0.03669927957019089,
+            "disease": {
+              "id": "MONDO_0009400",
+              "name": "hyperprolinemia type 1"
+            }
+          },
+          {
+            "score": 0.035856637501509775,
+            "disease": {
+              "id": "EFO_0000365",
+              "name": "colorectal adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.03400134663099257,
+            "disease": {
+              "id": "EFO_0009448",
+              "name": "pulmonary fibrosis"
+            }
+          },
+          {
+            "score": 0.03266863308499157,
+            "disease": {
+              "id": "EFO_0003888",
+              "name": "attention deficit hyperactivity disorder"
+            }
+          },
+          {
+            "score": 0.03264045262107186,
+            "disease": {
+              "id": "EFO_0005687",
+              "name": "fibromyalgia"
+            }
+          },
+          {
+            "score": 0.030753929448531368,
+            "disease": {
+              "id": "EFO_0000729",
+              "name": "ulcerative colitis"
+            }
+          },
+          {
+            "score": 0.028372129309379074,
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            }
+          },
+          {
+            "score": 0.028199503607746673,
+            "disease": {
+              "id": "HP_0100543",
+              "name": "Cognitive impairment"
+            }
+          },
+          {
+            "score": 0.027890549055922514,
+            "disease": {
+              "id": "MONDO_0001056",
+              "name": "gastric cancer"
+            }
+          },
+          {
+            "score": 0.02730547516945948,
+            "disease": {
+              "id": "EFO_0000544",
+              "name": "infection"
+            }
+          },
+          {
+            "score": 0.02622057192738905,
+            "disease": {
+              "id": "EFO_0003767",
+              "name": "inflammatory bowel disease"
+            }
+          },
+          {
+            "score": 0.025516702944863013,
+            "disease": {
+              "id": "HP_0100806",
+              "name": "Sepsis"
+            }
+          },
+          {
+            "score": 0.024847354365062867,
+            "disease": {
+              "id": "MONDO_0001627",
+              "name": "dementia"
+            }
+          },
+          {
+            "score": 0.02317278400866978,
+            "disease": {
+              "id": "MONDO_0012382",
+              "name": "hyperinsulinemic hypoglycemia, familial, 4"
+            }
+          },
+          {
+            "score": 0.021662923182343797,
+            "disease": {
+              "id": "MONDO_0100053",
+              "name": "anaphylaxis"
+            }
+          },
+          {
+            "score": 0.020881261789685655,
+            "disease": {
+              "id": "EFO_1000660",
+              "name": "acanthosis nigricans"
+            }
+          },
+          {
+            "score": 0.02064267746127253,
+            "disease": {
+              "id": "EFO_0003086",
+              "name": "kidney disease"
+            }
+          },
+          {
+            "score": 0.019587732298289195,
+            "disease": {
+              "id": "HP_0001251",
+              "name": "Ataxia"
+            }
+          },
+          {
+            "score": 0.018348403006182415,
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            }
+          },
+          {
+            "score": 0.01829420280689274,
+            "disease": {
+              "id": "EFO_0000713",
+              "name": "subarachnoid hemorrhage"
+            }
+          },
+          {
+            "score": 0.01817100952199784,
+            "disease": {
+              "id": "HP_0001394",
+              "name": "Cirrhosis"
+            }
+          },
+          {
+            "score": 0.0181211162416154,
+            "disease": {
+              "id": "EFO_0000495",
+              "name": "fetal growth restriction"
+            }
+          },
+          {
+            "score": 0.017000673315496286,
+            "disease": {
+              "id": "HP_0002140",
+              "name": "Ischemic stroke"
+            }
+          },
+          {
+            "score": 0.016631093460811583,
+            "disease": {
+              "id": "EFO_0008521",
+              "name": "rhinitis"
+            }
+          },
+          {
+            "score": 0.01623718411400623,
+            "disease": {
+              "id": "EFO_0000384",
+              "name": "Crohn's disease"
+            }
+          },
+          {
+            "score": 0.016207719205056106,
+            "disease": {
+              "id": "EFO_0005854",
+              "name": "allergic rhinitis"
+            }
+          },
+          {
+            "score": 0.015118295395244268,
+            "disease": {
+              "id": "MONDO_0004985",
+              "name": "bipolar disorder"
+            }
+          },
+          {
+            "score": 0.014598404260045723,
+            "disease": {
+              "id": "EFO_1000653",
+              "name": "sarcopenia"
+            }
+          },
+          {
+            "score": 0.014567605938821997,
+            "disease": {
+              "id": "EFO_0005543",
+              "name": "glioma"
+            }
+          },
+          {
+            "score": 0.014176314798498365,
+            "disease": {
+              "id": "EFO_0000305",
+              "name": "breast carcinoma"
+            }
+          },
+          {
+            "score": 0.013967202327414538,
+            "disease": {
+              "id": "MONDO_0002050",
+              "name": "depressive disorder"
+            }
+          },
+          {
+            "score": 0.013345939196947565,
+            "disease": {
+              "id": "EFO_0004698",
+              "name": "insomnia"
+            }
+          },
+          {
+            "score": 0.013099552627157764,
+            "disease": {
+              "id": "EFO_0003033",
+              "name": "bacteriemia"
+            }
+          },
+          {
+            "score": 0.012996891556412012,
+            "disease": {
+              "id": "EFO_0004194",
+              "name": "IGA glomerulonephritis"
+            }
+          },
+          {
+            "score": 0.012917431887654802,
+            "disease": {
+              "id": "EFO_1001951",
+              "name": "colorectal carcinoma"
+            }
+          },
+          {
+            "score": 0.01262731170172731,
+            "disease": {
+              "id": "EFO_0000400",
+              "name": "diabetes mellitus"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

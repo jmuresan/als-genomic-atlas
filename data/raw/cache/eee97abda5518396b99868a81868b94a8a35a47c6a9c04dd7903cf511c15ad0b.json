@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr12",
+      "dataSource": "HAVANA",
+      "description": "heterogeneous nuclear ribonucleoprotein A1 [Source:HGNC Symbol;Acc:HGNC:5031]",
+      "end": 54287088,
+      "entrezGeneId": 3178,
+      "gencodeId": "ENSG00000135486.17",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "HNRNPA1",
+      "geneSymbolUpper": "HNRNPA1",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 54280193,
+      "strand": "+",
+      "tss": 54280193
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

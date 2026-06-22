@@ -1,0 +1,3014 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4796512",
+      "4737635",
+      "4709542",
+      "3896893",
+      "3721627",
+      "3713291",
+      "3705373",
+      "3372319",
+      "2730164",
+      "2181708",
+      "2152154",
+      "2142859",
+      "1693310",
+      "1515963",
+      "1503447",
+      "1501315",
+      "1497382",
+      "1476961",
+      "1458651",
+      "1410143"
+    ],
+    "4796512": {
+      "uid": "4796512",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004796512",
+      "accession_version": "VCV004796512.1",
+      "title": "NM_004984.4(KIF5A):c.2545C>G (p.Arg849Gly)",
+      "variation_set": [
+        {
+          "measure_id": "4907691",
+          "variation_xrefs": [],
+          "variation_name": "NM_004984.4(KIF5A):c.2545C>G (p.Arg849Gly)",
+          "cdna_change": "c.2545C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57580962",
+              "stop": "57580962",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57580962",
+              "display_stop": "57580962",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57974745",
+              "stop": "57974745",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57974745",
+              "display_stop": "57974745",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57580961:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007495761"
+        ],
+        "rcv": [
+          "RCV006605974"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C4310658"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014979"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "617235"
+              }
+            ],
+            "trait_name": "Myoclonus, intractable, neonatal"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "100991"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858712"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011408"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604187"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 10"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C4693609"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0060670"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "617921"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis, susceptibility to, 25"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057580962",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "R760G, R849G",
+      "fda_recognized_database": ""
+    },
+    "4737635": {
+      "uid": "4737635",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004737635",
+      "accession_version": "VCV004737635.1",
+      "title": "NM_004984.4(KIF5A):c.3020+2T>C",
+      "variation_set": [
+        {
+          "measure_id": "4853778",
+          "variation_xrefs": [],
+          "variation_name": "NM_004984.4(KIF5A):c.3020+2T>C",
+          "cdna_change": "NM_004984.4(KIF5A):c.3020+2T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57582631",
+              "stop": "57582631",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57582631",
+              "display_stop": "57582631",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57976414",
+              "stop": "57976414",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57976414",
+              "display_stop": "57976414",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57582630:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007406018"
+        ],
+        "rcv": [
+          "RCV006516857"
+        ]
+      },
+      "germline_classification": {
+        "description": "Pathogenic",
+        "last_evaluated": "2025/04/08 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057582631",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "splice donor variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4709542": {
+      "uid": "4709542",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004709542",
+      "accession_version": "VCV004709542.1",
+      "title": "NM_004984.4(KIF5A):c.86A>G (p.Lys29Arg)",
+      "variation_set": [
+        {
+          "measure_id": "4827544",
+          "variation_xrefs": [],
+          "variation_name": "NM_004984.4(KIF5A):c.86A>G (p.Lys29Arg)",
+          "cdna_change": "c.86A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57550357",
+              "stop": "57550357",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57550357",
+              "display_stop": "57550357",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57944140",
+              "stop": "57944140",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57944140",
+              "display_stop": "57944140",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57550356:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007373930"
+        ],
+        "rcv": [
+          "RCV006504805"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/01/30 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057550357",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "K29R",
+      "fda_recognized_database": ""
+    },
+    "3896893": {
+      "uid": "3896893",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003896893",
+      "accession_version": "VCV003896893.1",
+      "title": "NM_004984.4(KIF5A):c.2993G>T (p.Gly998Val)",
+      "variation_set": [
+        {
+          "measure_id": "4012753",
+          "variation_xrefs": [],
+          "variation_name": "NM_004984.4(KIF5A):c.2993G>T (p.Gly998Val)",
+          "cdna_change": "c.2993G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57582602",
+              "stop": "57582602",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57582602",
+              "display_stop": "57582602",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57976385",
+              "stop": "57976385",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57976385",
+              "display_stop": "57976385",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57582601:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006075008"
+        ],
+        "rcv": [
+          "RCV005410215"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/04/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C4693609"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0060670"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "617921"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis, susceptibility to, 25"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057582602",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "G909V, G998V",
+      "fda_recognized_database": ""
+    },
+    "3721627": {
+      "uid": "3721627",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003721627",
+      "accession_version": "VCV003721627.2",
+      "title": "NM_004984.4(KIF5A):c.1630C>T (p.Arg544Ter)",
+      "variation_set": [
+        {
+          "measure_id": "3850128",
+          "variation_xrefs": [],
+          "variation_name": "NM_004984.4(KIF5A):c.1630C>T (p.Arg544Ter)",
+          "cdna_change": "c.1630C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57572640",
+              "stop": "57572640",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57572640",
+              "display_stop": "57572640",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57966423",
+              "stop": "57966423",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57966423",
+              "display_stop": "57966423",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57572639:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005836399"
+        ],
+        "rcv": [
+          "RCV005195460"
+        ]
+      },
+      "germline_classification": {
+        "description": "Pathogenic",
+        "last_evaluated": "2024/09/27 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057572640",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "nonsense"
+      ],
+      "protein_change": "R455*, R544*",
+      "fda_recognized_database": ""
+    },
+    "3713291": {
+      "uid": "3713291",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003713291",
+      "accession_version": "VCV003713291.2",
+      "title": "NM_004984.4(KIF5A):c.1624C>A (p.His542Asn)",
+      "variation_set": [
+        {
+          "measure_id": "3837676",
+          "variation_xrefs": [],
+          "variation_name": "NM_004984.4(KIF5A):c.1624C>A (p.His542Asn)",
+          "cdna_change": "c.1624C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57572634",
+              "stop": "57572634",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57572634",
+              "display_stop": "57572634",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57966417",
+              "stop": "57966417",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57966417",
+              "display_stop": "57966417",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57572633:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005825060"
+        ],
+        "rcv": [
+          "RCV005193658"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/08/15 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057572634",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "H453N, H542N",
+      "fda_recognized_database": ""
+    },
+    "3705373": {
+      "uid": "3705373",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003705373",
+      "accession_version": "VCV003705373.2",
+      "title": "NM_004984.4(KIF5A):c.1763G>A (p.Arg588Gln)",
+      "variation_set": [
+        {
+          "measure_id": "3846152",
+          "variation_xrefs": [],
+          "variation_name": "NM_004984.4(KIF5A):c.1763G>A (p.Arg588Gln)",
+          "cdna_change": "c.1763G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57575130",
+              "stop": "57575130",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57575130",
+              "display_stop": "57575130",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57968913",
+              "stop": "57968913",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57968913",
+              "display_stop": "57968913",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57575129:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005814202"
+        ],
+        "rcv": [
+          "RCV005181774"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/08/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057575130",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "R499Q, R588Q",
+      "fda_recognized_database": ""
+    },
+    "3372319": {
+      "uid": "3372319",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003372319",
+      "accession_version": "VCV003372319.1",
+      "title": "NM_004984.4(KIF5A):c.340C>T (p.Arg114Ter)",
+      "variation_set": [
+        {
+          "measure_id": "3531509",
+          "variation_xrefs": [],
+          "variation_name": "NM_004984.4(KIF5A):c.340C>T (p.Arg114Ter)",
+          "cdna_change": "c.340C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57564156",
+              "stop": "57564156",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57564156",
+              "display_stop": "57564156",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57957939",
+              "stop": "57957939",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57957939",
+              "display_stop": "57957939",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57564155:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005392193"
+        ],
+        "rcv": [
+          "RCV004781071"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2024/04/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057564156",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "nonsense",
+        "intron variant"
+      ],
+      "protein_change": "R114*",
+      "fda_recognized_database": ""
+    },
+    "2730164": {
+      "uid": "2730164",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV002730164",
+      "accession_version": "VCV002730164.3",
+      "title": "NM_004984.4(KIF5A):c.1729A>G (p.Ser577Gly)",
+      "variation_set": [
+        {
+          "measure_id": "2886765",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA6652914"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "754373609"
+            }
+          ],
+          "variation_name": "NM_004984.4(KIF5A):c.1729A>G (p.Ser577Gly)",
+          "cdna_change": "c.1729A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57575096",
+              "stop": "57575096",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57575096",
+              "display_stop": "57575096",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57968879",
+              "stop": "57968879",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57968879",
+              "display_stop": "57968879",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00002",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00001",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57575095:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004344712"
+        ],
+        "rcv": [
+          "RCV003588293"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/08/25 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057575096",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "S488G, S577G",
+      "fda_recognized_database": ""
+    },
+    "2181708": {
+      "uid": "2181708",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV002181708",
+      "accession_version": "VCV002181708.4",
+      "title": "NM_004984.4(KIF5A):c.136C>G (p.Pro46Ala)",
+      "variation_set": [
+        {
+          "measure_id": "1913002",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA385492178"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "1881971668"
+            }
+          ],
+          "variation_name": "NM_004984.4(KIF5A):c.136C>G (p.Pro46Ala)",
+          "cdna_change": "c.136C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57563445",
+              "stop": "57563445",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57563445",
+              "display_stop": "57563445",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57957228",
+              "stop": "57957228",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57957228",
+              "display_stop": "57957228",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00000",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57563444:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV003499109"
+        ],
+        "rcv": [
+          "RCV002606281"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2022/01/07 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057563445",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "intron variant"
+      ],
+      "protein_change": "P46A",
+      "fda_recognized_database": ""
+    },
+    "2152154": {
+      "uid": "2152154",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV002152154",
+      "accession_version": "VCV002152154.4",
+      "title": "NM_004984.4(KIF5A):c.3020+3A>G",
+      "variation_set": [
+        {
+          "measure_id": "1892230",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA2573105814"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "2540517278"
+            }
+          ],
+          "variation_name": "NM_004984.4(KIF5A):c.3020+3A>G",
+          "cdna_change": "NM_004984.4(KIF5A):c.3020+3A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57582632",
+              "stop": "57582632",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57582632",
+              "display_stop": "57582632",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57976415",
+              "stop": "57976415",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57976415",
+              "display_stop": "57976415",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57582631:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV003461759"
+        ],
+        "rcv": [
+          "RCV003074961"
+        ]
+      },
+      "germline_classification": {
+        "description": "Pathogenic",
+        "last_evaluated": "2025/09/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057582632",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "2142859": {
+      "uid": "2142859",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV002142859",
+      "accession_version": "VCV002142859.6",
+      "title": "NM_004984.4(KIF5A):c.466G>A (p.Val156Met)",
+      "variation_set": [
+        {
+          "measure_id": "1872552",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA385495723"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "1273893076"
+            }
+          ],
+          "variation_name": "NM_004984.4(KIF5A):c.466G>A (p.Val156Met)",
+          "cdna_change": "c.466G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57564938",
+              "stop": "57564938",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57564938",
+              "display_stop": "57564938",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57958721",
+              "stop": "57958721",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57958721",
+              "display_stop": "57958721",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00000",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00001",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57564937:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004089793",
+          "SCV003449478"
+        ],
+        "rcv": [
+          "RCV003076431",
+          "RCV003383006"
+        ]
+      },
+      "germline_classification": {
+        "description": "Conflicting classifications of pathogenicity",
+        "last_evaluated": "2023/08/10 00:00",
+        "review_status": "criteria provided, conflicting classifications",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0950123"
+              },
+              {
+                "db_source": "MeSH",
+                "db_id": "D030342"
+              }
+            ],
+            "trait_name": "Inborn genetic diseases"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057564938",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "V156M, V67M",
+      "fda_recognized_database": ""
+    },
+    "1693310": {
+      "uid": "1693310",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV001693310",
+      "accession_version": "VCV001693310.8",
+      "title": "NM_004984.4(KIF5A):c.2723G>C (p.Ser908Thr)",
+      "variation_set": [
+        {
+          "measure_id": "1685744",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA6653183"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "748632605"
+            }
+          ],
+          "variation_name": "NM_004984.4(KIF5A):c.2723G>C (p.Ser908Thr)",
+          "cdna_change": "c.2723G>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57581140",
+              "stop": "57581140",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57581140",
+              "display_stop": "57581140",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57974923",
+              "stop": "57974923",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57974923",
+              "display_stop": "57974923",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00001",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57581139:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV002540276",
+          "SCV003452773"
+        ],
+        "rcv": [
+          "RCV002260578",
+          "RCV003095866"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/07/03 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          },
+          {
+            "trait_xrefs": [],
+            "trait_name": "KIF5A-related amyotrophic lateral sclerosis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057581140",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "S819T, S908T",
+      "fda_recognized_database": ""
+    },
+    "1515963": {
+      "uid": "1515963",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV001515963",
+      "accession_version": "VCV001515963.9",
+      "title": "NM_004984.4(KIF5A):c.2953G>T (p.Gly985Cys)",
+      "variation_set": [
+        {
+          "measure_id": "1407241",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA6653259"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "371548640"
+            }
+          ],
+          "variation_name": "NM_004984.4(KIF5A):c.2953G>T (p.Gly985Cys)",
+          "cdna_change": "c.2953G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57581913",
+              "stop": "57581913",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57581913",
+              "display_stop": "57581913",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57975696",
+              "stop": "57975696",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57975696",
+              "display_stop": "57975696",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57581912:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV002298454",
+          "SCV006052855"
+        ],
+        "rcv": [
+          "RCV002048654",
+          "RCV005397274"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/02/07 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C4693609"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0060670"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "617921"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis, susceptibility to, 25"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "100991"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858712"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011408"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604187"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 10"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C4310658"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014979"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "617235"
+              }
+            ],
+            "trait_name": "Myoclonus, intractable, neonatal"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057581913",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "G896C, G985C",
+      "fda_recognized_database": ""
+    },
+    "1503447": {
+      "uid": "1503447",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV001503447",
+      "accession_version": "VCV001503447.6",
+      "title": "NM_004984.4(KIF5A):c.1422A>T (p.Gln474His)",
+      "variation_set": [
+        {
+          "measure_id": "1401164",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA385506261"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "1373971092"
+            }
+          ],
+          "variation_name": "NM_004984.4(KIF5A):c.1422A>T (p.Gln474His)",
+          "cdna_change": "c.1422A>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57572120",
+              "stop": "57572120",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57572120",
+              "display_stop": "57572120",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57965903",
+              "stop": "57965903",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57965903",
+              "display_stop": "57965903",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00000",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57572119:A:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV002288750"
+        ],
+        "rcv": [
+          "RCV002011255"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/01/17 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057572120",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "Q385H, Q474H",
+      "fda_recognized_database": ""
+    },
+    "1501315": {
+      "uid": "1501315",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV001501315",
+      "accession_version": "VCV001501315.7",
+      "title": "NM_004984.4(KIF5A):c.996A>G (p.Ser332=)",
+      "variation_set": [
+        {
+          "measure_id": "1402063",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA480264253"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "1320583318"
+            }
+          ],
+          "variation_name": "NM_004984.4(KIF5A):c.996A>G (p.Ser332=)",
+          "cdna_change": "c.996A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57569562",
+              "stop": "57569562",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57569562",
+              "display_stop": "57569562",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57963345",
+              "stop": "57963345",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57963345",
+              "display_stop": "57963345",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00000",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00001",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57569561:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV002292091",
+          "SCV006556422"
+        ],
+        "rcv": [
+          "RCV002017378",
+          "RCV005863644"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/04 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057569562",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "1497382": {
+      "uid": "1497382",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV001497382",
+      "accession_version": "VCV001497382.28",
+      "title": "NM_004984.4(KIF5A):c.2764G>A (p.Val922Ile)",
+      "variation_set": [
+        {
+          "measure_id": "1476003",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA6653212"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "763041798"
+            }
+          ],
+          "variation_name": "NM_004984.4(KIF5A):c.2764G>A (p.Val922Ile)",
+          "cdna_change": "c.2764G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57581423",
+              "stop": "57581423",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57581423",
+              "display_stop": "57581423",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57975206",
+              "stop": "57975206",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57975206",
+              "display_stop": "57975206",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00000",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00002",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57581422:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV002285653",
+          "SCV004133575"
+        ],
+        "rcv": [
+          "RCV002019420",
+          "RCV003395343"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/01/13 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057581423",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "V833I, V922I",
+      "fda_recognized_database": ""
+    },
+    "1476961": {
+      "uid": "1476961",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV001476961",
+      "accession_version": "VCV001476961.6",
+      "title": "NM_004984.4(KIF5A):c.2152C>T (p.Arg718Trp)",
+      "variation_set": [
+        {
+          "measure_id": "1417026",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA6653019"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "769871370"
+            }
+          ],
+          "variation_name": "NM_004984.4(KIF5A):c.2152C>T (p.Arg718Trp)",
+          "cdna_change": "c.2152C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57576332",
+              "stop": "57576332",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57576332",
+              "display_stop": "57576332",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57970115",
+              "stop": "57970115",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57970115",
+              "display_stop": "57970115",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00002",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00002",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00002",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57576331:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV002258888"
+        ],
+        "rcv": [
+          "RCV001971338"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/08/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057576332",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "R718W, R629W",
+      "fda_recognized_database": ""
+    },
+    "1458651": {
+      "uid": "1458651",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV001458651",
+      "accession_version": "VCV001458651.7",
+      "title": "NM_004984.4(KIF5A):c.3020+1G>C",
+      "variation_set": [
+        {
+          "measure_id": "1491000",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA385517124"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "1555179091"
+            }
+          ],
+          "variation_name": "NM_004984.4(KIF5A):c.3020+1G>C",
+          "cdna_change": "NM_004984.4(KIF5A):c.3020+1G>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57582630",
+              "stop": "57582630",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57582630",
+              "display_stop": "57582630",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57976413",
+              "stop": "57976413",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57976413",
+              "display_stop": "57976413",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:57582629:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004042802",
+          "SCV002242028"
+        ],
+        "rcv": [
+          "RCV001956486",
+          "RCV003334403"
+        ]
+      },
+      "germline_classification": {
+        "description": "Pathogenic",
+        "last_evaluated": "2024/07/01 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C4693609"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0060670"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "617921"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis, susceptibility to, 25"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057582630",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "splice donor variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "1410143": {
+      "uid": "1410143",
+      "obj_type": "Deletion",
+      "accession": "VCV001410143",
+      "accession_version": "VCV001410143.8",
+      "title": "NM_004984.4(KIF5A):c.2996del (p.Asn999fs)",
+      "variation_set": [
+        {
+          "measure_id": "1513451",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA2573105817"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "2140172678"
+            }
+          ],
+          "variation_name": "NM_004984.4(KIF5A):c.2996del (p.Asn999fs)",
+          "cdna_change": "c.2996del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57582603",
+              "stop": "57582603",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57582603",
+              "display_stop": "57582603",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q13.3",
+              "start": "57976386",
+              "stop": "57976386",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57976386",
+              "display_stop": "57976386",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000012.12:57582602:AAA:AA",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV002185520"
+        ],
+        "rcv": [
+          "RCV001916302"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2020/12/09 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0037772"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0001258"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007062"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007124"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007216"
+              }
+            ],
+            "trait_name": "Spastic paraplegia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "KIF5A",
+      "chr_sort": "12",
+      "location_sort": "00000000000057582603",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "KIF5A",
+          "geneid": "3798",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "N910fs, N999fs",
+      "fda_recognized_database": ""
+    }
+  }
+}

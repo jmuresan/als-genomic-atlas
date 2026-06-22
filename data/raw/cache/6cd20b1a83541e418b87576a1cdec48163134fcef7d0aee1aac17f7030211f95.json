@@ -1,0 +1,3400 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4794208",
+      "4793854",
+      "4793614",
+      "4793588",
+      "4792650",
+      "4792056",
+      "4790561",
+      "4790348",
+      "4789875",
+      "4788704",
+      "4788223",
+      "4787380",
+      "4786340",
+      "4783412",
+      "3779066",
+      "3764032",
+      "3762255",
+      "3761708",
+      "3761257",
+      "3760811"
+    ],
+    "4794208": {
+      "uid": "4794208",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794208",
+      "accession_version": "VCV004794208.1",
+      "title": "NM_213720.3(CHCHD10):c.409+17C>G",
+      "variation_set": [
+        {
+          "measure_id": "4902418",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.409+17C>G",
+          "cdna_change": "NM_213720.3(CHCHD10):c.409+17C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23766111",
+              "stop": "23766111",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23766111",
+              "display_stop": "23766111",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24108298",
+              "stop": "24108298",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24108298",
+              "display_stop": "24108298",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23766110:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492042"
+        ],
+        "rcv": [
+          "RCV006604962"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/10/21 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023766111",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793854": {
+      "uid": "4793854",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793854",
+      "accession_version": "VCV004793854.1",
+      "title": "NM_213720.3(CHCHD10):c.90G>T (p.Ser30=)",
+      "variation_set": [
+        {
+          "measure_id": "4903791",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.90G>T (p.Ser30=)",
+          "cdna_change": "c.90G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767545",
+              "stop": "23767545",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767545",
+              "display_stop": "23767545",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24109732",
+              "stop": "24109732",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24109732",
+              "display_stop": "24109732",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767544:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491533"
+        ],
+        "rcv": [
+          "RCV006604608"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/18 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767545",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793614": {
+      "uid": "4793614",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793614",
+      "accession_version": "VCV004793614.1",
+      "title": "NM_213720.3(CHCHD10):c.409+7G>A",
+      "variation_set": [
+        {
+          "measure_id": "4904847",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.409+7G>A",
+          "cdna_change": "NM_213720.3(CHCHD10):c.409+7G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23766121",
+              "stop": "23766121",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23766121",
+              "display_stop": "23766121",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24108308",
+              "stop": "24108308",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24108308",
+              "display_stop": "24108308",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23766120:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491224"
+        ],
+        "rcv": [
+          "RCV006600940"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/04/17 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023766121",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793588": {
+      "uid": "4793588",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793588",
+      "accession_version": "VCV004793588.1",
+      "title": "NM_213720.3(CHCHD10):c.270C>A (p.Thr90=)",
+      "variation_set": [
+        {
+          "measure_id": "4904821",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.270C>A (p.Thr90=)",
+          "cdna_change": "c.270C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23766267",
+              "stop": "23766267",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23766267",
+              "display_stop": "23766267",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24108454",
+              "stop": "24108454",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24108454",
+              "display_stop": "24108454",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23766266:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491158"
+        ],
+        "rcv": [
+          "RCV006600914"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/12/02 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023766267",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4792650": {
+      "uid": "4792650",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792650",
+      "accession_version": "VCV004792650.1",
+      "title": "NM_213720.3(CHCHD10):c.287C>T (p.Pro96Leu)",
+      "variation_set": [
+        {
+          "measure_id": "4902160",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.287C>T (p.Pro96Leu)",
+          "cdna_change": "c.287C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23766250",
+              "stop": "23766250",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23766250",
+              "display_stop": "23766250",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24108437",
+              "stop": "24108437",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24108437",
+              "display_stop": "24108437",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23766249:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490142"
+        ],
+        "rcv": [
+          "RCV006593126"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/08/17 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023766250",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "P103L, P96L",
+      "fda_recognized_database": ""
+    },
+    "4792056": {
+      "uid": "4792056",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792056",
+      "accession_version": "VCV004792056.1",
+      "title": "NM_213720.3(CHCHD10):c.206T>G (p.Leu69Arg)",
+      "variation_set": [
+        {
+          "measure_id": "4903291",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.206T>G (p.Leu69Arg)",
+          "cdna_change": "c.206T>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767429",
+              "stop": "23767429",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767429",
+              "display_stop": "23767429",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24109616",
+              "stop": "24109616",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24109616",
+              "display_stop": "24109616",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767428:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007489343"
+        ],
+        "rcv": [
+          "RCV006604274"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/01/26 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767429",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "L69R",
+      "fda_recognized_database": ""
+    },
+    "4790561": {
+      "uid": "4790561",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004790561",
+      "accession_version": "VCV004790561.1",
+      "title": "NM_213720.3(CHCHD10):c.41+3G>A",
+      "variation_set": [
+        {
+          "measure_id": "4903095",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.41+3G>A",
+          "cdna_change": "NM_213720.3(CHCHD10):c.41+3G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767831",
+              "stop": "23767831",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767831",
+              "display_stop": "23767831",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24110018",
+              "stop": "24110018",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24110018",
+              "display_stop": "24110018",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767830:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007487528"
+        ],
+        "rcv": [
+          "RCV006592501"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/04/18 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767831",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4790348": {
+      "uid": "4790348",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004790348",
+      "accession_version": "VCV004790348.1",
+      "title": "NM_213720.3(CHCHD10):c.8G>A (p.Arg3Gln)",
+      "variation_set": [
+        {
+          "measure_id": "4902882",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.8G>A (p.Arg3Gln)",
+          "cdna_change": "c.8G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767867",
+              "stop": "23767867",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767867",
+              "display_stop": "23767867",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24110054",
+              "stop": "24110054",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24110054",
+              "display_stop": "24110054",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767866:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007487334"
+        ],
+        "rcv": [
+          "RCV006592288"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/11/06 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767867",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "R3Q",
+      "fda_recognized_database": ""
+    },
+    "4789875": {
+      "uid": "4789875",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004789875",
+      "accession_version": "VCV004789875.1",
+      "title": "NM_213720.3(CHCHD10):c.127G>T (p.Gly43Trp)",
+      "variation_set": [
+        {
+          "measure_id": "4901290",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.127G>T (p.Gly43Trp)",
+          "cdna_change": "c.127G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24109695",
+              "stop": "24109695",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24109695",
+              "display_stop": "24109695",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767508",
+              "stop": "23767508",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767508",
+              "display_stop": "23767508",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767507:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007486967"
+        ],
+        "rcv": [
+          "RCV006603557"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/09/22 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767508",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "G43W",
+      "fda_recognized_database": ""
+    },
+    "4788704": {
+      "uid": "4788704",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004788704",
+      "accession_version": "VCV004788704.1",
+      "title": "NM_213720.3(CHCHD10):c.59C>T (p.Ser20Phe)",
+      "variation_set": [
+        {
+          "measure_id": "4900987",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.59C>T (p.Ser20Phe)",
+          "cdna_change": "c.59C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767576",
+              "stop": "23767576",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767576",
+              "display_stop": "23767576",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24109763",
+              "stop": "24109763",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24109763",
+              "display_stop": "24109763",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767575:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007484226"
+        ],
+        "rcv": [
+          "RCV006592108"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/04/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767576",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "S20F",
+      "fda_recognized_database": ""
+    },
+    "4788223": {
+      "uid": "4788223",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004788223",
+      "accession_version": "VCV004788223.1",
+      "title": "NM_213720.3(CHCHD10):c.42-6C>T",
+      "variation_set": [
+        {
+          "measure_id": "4895227",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.42-6C>T",
+          "cdna_change": "NM_213720.3(CHCHD10):c.42-6C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767599",
+              "stop": "23767599",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767599",
+              "display_stop": "23767599",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24109786",
+              "stop": "24109786",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24109786",
+              "display_stop": "24109786",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767598:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007483588"
+        ],
+        "rcv": [
+          "RCV006603369"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/05/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767599",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4787380": {
+      "uid": "4787380",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004787380",
+      "accession_version": "VCV004787380.1",
+      "title": "NM_213720.3(CHCHD10):c.158C>A (p.Ala53Glu)",
+      "variation_set": [
+        {
+          "measure_id": "4898660",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.158C>A (p.Ala53Glu)",
+          "cdna_change": "c.158C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767477",
+              "stop": "23767477",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767477",
+              "display_stop": "23767477",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24109664",
+              "stop": "24109664",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24109664",
+              "display_stop": "24109664",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767476:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007482218"
+        ],
+        "rcv": [
+          "RCV006595672"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/01/27 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767477",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "A53E",
+      "fda_recognized_database": ""
+    },
+    "4786340": {
+      "uid": "4786340",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004786340",
+      "accession_version": "VCV004786340.1",
+      "title": "NM_213720.3(CHCHD10):c.255C>T (p.Val85=)",
+      "variation_set": [
+        {
+          "measure_id": "4894622",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.255C>T (p.Val85=)",
+          "cdna_change": "c.255C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767380",
+              "stop": "23767380",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767380",
+              "display_stop": "23767380",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24109567",
+              "stop": "24109567",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24109567",
+              "display_stop": "24109567",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767379:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007481521"
+        ],
+        "rcv": [
+          "RCV006602950"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/10/07 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767380",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4783412": {
+      "uid": "4783412",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004783412",
+      "accession_version": "VCV004783412.1",
+      "title": "NM_213720.3(CHCHD10):c.247C>T (p.Pro83Ser)",
+      "variation_set": [
+        {
+          "measure_id": "4899529",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.247C>T (p.Pro83Ser)",
+          "cdna_change": "c.247C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767388",
+              "stop": "23767388",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767388",
+              "display_stop": "23767388",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24109575",
+              "stop": "24109575",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24109575",
+              "display_stop": "24109575",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767387:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007477821"
+        ],
+        "rcv": [
+          "RCV006594632"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/05/25 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767388",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "P83S",
+      "fda_recognized_database": ""
+    },
+    "3779066": {
+      "uid": "3779066",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003779066",
+      "accession_version": "VCV003779066.1",
+      "title": "NM_213720.3(CHCHD10):c.195G>T (p.Met65Ile)",
+      "variation_set": [
+        {
+          "measure_id": "3895052",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.195G>T (p.Met65Ile)",
+          "cdna_change": "c.195G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767440",
+              "stop": "23767440",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767440",
+              "display_stop": "23767440",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24109627",
+              "stop": "24109627",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24109627",
+              "display_stop": "24109627",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767439:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005918455"
+        ],
+        "rcv": [
+          "RCV005358504"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2021/10/26 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767440",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "M65I",
+      "fda_recognized_database": ""
+    },
+    "3764032": {
+      "uid": "3764032",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003764032",
+      "accession_version": "VCV003764032.2",
+      "title": "NM_213720.3(CHCHD10):c.421C>T (p.Leu141=)",
+      "variation_set": [
+        {
+          "measure_id": "3878781",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.421C>T (p.Leu141=)",
+          "cdna_change": "c.421C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23766015",
+              "stop": "23766015",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23766015",
+              "display_stop": "23766015",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24108202",
+              "stop": "24108202",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24108202",
+              "display_stop": "24108202",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23766014:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005870051"
+        ],
+        "rcv": [
+          "RCV005227111"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/12/02 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023766015",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3762255": {
+      "uid": "3762255",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003762255",
+      "accession_version": "VCV003762255.2",
+      "title": "NM_213720.3(CHCHD10):c.119G>T (p.Gly40Val)",
+      "variation_set": [
+        {
+          "measure_id": "3878308",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.119G>T (p.Gly40Val)",
+          "cdna_change": "c.119G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767516",
+              "stop": "23767516",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767516",
+              "display_stop": "23767516",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24109703",
+              "stop": "24109703",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24109703",
+              "display_stop": "24109703",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767515:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005867847"
+        ],
+        "rcv": [
+          "RCV005226797"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/11/19 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767516",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "G40V",
+      "fda_recognized_database": ""
+    },
+    "3761708": {
+      "uid": "3761708",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003761708",
+      "accession_version": "VCV003761708.2",
+      "title": "NM_213720.3(CHCHD10):c.41+8G>A",
+      "variation_set": [
+        {
+          "measure_id": "3874021",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.41+8G>A",
+          "cdna_change": "NM_213720.3(CHCHD10):c.41+8G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23767826",
+              "stop": "23767826",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23767826",
+              "display_stop": "23767826",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24110013",
+              "stop": "24110013",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24110013",
+              "display_stop": "24110013",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23767825:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005867113"
+        ],
+        "rcv": [
+          "RCV005224292"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/10/24 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023767826",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3761257": {
+      "uid": "3761257",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003761257",
+      "accession_version": "VCV003761257.2",
+      "title": "NM_213720.3(CHCHD10):c.410-10C>T",
+      "variation_set": [
+        {
+          "measure_id": "3879479",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.410-10C>T",
+          "cdna_change": "NM_213720.3(CHCHD10):c.410-10C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23766036",
+              "stop": "23766036",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23766036",
+              "display_stop": "23766036",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24108223",
+              "stop": "24108223",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24108223",
+              "display_stop": "24108223",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23766035:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005866560"
+        ],
+        "rcv": [
+          "RCV005221880"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/08/08 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023766036",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3760811": {
+      "uid": "3760811",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003760811",
+      "accession_version": "VCV003760811.2",
+      "title": "NM_213720.3(CHCHD10):c.262-13A>G",
+      "variation_set": [
+        {
+          "measure_id": "3870574",
+          "variation_xrefs": [],
+          "variation_name": "NM_213720.3(CHCHD10):c.262-13A>G",
+          "cdna_change": "NM_213720.3(CHCHD10):c.262-13A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "23766288",
+              "stop": "23766288",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "23766288",
+              "display_stop": "23766288",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "22",
+              "band": "22q11.23",
+              "start": "24108475",
+              "stop": "24108475",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "24108475",
+              "display_stop": "24108475",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000022.11:23766287:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005864999"
+        ],
+        "rcv": [
+          "RCV005228775"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/03/27 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "276435"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3554398"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014025"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615048"
+              }
+            ],
+            "trait_name": "Lower motor neuron syndrome with late-adult onset"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "457050"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4015513"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014532"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616209"
+              }
+            ],
+            "trait_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4014648"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014395"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "615911"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "CHCHD10",
+      "chr_sort": "22",
+      "location_sort": "00000000000023766288",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "CHCHD10",
+          "geneid": "400916",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    }
+  }
+}

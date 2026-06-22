@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "FUS",
+      "associatedDiseases": {
+        "count": 599,
+        "rows": [
+          {
+            "score": 0.8117088043931799,
+            "disease": {
+              "id": "EFO_0001357",
+              "name": "sporadic amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.7186775873544697,
+            "disease": {
+              "id": "EFO_0003108",
+              "name": "essential tremor"
+            }
+          },
+          {
+            "score": 0.7126581293155452,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.6613686291473854,
+            "disease": {
+              "id": "MONDO_0017161",
+              "name": "frontotemporal dementia with motor neuron disease"
+            }
+          },
+          {
+            "score": 0.5224985340296718,
+            "disease": {
+              "id": "MONDO_0017593",
+              "name": "juvenile amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.41527526620194055,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.4129714654170405,
+            "disease": {
+              "id": "EFO_0022918",
+              "name": "amyotrophic lateral sclerosis, dominant"
+            }
+          },
+          {
+            "score": 0.3838761431676213,
+            "disease": {
+              "id": "EFO_0000569",
+              "name": "liposarcoma"
+            }
+          },
+          {
+            "score": 0.37106844021051516,
+            "disease": {
+              "id": "EFO_1001972",
+              "name": "undifferentiated pleomorphic sarcoma"
+            }
+          },
+          {
+            "score": 0.37093812880039245,
+            "disease": {
+              "id": "EFO_0001376",
+              "name": "synovial sarcoma"
+            }
+          },
+          {
+            "score": 0.3707880728263085,
+            "disease": {
+              "id": "MONDO_0012825",
+              "name": "extraskeletal myxoid chondrosarcoma"
+            }
+          },
+          {
+            "score": 0.37075342471493183,
+            "disease": {
+              "id": "MONDO_0019202",
+              "name": "myxofibrosarcoma"
+            }
+          },
+          {
+            "score": 0.37068859424875583,
+            "disease": {
+              "id": "MONDO_0004557",
+              "name": "congenital fibrosarcoma"
+            }
+          },
+          {
+            "score": 0.37050380432141355,
+            "disease": {
+              "id": "MONDO_0004187",
+              "name": "nodular fasciitis"
+            }
+          },
+          {
+            "score": 0.37050380432141355,
+            "disease": {
+              "id": "EFO_0000736",
+              "name": "well-differentiated liposarcoma"
+            }
+          },
+          {
+            "score": 0.37022661943040003,
+            "disease": {
+              "id": "EFO_0000564",
+              "name": "leiomyosarcoma"
+            }
+          },
+          {
+            "score": 0.37013422446672883,
+            "disease": {
+              "id": "EFO_0000759",
+              "name": "lipoma"
+            }
+          },
+          {
+            "score": 0.37013422446672883,
+            "disease": {
+              "id": "MONDO_0044784",
+              "name": "myxoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0003594",
+              "name": "mixed liposarcoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0005561",
+              "name": "histiocytoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_1000885",
+              "name": "cutaneous fibrous histiocytoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0000760",
+              "name": "malignant peripheral nerve sheath tumor"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0003085",
+              "name": "dedifferentiated liposarcoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0000622",
+              "name": "neurofibroma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0003083",
+              "name": "pleomorphic liposarcoma"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0005547",
+              "name": "dengue disease"
+            }
+          },
+          {
+            "score": 0.3038651627216312,
+            "disease": {
+              "id": "EFO_0000182",
+              "name": "hepatocellular carcinoma"
+            }
+          },
+          {
+            "score": 0.2946263962834118,
+            "disease": {
+              "id": "EFO_0000222",
+              "name": "acute myeloid leukemia"
+            }
+          },
+          {
+            "score": 0.2896017475202249,
+            "disease": {
+              "id": "EFO_0005922",
+              "name": "esophageal squamous cell carcinoma"
+            }
+          },
+          {
+            "score": 0.2851308578892474,
+            "disease": {
+              "id": "EFO_0000641",
+              "name": "papillary thyroid carcinoma"
+            }
+          },
+          {
+            "score": 0.2845957469845042,
+            "disease": {
+              "id": "EFO_0003060",
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "score": 0.28260369122381307,
+            "disease": {
+              "id": "EFO_0000637",
+              "name": "osteosarcoma"
+            }
+          },
+          {
+            "score": 0.2820279270259571,
+            "disease": {
+              "id": "EFO_0000673",
+              "name": "prostate adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.2816271809023321,
+            "disease": {
+              "id": "EFO_1001968",
+              "name": "soft tissue sarcoma"
+            }
+          },
+          {
+            "score": 0.279456777366444,
+            "disease": {
+              "id": "EFO_0000571",
+              "name": "lung adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.27903279028694983,
+            "disease": {
+              "id": "EFO_0000094",
+              "name": "B-cell acute lymphoblastic leukemia"
+            }
+          },
+          {
+            "score": 0.27857081546859397,
+            "disease": {
+              "id": "MONDO_0015798",
+              "name": "inflammatory myofibroblastic tumor"
+            }
+          },
+          {
+            "score": 0.27838602554125164,
+            "disease": {
+              "id": "EFO_0000693",
+              "name": "schwannoma"
+            }
+          },
+          {
+            "score": 0.278339828059416,
+            "disease": {
+              "id": "MONDO_0016238",
+              "name": "solitary fibrous tumor"
+            }
+          },
+          {
+            "score": 0.27829363057758044,
+            "disease": {
+              "id": "EFO_0000708",
+              "name": "squamous cell lung carcinoma"
+            }
+          },
+          {
+            "score": 0.278268941210678,
+            "disease": {
+              "id": "EFO_0001378",
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "score": 0.27824743309574484,
+            "disease": {
+              "id": "EFO_0001663",
+              "name": "prostate carcinoma"
+            }
+          },
+          {
+            "score": 0.27820123561390925,
+            "disease": {
+              "id": "EFO_1001949",
+              "name": "colon adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.27810884065023805,
+            "disease": {
+              "id": "EFO_1000172",
+              "name": "cervical squamous cell carcinoma"
+            }
+          },
+          {
+            "score": 0.2777476805401496,
+            "disease": {
+              "id": "MONDO_0005184",
+              "name": "pancreatic ductal adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.2777392607955534,
+            "disease": {
+              "id": "EFO_0000756",
+              "name": "melanoma"
+            }
+          },
+          {
+            "score": 0.27755447086821106,
+            "disease": {
+              "id": "EFO_0000389",
+              "name": "cutaneous melanoma"
+            }
+          },
+          {
+            "score": 0.27755447086821106,
+            "disease": {
+              "id": "EFO_0000181",
+              "name": "head and neck squamous cell carcinoma"
+            }
+          },
+          {
+            "score": 0.27755447086821106,
+            "disease": {
+              "id": "EFO_0001642",
+              "name": "lymphoid neoplasm"
+            }
+          },
+          {
+            "score": 0.27718489101352634,
+            "disease": {
+              "id": "MONDO_0016748",
+              "name": "hemangioblastoma"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

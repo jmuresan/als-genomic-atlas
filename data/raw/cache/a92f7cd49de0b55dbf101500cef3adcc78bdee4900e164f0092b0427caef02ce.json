@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "1380",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4795006",
+      "4794969",
+      "4794866",
+      "4794682",
+      "4794679",
+      "4794486",
+      "4794441",
+      "4794397",
+      "4794348",
+      "4794277",
+      "4793978",
+      "4793962",
+      "4793849",
+      "4793835",
+      "4793714",
+      "4793579",
+      "4793421",
+      "4793338",
+      "4793168",
+      "4793119"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "DCTN1[gene]",
+        "field": "gene",
+        "count": "1619",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "DCTN1[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

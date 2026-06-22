@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr2",
+      "dataSource": "HAVANA",
+      "description": "ALS2, alsin Rho guanine nucleotide exchange factor [Source:HGNC Symbol;Acc:HGNC:443]",
+      "end": 201781189,
+      "entrezGeneId": 57679,
+      "gencodeId": "ENSG00000003393.14",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "ALS2",
+      "geneSymbolUpper": "ALS2",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 201700554,
+      "strand": "-",
+      "tss": 201781189
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "60",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4854159",
+      "4770717",
+      "4709240",
+      "4078616",
+      "3902485",
+      "3896859",
+      "3779623",
+      "3779622",
+      "3629482",
+      "3604224",
+      "3391080",
+      "3375075",
+      "3366434",
+      "3346146",
+      "3063763",
+      "2974164",
+      "2910154",
+      "2907582",
+      "2887176",
+      "2689029"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "ERBB4[gene]",
+        "field": "gene",
+        "count": "802",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "ERBB4[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}
