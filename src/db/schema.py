@@ -167,3 +167,20 @@ def create_tables(conn: duckdb.DuckDBPyConnection):
     )
     """)
 
+    # 11. Foldseek similar compounds table
+    conn.execute("""
+    CREATE TABLE IF NOT EXISTS foldseek_similar_compounds (
+        query_gene_symbol VARCHAR,
+        target_id VARCHAR,
+        original_drug_id VARCHAR,
+        similar_drug_id VARCHAR,
+        name VARCHAR,
+        similarity DOUBLE,
+        max_clinical_phase DOUBLE,
+        purpose VARCHAR,
+        PRIMARY KEY (query_gene_symbol, target_id, original_drug_id, similar_drug_id),
+        FOREIGN KEY (query_gene_symbol) REFERENCES genes(gene_symbol)
+    )
+    """)
+
+

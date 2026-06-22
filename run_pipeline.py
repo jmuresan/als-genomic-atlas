@@ -129,6 +129,10 @@ def verify_db(db_path: str):
         nfs_drugs = conn.execute("SELECT COUNT(*) FROM foldseek_matched_drugs_trials").fetchone()[0]
         logger.info(f"Foldseek matched drugs check passed: {nfs_drugs} records.")
 
+        # Check foldseek_similar_compounds
+        nsim = conn.execute("SELECT COUNT(*) FROM foldseek_similar_compounds").fetchone()[0]
+        logger.info(f"Foldseek similar compounds check passed: {nsim} records.")
+
     finally:
         conn.close()
 
