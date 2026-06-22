@@ -1,0 +1,259 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "TRPM8",
+      "drugAndClinicalCandidates": {
+        "count": 3,
+        "rows": [
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL3682589",
+              "name": "ELISMETREP",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Transient receptor potential cation channel subfamily M member 8 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "Hot flashes"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diabetic neuropathy"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL3707315",
+              "name": "D-3263",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Transient receptor potential cation channel subfamily M member 8 agonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL256087",
+              "name": "MENTHOL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Transient receptor potential cation channel subfamily M member 8 opener"
+                  },
+                  {
+                    "mechanismOfAction": "Transient receptor potential cation channel subfamily A member 1 opener"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "Headache"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "skin infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "bursitis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Ischemic stroke"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hemorrhoid"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "muscle cramp"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "injury"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "sprain"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Parkinson disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "osteoarthritis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "herpes labialis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "psoriasis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Nasal congestion"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "common cold"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Myalgia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "frozen shoulder"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "arthritis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Back pain"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Pruritus"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "tendinitis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Oral ulcer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "burn"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "bronchitis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hypertension"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "asthma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Arthralgia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Tendinopathy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diabetic neuropathy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Muscle spasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nicotine dependence"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Cough"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pharyngitis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Pain"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "sunburn"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/ELISMETREP/relevant/1/",
+      "xref_name": "ELISMETREP",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL3682589",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3682589",
+    "molecule_chembl_id": "CHEMBL3682589",
+    "parent_chembl_id": "CHEMBL3682589"
+  },
+  "molecule_properties": {
+    "alogp": "6.10",
+    "aromatic_rings": 4,
+    "full_molformula": "C27H21F3N2O5S",
+    "full_mwt": "542.54",
+    "hba": 5,
+    "hbd": 1,
+    "heavy_atoms": 38,
+    "mw_freebase": "542.54",
+    "np_likeness_score": "-1.04",
+    "num_ro5_violations": 2,
+    "psa": "96.80",
+    "qed_weighted": "0.29",
+    "ro3_pass": "N",
+    "rtb": 8
+  },
+  "molecule_structures": {
+    "canonical_smiles": "O=C(O)c1ccc(S(=O)(=O)N(Cc2ccc(OC(F)(F)F)cc2)c2ncc3ccccc3c2C2CC2)cc1",
+    "molfile": "\n     RDKit          2D\n\n 38 42  0  0  0  0  0  0  0  0999 V2000\n   -3.8571   -1.5711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.5716   -1.9836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.5716   -2.8086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.8571   -3.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1427   -2.8086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1427   -1.9836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1427   -0.3336    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.8571   -0.7461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4282   -1.5711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4282   -0.7461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4329    0.8957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1424    0.4746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7137   -0.3336    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7137    0.4915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1623    2.1245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.8717    1.7034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.8618    0.8784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4429    1.7206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7137   -1.9836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9993   -0.7461    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.2848   -0.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4297   -0.7461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4297    0.9040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.2848    0.4915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1441   -0.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1441    0.4914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.5862    2.1159    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.3007    1.7034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.3752    0.9305    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.9926    1.2540    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.0249    1.9114    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.4118   -1.4605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.5868   -1.4605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8792    0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9224    1.6898    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5711    0.4166    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8887   -1.9836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.3013   -2.6981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  3  4  1  0\n  4  5  2  0\n  5  6  1  0\n  1  6  2  0\n  7  8  2  0\n  9 10  2  0\n  7 10  1  0\n  8  1  1  0\n  6  9  1  0\n 11 12  2  0\n 13 14  1  0\n 11 14  1  0\n 10 13  1  0\n 15 16  1  0\n 16 17  2  0\n 15 18  2  0\n 11 18  1  0\n 17 12  1  0\n  9 19  1  0\n 13 20  1  0\n 21 22  2  0\n 21 20  1  0\n 23 24  2  0\n 25 26  2  0\n 23 26  1  0\n 24 21  1  0\n 22 25  1  0\n 16 27  1  0\n 27 28  1  0\n 28 29  1  0\n 28 30  1  0\n 28 31  1  0\n 20 32  2  0\n 20 33  2  0\n 26 34  1  0\n 34 35  2  0\n 34 36  1  0\n 19 37  1  0\n 19 38  1  0\n 37 38  1  0\nM  END\n> <chembl_id>\nCHEMBL3682589\n\n> <chembl_pref_name>\nELISMETREP",
+    "standard_inchi": "InChI=1S/C27H21F3N2O5S/c28-27(29,30)37-21-11-5-17(6-12-21)16-32(38(35,36)22-13-9-19(10-14-22)26(33)34)25-24(18-7-8-18)23-4-2-1-3-20(23)15-31-25/h1-6,9-15,18H,7-8,16H2,(H,33,34)",
+    "standard_inchi_key": "CWEFDWIKLABKBX-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Elismetrep",
+      "syn_type": "INN",
+      "synonyms": "ELISMETREP"
+    },
+    {
+      "molecule_synonym": "Elismetrep",
+      "syn_type": "OTHER",
+      "synonyms": "ELISMETREP"
+    },
+    {
+      "molecule_synonym": "Elismetrep",
+      "syn_type": "USAN",
+      "synonyms": "ELISMETREP"
+    },
+    {
+      "molecule_synonym": "Mt-8554",
+      "syn_type": "OTHER",
+      "synonyms": "MT-8554"
+    },
+    {
+      "molecule_synonym": "MT-8554",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "MT-8554"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "ELISMETREP",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-metrep; -trep",
+  "usan_stem_definition": "antagonists of the transient receptor potential channel (TRP), melatsatin (TRPM) type; transient receptor potential antagonists",
+  "usan_substem": "-metrep; -trep",
+  "usan_year": 2018,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

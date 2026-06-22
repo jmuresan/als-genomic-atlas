@@ -1,0 +1,142 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 30456,
+        "component_type": "Protein",
+        "description": "Heavy chain: anti-HAVCR2(TIM3)(H'')",
+        "organism": null,
+        "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFNIKTTYMHWVRQAPGKGLEWVGRIDPADDNTKYAPKFQGKATISADTSKNTAYLQMNSLRAEDTAVYYCVRDFGYVAWFAYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVEDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDEKVEPKSCDKTHTCPPCPAPEAAGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALGAPIEKTISKAKGQPREPQVCTLPPSRDELTKNQVSLSCAVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLVSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 30457,
+        "component_type": "Protein",
+        "description": "Light chain: anti-PDCD1crossedVH(L)",
+        "organism": null,
+        "sequence": "EVQLLESGGGLVQPGGSLRLSCAASGFSFSSYTMSWVRQAPGKGLEWVATISGGGRDIYYPDSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCVLLTGRVYFALDSWGQGTLVTVSSASVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 30068,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "293 $ 299''",
+        "tax_id": null
+      },
+      {
+        "component_id": 30454,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22'-96' $ 22''-96'' $ 23-92 $ 23'''-88''' $ 134'''-194''' $ 140-196 $  146''-202'' $ 147'-207' $ 216-227' $  222-228'' $ 222''-214''' $ 225-231'' $ 257-317 $  263''-323'' $ 350-351'' $ 363-421 $ 369''-427''",
+        "tax_id": null
+      },
+      {
+        "component_id": 30453,
+        "component_type": "Protein",
+        "description": "Heavy chain: anti-PDCD1crossedV-kappa(H)",
+        "organism": null,
+        "sequence": "DIVMTQSPDSLAVSLGERATINCKASESVDTSDNSFIHWYQQKPGQSPKLLIYRSSTLESGVPDRFSGSGSGTDFTLTISSLQAEDVAVYYCQQNYDVPWTFGQGTKVEIKSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPEAAGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALGAPIEKTISKAKGQPREPQVYTLPPCRDELTKNQVSLWCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 30455,
+        "component_type": "Protein",
+        "description": "Light chain: anti-HAVCR2(TIM3)(L''')",
+        "organism": null,
+        "sequence": "DIVMTQSPLSLPVTPGEPASISCRASQSVDNYVAWYLQKPGQSPQLLIYYASNRYIGVPDRFSGSGSGTDFTLKISRVEAEDVGVYYCQQHYSSPYTFGQGTKVEIKRTVAAPSVFIFPPSDRKLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4594602"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": -1,
+  "cross_references": [
+    {
+      "xref_id": "127",
+      "xref_name": "LOMVASTOMIG",
+      "xref_src": "INN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL4594602",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4594602",
+    "molecule_chembl_id": "CHEMBL4594602",
+    "parent_chembl_id": "CHEMBL4594602"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Lomvastomig",
+      "syn_type": "INN",
+      "synonyms": "LOMVASTOMIG"
+    },
+    {
+      "molecule_synonym": "Lomvastomig",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "LOMVASTOMIG"
+    },
+    {
+      "molecule_synonym": "Lomvastomig",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "LOMVASTOMIG"
+    },
+    {
+      "molecule_synonym": "Lomvastomig",
+      "syn_type": "OTHER",
+      "synonyms": "LOMVASTOMIG"
+    },
+    {
+      "molecule_synonym": "Ro-7121661",
+      "syn_type": "OTHER",
+      "synonyms": "RO-7121661"
+    },
+    {
+      "molecule_synonym": "RO-7121661",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO-7121661"
+    },
+    {
+      "molecule_synonym": "Ro7121661",
+      "syn_type": "OTHER",
+      "synonyms": "RO7121661"
+    },
+    {
+      "molecule_synonym": "RO7121661",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO7121661"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "LOMVASTOMIG",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mig",
+  "usan_stem_definition": "monoclonal antibody, multiple immunoglobulin",
+  "usan_substem": "-mig",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

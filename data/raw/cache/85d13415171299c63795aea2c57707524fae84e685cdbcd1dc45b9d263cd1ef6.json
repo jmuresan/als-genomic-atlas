@@ -1,0 +1,149 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 31318,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn-300 $ Asn-300''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29934,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "QSALTQPASVSGSPGQSITISCTGTSSDVGFYNYVSWYQQHPGKAPELMIYDVSNRPSGVSDRFSGSKSGNTASLTISGLQAEDEADYYCSSYTSISTWVFGGGTKLTVLGQPKAAPSVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADSSPVKAGVETTTPSKQSNNKYAASSYLSLTPEQWKSHRSYSCQVTHEGSTVEKTVAPTECS",
+        "tax_id": null
+      },
+      {
+        "component_id": 30827,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22'-90' $ 22'''-90''' $ 22-97 $ 22''-97'' $ 137-215' $ 137''-215''' $ 138'-197' $ 138'''-197''' $ 150-206 $ 150''-206'' $ 229-229'' $ 232-232'' $ 264-324 $ 264''-324'' $ 370-428 $ 370''-428''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29675,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn-300 $ Asn-300''''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29932,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QLQLQESGPGLVKPSETLTLTCTVSADSISSTTYYWVWIRQPPGKGLEWIGSISYSGSTYYNPSLKSRVTVSVDTSKNQFSLKLNSVAATDTALYYCARHLGYNGRYLPFDYWGQGTLVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPEFLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLGK",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4297856"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/ZIMBERELIMAB/relevant/1/",
+      "xref_name": "ZIMBERELIMAB",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL4297856",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297856",
+    "molecule_chembl_id": "CHEMBL4297856",
+    "parent_chembl_id": "CHEMBL4297856"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Ab-122",
+      "syn_type": "OTHER",
+      "synonyms": "AB-122"
+    },
+    {
+      "molecule_synonym": "AB-122",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AB-122"
+    },
+    {
+      "molecule_synonym": "Ab122",
+      "syn_type": "OTHER",
+      "synonyms": "AB122"
+    },
+    {
+      "molecule_synonym": "AB122",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AB122"
+    },
+    {
+      "molecule_synonym": "Gls-010",
+      "syn_type": "OTHER",
+      "synonyms": "GLS-010"
+    },
+    {
+      "molecule_synonym": "GLS-010",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "GLS-010"
+    },
+    {
+      "molecule_synonym": "WBP-3055",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "WBP-3055"
+    },
+    {
+      "molecule_synonym": "WBP3055",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "WBP3055"
+    },
+    {
+      "molecule_synonym": "Zimberelimab",
+      "syn_type": "INN",
+      "synonyms": "ZIMBERELIMAB"
+    },
+    {
+      "molecule_synonym": "Zimberelimab",
+      "syn_type": "OTHER",
+      "synonyms": "ZIMBERELIMAB"
+    },
+    {
+      "molecule_synonym": "Zimberelimab",
+      "syn_type": "USAN",
+      "synonyms": "ZIMBERELIMAB"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "ZIMBERELIMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": 2021,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

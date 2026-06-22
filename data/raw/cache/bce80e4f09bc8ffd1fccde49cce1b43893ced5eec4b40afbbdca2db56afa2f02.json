@@ -1,0 +1,82 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": -1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL4594536",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4594536",
+    "molecule_chembl_id": "CHEMBL4594536",
+    "parent_chembl_id": "CHEMBL4594536"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Antibody cs1003",
+      "syn_type": "OTHER",
+      "synonyms": "ANTIBODY CS1003"
+    },
+    {
+      "molecule_synonym": "CS 1003",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CS 1003"
+    },
+    {
+      "molecule_synonym": "Cs-1003",
+      "syn_type": "OTHER",
+      "synonyms": "CS-1003"
+    },
+    {
+      "molecule_synonym": "CS-1003",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CS-1003"
+    },
+    {
+      "molecule_synonym": "Cs1003",
+      "syn_type": "OTHER",
+      "synonyms": "CS1003"
+    },
+    {
+      "molecule_synonym": "CS1003",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CS1003"
+    },
+    {
+      "molecule_synonym": "Nofazinlimab",
+      "syn_type": "INN",
+      "synonyms": "NOFAZINLIMAB"
+    },
+    {
+      "molecule_synonym": "Recombinant pd-1 mab cs1003",
+      "syn_type": "OTHER",
+      "synonyms": "RECOMBINANT PD-1 MAB CS1003"
+    }
+  ],
+  "molecule_type": "Unknown",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "CS-1003",
+  "prodrug": 0,
+  "structure_type": "NONE",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": null,
+  "usan_stem_definition": null,
+  "usan_substem": null,
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

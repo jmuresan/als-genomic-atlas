@@ -1,0 +1,5330 @@
+{
+  "approvedSymbol": "TUBA1C",
+  "drugs": [
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL49642",
+        "name": "INDIBULIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL4297441",
+        "name": "PACLITAXEL DOCOSAHEXAENOIC ACID",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin stabiliser"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "hepatocellular carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "metastatic melanoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL3301589",
+        "name": "ENFORTUMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Nectin-4 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "urothelial carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "adenoid cystic carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "endometrial cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Transitional Cell Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "benign urinary system neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL2109633",
+        "name": "IMGN-388",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Vitronectin receptor alpha binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4297736",
+        "name": "PRALUZATAMAB RAVTANSINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "CD166 antigen binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL1206232",
+        "name": "FOSBRETABULIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin disrupting agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "rheumatoid arthritis"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "neuroendocrine neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "thyroid cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL2109281",
+        "name": "RG-7600",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "Mesothelin binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Malignant Pancreatic Neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "UNKNOWN",
+      "drug": {
+        "id": "CHEMBL2109288",
+        "name": "BIVATUZUMAB MERTANSINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "CD44 antigen binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": []
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL3833306",
+        "name": "VANDORTUZUMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Metalloreductase STEAP1 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL4298098",
+        "name": "TUSAMITAMAB RAVTANSINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Carcinoembryonic antigen-related cell adhesion molecule 5 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL428647",
+        "name": "PACLITAXEL",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastrointestinal disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "ischemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "urothelial carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Ocular Melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck malignant neoplasia"
+              }
+            },
+            {
+              "disease": {
+                "name": "rheumatoid arthritis"
+              }
+            },
+            {
+              "disease": {
+                "name": "small cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "peritoneum cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "germ cell tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "urogenital neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "malignant peritoneal mesothelioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "endometrial neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "Malignant Pancreatic Neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "biliary tract cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic ductal adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "endometrial carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Transitional Cell Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "inflammatory breast carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastrointestinal stromal tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "Fallopian Tube Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastroesophageal junction adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "uterine cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "salivary gland neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "mixed neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "tongue neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "salivary gland cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "liver cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "fallopian tube cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "adrenal cortex carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Paraganglioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "hypopharyngeal carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cutaneous melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "penile cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "lip and oral cavity carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "actinic keratosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "childhood germ cell tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "neuroendocrine carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Kaposi's sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "nasopharyngeal neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "angiosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "allergic disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "female reproductive system neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "metastatic melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "esophageal squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "uterine neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "HIV-1 infection"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm of esophagus"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "stomach neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "kidney cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "cutaneous squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "mouth neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "soft tissue sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "hepatocellular carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hereditary breast and ovarian cancer syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "peripheral arterial disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "stricture"
+              }
+            },
+            {
+              "disease": {
+                "name": "Coronary Restenosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "thyroid cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "cholangiocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "upper aerodigestive tract neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "central nervous system germ cell tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "oropharynx squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "esophageal carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "squamous cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "esophageal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "psoriasis"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "triple-negative breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "Central Nervous System Neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "Pancreatic cysts"
+              }
+            },
+            {
+              "disease": {
+                "name": "male breast carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "vulva cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical intraepithelial neoplasia"
+              }
+            },
+            {
+              "disease": {
+                "name": "metastasis"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast ductal adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "glioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "skin squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "endometrial cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "peripheral neuropathy"
+              }
+            },
+            {
+              "disease": {
+                "name": "benign prostatic hyperplasia"
+              }
+            },
+            {
+              "disease": {
+                "name": "peripheral vascular disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "peritoneal neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "nasopharyngeal carcinoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1201752",
+        "name": "IXABEPILONE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "urethra cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "gliosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "clear cell renal carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "adult hepatocellular carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "stomach neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "renal cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cholangiocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Mantle cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "anaplastic astrocytoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "gallbladder cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "bile duct carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "follicular lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "Burkitts lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "peritoneum cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "soft tissue sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "anaplastic large cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Uterine Carcinosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL289351",
+        "name": "FOSBRETABULIN DISODIUM",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck malignant neoplasia"
+              }
+            },
+            {
+              "disease": {
+                "name": "neuroendocrine carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1742994",
+        "name": "BRENTUXIMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "Tumor necrosis factor receptor superfamily member 8 binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "anaplastic large cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "mature T-cell and NK-cell non-Hodgkin lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "mast-cell leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "systemic lupus erythematosus"
+              }
+            },
+            {
+              "disease": {
+                "name": "enteropathy-associated T-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "adult T-cell leukemia/lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "mycosis fungoides"
+              }
+            },
+            {
+              "disease": {
+                "name": "systemic mastocytosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "Cutaneous T-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse scleroderma"
+              }
+            },
+            {
+              "disease": {
+                "name": "classic Hodgkin lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "follicular lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphatic system disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "Malignant Mesothelioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "graft versus host disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "germ cell tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoid neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL5095312",
+        "name": "MECBOTAMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tyrosine-protein kinase receptor UFO binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "soft tissue sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL1742998",
+        "name": "CANTUZUMAB RAVTANSINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Mucin-1 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "gastroesophageal junction adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "stomach neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal adenocarcinoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL3989512",
+        "name": "SOBLIDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL1743037",
+        "name": "LORVOTUZUMAB MERTANSINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Neural cell adhesion molecule 1 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4297938",
+        "name": "LIFASTUZUMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Sodium-dependent phosphate transport protein 2B binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL2109575",
+        "name": "BIIB-015",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Teratocarcinoma-derived growth factor 1 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL5095273",
+        "name": "DISITAMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Receptor tyrosine-protein kinase erbB-2 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin disrupting agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "urothelial carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL4297935",
+        "name": "RG-7841",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Lymphocyte antigen 6E binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL3707277",
+        "name": "DEPATUXIZUMAB MAFODOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Epidermal growth factor receptor erbB1 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "glioblastoma multiforme"
+              }
+            },
+            {
+              "disease": {
+                "name": "brain cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1_2",
+      "drug": {
+        "id": "CHEMBL4297987",
+        "name": "ENAPOTAMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tyrosine-protein kinase receptor UFO binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": []
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL4297859",
+        "name": "AZINTUXIZUMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "SLAM family member 7 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL553025",
+        "name": "VINORELBINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "malignant pleural mesothelioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "HER2 Positive Breast Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "rhabdomyosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "anaplastic large cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "low grade glioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cutaneous melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "classic Hodgkin lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "triple-negative breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "mesothelioma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL1742997",
+        "name": "CANTUZUMAB MERTANSINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "Mucin-1 binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL2110725",
+        "name": "VINFLUNINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "head and neck carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "penile neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "urogenital neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Transitional Cell Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL2103826",
+        "name": "DAVUNETIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin stabiliser"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Cognitive impairment"
+              }
+            },
+            {
+              "disease": {
+                "name": "schizophrenia"
+              }
+            },
+            {
+              "disease": {
+                "name": "Alzheimer disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "progressive supranuclear palsy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL2109282",
+        "name": "RG-7636",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "Endothelin receptor ET-B binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "melanoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL538943",
+        "name": "VINORELBINE TARTRATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "malignant colon neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "sarcoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL2107759",
+        "name": "MILATAXEL",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "mesothelioma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL2109635",
+        "name": "SAR-566658",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "Mucin-1 binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "triple-negative breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL492399",
+        "name": "VERUBULIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin disrupting agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "brain neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "glioblastoma multiforme"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL5314782",
+        "name": "TRASTUZUMAB BOTIDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "Receptor tyrosine-protein kinase erbB-2 binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "HER2 Positive Breast Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4298045",
+        "name": "INDUSATUMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Heat-stable enterotoxin receptor binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "gastric adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL96172",
+        "name": "EPOTHILONE D",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin stabiliser"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL92",
+        "name": "DOCETAXEL ANHYDROUS",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin stabiliser"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "stomach neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck neoplasia"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL2105629",
+        "name": "VINFLUNINE DITARTRATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "benign urinary system neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "Transitional Cell Carcinoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL3545252",
+        "name": "DOCETAXEL",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "urinary bladder carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "penile cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "esophageal carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "hypopharyngeal carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "synovial sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "oropharynx cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "HER2 Positive Breast Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Thyroid Gland Undifferentiated (Anaplastic) Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Fatigue"
+              }
+            },
+            {
+              "disease": {
+                "name": "carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "salivary gland carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "inflammatory breast carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "biliary tract cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck malignant neoplasia"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast ductal carcinoma in situ"
+              }
+            },
+            {
+              "disease": {
+                "name": "nasopharyngeal carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck neoplasia"
+              }
+            },
+            {
+              "disease": {
+                "name": "allergic disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Uterine Carcinosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Malignant Pancreatic Neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "metastatic prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neutropenia"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "esophageal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "metastasis"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "laryngeal neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "metastatic malignant neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "upper aerodigestive tract neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "oral squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "triple-negative breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Cachexia"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hereditary breast and ovarian cancer syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "biliary tract neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "peritoneal neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "endometrial neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "peritoneum cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "soft tissue sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "esophageal squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "endometrial cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "squamous cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "osteosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Transitional Cell Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "mediastinal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "stomach neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "Anorexia"
+              }
+            },
+            {
+              "disease": {
+                "name": "urogenital neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "fallopian tube cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "urothelial carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "leiomyosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm of esophagus"
+              }
+            },
+            {
+              "disease": {
+                "name": "leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "salivary gland cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "nasopharyngeal neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL3301582",
+        "name": "POLATUZUMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "B-cell antigen receptor complex-associated protein beta chain binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "chronic lymphocytic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "follicular lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Mantle cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "B-cell non-Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "B-cell neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL4297804",
+        "name": "PF-06263507",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "Trophoblast glycoprotein binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": []
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL4297841",
+        "name": "TISOTUMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Coagulation factor III binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "peritoneum cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "fallopian tube cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1743028",
+        "name": "GLEMBATUMUMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Transmembrane glycoprotein NMB binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "osteosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "squamous cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Uveal Melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL3990032",
+        "name": "TELISOTUZUMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Hepatocyte growth factor receptor binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "squamous cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL501867",
+        "name": "VINCRISTINE SULFATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "acute lymphoblastic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "neurofibromatosis type 1"
+              }
+            },
+            {
+              "disease": {
+                "name": "Central Nervous System Neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "hemophagocytic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "retinoblastoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm of mature B-cells"
+              }
+            },
+            {
+              "disease": {
+                "name": "leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "follicular lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "kidney cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute myeloid leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "Mantle cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "kidney Wilms tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "brain neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "rhabdomyosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "unspecified peripheral T-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neuroblastoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL3545132",
+        "name": "MIRVETUXIMAB SORAVTANSINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Folate receptor alpha binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "triple-negative breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "malignant epithelial tumor of ovary"
+              }
+            },
+            {
+              "disease": {
+                "name": "peritoneal neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "endometrial cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "fallopian tube neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1743082",
+        "name": "TRASTUZUMAB EMTANSINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "metastatic colorectal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "HER2 Positive Breast Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4297268",
+        "name": "BMS-275183",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin stabiliser"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL4298209",
+        "name": "BELANTAMAB MAFODOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tumor necrosis factor receptor superfamily member 17 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "AL amyloidosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL2109629",
+        "name": "ANETUMAB RAVTANSINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "Mesothelin binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "mesothelioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "malignant pleural mesothelioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1_2",
+      "drug": {
+        "id": "CHEMBL2103852",
+        "name": "CROLIBULIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL1096380",
+        "name": "PLINABULIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neutropenia"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL2109266",
+        "name": "AVE-9633",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Myeloid cell surface antigen CD33 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "myeloid leukemia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1_2",
+      "drug": {
+        "id": "CHEMBL2109556",
+        "name": "MLN-2704",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glutamate carboxypeptidase II binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "prostate adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL39541",
+        "name": "DOLASTATIN-10",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "kidney cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL159",
+        "name": "VINBLASTINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "classic Hodgkin lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "low grade glioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "urothelial carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "brain neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Paraganglioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "stricture"
+              }
+            },
+            {
+              "disease": {
+                "name": "Langerhans Cell Histiocytosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL552212",
+        "name": "LEXIBULIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "glioblastoma multiforme"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4594455",
+        "name": "AGS-16C3F",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin disrupting agent"
+            },
+            {
+              "mechanismOfAction": "Ectonucleotide pyrophosphatase/phosphodiesterase family member 3 binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "clear cell renal carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "renal cell carcinoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1683544",
+        "name": "ERIBULIN MESYLATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "urinary bladder carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "osteosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "salivary gland cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "triple-negative breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "soft tissue sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "primary brain neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck malignant neoplasia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL107",
+        "name": "COLCHICINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "atherosclerosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "essential hypertension"
+              }
+            },
+            {
+              "disease": {
+                "name": "cirrhosis of liver"
+              }
+            },
+            {
+              "disease": {
+                "name": "rhegmatogenous retinal detachment"
+              }
+            },
+            {
+              "disease": {
+                "name": "chronic kidney disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "vascular disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "myocardial infarction"
+              }
+            },
+            {
+              "disease": {
+                "name": "urogenital neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "cholangiocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cardiac arrhythmia"
+              }
+            },
+            {
+              "disease": {
+                "name": "heart failure"
+              }
+            },
+            {
+              "disease": {
+                "name": "ischemia reperfusion injury"
+              }
+            },
+            {
+              "disease": {
+                "name": "coronary artery disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "aphthous ulcer"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetic nephropathy"
+              }
+            },
+            {
+              "disease": {
+                "name": "proliferative vitreoretinopathy"
+              }
+            },
+            {
+              "disease": {
+                "name": "gout"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Non-ST Elevation Myocardial Infarction"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute coronary syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "atrial fibrillation"
+              }
+            },
+            {
+              "disease": {
+                "name": "chronic hepatitis C virus infection"
+              }
+            },
+            {
+              "disease": {
+                "name": "Behcet's syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute myocarditis"
+              }
+            },
+            {
+              "disease": {
+                "name": "primary biliary cirrhosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "hypertension"
+              }
+            },
+            {
+              "disease": {
+                "name": "intracranial hemorrhage"
+              }
+            },
+            {
+              "disease": {
+                "name": "peripheral arterial disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "pericarditis"
+              }
+            },
+            {
+              "disease": {
+                "name": "viral pneumonia"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "ST Elevation Myocardial Infarction"
+              }
+            },
+            {
+              "disease": {
+                "name": "amyotrophic lateral sclerosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "Postpericardiotomy Syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "coronavirus infectious disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "venous thromboembolism"
+              }
+            },
+            {
+              "disease": {
+                "name": "vasculitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "familial Mediterranean fever"
+              }
+            },
+            {
+              "disease": {
+                "name": "COVID-19"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "osteoarthritis, knee"
+              }
+            },
+            {
+              "disease": {
+                "name": "stroke"
+              }
+            },
+            {
+              "disease": {
+                "name": "asthma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1201748",
+        "name": "CABAZITAXEL",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "infiltrating bladder urothelial carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "glioblastoma multiforme"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck malignant neoplasia"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "metastatic prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Transitional Cell Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "dedifferentiated liposarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "adrenal cortex carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Testicular Germ Cell Tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "testicular carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "penile neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "brain cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "central nervous system cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "urothelial carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "nongerminomatous germ cell tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL2304041",
+        "name": "SAGOPILONE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin stabiliser"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "glioblastoma multiforme"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Central Nervous System Neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "small cell lung carcinoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4297440",
+        "name": "T-900607",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin disrupting agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "non-Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "liver cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "hepatocellular carcinoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1683590",
+        "name": "ERIBULIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "epithelioid hemangioendothelioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "liposarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "solitary fibrous tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "triple-negative breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "angiosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL4279455",
+        "name": "LAROTAXEL",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin stabiliser"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Malignant Pancreatic Neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL1743031",
+        "name": "INDATUXIMAB RAVTANSINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Syndecan-1 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4297296",
+        "name": "KOS-1584",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin stabiliser"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4298101",
+        "name": "LADIRATUZUMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Zinc transporter ZIP6 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL3301585",
+        "name": "PINATUZUMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "CD22 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "non-Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "chronic lymphocytic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL2108672",
+        "name": "VORSETUZUMAB MAFODOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "CD70 antigen binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "renal cell carcinoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL2109574",
+        "name": "ASG-5ME",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Choline transporter-like protein 4 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Malignant Pancreatic Neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL2108628",
+        "name": "PACLITAXEL POLIGLUMEX",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin stabiliser"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "fallopian tube cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "peritoneum cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "brain neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL94657",
+        "name": "PATUPILONE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin stabiliser"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "prostate adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "glioblastoma multiforme"
+              }
+            },
+            {
+              "disease": {
+                "name": "neuroendocrine neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "carcinoid tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "kidney neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "peritoneal neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "malignant colon neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "hepatocellular carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "fallopian tube cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL2109286",
+        "name": "COLTUXIMAB RAVTANSINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "B-lymphocyte antigen CD19 binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "non-Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute lymphoblastic leukemia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL3545371",
+        "name": "DENINTUZUMAB MAFODOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "B-lymphocyte antigen CD19 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-Hodgkins lymphoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL90555",
+        "name": "VINCRISTINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "acute lymphoblastic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "Ewing sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "medulloblastoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "choroid plexus neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "unspecified peripheral T-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "HIV-1 infection"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoblastic lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "adrenal cortex carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Central Nervous System Neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "neuroblastoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "follicular lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "chronic lymphocytic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "rhabdomyosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Mantle cell lymphoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2_3",
+      "drug": {
+        "id": "CHEMBL2105643",
+        "name": "FOSBRETABULIN TROMETHAMINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin disrupting agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neuroendocrine neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL4650293",
+        "name": "APRUTUMAB IXADOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Fibroblast growth factor receptor 2 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL1089636",
+        "name": "ANG1005",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "Prolow-density lipoprotein receptor-related protein 1 binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "malignant glioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "glioblastoma multiforme"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4297636",
+        "name": "PLOCABULIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL3545372",
+        "name": "SOFITUZUMAB VEDOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Mucin-16 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "fallopian tube cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "peritoneum cancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL2109279",
+        "name": "RG-7598",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Fc receptor-like protein 5 binding agent"
+            },
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL378544",
+        "name": "VINBLASTINE SULFATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoid neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Desmoid-type fibromatosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "fungal infectious disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL572284",
+        "name": "OMBRABULIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2_3",
+      "drug": {
+        "id": "CHEMBL4297892",
+        "name": "ANVATABART OPADOTIN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tubulin inhibitor"
+            },
+            {
+              "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 binding agent"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "HER2 Positive Breast Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

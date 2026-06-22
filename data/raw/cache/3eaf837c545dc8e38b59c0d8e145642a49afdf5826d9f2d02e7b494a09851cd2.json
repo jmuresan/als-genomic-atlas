@@ -1,0 +1,172 @@
+{
+  "atc_classifications": [
+    "L01FF01"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29969,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": "Homo sapiens",
+        "sequence": "QVQLVESGGGVVQPGRSLRLDCKASGITFSNSGMHWVRQAPGKGLEWVAVIWYDGSKRYYADSVKGRFTISRDNSKNTLFLQMNSLRAEDTAVYYCATNDDYWGQGTLVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPEFLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLGK",
+        "tax_id": 9606
+      },
+      {
+        "component_id": 29970,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": "Homo sapiens",
+        "sequence": "EIVLTQSPATLSLSPGERATLSCRASQSVSSYLAWYQQKPGQAPRLLIYDASNRATGIPARFSGSGSGTDFTLTISSLEPEDFAVYYCQQSSNWPRTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": 9606
+      }
+    ],
+    "description": "Nivolumab (human mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2108738"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/opdivo",
+      "xref_name": "opdivo",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "nivolumab",
+      "xref_name": "nivolumab",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/nivolumab-bms",
+      "xref_name": "nivolumab-bms",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2015,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL2108738",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2108738",
+    "molecule_chembl_id": "CHEMBL2108738",
+    "parent_chembl_id": "CHEMBL2108738"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "BMS-936558",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BMS-936558"
+    },
+    {
+      "molecule_synonym": "BMS-986298",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BMS-986298"
+    },
+    {
+      "molecule_synonym": "MDX-1106",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "MDX-1106"
+    },
+    {
+      "molecule_synonym": "MDX1106",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "MDX1106"
+    },
+    {
+      "molecule_synonym": "Nivolumab",
+      "syn_type": "ATC",
+      "synonyms": "NIVOLUMAB"
+    },
+    {
+      "molecule_synonym": "Nivolumab",
+      "syn_type": "BNF",
+      "synonyms": "NIVOLUMAB"
+    },
+    {
+      "molecule_synonym": "Nivolumab",
+      "syn_type": "EMA",
+      "synonyms": "NIVOLUMAB"
+    },
+    {
+      "molecule_synonym": "Nivolumab",
+      "syn_type": "FDA",
+      "synonyms": "NIVOLUMAB"
+    },
+    {
+      "molecule_synonym": "Nivolumab",
+      "syn_type": "INN",
+      "synonyms": "NIVOLUMAB"
+    },
+    {
+      "molecule_synonym": "Nivolumab",
+      "syn_type": "JAN",
+      "synonyms": "NIVOLUMAB"
+    },
+    {
+      "molecule_synonym": "Nivolumab",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "NIVOLUMAB"
+    },
+    {
+      "molecule_synonym": "Nivolumab",
+      "syn_type": "OTHER",
+      "synonyms": "NIVOLUMAB"
+    },
+    {
+      "molecule_synonym": "Nivolumab",
+      "syn_type": "USAN",
+      "synonyms": "NIVOLUMAB"
+    },
+    {
+      "molecule_synonym": "Nivolumab bms",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "NIVOLUMAB BMS"
+    },
+    {
+      "molecule_synonym": "Nivolumab component of bms-986213",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "NIVOLUMAB COMPONENT OF BMS-986213"
+    },
+    {
+      "molecule_synonym": "Nivolumab component of opdualag",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "NIVOLUMAB COMPONENT OF OPDUALAG"
+    },
+    {
+      "molecule_synonym": "ONO-4538",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ONO-4538"
+    },
+    {
+      "molecule_synonym": "Opdivo",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "OPDIVO"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "NIVOLUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human",
+  "usan_substem": "-mab (-umab)",
+  "usan_year": 2011,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

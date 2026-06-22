@@ -1,0 +1,196 @@
+{
+  "atc_classifications": [
+    "L01FF10"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29690,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn-296 $ Asn-296''''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29523,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYSFTSYWMNWVRQAPGQGLEWIGVIHPSDSETWLDQKFKDRVTITVDKSTSTAYMELSSLRSEDTAVYYCAREHYGTSPFAYWGQGTLVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPEFLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLG",
+        "tax_id": null
+      },
+      {
+        "component_id": 29524,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "EIVLTQSPATLSLSPGERATLSCRASESVDNYGMSFMNWFQQKPGQPPKLLIHAASNQGSGVPSRFSGSGSGTDFTLTISSLEPEDFAVYFCQQSKEVPYTFGGGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 31412,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn-296 $ Asn-296''",
+        "tax_id": null
+      },
+      {
+        "component_id": 30434,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "138'-198' $ 138'''-198''' $ 146-202 $ 146''-202'' $ 225-225'' $ 228-228'' $ 260-320 $ 260''-320'' $ 366-424 $ 366''-424''",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4298037"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/zynyz-0",
+      "xref_name": "zynyz-0",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/RETIFANLIMAB/relevant/1/",
+      "xref_name": "RETIFANLIMAB",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2023,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL4298037",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4298037",
+    "molecule_chembl_id": "CHEMBL4298037",
+    "parent_chembl_id": "CHEMBL4298037"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "AEX-1188",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AEX-1188"
+    },
+    {
+      "molecule_synonym": "AEX1188",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AEX1188"
+    },
+    {
+      "molecule_synonym": "INCMGA-00012",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "INCMGA-00012"
+    },
+    {
+      "molecule_synonym": "Incmga00012",
+      "syn_type": "OTHER",
+      "synonyms": "INCMGA00012"
+    },
+    {
+      "molecule_synonym": "INCMGA00012",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "INCMGA00012"
+    },
+    {
+      "molecule_synonym": "INCMGA-0012",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "INCMGA-0012"
+    },
+    {
+      "molecule_synonym": "MGA-012",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "MGA-012"
+    },
+    {
+      "molecule_synonym": "Mga012",
+      "syn_type": "OTHER",
+      "synonyms": "MGA012"
+    },
+    {
+      "molecule_synonym": "MGA012",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "MGA012"
+    },
+    {
+      "molecule_synonym": "Retifanlimab",
+      "syn_type": "ATC",
+      "synonyms": "RETIFANLIMAB"
+    },
+    {
+      "molecule_synonym": "Retifanlimab",
+      "syn_type": "EMA",
+      "synonyms": "RETIFANLIMAB"
+    },
+    {
+      "molecule_synonym": "Retifanlimab",
+      "syn_type": "FDA",
+      "synonyms": "RETIFANLIMAB"
+    },
+    {
+      "molecule_synonym": "Retifanlimab",
+      "syn_type": "INN",
+      "synonyms": "RETIFANLIMAB"
+    },
+    {
+      "molecule_synonym": "Retifanlimab",
+      "syn_type": "OTHER",
+      "synonyms": "RETIFANLIMAB"
+    },
+    {
+      "molecule_synonym": "Retifanlimab",
+      "syn_type": "USAN",
+      "synonyms": "RETIFANLIMAB"
+    },
+    {
+      "molecule_synonym": "Retifanlimab-dlwr",
+      "syn_type": "FDA",
+      "synonyms": "RETIFANLIMAB-DLWR"
+    },
+    {
+      "molecule_synonym": "Retifanlimab-dlwr",
+      "syn_type": "OTHER",
+      "synonyms": "RETIFANLIMAB-DLWR"
+    },
+    {
+      "molecule_synonym": "Zynyz",
+      "syn_type": "OTHER",
+      "synonyms": "ZYNYZ"
+    },
+    {
+      "molecule_synonym": "Zynyz",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "ZYNYZ"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 1,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "RETIFANLIMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": 2020,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

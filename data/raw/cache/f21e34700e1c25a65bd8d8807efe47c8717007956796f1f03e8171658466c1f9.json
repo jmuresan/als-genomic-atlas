@@ -1,0 +1,139 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 31425,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn-294 $ Asn-294''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29034,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "EIVLTQSPATLSLSPGERATLSCKSSQSLLDSGNQKNFLTWYQQKPGQAPRLLIYWASTRESGVPSRFSGSGSGTDFTFTISSLEAEDAATYYCQNDYSYPYTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 29526,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn-294 $ Asn-294''''",
+        "tax_id": null
+      },
+      {
+        "component_id": 30523,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22-96 $ 22''-96'' $ 23'-94' $ 23'''-94''' $ 131-220' $ 131''-220''' $ 140'-200' $ 140'''-200''' $ 144-200 $ 144''-200'' $ 223-223'' $ 226-226'' $ 258-318 $ 258''-318'' $ 364-422 $ 364''-422''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29033,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "EVQLVQSGAEVKKPGESLRISCKGSGYTFTTYWMHWVRQATGQGLEWMGNIYPGTGGSNFDEKFKNRVTITADKSTSTAYMELSSLRSEDTAVYYCTRWTTGTGAYWGQGTTVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPEFLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLG",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4297831"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "SPARTALIZUMAB",
+      "xref_name": "SPARTALIZUMAB",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL4297831",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297831",
+    "molecule_chembl_id": "CHEMBL4297831",
+    "parent_chembl_id": "CHEMBL4297831"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "ANTI-PD1 MONOCLONAL ANTIBODY PDR001",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ANTI-PD1 MONOCLONAL ANTIBODY PDR001"
+    },
+    {
+      "molecule_synonym": "Espartalizumab",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "ESPARTALIZUMAB"
+    },
+    {
+      "molecule_synonym": "NVP-LZV184",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NVP-LZV184"
+    },
+    {
+      "molecule_synonym": "PDR-001",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PDR-001"
+    },
+    {
+      "molecule_synonym": "Pdr001",
+      "syn_type": "OTHER",
+      "synonyms": "PDR001"
+    },
+    {
+      "molecule_synonym": "PDR001",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PDR001"
+    },
+    {
+      "molecule_synonym": "Spartalizumab",
+      "syn_type": "INN",
+      "synonyms": "SPARTALIZUMAB"
+    },
+    {
+      "molecule_synonym": "Spartalizumab",
+      "syn_type": "OTHER",
+      "synonyms": "SPARTALIZUMAB"
+    },
+    {
+      "molecule_synonym": "Spartalizumab",
+      "syn_type": "USAN",
+      "synonyms": "SPARTALIZUMAB"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "SPARTALIZUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

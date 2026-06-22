@@ -1,0 +1,72 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL4297715",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297715",
+    "molecule_chembl_id": "CHEMBL4297715",
+    "parent_chembl_id": "CHEMBL4297715"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Camrelizumab",
+      "syn_type": "INN",
+      "synonyms": "CAMRELIZUMAB"
+    },
+    {
+      "molecule_synonym": "Camrelizumab",
+      "syn_type": "OTHER",
+      "synonyms": "CAMRELIZUMAB"
+    },
+    {
+      "molecule_synonym": "Carilizumab",
+      "syn_type": "OTHER",
+      "synonyms": "CARILIZUMAB"
+    },
+    {
+      "molecule_synonym": "Carrelizumab",
+      "syn_type": "OTHER",
+      "synonyms": "CARRELIZUMAB"
+    },
+    {
+      "molecule_synonym": "Shr-1210",
+      "syn_type": "OTHER",
+      "synonyms": "SHR-1210"
+    },
+    {
+      "molecule_synonym": "SHR-1210",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SHR-1210"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "CAMRELIZUMAB",
+  "prodrug": 0,
+  "structure_type": "NONE",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

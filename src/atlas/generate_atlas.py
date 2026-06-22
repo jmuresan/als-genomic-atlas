@@ -208,11 +208,17 @@ def generate_report(db_path: str, output_path: str):
                 f.write("*No Foldseek structural similarity matches found.*\n\n")
                 
             # Category 10: Matched Target Drugs & Clinical Trials
+            # Ordered by structural similarity of the matched target (Foldseek
+            # match probability), highest on top — so drugs for the closest
+            # structural homologs surface first.
             matched_drugs = conn.execute("""
-                SELECT target_id, drug_or_trial_id, name_or_title, type, max_clinical_phase, mechanism_of_action, status, purpose 
-                FROM foldseek_matched_drugs_trials 
-                WHERE query_gene_symbol = ?
-                ORDER BY max_clinical_phase DESC NULLS LAST
+                SELECT d.target_id, d.drug_or_trial_id, d.name_or_title, d.type, d.max_clinical_phase, d.mechanism_of_action, d.status, d.purpose
+                FROM foldseek_matched_drugs_trials d
+                WHERE d.query_gene_symbol = ?
+                ORDER BY (
+                    SELECT MAX(m.probability) FROM foldseek_matches m
+                    WHERE m.query_gene_symbol = d.query_gene_symbol AND m.target_id = d.target_id
+                ) DESC NULLS LAST
             """, [symbol]).fetchall()
             
             f.write("### Category 10: Matched Target Drugs & Clinical Trials\n")
@@ -228,11 +234,13 @@ def generate_report(db_path: str, output_path: str):
                 f.write("*No drugs or clinical trials associated with matched target proteins.*\n\n")
                 
             # Category 11: Similar Compounds & Repurposing Candidates
+            # Ordered by clinical stage (max phase), highest on top, so the most
+            # advanced repurposing candidates surface first; similarity breaks ties.
             similar_compounds = conn.execute("""
-                SELECT target_id, original_drug_id, similar_drug_id, name, similarity, max_clinical_phase, purpose 
-                FROM foldseek_similar_compounds 
+                SELECT target_id, original_drug_id, similar_drug_id, name, similarity, max_clinical_phase, purpose
+                FROM foldseek_similar_compounds
                 WHERE query_gene_symbol = ?
-                ORDER BY similarity DESC
+                ORDER BY max_clinical_phase DESC NULLS LAST, similarity DESC
             """, [symbol]).fetchall()
             
             f.write("### Category 11: Similar Compounds & Repurposing Candidates\n")

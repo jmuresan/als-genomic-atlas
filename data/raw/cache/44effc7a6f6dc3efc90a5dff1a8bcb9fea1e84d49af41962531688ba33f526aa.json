@@ -1,0 +1,129 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29828,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "298 $ 298''''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29698,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSSMSASVGDRVTFTCRASQDINTYLSWFQQKPGKSPKTLIYRANRLVSGVPSRFSGSGSGQDYTLTISSLQPEDMATYYCLQYDEFPLTFGAGTKLELKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 30189,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFAFSSYDMSWVRQAPGKGLDWVATISGGGRYTYYPDSVKGRFTISRDNSKNNLYLQMNSLRAEDTALYYCANRYGEAWFAYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPEAAGAPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 31284,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "298 $ 298''",
+        "tax_id": null
+      },
+      {
+        "component_id": 30712,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22-96 $ 22''-96'' $ 23'-88' $ 23'''-88''' $ 134'-194' $ 134'''-194''' $ 145-201 $ 145''-201'' $ 221-214' $ 221''-214''' $ 227-227'' $ 230-230'' $ 262-322 $ 262''-322'' $ 368-426 $ 368''-426''",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4297571"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/PENPULIMAB/relevant/1/",
+      "xref_name": "PENPULIMAB",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL4297571",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297571",
+    "molecule_chembl_id": "CHEMBL4297571",
+    "parent_chembl_id": "CHEMBL4297571"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Ak-105",
+      "syn_type": "OTHER",
+      "synonyms": "AK-105"
+    },
+    {
+      "molecule_synonym": "AK-105",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AK-105"
+    },
+    {
+      "molecule_synonym": "Ak105",
+      "syn_type": "OTHER",
+      "synonyms": "AK105"
+    },
+    {
+      "molecule_synonym": "AK105",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AK105"
+    },
+    {
+      "molecule_synonym": "Penpulimab",
+      "syn_type": "INN",
+      "synonyms": "PENPULIMAB"
+    },
+    {
+      "molecule_synonym": "Penpulimab",
+      "syn_type": "OTHER",
+      "synonyms": "PENPULIMAB"
+    },
+    {
+      "molecule_synonym": "Penpulimab",
+      "syn_type": "USAN",
+      "synonyms": "PENPULIMAB"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "PENPULIMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": 2021,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

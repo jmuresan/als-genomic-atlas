@@ -1,0 +1,4319 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "PDCD1",
+      "drugAndClinicalCandidates": {
+        "count": 26,
+        "rows": [
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4297715",
+              "name": "CAMRELIZUMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 antagonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "esophageal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thyroid cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "soft tissue sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Pleural effusion"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "extranodal nasal NK/T cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "oral squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant colon neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "intrahepatic cholangiocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "mouth neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "clear cell renal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "classic Hodgkin lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "mucosal melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuroendocrine carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "endometrial cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian clear cell cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Central Nervous System Lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hypopharyngeal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "triple-negative breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "bladder tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "liver cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diffuse large B-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "adrenal cortex carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "biliary tract cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "drug toxicity"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "leptomeningeal metastasis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Hodgkins lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm of esophagus"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gestational trophoblastic neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urinary bladder cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "osteosarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastroesophageal junction adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rectum cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal neoplasm"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL4298124",
+              "name": "DOSTARLIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 antagonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "liver cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rectal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic malignant neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Penile Carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gestational trophoblastic neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "clear cell adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "multiple myeloma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "endometrial cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck neoplasia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "endometrium neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4650516",
+              "name": "FINOTONLIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck squamous cell carcinoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL4298037",
+              "name": "RETIFANLIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 antagonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "metastatic colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "penile cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "triple-negative breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Merkel cell skin cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urothelial carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuroendocrine carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic ductal adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "dedifferentiated liposarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "endometrial cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL4297829",
+              "name": "SINTILIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 antagonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "cervical adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "liver cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "classic Hodgkin lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "undifferentiated pleomorphic sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "biliary tract cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diffuse large B-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuroblastoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "grade III meningioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "angiosarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Malignant Pancreatic Neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Hodgkins lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "endometrial cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Cutaneous T-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastroesophageal junction adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "extranodal nasal NK/T cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung adenocarcinoma in situ"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "intrahepatic cholangiocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "stomach neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant peritoneal mesothelioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "clear cell adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "soft tissue sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "salivary gland neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cholangiocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "oral squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "clear cell renal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rectum cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "anaplastic meningioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thyroid cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "salivary gland cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "angioimmunoblastic T-cell lymphoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL4594550",
+              "name": "SERPLULIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 antagonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "Ascites"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rectum cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuroendocrine carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastroesophageal junction adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal squamous cell carcinoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4594355",
+              "name": "APL-501",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "unspecified peripheral T-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "alveolar soft part sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "B-cell non-Hodgkins lymphoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL4297843",
+              "name": "TORIPALIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 antagonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "mucosal melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "undifferentiated pleomorphic sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "soft tissue sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm of hypopharynx"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "biliary tract neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuroendocrine carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck malignant neoplasia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rectum cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "stomach neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "extranodal nasal NK/T cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant pleural mesothelioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cholangiocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "triple-negative breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "bladder transitional cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Epstein-Barr virus infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urinary bladder carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thyroid cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Niemann-Pick disease type B"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "penile cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "intrahepatic cholangiocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "leptomeningeal metastasis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thymic epithelial neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urothelial carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Tracheal Squamous Cell Carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urinary bladder cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hypopharyngeal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "oral squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "biliary tract cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastroesophageal junction adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thrombotic disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colonic neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4297856",
+              "name": "ZIMBERELIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "classic Hodgkin lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic prostate cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Malignant Pancreatic Neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "clear cell adenocarcinoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4297877",
+              "name": "BALSTILIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 antagonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "metastatic colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "oropharynx cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "human papilloma virus infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4297571",
+              "name": "PENPULIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "esophageal squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Malignant Pancreatic Neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "classic Hodgkin lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Central Nervous System Lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Paraganglioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Hodgkins lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "adrenal gland pheochromocytoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "small cell lung carcinoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4650472",
+              "name": "PUCOTENLIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "rectum cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urinary bladder cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thyroid cancer"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_1_2",
+            "drug": {
+              "id": "CHEMBL4594578",
+              "name": "TEBOTELIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Lymphocyte activation gene 3 protein inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL2108738",
+              "name": "NIVOLUMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "chronic hepatitis B virus infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Central Nervous System Lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant colon neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "prostate cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatitis C virus infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "carcinoid tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cutaneous melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "female reproductive system neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Uveal Melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Malignant Pancreatic Neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "oral squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Hodgkins lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "bladder tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant rhabdoid tumour"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck malignant neoplasia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "undifferentiated pleomorphic sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Sepsis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatitis B virus infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "childhood cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant pleural mesothelioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "adrenal cortex carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-Hodgkins lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "salivary gland carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urinary bladder cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "inflammatory breast carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoid neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "brain neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastroesophageal junction adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "classic Hodgkin lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "dedifferentiated liposarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Richter syndrome"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuroblastoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuroendocrine carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nerve sheath neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "triple-negative breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "liver cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "kidney cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urothelial carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "acute lymphoblastic leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "osteosarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Transitional Cell Carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "chordoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urinary bladder carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "low grade glioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "salivary gland cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "mesothelioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant glioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "grade III meningioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "germ cell tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "upper aerodigestive tract neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "chronic myelogenous leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cholangiocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "skin cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "basal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "soft tissue sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "multiple myeloma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Oral leukoplakia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastrointestinal stromal tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cutaneous squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuroendocrine neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "encephalitis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "follicular lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "meningioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "carcinosarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "leiomyosarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "oropharynx squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ST Elevation Myocardial Infarction"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Kaposi's sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diffuse large B-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "clear cell renal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "COVID-19"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Paraganglioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diffuse intrinsic pontine glioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hematopoietic and lymphoid cell neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Pleural Mesothelioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "myelodysplastic syndrome"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "stomach neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic ductal adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urogenital neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "oropharynx cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "brain cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "biliary tract cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "prostate adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "acute myeloid leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thyroid carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Merkel cell skin cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "anaplastic large cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rectum cancer"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2_3",
+            "drug": {
+              "id": "CHEMBL4297858",
+              "name": "BUDIGALIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck malignant neoplasia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "HIV infection"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4298191",
+              "name": "SASANLIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 antagonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "metastasis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urothelial carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urinary bladder cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-Hodgkins lymphoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4594602",
+              "name": "LOMVASTOMIG",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Hepatitis A virus cellular receptor 2 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "esophageal squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4650482",
+              "name": "PIMIVALIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL3137343",
+              "name": "PEMBROLIZUMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "urogenital neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "female reproductive system neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "salivary gland carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-Hodgkins lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urinary bladder carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cutaneous squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Sezary's disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Thymoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "asymptomatic myeloma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "adenoid cystic carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Kaposi's sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "human papilloma virus infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Merkel cell skin cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant pleural mesothelioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "papilloma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "endometrial neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Thymic Carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rectum cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "acute myeloid leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "osteosarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Ovarian Small Cell Carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "carcinoma of liver and intrahepatic biliary tract"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "collecting duct carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuroendocrine carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastroesophageal junction adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Malignant Pancreatic Neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant glioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "leptomeningeal metastasis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thyroiditis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast ductal carcinoma in situ"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoid neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic ductal adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "acral lentiginous melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "prostate cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "prostate carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urothelial carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thyroid cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic prostate cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck malignant neoplasia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "medullary thyroid gland carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck neoplasia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "grade III meningioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "multiple myeloma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastrointestinal stromal tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "meningioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urinary bladder cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Uveal Melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "myelodysplastic syndrome"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant colon neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "inflammatory breast carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "upper aerodigestive tract neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "kidney cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "oropharynx squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant peripheral nerve sheath tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Cutaneous T-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "carcinosarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "papillary renal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "prostate adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "HIV infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "soft tissue sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diffuse large B-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "anus cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "COVID-19"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cutaneous melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "extranodal nasal NK/T cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastasis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "progressive multifocal leukoencephalopathy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "mesothelioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "chronic lymphocytic leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "classic Hodgkin lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "oropharyngeal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "skin neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "biliary tract cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Hodgkins lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "bladder tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell carcinoma of penis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Penile Carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "bone sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Transitional Cell Carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "oral squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "viral pneumonia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Central Nervous System Lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm of mature B-cells"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "unspecified peripheral T-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "endometrial carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "meningeal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant tumor of neck"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "mycosis fungoides"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "uterine cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hematopoietic and lymphoid cell neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "astrocytoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "marginal zone B-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "endometrial cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Paraganglioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gliosarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gestational trophoblastic neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "endometrium neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "brain cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "brain neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "alveolar soft part sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic malignant neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Ovarian Squamous Cell Carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "female breast carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "triple-negative breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "adrenal cortex carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "skin carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "stomach neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thymic epithelial neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "desmoplastic melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Thyroid Gland Undifferentiated (Anaplastic) Carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Skin Sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "biliary tract neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuroendocrine neoplasm"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL4297840",
+              "name": "TISLELIZUMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "squamous cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Central Nervous System Lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "T-cell non-Hodgkin lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck malignant neoplasia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "classic Hodgkin lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "extranodal nasal NK/T cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diffuse large B-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rectum cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "digestive system neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Hodgkins lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "liver cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urinary bladder cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "leptomeningeal metastasis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "biliary tract neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic ductal adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "stomach neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-Hodgkins lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rectal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "intrahepatic cholangiocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "kidney cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "biliary tract cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urothelial carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "astrocytoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "bladder tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Ascites"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "triple-negative breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant colon neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "oligodendroglioma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL4297723",
+              "name": "CEMIPLIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "prostate cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Merkel cell skin cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "mycosis fungoides"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "adrenal cortex carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "penile cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "skin cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colon carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "vulvar carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "vulva cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "human papillomavirus-related squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "basal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant colon neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatitis B virus infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "multiple myeloma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Hodgkins lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cutaneous squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "HIV infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "oropharyngeal carcinoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4594456",
+              "name": "CADONILIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Cytotoxic T-lymphocyte protein 4 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "clear cell renal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "intrahepatic cholangiocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urinary bladder cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastroesophageal junction adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "soft tissue sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urothelial carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Pleural Mesothelioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rectal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "biliary tract cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "unspecified peripheral T-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "mesothelioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urinary bladder carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "bile duct adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cholangiocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cervical carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL2108680",
+              "name": "PIDILIZUMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diffuse large B-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "chronic hepatitis C virus infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "multiple myeloma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4594536",
+              "name": "CS-1003",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "liver cancer"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4297831",
+              "name": "SPARTALIZUMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 antagonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "cutaneous melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "esophageal squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastrointestinal stromal tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuroendocrine carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "nasopharyngeal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic ductal adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4298001",
+              "name": "CETRELIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Programmed cell death protein 1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "prostate cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "multiple myeloma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "chronic hepatitis B virus infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ulcerative colitis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "prostate carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "bladder tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "urothelial carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "prostate adenocarcinoma"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 31418,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn-295 $ Asn-295''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29784,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSTLSASVGDRVTITCRASQSISSWLAWYQQKPGKAPKLLIYEASSLESGVPSRFSGSGSGTEFTLTISSLQPDDFATYYCQQYNSFPPTFGGGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 30884,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22-96 $ 22''-96'' $ 23'-88' $ 23'''-88''' $ 132-214' $ 132''-214''' $ 134'-194' $ 134'''-194''' $ 145-201 $ 145''-201'' $ 224-224'' $ 227-227'' $ 259-319 $ 259''-319'' $ 365-423 $ 365''-423''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29107,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYTFPSYYMHWVRQAPGQGLEWMGIINPEGGSTAYAQKFQGRVTMTRDTSTSTVYMELSSLRSEDTAVYYCARGGTYYDYTYWGQGTLVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPEFLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLG",
+        "tax_id": null
+      },
+      {
+        "component_id": 29672,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn-295 $ Asn-295''''",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4650482"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/PIMIVALIMAB/relevant/1/",
+      "xref_name": "PIMIVALIMAB",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL4650482",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4650482",
+    "molecule_chembl_id": "CHEMBL4650482",
+    "parent_chembl_id": "CHEMBL4650482"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Jtx 4014",
+      "syn_type": "OTHER",
+      "synonyms": "JTX 4014"
+    },
+    {
+      "molecule_synonym": "Jtx-4014",
+      "syn_type": "OTHER",
+      "synonyms": "JTX-4014"
+    },
+    {
+      "molecule_synonym": "JTX-4014",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "JTX-4014"
+    },
+    {
+      "molecule_synonym": "Pimivalimab",
+      "syn_type": "INN",
+      "synonyms": "PIMIVALIMAB"
+    },
+    {
+      "molecule_synonym": "Pimivalimab",
+      "syn_type": "OTHER",
+      "synonyms": "PIMIVALIMAB"
+    },
+    {
+      "molecule_synonym": "Pimivalimab",
+      "syn_type": "USAN",
+      "synonyms": "PIMIVALIMAB"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "PIMIVALIMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": 2021,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,201 @@
+{
+  "atc_classifications": [
+    "L01FF09"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 30911,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn295 $ Asn295''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29369,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn295 $ Asn295''''",
+        "tax_id": null
+      },
+      {
+        "component_id": 30587,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22-95 $ 22''-95'' $ 23-88' $ 23'''-88''' $ 132-214' $ 132''-214''' $ 134'-194' $ 134'''-194''' $ 145-201 $ 145''-201'' $ 224-224'' $ 227-227'' $ 259-319 $ 259''-319'' $ 365-423 $ 365''-423''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29049,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIVMTQSPDSLAVSLGERATINCKSSESVSNDVAWYQQKPGQPPKLLINYAFHRFTGVPDRFSGSGYGTDFTLTISSLQAEDVAVYYCHQAYSSPYTFGQGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 29048,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLQESGPGLVKPSETLSLTCTVSGFSLTSYGVHWIRQPPGKGLEWIGVIYADGSTNYNPSLKSRVTISKDTSKNQVSLKLSSVTAADTAVYYCARAYGNYWYIDVWGQGTTVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPPVAGGPSVFLFPPKPKDTLMISRTPEVTCVVVAVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVVHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLGK",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4297840"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/tevimbra",
+      "xref_name": "tevimbra",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/TISLELIZUMAB/relevant/1/",
+      "xref_name": "TISLELIZUMAB",
+      "xref_src": "USAN"
+    },
+    {
+      "xref_id": "human/EPAR/tizveni",
+      "xref_name": "tizveni",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2023,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL4297840",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297840",
+    "molecule_chembl_id": "CHEMBL4297840",
+    "parent_chembl_id": "CHEMBL4297840"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Bgb-a317",
+      "syn_type": "OTHER",
+      "synonyms": "BGB-A317"
+    },
+    {
+      "molecule_synonym": "BGB-A317",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BGB-A317"
+    },
+    {
+      "molecule_synonym": "BGBA-317",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BGBA-317"
+    },
+    {
+      "molecule_synonym": "BGBA317",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BGBA317"
+    },
+    {
+      "molecule_synonym": "BGN-1",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BGN-1"
+    },
+    {
+      "molecule_synonym": "BGN1",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BGN1"
+    },
+    {
+      "molecule_synonym": "JHL-2108",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "JHL-2108"
+    },
+    {
+      "molecule_synonym": "JHL2108",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "JHL2108"
+    },
+    {
+      "molecule_synonym": "Tevimbra",
+      "syn_type": "OTHER",
+      "synonyms": "TEVIMBRA"
+    },
+    {
+      "molecule_synonym": "Tevimbra",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "TEVIMBRA"
+    },
+    {
+      "molecule_synonym": "Tislelizumab",
+      "syn_type": "ATC",
+      "synonyms": "TISLELIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tislelizumab",
+      "syn_type": "EMA",
+      "synonyms": "TISLELIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tislelizumab",
+      "syn_type": "FDA",
+      "synonyms": "TISLELIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tislelizumab",
+      "syn_type": "INN",
+      "synonyms": "TISLELIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tislelizumab",
+      "syn_type": "OTHER",
+      "synonyms": "TISLELIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tislelizumab",
+      "syn_type": "USAN",
+      "synonyms": "TISLELIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tislelizumab-jsgr",
+      "syn_type": "FDA",
+      "synonyms": "TISLELIZUMAB-JSGR"
+    },
+    {
+      "molecule_synonym": "Tislelizumab-jsgr",
+      "syn_type": "OTHER",
+      "synonyms": "TISLELIZUMAB-JSGR"
+    },
+    {
+      "molecule_synonym": "Tizveni",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "TIZVENI"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "TISLELIZUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": 2018,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

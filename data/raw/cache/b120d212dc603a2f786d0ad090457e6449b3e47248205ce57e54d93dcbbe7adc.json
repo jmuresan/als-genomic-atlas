@@ -1,0 +1,176 @@
+{
+  "atc_classifications": [
+    "L01FF07"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29580,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQLTQSPSFLSAYVGDRVTITCKASQDVGTAVAWYQQKPGKAPKLLIYWASTLHTGVPSRFSGSGSGTEFTLTISSLQPEDFATYYCQHYSSYPWTFGQGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 29467,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn-293$Asn-293''''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29583,
+        "component_type": null,
+        "description": "Disulfide bridges location",
+        "organism": null,
+        "sequence": "22-96$22''-96''$23'-88'$23'''-88'''$130-214'$130''-214'''$134'-194'$134'''-194'''$143-199$143''-199''$222-222''$225-225''$257-317$257''-317''$363-421$363''-421''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29582,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn-293$Asn-293''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29581,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYDMSWVRQAPGKGLEWVSTISGGGSYTYYQDSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCASPYYAMDYWGQGTTVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPEFLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLGK",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4298124"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/jemperli",
+      "xref_name": "jemperli",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2021,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL4298124",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4298124",
+    "molecule_chembl_id": "CHEMBL4298124",
+    "parent_chembl_id": "CHEMBL4298124"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Dostarlimab",
+      "syn_type": "ATC",
+      "synonyms": "DOSTARLIMAB"
+    },
+    {
+      "molecule_synonym": "Dostarlimab",
+      "syn_type": "EMA",
+      "synonyms": "DOSTARLIMAB"
+    },
+    {
+      "molecule_synonym": "Dostarlimab",
+      "syn_type": "INN",
+      "synonyms": "DOSTARLIMAB"
+    },
+    {
+      "molecule_synonym": "Dostarlimab",
+      "syn_type": "OTHER",
+      "synonyms": "DOSTARLIMAB"
+    },
+    {
+      "molecule_synonym": "Dostarlimab",
+      "syn_type": "USAN",
+      "synonyms": "DOSTARLIMAB"
+    },
+    {
+      "molecule_synonym": "Dostarlimab gxly",
+      "syn_type": "OTHER",
+      "synonyms": "DOSTARLIMAB GXLY"
+    },
+    {
+      "molecule_synonym": "Dostarlimab-gxly",
+      "syn_type": "FDA",
+      "synonyms": "DOSTARLIMAB-GXLY"
+    },
+    {
+      "molecule_synonym": "GSK-4057190",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "GSK-4057190"
+    },
+    {
+      "molecule_synonym": "GSK4057190",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "GSK4057190"
+    },
+    {
+      "molecule_synonym": "Jemperli",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "Jemperli"
+    },
+    {
+      "molecule_synonym": "Tsr 042",
+      "syn_type": "OTHER",
+      "synonyms": "TSR 042"
+    },
+    {
+      "molecule_synonym": "Tsr-042",
+      "syn_type": "OTHER",
+      "synonyms": "TSR-042"
+    },
+    {
+      "molecule_synonym": "TSR-042",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TSR-042"
+    },
+    {
+      "molecule_synonym": "Tsr042",
+      "syn_type": "OTHER",
+      "synonyms": "TSR042"
+    },
+    {
+      "molecule_synonym": "WBP-285",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "WBP-285"
+    },
+    {
+      "molecule_synonym": "WBP285",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "WBP285"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "DOSTARLIMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": 2017,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,145 @@
+{
+  "atc_classifications": [
+    "L01FF06"
+  ],
+  "availability_type": -1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29501,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSSLSASVGDSITITCRASLSINTFLNWYQQKPGKAPNLLIYAASSLHGGVPSRFSGSGSGTDFTLTIRTLQPEDFATYYCQQSSNTPFTFGPGTVVDFRRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 29502,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "EVQLLESGGVLVQPGGSLRLSCAASGFTFSNFGMTWVRQAPGKGLEWVSGISGGGRDTYFADSVKGRFTISRDNSKNTLYLQMNSLKGEDTAVYYCVKWGNIYFDYWGQGTLVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPEFLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 29500,
+        "component_type": null,
+        "description": "Disulfide bridges location",
+        "organism": null,
+        "sequence": "22-96$22''-96''$23'-88'$23'''-88'''$131-214'$131''-214'''$134'-194'$134'''-194'''$144-200$144''-200''$223-223''$226-226''$258-318$258''-318''$364-422$364''-422''A(tm)",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4297723"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "cemiplimab-rwlc",
+      "xref_name": "cemiplimab-rwlc",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/libtayo",
+      "xref_name": "libtayo",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2018,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL4297723",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297723",
+    "molecule_chembl_id": "CHEMBL4297723",
+    "parent_chembl_id": "CHEMBL4297723"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Cemiplimab",
+      "syn_type": "ATC",
+      "synonyms": "CEMIPLIMAB"
+    },
+    {
+      "molecule_synonym": "Cemiplimab",
+      "syn_type": "EMA",
+      "synonyms": "CEMIPLIMAB"
+    },
+    {
+      "molecule_synonym": "Cemiplimab",
+      "syn_type": "INN",
+      "synonyms": "CEMIPLIMAB"
+    },
+    {
+      "molecule_synonym": "Cemiplimab",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "CEMIPLIMAB"
+    },
+    {
+      "molecule_synonym": "Cemiplimab",
+      "syn_type": "OTHER",
+      "synonyms": "CEMIPLIMAB"
+    },
+    {
+      "molecule_synonym": "Cemiplimab",
+      "syn_type": "USAN",
+      "synonyms": "CEMIPLIMAB"
+    },
+    {
+      "molecule_synonym": "Cemiplimab rwlc",
+      "syn_type": "OTHER",
+      "synonyms": "CEMIPLIMAB RWLC"
+    },
+    {
+      "molecule_synonym": "Cemiplimab-rwlc",
+      "syn_type": "FDA",
+      "synonyms": "CEMIPLIMAB-RWLC"
+    },
+    {
+      "molecule_synonym": "Libtayo",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "Libtayo"
+    },
+    {
+      "molecule_synonym": "REGN-2810",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "REGN-2810"
+    },
+    {
+      "molecule_synonym": "Regn2810",
+      "syn_type": "OTHER",
+      "synonyms": "REGN2810"
+    },
+    {
+      "molecule_synonym": "REGN2810",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "REGN2810"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "CEMIPLIMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": 2017,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

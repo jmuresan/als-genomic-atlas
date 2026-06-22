@@ -1,0 +1,167 @@
+{
+  "atc_classifications": [
+    "L01FF02"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 30039,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "EIVLTQSPATLSLSPGERATLSCRASKGVSTSGYSYLHWYQQKPGQAPRLLIYLASYLESGVPARFSGSGSGTDFTLTISSLEPEDFAVYYCQHSRDLPLTFGGGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 30038,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLVQSGVEVKKPGASVKVSCKASGYTFTNYYMYWVRQAPGQGLEWMGGINPSNGGTNFNEKFKNRVTLTTDSSTTTAYMELKSLQFDDTAVYYCARRDYRFDMGFDYWGQGTTVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPEFLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLGK",
+        "tax_id": null
+      }
+    ],
+    "description": "Pembrolizumab (humanized mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3137343"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "pembrolizumab",
+      "xref_name": "pembrolizumab",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/keytruda",
+      "xref_name": "keytruda",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2014,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL3137343",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3137343",
+    "molecule_chembl_id": "CHEMBL3137343",
+    "parent_chembl_id": "CHEMBL3137343"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Keytruda",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "KEYTRUDA"
+    },
+    {
+      "molecule_synonym": "Lambrolizumab",
+      "syn_type": "USAN",
+      "synonyms": "LAMBROLIZUMAB"
+    },
+    {
+      "molecule_synonym": "MK-3475",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "MK-3475"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab",
+      "syn_type": "ATC",
+      "synonyms": "PEMBROLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab",
+      "syn_type": "BNF",
+      "synonyms": "PEMBROLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab",
+      "syn_type": "EMA",
+      "synonyms": "PEMBROLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab",
+      "syn_type": "FDA",
+      "synonyms": "PEMBROLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab",
+      "syn_type": "INN",
+      "synonyms": "PEMBROLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "PEMBROLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "PEMBROLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab",
+      "syn_type": "JAN",
+      "synonyms": "PEMBROLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "PEMBROLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab",
+      "syn_type": "OTHER",
+      "synonyms": "PEMBROLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab",
+      "syn_type": "USAN",
+      "synonyms": "PEMBROLIZUMAB"
+    },
+    {
+      "molecule_synonym": "PEMBROLIZUMAB COMPONENT OF KEYLYNK-010",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PEMBROLIZUMAB COMPONENT OF KEYLYNK-010"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab component of mk-1308a",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "PEMBROLIZUMAB COMPONENT OF MK-1308A"
+    },
+    {
+      "molecule_synonym": "Pembrolizumab component of mk 7684a",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "PEMBROLIZUMAB COMPONENT OF MK 7684A"
+    },
+    {
+      "molecule_synonym": "SCH-900475",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SCH-900475"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "PEMBROLIZUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": 2013,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

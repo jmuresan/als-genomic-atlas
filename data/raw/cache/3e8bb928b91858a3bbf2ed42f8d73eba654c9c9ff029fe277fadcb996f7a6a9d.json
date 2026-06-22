@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL3682589",
+      "name": "ELISMETREP",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Transient receptor potential cation channel subfamily M member 8 inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "Hot flashes"
+            }
+          },
+          {
+            "disease": {
+              "name": "diabetic neuropathy"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
