@@ -1,0 +1,40 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "MADCAM1",
+      "drugAndClinicalCandidates": {
+        "count": 1,
+        "rows": [
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL2109511",
+              "name": "ONTAMALIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Mucosal addressin cell adhesion molecule-1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "ulcerative colitis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Crohn's disease"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

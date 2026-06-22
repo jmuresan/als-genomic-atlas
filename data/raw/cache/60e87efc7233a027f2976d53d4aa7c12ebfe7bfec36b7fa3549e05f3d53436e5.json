@@ -1,0 +1,77 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [],
+    "description": "PF-00547659 (mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2109511"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL2109511",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2109511",
+    "molecule_chembl_id": "CHEMBL2109511",
+    "parent_chembl_id": "CHEMBL2109511"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Ontamalimab",
+      "syn_type": "INN",
+      "synonyms": "ONTAMALIMAB"
+    },
+    {
+      "molecule_synonym": "Ontamalimab",
+      "syn_type": "OTHER",
+      "synonyms": "ONTAMALIMAB"
+    },
+    {
+      "molecule_synonym": "PF-00547659",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PF-00547659"
+    },
+    {
+      "molecule_synonym": "SHP-647",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SHP-647"
+    },
+    {
+      "molecule_synonym": "Shp647",
+      "syn_type": "OTHER",
+      "synonyms": "SHP647"
+    },
+    {
+      "molecule_synonym": "SHP647",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SHP647"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "ONTAMALIMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}
