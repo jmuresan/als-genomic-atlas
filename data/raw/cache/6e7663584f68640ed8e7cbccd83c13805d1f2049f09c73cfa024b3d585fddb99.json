@@ -1,0 +1,225 @@
+{
+  "atc_classifications": [
+    "L01EX23"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 1,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/gavreto",
+      "xref_name": "gavreto",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/PRALSETINIB/relevant/1/",
+      "xref_name": "PRALSETINIB",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2020,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL4582651",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4582651",
+    "molecule_chembl_id": "CHEMBL4582651",
+    "parent_chembl_id": "CHEMBL4582651"
+  },
+  "molecule_properties": {
+    "alogp": "4.20",
+    "aromatic_rings": 4,
+    "full_molformula": "C27H32FN9O2",
+    "full_mwt": "533.61",
+    "hba": 9,
+    "hbd": 3,
+    "heavy_atoms": 39,
+    "mw_freebase": "533.61",
+    "np_likeness_score": "-1.35",
+    "num_ro5_violations": 1,
+    "psa": "135.53",
+    "qed_weighted": "0.31",
+    "ro3_pass": "N",
+    "rtb": 8
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CO[C@]1(C(=O)N[C@@H](C)c2ccc(-n3cc(F)cn3)nc2)CC[C@H](c2nc(C)cc(Nc3cc(C)[nH]n3)n2)CC1",
+    "molfile": "\n     RDKit          2D\n\n 39 43  0  0  0  0  0  0  0  0999 V2000\n   -5.0836    1.9876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.7981    1.5751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.7981    0.7501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.3691    0.7501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.3691    1.5751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6546    0.3376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.9402    0.7501    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.9402    1.5751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6546    1.9876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5112    1.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2257    1.9876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2257    2.8126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5112    3.2251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7967    2.8126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7967    1.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0263    2.7550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4876    3.4390    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.3879    2.0135    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2109    1.9559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6722    2.6399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5725    1.2144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3955    1.1569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1112    0.5305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4728   -0.2111    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.2958   -0.2686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7571    0.4154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1961   -1.6941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6574   -1.0101    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7039   -2.3442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4792   -2.0620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4504   -1.2376    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.5826    0.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.0676    1.1626    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.5827    1.8300    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.8376   -0.2894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6546   -0.4874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4351    3.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9316    4.2129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4765   -3.1372    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  4  5  2  0\n  1  5  1  0\n  6  7  2  0\n  7  8  1  0\n  8  9  2  0\n  4  6  1  0\n  5  9  1  0\n 10 11  1  0\n 11  8  1  6\n 12 13  1  0\n 13 14  1  0\n 14 15  1  0\n 10 15  1  0\n 11 12  1  0\n 16 17  2  0\n 14 16  1  0\n 18 19  1  0\n 19 20  1  1\n 16 18  1  0\n 21 22  2  0\n 19 21  1  0\n 23 24  2  0\n 24 25  1  0\n 25 26  2  0\n 21 23  1  0\n 22 26  1  0\n 27 28  1  0\n 25 28  1  0\n 29 30  1  0\n 30 31  2  0\n 27 29  2  0\n 28 31  1  0\n 32 33  1  0\n 33 34  1  0\n  2 34  2  0\n  3 32  2  0\n 32 35  1  0\n  6 36  1  0\n 14 37  1  6\n 37 38  1  0\n 29 39  1  0\nM  END\n> <chembl_id>\nCHEMBL4582651\n\n> <chembl_pref_name>\nPRALSETINIB",
+    "standard_inchi": "InChI=1S/C27H32FN9O2/c1-16-11-22(33-23-12-17(2)35-36-23)34-25(31-16)19-7-9-27(39-4,10-8-19)26(38)32-18(3)20-5-6-24(29-13-20)37-15-21(28)14-30-37/h5-6,11-15,18-19H,7-10H2,1-4H3,(H,32,38)(H2,31,33,34,35,36)/t18-,19-,27+/m0/s1",
+    "standard_inchi_key": "GBLBJPZSROAGMF-RWYJCYHVSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "BLU-123244",
+      "syn_type": "PND",
+      "synonyms": "BLU-123244"
+    },
+    {
+      "molecule_synonym": "BLU-123244",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BLU-123244"
+    },
+    {
+      "molecule_synonym": "BLU123244",
+      "syn_type": "PND",
+      "synonyms": "BLU123244"
+    },
+    {
+      "molecule_synonym": "BLU123244",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BLU123244"
+    },
+    {
+      "molecule_synonym": "BLU667",
+      "syn_type": "PND",
+      "synonyms": "Blu667"
+    },
+    {
+      "molecule_synonym": "Blu-667",
+      "syn_type": "OTHER",
+      "synonyms": "BLU-667"
+    },
+    {
+      "molecule_synonym": "BLU-667",
+      "syn_type": "PND",
+      "synonyms": "BLU-667"
+    },
+    {
+      "molecule_synonym": "BLU-667",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BLU-667"
+    },
+    {
+      "molecule_synonym": "CIS-",
+      "syn_type": "PND",
+      "synonyms": "cis-"
+    },
+    {
+      "molecule_synonym": "CIS-PRALSETINIB",
+      "syn_type": "PND",
+      "synonyms": "cis-Pralsetinib"
+    },
+    {
+      "molecule_synonym": "Cis-pralsetinib",
+      "syn_type": "OTHER",
+      "synonyms": "CIS-PRALSETINIB"
+    },
+    {
+      "molecule_synonym": "CT-BLU667BLU-667BLU667",
+      "syn_type": "PND",
+      "synonyms": "CT-BLU667BLU-667BLU667"
+    },
+    {
+      "molecule_synonym": "GAVRETO",
+      "syn_type": "PND",
+      "synonyms": "GAVRETO"
+    },
+    {
+      "molecule_synonym": "Gavreto",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "GAVRETO"
+    },
+    {
+      "molecule_synonym": ":PRALSETINIB",
+      "syn_type": "PND",
+      "synonyms": ":pralsetinib"
+    },
+    {
+      "molecule_synonym": "PRALSETINIB",
+      "syn_type": "PND",
+      "synonyms": "Pralsetinib"
+    },
+    {
+      "molecule_synonym": ":pralsetinib",
+      "syn_type": "FDA",
+      "synonyms": ":PRALSETINIB"
+    },
+    {
+      "molecule_synonym": "Pralsetinib",
+      "syn_type": "ATC",
+      "synonyms": "PRALSETINIB"
+    },
+    {
+      "molecule_synonym": "Pralsetinib",
+      "syn_type": "EMA",
+      "synonyms": "PRALSETINIB"
+    },
+    {
+      "molecule_synonym": "Pralsetinib",
+      "syn_type": "FDA",
+      "synonyms": "PRALSETINIB"
+    },
+    {
+      "molecule_synonym": "Pralsetinib",
+      "syn_type": "INN",
+      "synonyms": "PRALSETINIB"
+    },
+    {
+      "molecule_synonym": "Pralsetinib",
+      "syn_type": "OTHER",
+      "synonyms": "PRALSETINIB"
+    },
+    {
+      "molecule_synonym": "Pralsetinib",
+      "syn_type": "USAN",
+      "synonyms": "PRALSETINIB"
+    },
+    {
+      "molecule_synonym": "Pralsetinib, cis-",
+      "syn_type": "OTHER",
+      "synonyms": "PRALSETINIB, CIS-"
+    },
+    {
+      "molecule_synonym": "RG-6396",
+      "syn_type": "PND",
+      "synonyms": "RG-6396"
+    },
+    {
+      "molecule_synonym": "RG-6396",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RG-6396"
+    },
+    {
+      "molecule_synonym": "X-581238",
+      "syn_type": "PND",
+      "synonyms": "X-581238"
+    },
+    {
+      "molecule_synonym": "X-581238",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "X-581238"
+    },
+    {
+      "molecule_synonym": "X581238",
+      "syn_type": "PND",
+      "synonyms": "X581238"
+    },
+    {
+      "molecule_synonym": "X581238",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "X581238"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "PRALSETINIB",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-tinib",
+  "usan_stem_definition": "tyrosine kinase inhibitors",
+  "usan_substem": "-tinib",
+  "usan_year": 2019,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

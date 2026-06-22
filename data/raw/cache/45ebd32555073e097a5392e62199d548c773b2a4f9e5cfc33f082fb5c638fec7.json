@@ -1,0 +1,140 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "KIF5B",
+      "drugAndClinicalCandidates": {
+        "count": 2,
+        "rows": [
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL4582651",
+              "name": "PRALSETINIB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Coiled-coil domain-containing protein 6/Tyrosine-protein kinase receptor RET inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Kinesin-1 heavy chain/ Tyrosine-protein kinase receptor RET inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase receptor RET inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "medullary thyroid gland carcinoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL4559134",
+              "name": "SELPERCATINIB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Coiled-coil domain-containing protein 6/Tyrosine-protein kinase receptor RET inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase receptor RET inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Kinesin-1 heavy chain/ Tyrosine-protein kinase receptor RET inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "liver disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thyroid neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant colon neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "papillary thyroid carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thyroid cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Renal insufficiency"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Malignant Pancreatic Neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colon carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "medullary thyroid gland carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

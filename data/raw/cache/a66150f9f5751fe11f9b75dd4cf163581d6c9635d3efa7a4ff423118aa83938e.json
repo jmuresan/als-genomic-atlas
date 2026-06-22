@@ -1,0 +1,40 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL4582651",
+      "name": "PRALSETINIB",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Coiled-coil domain-containing protein 6/Tyrosine-protein kinase receptor RET inhibitor"
+          },
+          {
+            "mechanismOfAction": "Kinesin-1 heavy chain/ Tyrosine-protein kinase receptor RET inhibitor"
+          },
+          {
+            "mechanismOfAction": "Tyrosine-protein kinase receptor RET inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "medullary thyroid gland carcinoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
