@@ -1,0 +1,3047 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4794561",
+      "4793368",
+      "4792932",
+      "4792912",
+      "4792145",
+      "4789983",
+      "4788431",
+      "4788326",
+      "4787463",
+      "4785735",
+      "4784438",
+      "4784069",
+      "4783010",
+      "4782471",
+      "4782351",
+      "3764077",
+      "3761709",
+      "3761641",
+      "3761504",
+      "3759812"
+    ],
+    "4794561": {
+      "uid": "4794561",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794561",
+      "accession_version": "VCV004794561.1",
+      "title": "NM_004738.5(VAPB):c.396+13A>C",
+      "variation_set": [
+        {
+          "measure_id": "4905936",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.396+13A>C",
+          "cdna_change": "NM_004738.5(VAPB):c.396+13A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58439038",
+              "stop": "58439038",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58439038",
+              "display_stop": "58439038",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57014094",
+              "stop": "57014094",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57014094",
+              "display_stop": "57014094",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58439037:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492484"
+        ],
+        "rcv": [
+          "RCV006593573"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/09/07 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058439038",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793368": {
+      "uid": "4793368",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793368",
+      "accession_version": "VCV004793368.1",
+      "title": "NM_004738.5(VAPB):c.50A>C (p.Lys17Thr)",
+      "variation_set": [
+        {
+          "measure_id": "4904601",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.50A>C (p.Lys17Thr)",
+          "cdna_change": "c.50A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58389509",
+              "stop": "58389509",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58389509",
+              "display_stop": "58389509",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "56964565",
+              "stop": "56964565",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "56964565",
+              "display_stop": "56964565",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58389508:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490872"
+        ],
+        "rcv": [
+          "RCV006600694"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/11/18 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058389509",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "K17T",
+      "fda_recognized_database": ""
+    },
+    "4792932": {
+      "uid": "4792932",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792932",
+      "accession_version": "VCV004792932.1",
+      "title": "NM_004738.5(VAPB):c.103C>T (p.Pro35Ser)",
+      "variation_set": [
+        {
+          "measure_id": "4905609",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.103C>T (p.Pro35Ser)",
+          "cdna_change": "c.103C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58418255",
+              "stop": "58418255",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58418255",
+              "display_stop": "58418255",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "56993311",
+              "stop": "56993311",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "56993311",
+              "display_stop": "56993311",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58418254:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490410"
+        ],
+        "rcv": [
+          "RCV006596832"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/09/30 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058418255",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "P35S",
+      "fda_recognized_database": ""
+    },
+    "4792912": {
+      "uid": "4792912",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792912",
+      "accession_version": "VCV004792912.1",
+      "title": "NM_004738.5(VAPB):c.417A>G (p.Lys139=)",
+      "variation_set": [
+        {
+          "measure_id": "4905589",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.417A>G (p.Lys139=)",
+          "cdna_change": "c.417A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58440927",
+              "stop": "58440927",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58440927",
+              "display_stop": "58440927",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57015983",
+              "stop": "57015983",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57015983",
+              "display_stop": "57015983",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58440926:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490401"
+        ],
+        "rcv": [
+          "RCV006596812"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/05/11 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058440927",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4792145": {
+      "uid": "4792145",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792145",
+      "accession_version": "VCV004792145.1",
+      "title": "NM_004738.5(VAPB):c.275C>G (p.Ser92Cys)",
+      "variation_set": [
+        {
+          "measure_id": "4903380",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.275C>G (p.Ser92Cys)",
+          "cdna_change": "c.275C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58434665",
+              "stop": "58434665",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58434665",
+              "display_stop": "58434665",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57009721",
+              "stop": "57009721",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57009721",
+              "display_stop": "57009721",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58434664:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007489504"
+        ],
+        "rcv": [
+          "RCV006604363"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/06/15 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058434665",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "intron variant"
+      ],
+      "protein_change": "S92C",
+      "fda_recognized_database": ""
+    },
+    "4789983": {
+      "uid": "4789983",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004789983",
+      "accession_version": "VCV004789983.1",
+      "title": "NM_004738.5(VAPB):c.414T>C (p.Asn138=)",
+      "variation_set": [
+        {
+          "measure_id": "4901398",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.414T>C (p.Asn138=)",
+          "cdna_change": "c.414T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58440924",
+              "stop": "58440924",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58440924",
+              "display_stop": "58440924",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57015980",
+              "stop": "57015980",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57015980",
+              "display_stop": "57015980",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58440923:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007485811"
+        ],
+        "rcv": [
+          "RCV006603665"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/04/06 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058440924",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4788431": {
+      "uid": "4788431",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004788431",
+      "accession_version": "VCV004788431.1",
+      "title": "NM_004738.5(VAPB):c.594G>A (p.Met198Ile)",
+      "variation_set": [
+        {
+          "measure_id": "4900715",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.594G>A (p.Met198Ile)",
+          "cdna_change": "c.594G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58444097",
+              "stop": "58444097",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58444097",
+              "display_stop": "58444097",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57019153",
+              "stop": "57019153",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57019153",
+              "display_stop": "57019153",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58444096:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007483891"
+        ],
+        "rcv": [
+          "RCV006591835"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/12/13 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058444097",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "M198I, E78K",
+      "fda_recognized_database": ""
+    },
+    "4788326": {
+      "uid": "4788326",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004788326",
+      "accession_version": "VCV004788326.1",
+      "title": "NM_004738.5(VAPB):c.7A>G (p.Lys3Glu)",
+      "variation_set": [
+        {
+          "measure_id": "4900610",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.7A>G (p.Lys3Glu)",
+          "cdna_change": "c.7A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58389466",
+              "stop": "58389466",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58389466",
+              "display_stop": "58389466",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "56964522",
+              "stop": "56964522",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "56964522",
+              "display_stop": "56964522",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58389465:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007483698"
+        ],
+        "rcv": [
+          "RCV006603472"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/04/06 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058389466",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "K3E",
+      "fda_recognized_database": ""
+    },
+    "4787463": {
+      "uid": "4787463",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004787463",
+      "accession_version": "VCV004787463.1",
+      "title": "NM_004738.5(VAPB):c.21C>T (p.Val7=)",
+      "variation_set": [
+        {
+          "measure_id": "4897029",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.21C>T (p.Val7=)",
+          "cdna_change": "c.21C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58389480",
+              "stop": "58389480",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58389480",
+              "display_stop": "58389480",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "56964536",
+              "stop": "56964536",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "56964536",
+              "display_stop": "56964536",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58389479:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007482654"
+        ],
+        "rcv": [
+          "RCV006599181"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/12/24 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058389480",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4785735": {
+      "uid": "4785735",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004785735",
+      "accession_version": "VCV004785735.1",
+      "title": "NM_004738.5(VAPB):c.58+20A>T",
+      "variation_set": [
+        {
+          "measure_id": "4898258",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.58+20A>T",
+          "cdna_change": "NM_004738.5(VAPB):c.58+20A>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58389537",
+              "stop": "58389537",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58389537",
+              "display_stop": "58389537",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "56964593",
+              "stop": "56964593",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "56964593",
+              "display_stop": "56964593",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58389536:A:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007480683"
+        ],
+        "rcv": [
+          "RCV006598917"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/20 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058389537",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4784438": {
+      "uid": "4784438",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004784438",
+      "accession_version": "VCV004784438.1",
+      "title": "NM_004738.5(VAPB):c.212-13T>C",
+      "variation_set": [
+        {
+          "measure_id": "4896535",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.212-13T>C",
+          "cdna_change": "NM_004738.5(VAPB):c.212-13T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58434589",
+              "stop": "58434589",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58434589",
+              "display_stop": "58434589",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57009645",
+              "stop": "57009645",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57009645",
+              "display_stop": "57009645",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58434588:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007478932"
+        ],
+        "rcv": [
+          "RCV006602512"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/03/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058434589",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4784069": {
+      "uid": "4784069",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004784069",
+      "accession_version": "VCV004784069.1",
+      "title": "NM_004738.5(VAPB):c.265A>T (p.Met89Leu)",
+      "variation_set": [
+        {
+          "measure_id": "4896167",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.265A>T (p.Met89Leu)",
+          "cdna_change": "c.265A>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58434655",
+              "stop": "58434655",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58434655",
+              "display_stop": "58434655",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57009711",
+              "stop": "57009711",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57009711",
+              "display_stop": "57009711",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58434654:A:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007479440"
+        ],
+        "rcv": [
+          "RCV006602143"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/02/21 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058434655",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "intron variant"
+      ],
+      "protein_change": "M89L",
+      "fda_recognized_database": ""
+    },
+    "4783010": {
+      "uid": "4783010",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004783010",
+      "accession_version": "VCV004783010.1",
+      "title": "NM_004738.5(VAPB):c.563A>C (p.Lys188Thr)",
+      "variation_set": [
+        {
+          "measure_id": "4893834",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.563A>C (p.Lys188Thr)",
+          "cdna_change": "c.563A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58441073",
+              "stop": "58441073",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58441073",
+              "display_stop": "58441073",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57016129",
+              "stop": "57016129",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57016129",
+              "display_stop": "57016129",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58441072:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007477309"
+        ],
+        "rcv": [
+          "RCV006590806"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/12/21 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058441073",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "K188T",
+      "fda_recognized_database": ""
+    },
+    "4782471": {
+      "uid": "4782471",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004782471",
+      "accession_version": "VCV004782471.1",
+      "title": "NM_004738.5(VAPB):c.626C>T (p.Ser209Leu)",
+      "variation_set": [
+        {
+          "measure_id": "4895871",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.626C>T (p.Ser209Leu)",
+          "cdna_change": "c.626C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58444129",
+              "stop": "58444129",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58444129",
+              "display_stop": "58444129",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57019185",
+              "stop": "57019185",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57019185",
+              "display_stop": "57019185",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58444128:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007476624"
+        ],
+        "rcv": [
+          "RCV006602009"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/09/30 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058444129",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "S209L",
+      "fda_recognized_database": ""
+    },
+    "4782351": {
+      "uid": "4782351",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004782351",
+      "accession_version": "VCV004782351.1",
+      "title": "NM_004738.5(VAPB):c.459G>A (p.Val153=)",
+      "variation_set": [
+        {
+          "measure_id": "4895752",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.459G>A (p.Val153=)",
+          "cdna_change": "c.459G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58440969",
+              "stop": "58440969",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58440969",
+              "display_stop": "58440969",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57016025",
+              "stop": "57016025",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57016025",
+              "display_stop": "57016025",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58440968:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007476493"
+        ],
+        "rcv": [
+          "RCV006601889"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/09 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058440969",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3764077": {
+      "uid": "3764077",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003764077",
+      "accession_version": "VCV003764077.2",
+      "title": "NM_004738.5(VAPB):c.574-3T>C",
+      "variation_set": [
+        {
+          "measure_id": "3878826",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.574-3T>C",
+          "cdna_change": "NM_004738.5(VAPB):c.574-3T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58444074",
+              "stop": "58444074",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58444074",
+              "display_stop": "58444074",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57019130",
+              "stop": "57019130",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57019130",
+              "display_stop": "57019130",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58444073:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005870108"
+        ],
+        "rcv": [
+          "RCV005227156"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/11/24 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058444074",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3761709": {
+      "uid": "3761709",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003761709",
+      "accession_version": "VCV003761709.3",
+      "title": "NM_004738.5(VAPB):c.422T>C (p.Ile141Thr)",
+      "variation_set": [
+        {
+          "measure_id": "3874022",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.422T>C (p.Ile141Thr)",
+          "cdna_change": "c.422T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58440932",
+              "stop": "58440932",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58440932",
+              "display_stop": "58440932",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57015988",
+              "stop": "57015988",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57015988",
+              "display_stop": "57015988",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58440931:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005867114",
+          "SCV005963880"
+        ],
+        "rcv": [
+          "RCV005224293",
+          "RCV005291227"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/12/11 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0950123"
+              },
+              {
+                "db_source": "MeSH",
+                "db_id": "D030342"
+              }
+            ],
+            "trait_name": "Inborn genetic diseases"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058440932",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "I141T",
+      "fda_recognized_database": ""
+    },
+    "3761641": {
+      "uid": "3761641",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003761641",
+      "accession_version": "VCV003761641.2",
+      "title": "NM_004738.5(VAPB):c.397-18T>C",
+      "variation_set": [
+        {
+          "measure_id": "3873954",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.397-18T>C",
+          "cdna_change": "NM_004738.5(VAPB):c.397-18T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58440889",
+              "stop": "58440889",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58440889",
+              "display_stop": "58440889",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57015945",
+              "stop": "57015945",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57015945",
+              "display_stop": "57015945",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58440888:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005867026"
+        ],
+        "rcv": [
+          "RCV005224225"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/10/22 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058440889",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3761504": {
+      "uid": "3761504",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003761504",
+      "accession_version": "VCV003761504.2",
+      "title": "NM_004738.5(VAPB):c.601A>G (p.Thr201Ala)",
+      "variation_set": [
+        {
+          "measure_id": "3879726",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.601A>G (p.Thr201Ala)",
+          "cdna_change": "c.601A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58444104",
+              "stop": "58444104",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58444104",
+              "display_stop": "58444104",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57019160",
+              "stop": "57019160",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57019160",
+              "display_stop": "57019160",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58444103:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005866885"
+        ],
+        "rcv": [
+          "RCV005222127"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/09/02 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058444104",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "D80G, T201A",
+      "fda_recognized_database": ""
+    },
+    "3759812": {
+      "uid": "3759812",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003759812",
+      "accession_version": "VCV003759812.2",
+      "title": "NM_004738.5(VAPB):c.443C>G (p.Thr148Arg)",
+      "variation_set": [
+        {
+          "measure_id": "3867434",
+          "variation_xrefs": [],
+          "variation_name": "NM_004738.5(VAPB):c.443C>G (p.Thr148Arg)",
+          "cdna_change": "c.443C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "58440953",
+              "stop": "58440953",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "58440953",
+              "display_stop": "58440953",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "20",
+              "band": "20q13.32",
+              "start": "57016009",
+              "stop": "57016009",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "57016009",
+              "display_stop": "57016009",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000020.11:58440952:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005864059"
+        ],
+        "rcv": [
+          "RCV005223860"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/09/08 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "209335"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854058"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008453"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "182980"
+              }
+            ],
+            "trait_name": "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1837728"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012077"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "608627"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 8"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VAPB",
+      "chr_sort": "20",
+      "location_sort": "00000000000058440953",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VAPB",
+          "geneid": "9217",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "T148R",
+      "fda_recognized_database": ""
+    }
+  }
+}

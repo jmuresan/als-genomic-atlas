@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr5",
+      "dataSource": "HAVANA",
+      "description": "sequestosome 1 [Source:HGNC Symbol;Acc:HGNC:11280]",
+      "end": 179838078,
+      "entrezGeneId": 8878,
+      "gencodeId": "ENSG00000161011.19",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "SQSTM1",
+      "geneSymbolUpper": "SQSTM1",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 179806398,
+      "strand": "+",
+      "tss": 179806398
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

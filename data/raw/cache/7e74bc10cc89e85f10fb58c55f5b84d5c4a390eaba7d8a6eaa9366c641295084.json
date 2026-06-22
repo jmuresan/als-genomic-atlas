@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr22",
+      "dataSource": "HAVANA",
+      "description": "neurofilament heavy [Source:HGNC Symbol;Acc:HGNC:7737]",
+      "end": 29491390,
+      "entrezGeneId": 4744,
+      "gencodeId": "ENSG00000100285.9",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "NEFH",
+      "geneSymbolUpper": "NEFH",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 29480230,
+      "strand": "+",
+      "tss": 29480230
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

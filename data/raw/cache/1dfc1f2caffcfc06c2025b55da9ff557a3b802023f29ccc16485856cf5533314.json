@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "749",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4794915",
+      "4794821",
+      "4794741",
+      "4794574",
+      "4794517",
+      "4794363",
+      "4794244",
+      "4794006",
+      "4793967",
+      "4793912",
+      "4793464",
+      "4793357",
+      "4793308",
+      "4793036",
+      "4792696",
+      "4792689",
+      "4792428",
+      "4792181",
+      "4791557",
+      "4791530"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "SQSTM1[gene]",
+        "field": "gene",
+        "count": "996",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "SQSTM1[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

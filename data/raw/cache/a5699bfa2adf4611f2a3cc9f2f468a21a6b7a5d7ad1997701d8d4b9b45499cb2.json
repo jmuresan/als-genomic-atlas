@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr7",
+      "dataSource": "HAVANA",
+      "description": "transmembrane protein 106B [Source:HGNC Symbol;Acc:HGNC:22407]",
+      "end": 12243367,
+      "entrezGeneId": 54664,
+      "gencodeId": "ENSG00000106460.18",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "TMEM106B",
+      "geneSymbolUpper": "TMEM106B",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 12211241,
+      "strand": "+",
+      "tss": 12211241
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

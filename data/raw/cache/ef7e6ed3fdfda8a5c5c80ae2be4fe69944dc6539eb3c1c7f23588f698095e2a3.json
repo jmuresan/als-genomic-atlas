@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr14",
+      "dataSource": "HAVANA",
+      "description": "sec1 family domain containing 1 [Source:HGNC Symbol;Acc:HGNC:20726]",
+      "end": 30735812,
+      "entrezGeneId": 23256,
+      "gencodeId": "ENSG00000092108.20",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "SCFD1",
+      "geneSymbolUpper": "SCFD1",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 30622112,
+      "strand": "+",
+      "tss": 30622112
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

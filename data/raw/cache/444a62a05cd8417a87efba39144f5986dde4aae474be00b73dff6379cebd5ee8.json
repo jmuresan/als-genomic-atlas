@@ -1,0 +1,174 @@
+{
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR000535",
+        "name": "Major sperm protein (MSP) domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "profile": {
+            "PS50202": "Major sperm protein (MSP) domain profile"
+          },
+          "pfam": {
+            "PF00635": "MSP (Major sperm protein) domain"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "o95292",
+          "protein_length": 243,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 7,
+                  "end": 124,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR008962",
+        "name": "PapD-like superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF49354": "PapD-like"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "o95292",
+          "protein_length": 243,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 5,
+                  "end": 130,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR013783",
+        "name": "Immunoglobulin-like fold",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:2.60.40.10": "Immunoglobulins"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "o95292",
+          "protein_length": 243,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 1,
+                  "end": 128,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR016763",
+        "name": "Vesicle-associated membrane-protein-associated protein",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR10809": "VESICLE-ASSOCIATED MEMBRANE PROTEIN-ASSOCIATED PROTEIN"
+          },
+          "pirsf": {
+            "PIRSF019693": "VAMP-associated protein"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0005789",
+            "name": "endoplasmic reticulum membrane",
+            "category": {
+              "code": "C",
+              "name": "cellular_component"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "o95292",
+          "protein_length": 243,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 3,
+                  "end": 242,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

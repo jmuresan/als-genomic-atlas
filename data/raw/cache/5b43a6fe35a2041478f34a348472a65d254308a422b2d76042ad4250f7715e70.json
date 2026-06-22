@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr1",
+      "dataSource": "HAVANA",
+      "description": "TAR DNA binding protein [Source:HGNC Symbol;Acc:HGNC:11571]",
+      "end": 11026420,
+      "entrezGeneId": 23435,
+      "gencodeId": "ENSG00000120948.16",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "TARDBP",
+      "geneSymbolUpper": "TARDBP",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 11012344,
+      "strand": "+",
+      "tss": 11012344
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

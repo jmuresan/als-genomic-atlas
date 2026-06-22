@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "SPG11",
+      "associatedDiseases": {
+        "count": 324,
+        "rows": [
+          {
+            "score": 0.7886006646085494,
+            "disease": {
+              "id": "Orphanet_2822",
+              "name": "Autosomal recessive spastic paraplegia type 11"
+            }
+          },
+          {
+            "score": 0.7857558837706016,
+            "disease": {
+              "id": "MONDO_0011445",
+              "name": "hereditary spastic paraplegia 11"
+            }
+          },
+          {
+            "score": 0.7750226082529693,
+            "disease": {
+              "id": "EFO_1001983",
+              "name": "Autosomal recessive Charcot Marie Tooth disease type 2X"
+            }
+          },
+          {
+            "score": 0.7492481471626722,
+            "disease": {
+              "id": "MONDO_0011196",
+              "name": "amyotrophic lateral sclerosis type 5"
+            }
+          },
+          {
+            "score": 0.6969615170866335,
+            "disease": {
+              "id": "MONDO_0019064",
+              "name": "hereditary spastic paraplegia"
+            }
+          },
+          {
+            "score": 0.5522331855822743,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.5012651261421058,
+            "disease": {
+              "id": "HP_0001258",
+              "name": "Spastic paraplegia"
+            }
+          },
+          {
+            "score": 0.4900711001975742,
+            "disease": {
+              "id": "HP_0011442",
+              "name": "Abnormal central motor function"
+            }
+          },
+          {
+            "score": 0.42501683288740705,
+            "disease": {
+              "id": "EFO_0000589",
+              "name": "metabolic disease"
+            }
+          },
+          {
+            "score": 0.3743533274042807,
+            "disease": {
+              "id": "MONDO_0017593",
+              "name": "juvenile amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.34797052058128725,
+            "disease": {
+              "id": "MONDO_0018321",
+              "name": "atypical juvenile parkinsonism"
+            }
+          },
+          {
+            "score": 0.3400134663099256,
+            "disease": {
+              "id": "MONDO_0011583",
+              "name": "cerebral amyloid angiopathy, APP-related"
+            }
+          },
+          {
+            "score": 0.33531931407885973,
+            "disease": {
+              "id": "HP_0002313",
+              "name": "Spastic paraparesis"
+            }
+          },
+          {
+            "score": 0.333361028925601,
+            "disease": {
+              "id": "HP_0001288",
+              "name": "Gait disturbance"
+            }
+          },
+          {
+            "score": 0.3326218692162316,
+            "disease": {
+              "id": "EFO_0003756",
+              "name": "autism spectrum disorder"
+            }
+          },
+          {
+            "score": 0.3326218692162316,
+            "disease": {
+              "id": "HP_0007034",
+              "name": "Generalized hyperreflexia"
+            }
+          },
+          {
+            "score": 0.2677146350819542,
+            "disease": {
+              "id": "MONDO_0015626",
+              "name": "Charcot-Marie-Tooth disease"
+            }
+          },
+          {
+            "score": 0.26609749537298527,
+            "disease": {
+              "id": "HP_0012443",
+              "name": "Abnormal brain morphology"
+            }
+          },
+          {
+            "score": 0.25786524647328674,
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "score": 0.19848756725966998,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.19716409548634078,
+            "disease": {
+              "id": "EFO_0008588",
+              "name": "peritonitis"
+            }
+          },
+          {
+            "score": 0.1765307813471385,
+            "disease": {
+              "id": "MONDO_0009748",
+              "name": "hereditary sensory and autonomic neuropathy with spastic paraplegia"
+            }
+          },
+          {
+            "score": 0.15232129198926728,
+            "disease": {
+              "id": "HP_0001249",
+              "name": "Intellectual disability"
+            }
+          },
+          {
+            "score": 0.12112979737291102,
+            "disease": {
+              "id": "MONDO_0017845",
+              "name": "spastic ataxia"
+            }
+          },
+          {
+            "score": 0.11781461284453437,
+            "disease": {
+              "id": "EFO_0009373",
+              "name": "edema"
+            }
+          },
+          {
+            "score": 0.06800269326198514,
+            "disease": {
+              "id": "MONDO_0008800",
+              "name": "microphthalmia with limb anomalies"
+            }
+          },
+          {
+            "score": 0.05743514440823749,
+            "disease": {
+              "id": "Orphanet_101016",
+              "name": "Romano-Ward syndrome"
+            }
+          },
+          {
+            "score": 0.05362069853907145,
+            "disease": {
+              "id": "MONDO_0017990",
+              "name": "catecholaminergic polymorphic ventricular tachycardia"
+            }
+          },
+          {
+            "score": 0.052876223039458825,
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.05219663549622178,
+            "disease": {
+              "id": "Orphanet_247",
+              "name": "Arrhythmogenic right ventricular dysplasia"
+            }
+          },
+          {
+            "score": 0.051333204560714635,
+            "disease": {
+              "id": "Orphanet_51083",
+              "name": "Familial short QT syndrome"
+            }
+          },
+          {
+            "score": 0.048479226793982776,
+            "disease": {
+              "id": "Orphanet_99739",
+              "name": "Rare familial disorder with hypertrophic cardiomyopathy"
+            }
+          },
+          {
+            "score": 0.048479226793982776,
+            "disease": {
+              "id": "EFO_0000538",
+              "name": "hypertrophic cardiomyopathy"
+            }
+          },
+          {
+            "score": 0.045728115420138146,
+            "disease": {
+              "id": "Orphanet_871",
+              "name": "Familial progressive cardiac conduction defect"
+            }
+          },
+          {
+            "score": 0.0446711170357399,
+            "disease": {
+              "id": "MONDO_0011781",
+              "name": "spinocerebellar ataxia type 17"
+            }
+          },
+          {
+            "score": 0.04422946910939169,
+            "disease": {
+              "id": "Orphanet_1344",
+              "name": "Atrial stand still"
+            }
+          },
+          {
+            "score": 0.04409642036170519,
+            "disease": {
+              "id": "EFO_0001357",
+              "name": "sporadic amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.044039135484229074,
+            "disease": {
+              "id": "MONDO_0018054",
+              "name": "familial atrial fibrillation"
+            }
+          },
+          {
+            "score": 0.042346459749773135,
+            "disease": {
+              "id": "Orphanet_300751",
+              "name": "Familial dilated cardiomyopathy with conduction defect due to LMNA mutation"
+            }
+          },
+          {
+            "score": 0.04165164962296589,
+            "disease": {
+              "id": "MONDO_0011223",
+              "name": "amyotrophic lateral sclerosis type 4"
+            }
+          },
+          {
+            "score": 0.0399146243059478,
+            "disease": {
+              "id": "MONDO_0012449",
+              "name": "spinocerebellar ataxia type 23"
+            }
+          },
+          {
+            "score": 0.0396559184076685,
+            "disease": {
+              "id": "Orphanet_95434",
+              "name": "Autosomal recessive cerebellar ataxia - saccadic intrusion"
+            }
+          },
+          {
+            "score": 0.039367646121014434,
+            "disease": {
+              "id": "MONDO_0015263",
+              "name": "Brugada syndrome"
+            }
+          },
+          {
+            "score": 0.03919024779076578,
+            "disease": {
+              "id": "EFO_1001450",
+              "name": "Wolff-Parkinson-White Syndrome"
+            }
+          },
+          {
+            "score": 0.03892415029539279,
+            "disease": {
+              "id": "EFO_0009019",
+              "name": "Autosomal recessive spastic paraplegia type 76"
+            }
+          },
+          {
+            "score": 0.0386654443971135,
+            "disease": {
+              "id": "MONDO_0012061",
+              "name": "familial sick sinus syndrome"
+            }
+          },
+          {
+            "score": 0.038495437663958534,
+            "disease": {
+              "id": "EFO_0005304",
+              "name": "atrial conduction disease"
+            }
+          },
+          {
+            "score": 0.037867151910994545,
+            "disease": {
+              "id": "MONDO_0007309",
+              "name": "Charcot-Marie-Tooth disease type 1A"
+            }
+          },
+          {
+            "score": 0.03772671156621436,
+            "disease": {
+              "id": "MONDO_0044701",
+              "name": "childhood-onset motor and cognitive regression syndrome with extrapyramidal movement disorder"
+            }
+          },
+          {
+            "score": 0.03768236198365219,
+            "disease": {
+              "id": "MONDO_0013485",
+              "name": "spinocerebellar ataxia type 35"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

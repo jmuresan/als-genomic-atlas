@@ -1,0 +1,496 @@
+{
+  "data": [
+    {
+      "median": 0.657895,
+      "tissueSiteDetailId": "Adipose_Subcutaneous",
+      "ontologyId": "UBERON:0002190",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.721511,
+      "tissueSiteDetailId": "Adipose_Visceral_Omentum",
+      "ontologyId": "UBERON:0010414",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 34.4467,
+      "tissueSiteDetailId": "Adrenal_Gland",
+      "ontologyId": "UBERON:0002369",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.635935,
+      "tissueSiteDetailId": "Artery_Aorta",
+      "ontologyId": "UBERON:0001496",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.739445,
+      "tissueSiteDetailId": "Artery_Coronary",
+      "ontologyId": "UBERON:0001621",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.400106,
+      "tissueSiteDetailId": "Artery_Tibial",
+      "ontologyId": "UBERON:0007610",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.827741,
+      "tissueSiteDetailId": "Bladder",
+      "ontologyId": "UBERON:0001255",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 9.40201,
+      "tissueSiteDetailId": "Brain_Amygdala",
+      "ontologyId": "UBERON:0001876",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 31.8043,
+      "tissueSiteDetailId": "Brain_Anterior_cingulate_cortex_BA24",
+      "ontologyId": "UBERON:0009835",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 15.1719,
+      "tissueSiteDetailId": "Brain_Caudate_basal_ganglia",
+      "ontologyId": "UBERON:0001873",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 32.561,
+      "tissueSiteDetailId": "Brain_Cerebellar_Hemisphere",
+      "ontologyId": "UBERON:0002037",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 54.0621,
+      "tissueSiteDetailId": "Brain_Cerebellum",
+      "ontologyId": "UBERON:0002037",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 67.0042,
+      "tissueSiteDetailId": "Brain_Cortex",
+      "ontologyId": "UBERON:0001870",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 104.348,
+      "tissueSiteDetailId": "Brain_Frontal_Cortex_BA9",
+      "ontologyId": "UBERON:0009834",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 17.7272,
+      "tissueSiteDetailId": "Brain_Hippocampus",
+      "ontologyId": "UBERON:0001954",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 63.3056,
+      "tissueSiteDetailId": "Brain_Hypothalamus",
+      "ontologyId": "UBERON:0001898",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 16.6344,
+      "tissueSiteDetailId": "Brain_Nucleus_accumbens_basal_ganglia",
+      "ontologyId": "UBERON:0001882",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 16.4908,
+      "tissueSiteDetailId": "Brain_Putamen_basal_ganglia",
+      "ontologyId": "UBERON:0001874",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 19.2643,
+      "tissueSiteDetailId": "Brain_Spinal_cord_cervical_c-1",
+      "ontologyId": "UBERON:0006469",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 56.2009,
+      "tissueSiteDetailId": "Brain_Substantia_nigra",
+      "ontologyId": "UBERON:0002038",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.8410549999999999,
+      "tissueSiteDetailId": "Breast_Mammary_Tissue",
+      "ontologyId": "UBERON:0008367",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 5.09529,
+      "tissueSiteDetailId": "Cells_Cultured_fibroblasts",
+      "ontologyId": "EFO:0002009",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 2.88729,
+      "tissueSiteDetailId": "Cells_EBV-transformed_lymphocytes",
+      "ontologyId": "EFO:0000572",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 1.2948,
+      "tissueSiteDetailId": "Cervix_Ectocervix",
+      "ontologyId": "UBERON:0012249",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 1.39713,
+      "tissueSiteDetailId": "Cervix_Endocervix",
+      "ontologyId": "UBERON:0000458",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 2.71812,
+      "tissueSiteDetailId": "Colon_Sigmoid",
+      "ontologyId": "UBERON:0001159",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 1.35931,
+      "tissueSiteDetailId": "Colon_Transverse",
+      "ontologyId": "UBERON:0001157",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 1.8308900000000001,
+      "tissueSiteDetailId": "Esophagus_Gastroesophageal_Junction",
+      "ontologyId": "UBERON:0004550",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.51393,
+      "tissueSiteDetailId": "Esophagus_Mucosa",
+      "ontologyId": "UBERON:0006920",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 2.6960599999999997,
+      "tissueSiteDetailId": "Esophagus_Muscularis",
+      "ontologyId": "UBERON:0004648",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.894192,
+      "tissueSiteDetailId": "Fallopian_Tube",
+      "ontologyId": "UBERON:0003889",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.396285,
+      "tissueSiteDetailId": "Heart_Atrial_Appendage",
+      "ontologyId": "UBERON:0006631",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.128629,
+      "tissueSiteDetailId": "Heart_Left_Ventricle",
+      "ontologyId": "UBERON:0006566",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.639922,
+      "tissueSiteDetailId": "Kidney_Cortex",
+      "ontologyId": "UBERON:0001225",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.625731,
+      "tissueSiteDetailId": "Kidney_Medulla",
+      "ontologyId": "UBERON:0001293",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.129776,
+      "tissueSiteDetailId": "Liver",
+      "ontologyId": "UBERON:0001114",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.693732,
+      "tissueSiteDetailId": "Lung",
+      "ontologyId": "UBERON:0008952",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.594357,
+      "tissueSiteDetailId": "Minor_Salivary_Gland",
+      "ontologyId": "UBERON:0006330",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.22014699999999998,
+      "tissueSiteDetailId": "Muscle_Skeletal",
+      "ontologyId": "UBERON:0011907",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 1.4886,
+      "tissueSiteDetailId": "Nerve_Tibial",
+      "ontologyId": "UBERON:0001323",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 29.8059,
+      "tissueSiteDetailId": "Ovary",
+      "ontologyId": "UBERON:0000992",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.251844,
+      "tissueSiteDetailId": "Pancreas",
+      "ontologyId": "UBERON:0001150",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 29.6069,
+      "tissueSiteDetailId": "Pituitary",
+      "ontologyId": "UBERON:0000007",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 158.946,
+      "tissueSiteDetailId": "Prostate",
+      "ontologyId": "UBERON:0002367",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.42708500000000005,
+      "tissueSiteDetailId": "Skin_Not_Sun_Exposed_Suprapubic",
+      "ontologyId": "UBERON:0036149",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.47156499999999996,
+      "tissueSiteDetailId": "Skin_Sun_Exposed_Lower_leg",
+      "ontologyId": "UBERON:0004264",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 1.51209,
+      "tissueSiteDetailId": "Small_Intestine_Terminal_Ileum",
+      "ontologyId": "UBERON:0001211",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 2.42262,
+      "tissueSiteDetailId": "Spleen",
+      "ontologyId": "UBERON:0002106",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.43453400000000003,
+      "tissueSiteDetailId": "Stomach",
+      "ontologyId": "UBERON:0000945",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 20.8616,
+      "tissueSiteDetailId": "Testis",
+      "ontologyId": "UBERON:0000473",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.804721,
+      "tissueSiteDetailId": "Thyroid",
+      "ontologyId": "UBERON:0002046",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.8840950000000001,
+      "tissueSiteDetailId": "Uterus",
+      "ontologyId": "UBERON:0000995",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 1.2719799999999999,
+      "tissueSiteDetailId": "Vagina",
+      "ontologyId": "UBERON:0000996",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    },
+    {
+      "median": 0.478296,
+      "tissueSiteDetailId": "Whole_Blood",
+      "ontologyId": "UBERON:0013756",
+      "datasetId": "gtex_v8",
+      "gencodeId": "ENSG00000100285.9",
+      "geneSymbol": "NEFH",
+      "unit": "TPM"
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 54
+  }
+}

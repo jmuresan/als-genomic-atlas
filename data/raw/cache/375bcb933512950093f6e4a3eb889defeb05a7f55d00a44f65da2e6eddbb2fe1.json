@@ -1,0 +1,3082 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4855481",
+      "4820025",
+      "4794706",
+      "4794577",
+      "4793869",
+      "4793752",
+      "4793653",
+      "4793089",
+      "4792893",
+      "4792772",
+      "4792704",
+      "4792122",
+      "4791885",
+      "4791499",
+      "4790804",
+      "4789057",
+      "4788843",
+      "4787882",
+      "4787690",
+      "4786903"
+    ],
+    "4855481": {
+      "uid": "4855481",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004855481",
+      "accession_version": "VCV004855481.1",
+      "title": "NM_001008212.2(OPTN):c.167-81A>G",
+      "variation_set": [
+        {
+          "measure_id": "4966409",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.167-81A>G",
+          "cdna_change": "NM_001008212.2(OPTN):c.167-81A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "",
+              "start": "13110193",
+              "stop": "13110193",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13110193",
+              "display_stop": "13110193",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "",
+              "start": "13152193",
+              "stop": "13152193",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13152193",
+              "display_stop": "13152193",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13110192:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007611396"
+        ],
+        "rcv": [
+          "RCV006706281"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/12/08 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LOC108903148",
+      "chr_sort": "10",
+      "location_sort": "00000000000013110193",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LOC108903148",
+          "geneid": "108903148",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4820025": {
+      "uid": "4820025",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004820025",
+      "accession_version": "VCV004820025.1",
+      "title": "NM_001008212.2(OPTN):c.1713C>A (p.His571Gln)",
+      "variation_set": [
+        {
+          "measure_id": "4931129",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.1713C>A (p.His571Gln)",
+          "cdna_change": "c.1713C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13136845",
+              "stop": "13136845",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13136845",
+              "display_stop": "13136845",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13178845",
+              "stop": "13178845",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13178845",
+              "display_stop": "13178845",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13136844:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007540481"
+        ],
+        "rcv": [
+          "RCV006649684"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/04/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0002736"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0004976"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007354"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013136845",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "H571Q",
+      "fda_recognized_database": ""
+    },
+    "4794706": {
+      "uid": "4794706",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794706",
+      "accession_version": "VCV004794706.1",
+      "title": "NM_001008212.2(OPTN):c.166+9G>A",
+      "variation_set": [
+        {
+          "measure_id": "4906080",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.166+9G>A",
+          "cdna_change": "NM_001008212.2(OPTN):c.166+9G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13109297",
+              "stop": "13109297",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13109297",
+              "display_stop": "13109297",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13151297",
+              "stop": "13151297",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13151297",
+              "display_stop": "13151297",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13109296:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492693"
+        ],
+        "rcv": [
+          "RCV006593718"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/04/02 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013109297",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "LOC108903148",
+          "geneid": "108903148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794577": {
+      "uid": "4794577",
+      "obj_type": "Duplication",
+      "accession": "VCV004794577",
+      "accession_version": "VCV004794577.1",
+      "title": "NM_001008212.2(OPTN):c.1402-11dup",
+      "variation_set": [
+        {
+          "measure_id": "4905952",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.1402-11dup",
+          "cdna_change": "NM_001008212.2(OPTN):c.1402-11dup",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13132049",
+              "stop": "13132050",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13132049",
+              "display_stop": "13132050",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13174049",
+              "stop": "13174050",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13174049",
+              "display_stop": "13174050",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Duplication",
+          "canonical_spdi": "NC_000010.11:13132049:TTTTTTT:TTTTTTTT",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492468"
+        ],
+        "rcv": [
+          "RCV006593589"
+        ]
+      },
+      "germline_classification": {
+        "description": "Benign",
+        "last_evaluated": "2025/05/13 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013132049",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793869": {
+      "uid": "4793869",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793869",
+      "accession_version": "VCV004793869.1",
+      "title": "NM_001008212.2(OPTN):c.678C>G (p.Phe226Leu)",
+      "variation_set": [
+        {
+          "measure_id": "4903806",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.678C>G (p.Phe226Leu)",
+          "cdna_change": "c.678C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13118939",
+              "stop": "13118939",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13118939",
+              "display_stop": "13118939",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13160939",
+              "stop": "13160939",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13160939",
+              "display_stop": "13160939",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13118938:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491559"
+        ],
+        "rcv": [
+          "RCV006604623"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/04/15 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013118939",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "F226L",
+      "fda_recognized_database": ""
+    },
+    "4793752": {
+      "uid": "4793752",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793752",
+      "accession_version": "VCV004793752.1",
+      "title": "NM_001008212.2(OPTN):c.1170G>A (p.Gln390=)",
+      "variation_set": [
+        {
+          "measure_id": "4903690",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.1170G>A (p.Gln390=)",
+          "cdna_change": "c.1170G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13125967",
+              "stop": "13125967",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13125967",
+              "display_stop": "13125967",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13167967",
+              "stop": "13167967",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13167967",
+              "display_stop": "13167967",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13125966:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491392"
+        ],
+        "rcv": [
+          "RCV006601078"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/02 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013125967",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793653": {
+      "uid": "4793653",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793653",
+      "accession_version": "VCV004793653.1",
+      "title": "NM_001008212.2(OPTN):c.654T>C (p.Ser218=)",
+      "variation_set": [
+        {
+          "measure_id": "4903592",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.654T>C (p.Ser218=)",
+          "cdna_change": "c.654T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13118915",
+              "stop": "13118915",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13118915",
+              "display_stop": "13118915",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13160915",
+              "stop": "13160915",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13160915",
+              "display_stop": "13160915",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13118914:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491303"
+        ],
+        "rcv": [
+          "RCV006600979"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/04/09 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013118915",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793089": {
+      "uid": "4793089",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793089",
+      "accession_version": "VCV004793089.1",
+      "title": "NM_001008212.2(OPTN):c.953C>T (p.Thr318Ile)",
+      "variation_set": [
+        {
+          "measure_id": "4905765",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.953C>T (p.Thr318Ile)",
+          "cdna_change": "c.953C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13124065",
+              "stop": "13124065",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13124065",
+              "display_stop": "13124065",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13166065",
+              "stop": "13166065",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13166065",
+              "display_stop": "13166065",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13124064:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490595"
+        ],
+        "rcv": [
+          "RCV006596989"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/10/08 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013124065",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "T318I",
+      "fda_recognized_database": ""
+    },
+    "4792893": {
+      "uid": "4792893",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792893",
+      "accession_version": "VCV004792893.1",
+      "title": "NM_001008212.2(OPTN):c.954A>T (p.Thr318=)",
+      "variation_set": [
+        {
+          "measure_id": "4905571",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.954A>T (p.Thr318=)",
+          "cdna_change": "c.954A>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13124066",
+              "stop": "13124066",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13124066",
+              "display_stop": "13124066",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13166066",
+              "stop": "13166066",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13166066",
+              "display_stop": "13166066",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13124065:A:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490333"
+        ],
+        "rcv": [
+          "RCV006596793"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/03/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013124066",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4792772": {
+      "uid": "4792772",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792772",
+      "accession_version": "VCV004792772.1",
+      "title": "NM_001008212.2(OPTN):c.1420G>A (p.Asp474Asn)",
+      "variation_set": [
+        {
+          "measure_id": "4902282",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.1420G>A (p.Asp474Asn)",
+          "cdna_change": "c.1420G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13132085",
+              "stop": "13132085",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13132085",
+              "display_stop": "13132085",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13174085",
+              "stop": "13174085",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13174085",
+              "display_stop": "13174085",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13132084:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490245"
+        ],
+        "rcv": [
+          "RCV006593248"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/08/30 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013132085",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "D474N",
+      "fda_recognized_database": ""
+    },
+    "4792704": {
+      "uid": "4792704",
+      "obj_type": "Deletion",
+      "accession": "VCV004792704",
+      "accession_version": "VCV004792704.1",
+      "title": "NM_001008212.2(OPTN):c.148del (p.Glu50fs)",
+      "variation_set": [
+        {
+          "measure_id": "4902214",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.148del (p.Glu50fs)",
+          "cdna_change": "c.148del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13109270",
+              "stop": "13109270",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13109270",
+              "display_stop": "13109270",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13151270",
+              "stop": "13151270",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13151270",
+              "display_stop": "13151270",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000010.11:13109269:G:",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490126"
+        ],
+        "rcv": [
+          "RCV006593180"
+        ]
+      },
+      "germline_classification": {
+        "description": "Pathogenic",
+        "last_evaluated": "2026/01/15 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LOC108903148",
+      "chr_sort": "10",
+      "location_sort": "00000000000013109270",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LOC108903148",
+          "geneid": "108903148",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "E50fs",
+      "fda_recognized_database": ""
+    },
+    "4792122": {
+      "uid": "4792122",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792122",
+      "accession_version": "VCV004792122.1",
+      "title": "NM_001008212.2(OPTN):c.713T>G (p.Leu238Arg)",
+      "variation_set": [
+        {
+          "measure_id": "4903357",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.713T>G (p.Leu238Arg)",
+          "cdna_change": "c.713T>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13118974",
+              "stop": "13118974",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13118974",
+              "display_stop": "13118974",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13160974",
+              "stop": "13160974",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13160974",
+              "display_stop": "13160974",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13118973:T:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007489428"
+        ],
+        "rcv": [
+          "RCV006604340"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/10/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013118974",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "L238R",
+      "fda_recognized_database": ""
+    },
+    "4791885": {
+      "uid": "4791885",
+      "obj_type": "Duplication",
+      "accession": "VCV004791885",
+      "accession_version": "VCV004791885.1",
+      "title": "NM_001008212.2(OPTN):c.1202dup (p.Asn401fs)",
+      "variation_set": [
+        {
+          "measure_id": "4904412",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.1202dup (p.Asn401fs)",
+          "cdna_change": "c.1202dup",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13125997",
+              "stop": "13125998",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13125997",
+              "display_stop": "13125998",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13167997",
+              "stop": "13167998",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13167997",
+              "display_stop": "13167998",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Duplication",
+          "canonical_spdi": "NC_000010.11:13125997:AA:AAA",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007489209"
+        ],
+        "rcv": [
+          "RCV006604103"
+        ]
+      },
+      "germline_classification": {
+        "description": "Pathogenic",
+        "last_evaluated": "2025/06/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013125997",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "N401fs",
+      "fda_recognized_database": ""
+    },
+    "4791499": {
+      "uid": "4791499",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004791499",
+      "accession_version": "VCV004791499.1",
+      "title": "NM_001008212.2(OPTN):c.898G>A (p.Glu300Lys)",
+      "variation_set": [
+        {
+          "measure_id": "4904027",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.898G>A (p.Glu300Lys)",
+          "cdna_change": "c.898G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13124010",
+              "stop": "13124010",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13124010",
+              "display_stop": "13124010",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13166010",
+              "stop": "13166010",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13166010",
+              "display_stop": "13166010",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13124009:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007488679"
+        ],
+        "rcv": [
+          "RCV006600289"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/10/29 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013124010",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "E300K",
+      "fda_recognized_database": ""
+    },
+    "4790804": {
+      "uid": "4790804",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004790804",
+      "accession_version": "VCV004790804.1",
+      "title": "NM_001008212.2(OPTN):c.1148+11T>A",
+      "variation_set": [
+        {
+          "measure_id": "4901610",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.1148+11T>A",
+          "cdna_change": "NM_001008212.2(OPTN):c.1148+11T>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13125578",
+              "stop": "13125578",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13125578",
+              "display_stop": "13125578",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13167578",
+              "stop": "13167578",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13167578",
+              "display_stop": "13167578",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13125577:T:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007487873"
+        ],
+        "rcv": [
+          "RCV006592744"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/05/05 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013125578",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4789057": {
+      "uid": "4789057",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004789057",
+      "accession_version": "VCV004789057.1",
+      "title": "NM_001008212.2(OPTN):c.1707G>C (p.Gln569His)",
+      "variation_set": [
+        {
+          "measure_id": "4899035",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.1707G>C (p.Gln569His)",
+          "cdna_change": "c.1707G>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13136839",
+              "stop": "13136839",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13136839",
+              "display_stop": "13136839",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13178839",
+              "stop": "13178839",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13178839",
+              "display_stop": "13178839",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13136838:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007486356"
+        ],
+        "rcv": [
+          "RCV006595885"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/09/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013136839",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "Q569H",
+      "fda_recognized_database": ""
+    },
+    "4788843": {
+      "uid": "4788843",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004788843",
+      "accession_version": "VCV004788843.1",
+      "title": "NM_001008212.2(OPTN):c.377C>T (p.Thr126Ile)",
+      "variation_set": [
+        {
+          "measure_id": "4898823",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.377C>T (p.Thr126Ile)",
+          "cdna_change": "c.377C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13112460",
+              "stop": "13112460",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13112460",
+              "display_stop": "13112460",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13154460",
+              "stop": "13154460",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13154460",
+              "display_stop": "13154460",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13112459:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007484399"
+        ],
+        "rcv": [
+          "RCV006592247"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/07/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013112460",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "T126I",
+      "fda_recognized_database": ""
+    },
+    "4787882": {
+      "uid": "4787882",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004787882",
+      "accession_version": "VCV004787882.1",
+      "title": "NM_001008212.2(OPTN):c.1010T>C (p.Leu337Pro)",
+      "variation_set": [
+        {
+          "measure_id": "4894888",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.1010T>C (p.Leu337Pro)",
+          "cdna_change": "c.1010T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13125429",
+              "stop": "13125429",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13125429",
+              "display_stop": "13125429",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13167429",
+              "stop": "13167429",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13167429",
+              "display_stop": "13167429",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13125428:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007483089"
+        ],
+        "rcv": [
+          "RCV006599600"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/08/26 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013125429",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "L337P",
+      "fda_recognized_database": ""
+    },
+    "4787690": {
+      "uid": "4787690",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004787690",
+      "accession_version": "VCV004787690.1",
+      "title": "NM_001008212.2(OPTN):c.1149G>A (p.Lys383=)",
+      "variation_set": [
+        {
+          "measure_id": "4897255",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.1149G>A (p.Lys383=)",
+          "cdna_change": "c.1149G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13125946",
+              "stop": "13125946",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13125946",
+              "display_stop": "13125946",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13167946",
+              "stop": "13167946",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13167946",
+              "display_stop": "13167946",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13125945:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007482883"
+        ],
+        "rcv": [
+          "RCV006599408"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/09/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "OPTN",
+      "chr_sort": "10",
+      "location_sort": "00000000000013125946",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4786903": {
+      "uid": "4786903",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004786903",
+      "accession_version": "VCV004786903.1",
+      "title": "NM_001008212.2(OPTN):c.369+7A>G",
+      "variation_set": [
+        {
+          "measure_id": "4900481",
+          "variation_xrefs": [],
+          "variation_name": "NM_001008212.2(OPTN):c.369+7A>G",
+          "cdna_change": "NM_001008212.2(OPTN):c.369+7A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13110483",
+              "stop": "13110483",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13110483",
+              "display_stop": "13110483",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "10",
+              "band": "10p13",
+              "start": "13152483",
+              "stop": "13152483",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "13152483",
+              "display_stop": "13152483",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000010.11:13110482:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007482415"
+        ],
+        "rcv": [
+          "RCV006591771"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/12/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C0339573"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0100553"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "137760"
+              }
+            ],
+            "trait_name": "Primary open angle glaucoma"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150692"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013264"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613435"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 12"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C1842026"
+              }
+            ],
+            "trait_name": "Glaucoma 1, open angle, E"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LOC108903148",
+      "chr_sort": "10",
+      "location_sort": "00000000000013110483",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LOC108903148",
+          "geneid": "108903148",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "OPTN",
+          "geneid": "10133",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    }
+  }
+}

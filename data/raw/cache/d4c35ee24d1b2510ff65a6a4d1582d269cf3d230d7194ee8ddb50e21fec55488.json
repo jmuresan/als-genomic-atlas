@@ -1,0 +1,267 @@
+{
+  "count": 6,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR000719",
+        "name": "Protein kinase domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "profile": {
+            "PS50011": "Protein kinase domain profile"
+          },
+          "pfam": {
+            "PF00069": "Protein kinase domain"
+          },
+          "smart": {
+            "SM00220": "Serine/Threonine protein kinases, catalytic domain"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0005524",
+            "name": "ATP binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          },
+          {
+            "identifier": "GO:0006468",
+            "name": "protein phosphorylation",
+            "category": {
+              "code": "P",
+              "name": "biological_process"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "q9uhd2",
+          "protein_length": 729,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 9,
+                  "end": 310,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR011009",
+        "name": "Protein kinase-like domain superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF56112": "Protein kinase-like (PK-like)"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q9uhd2",
+          "protein_length": 729,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 9,
+                  "end": 297,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR017441",
+        "name": "Protein kinase, ATP binding site",
+        "source_database": "interpro",
+        "type": "binding_site",
+        "integrated": null,
+        "member_databases": {
+          "prosite": {
+            "PS00107": "Protein kinases ATP-binding region signature"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0005524",
+            "name": "ATP binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "q9uhd2",
+          "protein_length": 729,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 15,
+                  "end": 38,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR041087",
+        "name": "TANK binding kinase 1, ubiquitin-like domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF18396": "TANK binding kinase 1 ubiquitin-like domain"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q9uhd2",
+          "protein_length": 729,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 308,
+                  "end": 395,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR041309",
+        "name": "TANK-binding kinase 1, coiled-coil domain 1",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF18394": "TANK-binding kinase 1 coiled-coil domain 1"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q9uhd2",
+          "protein_length": 729,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 400,
+                  "end": 655,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR051180",
+        "name": "Inhibitor of nuclear factor kappa-B kinase",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR22969": "Inhibitor of nuclear factor kappa-B kinase"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q9uhd2",
+          "protein_length": 729,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 1,
+                  "end": 716,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

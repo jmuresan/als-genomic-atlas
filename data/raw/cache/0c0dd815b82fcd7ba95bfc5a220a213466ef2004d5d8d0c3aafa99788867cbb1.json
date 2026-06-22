@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "610",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4795080",
+      "4795040",
+      "4794927",
+      "4794647",
+      "4794644",
+      "4794625",
+      "4794597",
+      "4794361",
+      "4794347",
+      "4793556",
+      "4793023",
+      "4792976",
+      "4792829",
+      "4792699",
+      "4791998",
+      "4791874",
+      "4791681",
+      "4791125",
+      "4791087",
+      "4790513"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "VCP[gene]",
+        "field": "gene",
+        "count": "872",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "VCP[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

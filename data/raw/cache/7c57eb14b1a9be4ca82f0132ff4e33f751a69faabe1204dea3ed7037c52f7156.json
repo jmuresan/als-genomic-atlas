@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "MOBP",
+      "associatedDiseases": {
+        "count": 99,
+        "rows": [
+          {
+            "score": 0.45897277284665644,
+            "disease": {
+              "id": "MONDO_0019037",
+              "name": "progressive supranuclear palsy"
+            }
+          },
+          {
+            "score": 0.4436758378872202,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.3020598843895065,
+            "disease": {
+              "id": "MONDO_0017276",
+              "name": "frontotemporal dementia"
+            }
+          },
+          {
+            "score": 0.28832555673113863,
+            "disease": {
+              "id": "EFO_0003888",
+              "name": "attention deficit hyperactivity disorder"
+            }
+          },
+          {
+            "score": 0.277416610655893,
+            "disease": {
+              "id": "MONDO_0004323",
+              "name": "muscular atrophy"
+            }
+          },
+          {
+            "score": 0.277416610655893,
+            "disease": {
+              "id": "HP_0002093",
+              "name": "Respiratory insufficiency"
+            }
+          },
+          {
+            "score": 0.21500648591989843,
+            "disease": {
+              "id": "MONDO_0002462",
+              "name": "glomerulonephritis"
+            }
+          },
+          {
+            "score": 0.07749089020850103,
+            "disease": {
+              "id": "EFO_0000537",
+              "name": "hypertension"
+            }
+          },
+          {
+            "score": 0.077330888794227,
+            "disease": {
+              "id": "EFO_1001050",
+              "name": "multiple system atrophy"
+            }
+          },
+          {
+            "score": 0.07652586706354353,
+            "disease": {
+              "id": "EFO_0000519",
+              "name": "glioblastoma multiforme"
+            }
+          },
+          {
+            "score": 0.07391597093694036,
+            "disease": {
+              "id": "EFO_0009538",
+              "name": "chronic inflammatory demyelinating polyneuropathy"
+            }
+          },
+          {
+            "score": 0.07052675009937577,
+            "disease": {
+              "id": "MONDO_0001858",
+              "name": "Tietze syndrome"
+            }
+          },
+          {
+            "score": 0.04967386023100057,
+            "disease": {
+              "id": "MONDO_0002319",
+              "name": "phosphorus metabolism disease"
+            }
+          },
+          {
+            "score": 0.04886469739866641,
+            "disease": {
+              "id": "GO_0009410",
+              "name": "response to xenobiotic stimulus"
+            }
+          },
+          {
+            "score": 0.0447487288052237,
+            "disease": {
+              "id": "MONDO_0010714",
+              "name": "Pelizeaus-Merzbacher spectrum disorder"
+            }
+          },
+          {
+            "score": 0.04017333020422709,
+            "disease": {
+              "id": "MONDO_0011998",
+              "name": "autosomal dominant slowed nerve conduction velocity"
+            }
+          },
+          {
+            "score": 0.038318039333709884,
+            "disease": {
+              "id": "MONDO_0008215",
+              "name": "adult-onset autosomal dominant demyelinating leukodystrophy"
+            }
+          },
+          {
+            "score": 0.03454922751438824,
+            "disease": {
+              "id": "EFO_0000272",
+              "name": "astrocytoma"
+            }
+          },
+          {
+            "score": 0.033548642872571074,
+            "disease": {
+              "id": "EFO_1000028",
+              "name": "ependymoma"
+            }
+          },
+          {
+            "score": 0.03249223110587295,
+            "disease": {
+              "id": "MONDO_0010997",
+              "name": "supranuclear palsy, progressive, 1"
+            }
+          },
+          {
+            "score": 0.030523279644453928,
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "score": 0.02700869172858527,
+            "disease": {
+              "id": "EFO_1002008",
+              "name": "atypical teratoid rhabdoid tumor"
+            }
+          },
+          {
+            "score": 0.025501009973244428,
+            "disease": {
+              "id": "MONDO_0007739",
+              "name": "Huntington disease"
+            }
+          },
+          {
+            "score": 0.024730564639396747,
+            "disease": {
+              "id": "EFO_0002939",
+              "name": "medulloblastoma"
+            }
+          },
+          {
+            "score": 0.024503904941453113,
+            "disease": {
+              "id": "EFO_1001052",
+              "name": "myeloid sarcoma"
+            }
+          },
+          {
+            "score": 0.023924813732837204,
+            "disease": {
+              "id": "EFO_0005581",
+              "name": "red-green color blindness"
+            }
+          },
+          {
+            "score": 0.022342558427922803,
+            "disease": {
+              "id": "EFO_1001754",
+              "name": "Abruptio Placentae"
+            }
+          },
+          {
+            "score": 0.022077148679268035,
+            "disease": {
+              "id": "EFO_0004237",
+              "name": "Graves disease"
+            }
+          },
+          {
+            "score": 0.021699457952785925,
+            "disease": {
+              "id": "EFO_0003096",
+              "name": "Pick disease"
+            }
+          },
+          {
+            "score": 0.02011628253205404,
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "score": 0.01966410936950417,
+            "disease": {
+              "id": "MONDO_0005301",
+              "name": "multiple sclerosis"
+            }
+          },
+          {
+            "score": 0.01951657393648568,
+            "disease": {
+              "id": "EFO_0009555",
+              "name": "male reproductive system disease"
+            }
+          },
+          {
+            "score": 0.019040618534893767,
+            "disease": {
+              "id": "EFO_0008495",
+              "name": "childhood supratentorial ependymoma"
+            }
+          },
+          {
+            "score": 0.018767867428516723,
+            "disease": {
+              "id": "EFO_0010676",
+              "name": "cornea transplantation"
+            }
+          },
+          {
+            "score": 0.018020393160470466,
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "score": 0.01404403447801867,
+            "disease": {
+              "id": "EFO_0000495",
+              "name": "fetal growth restriction"
+            }
+          },
+          {
+            "score": 0.014005745274107887,
+            "disease": {
+              "id": "EFO_0001066",
+              "name": "experimental autoimmune encephalomyelitis"
+            }
+          },
+          {
+            "score": 0.013213627146590875,
+            "disease": {
+              "id": "EFO_0003758",
+              "name": "autism"
+            }
+          },
+          {
+            "score": 0.012935294913964564,
+            "disease": {
+              "id": "EFO_0000182",
+              "name": "hepatocellular carcinoma"
+            }
+          },
+          {
+            "score": 0.009301093009564996,
+            "disease": {
+              "id": "EFO_0007405",
+              "name": "optic neuritis"
+            }
+          },
+          {
+            "score": 0.009121274291848239,
+            "disease": {
+              "id": "EFO_1001056",
+              "name": "myxosarcoma"
+            }
+          },
+          {
+            "score": 0.008869916512432843,
+            "disease": {
+              "id": "MONDO_0018309",
+              "name": "Hirschsprung disease"
+            }
+          },
+          {
+            "score": 0.00881612211136207,
+            "disease": {
+              "id": "EFO_0005815",
+              "name": "tauopathy"
+            }
+          },
+          {
+            "score": 0.008620390518431107,
+            "disease": {
+              "id": "EFO_0000632",
+              "name": "oligodendroglioma"
+            }
+          },
+          {
+            "score": 0.008144869826995796,
+            "disease": {
+              "id": "EFO_0001064",
+              "name": "Down syndrome"
+            }
+          },
+          {
+            "score": 0.00798846855900983,
+            "disease": {
+              "id": "MONDO_0005090",
+              "name": "schizophrenia"
+            }
+          },
+          {
+            "score": 0.0073915970936940375,
+            "disease": {
+              "id": "EFO_0000500",
+              "name": "ganglioneuroma"
+            }
+          },
+          {
+            "score": 0.0073915970936940375,
+            "disease": {
+              "id": "EFO_1001074",
+              "name": "optic papillitis"
+            }
+          },
+          {
+            "score": 0.007118299497758523,
+            "disease": {
+              "id": "EFO_0000729",
+              "name": "ulcerative colitis"
+            }
+          },
+          {
+            "score": 0.006591189486819144,
+            "disease": {
+              "id": "EFO_0001663",
+              "name": "prostate carcinoma"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

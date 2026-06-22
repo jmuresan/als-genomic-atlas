@@ -1,0 +1,212 @@
+{
+  "count": 5,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR001619",
+        "name": "Sec1-like protein",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR11679": "VESICLE PROTEIN SORTING-ASSOCIATED"
+          },
+          "pirsf": {
+            "PIRSF005715": "Vesicle trafficking protein, VPS45/Sec1 type"
+          },
+          "pfam": {
+            "PF00995": "Sec1 family"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0016192",
+            "name": "vesicle-mediated transport",
+            "category": {
+              "code": "P",
+              "name": "biological_process"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "q8wvm8",
+          "protein_length": 642,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 20,
+                  "end": 640,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR027482",
+        "name": "Sec1-like, domain 2",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:3.40.50.1910": "G3DSA:3.40.50.1910"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q8wvm8",
+          "protein_length": 642,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 156,
+                  "end": 639,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR036045",
+        "name": "Sec1-like superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF56815": "Sec1/munc18-like (SM) proteins"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q8wvm8",
+          "protein_length": 642,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 13,
+                  "end": 642,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR043127",
+        "name": "Sec1-like, domain 3a",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:3.90.830.10": "Syntaxin Binding Protein 1; Chain A, domain 2"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q8wvm8",
+          "protein_length": 642,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 274,
+                  "end": 538,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR043154",
+        "name": "Sec1-like, domain 1",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:3.40.50.2060": "G3DSA:3.40.50.2060"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q8wvm8",
+          "protein_length": 642,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 13,
+                  "end": 145,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

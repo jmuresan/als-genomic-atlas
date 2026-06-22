@@ -1,0 +1,83 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR028103",
+        "name": "Spatacsin",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR13650": "SPATACSIN"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q96ji7",
+          "protein_length": 2443,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 20,
+                  "end": 2440,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR028107",
+        "name": "Spatacsin, C-terminal domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF14649": "Spatacsin C-terminus"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q96ji7",
+          "protein_length": 2443,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 2095,
+                  "end": 2387,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

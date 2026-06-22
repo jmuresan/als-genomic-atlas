@@ -1,0 +1,216 @@
+{
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR001424",
+        "name": "Superoxide dismutase, copper/zinc binding domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "cdd": {
+            "cd00305": "Cu-Zn_Superoxide_Dismutase"
+          },
+          "pfam": {
+            "PF00080": "Copper/zinc superoxide dismutase (SODC)"
+          },
+          "prints": {
+            "PR00068": "CUZNDISMTASE"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0046872",
+            "name": "metal ion binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          },
+          {
+            "identifier": "GO:0006801",
+            "name": "superoxide metabolic process",
+            "category": {
+              "code": "P",
+              "name": "biological_process"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "p00441",
+          "protein_length": 154,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 3,
+                  "end": 151,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR018152",
+        "name": "Superoxide dismutase, copper/zinc, binding site",
+        "source_database": "interpro",
+        "type": "binding_site",
+        "integrated": null,
+        "member_databases": {
+          "prosite": {
+            "PS00332": "Copper/Zinc superoxide dismutase signature 2",
+            "PS00087": "Copper/Zinc superoxide dismutase signature 1"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "p00441",
+          "protein_length": 154,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 45,
+                  "end": 55,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 139,
+                  "end": 150,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR024134",
+        "name": "Superoxide dismutase (Cu/Zn)/superoxide dismutase copper chaperone",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR10003": "SUPEROXIDE DISMUTASE CU-ZN -RELATED"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0005507",
+            "name": "copper ion binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "p00441",
+          "protein_length": 154,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 2,
+                  "end": 152,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR036423",
+        "name": "Superoxide dismutase-like, copper/zinc binding domain superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF49329": "Cu,Zn superoxide dismutase-like"
+          },
+          "cathgene3d": {
+            "G3DSA:2.60.40.200": "Superoxide dismutase, copper/zinc binding domain"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0046872",
+            "name": "metal ion binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "p00441",
+          "protein_length": 154,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 2,
+                  "end": 154,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

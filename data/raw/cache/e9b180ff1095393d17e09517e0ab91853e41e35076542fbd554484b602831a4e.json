@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "1522",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4795036",
+      "4794954",
+      "4794862",
+      "4794852",
+      "4794788",
+      "4794767",
+      "4794594",
+      "4794582",
+      "4794291",
+      "4794155",
+      "4794075",
+      "4793953",
+      "4793693",
+      "4793640",
+      "4793560",
+      "4793257",
+      "4793137",
+      "4793102",
+      "4793098",
+      "4792998"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "SETX[gene]",
+        "field": "gene",
+        "count": "2291",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "SETX[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

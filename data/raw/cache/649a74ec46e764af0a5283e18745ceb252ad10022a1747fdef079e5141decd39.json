@@ -1,0 +1,1027 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04363684",
+          "orgStudyIdInfo": {
+            "id": "19-004543"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "U19AG063911",
+              "type": "NIH",
+              "link": "https://reporter.nih.gov/quickSearch/U19AG063911"
+            }
+          ],
+          "organization": {
+            "fullName": "Mayo Clinic",
+            "class": "OTHER"
+          },
+          "briefTitle": "ARTFL LEFFTDS Longitudinal Frontotemporal Lobar Degeneration (ALLFTD)",
+          "officialTitle": "ARTFL LEFFTDS Longitudinal Frontotemporal Lobar Degeneration (ALLFTD)"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2025-07",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2020-03-01",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2020-04-02",
+          "studyFirstSubmitQcDate": "2020-04-24",
+          "studyFirstPostDateStruct": {
+            "date": "2020-04-27",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2025-07-08",
+          "lastUpdatePostDateStruct": {
+            "date": "2025-07-11",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "Bradley Boeve",
+            "investigatorTitle": "Principal Investigator",
+            "investigatorAffiliation": "Mayo Clinic"
+          },
+          "leadSponsor": {
+            "name": "Mayo Clinic",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "University of California, San Francisco",
+              "class": "OTHER"
+            },
+            {
+              "name": "National Institute on Aging (NIA)",
+              "class": "NIH"
+            },
+            {
+              "name": "National Institute of Neurological Disorders and Stroke (NINDS)",
+              "class": "NIH"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "ARTFL LEFFTDS Longitudinal Frontotemporal Lobar Degeneration (ALLFTD) represents the formalized integration of ARTFL (U54 NS092089; funded through 2019) and LEFFTDS (U01 AG045390; funded through 2019) as a single North American research consortium to study FTLD for 2019 and beyond.",
+          "detailedDescription": "The ARTFL LEFFTDS Longitudinal Frontotemporal Dementia (ALLFTD) study aims to evaluate sporadic (s-) and familial (f-) frontotemporal lobar degeneration (FTLD) patients and asymptomatic family members of f-FTLD patients, characterizing the cohorts longitudinally and informing clinical trial design. The study has two arms: a \"longitudinal arm\" involving a comprehensive assessment of clinical, functional, imaging, and biofluid data collection annually, and a \"biofluid-focused arm\" involving limited clinical data to accompany biospecimen collection. For more information: https://www.allftd.org/"
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Frontotemporal Lobar Degeneration (FTLD)",
+            "Progressive Supranuclear Palsy (PSP)",
+            "Corticobasal Degeneration (CBD)",
+            "Behavioral Variant Frontotemporal Dementia (bvFTD)",
+            "Semantic Variant Primary Progressive Aphasia (svPPA)",
+            "Nonfluent Variant Primary Progressive Aphasia (nfvPPA)",
+            "FTD With Amyotrophic Lateral Sclerosis (FTD/ALS)",
+            "Amyotrophic Lateral Sclerosis",
+            "Oligosymptomatic PSP (oPSP)",
+            "C9orf72",
+            "GRN Related Frontotemporal Dementia",
+            "MAPT Gene Mutation",
+            "TBK1 Gene Mutation",
+            "Oligosymptomatic Progressive Supranuclear Palsy"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "DNA, RNA, plasma, serum, PBMC, CSF (CSF is optional)"
+          },
+          "enrollmentInfo": {
+            "count": 2100,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Longitudinal Arm",
+              "description": "Annual clinic visits throughout the length of the study."
+            },
+            {
+              "label": "Biofluid-Focused Arm",
+              "description": "Single clinic visit."
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Change in Brain Volumes",
+              "description": "Compare rates of change in whole brain and regional volumes between asymptomatic f-FTLD and symptomatic f- and s-FTLD, measured using MRI.",
+              "timeFrame": "Baseline, 1 Year, 2 Year, 3 Year, 4 Year, 5 Year"
+            },
+            {
+              "measure": "Change in NIH Examiner Executive Composite Score",
+              "description": "Evaluate change in NIH Examiner Executive Composite Score in asymptomatic f-FTLD.",
+              "timeFrame": "Baseline, 1 Year, 2 Year, 3 Year, 4 Year, 5 Year"
+            },
+            {
+              "measure": "Change in Multidomain Impairment Rating (MIR) Scale",
+              "description": "Annual change in MIR score (total score 0-3), which is a new global scale for FTLD that incorporates behavioral, cognitive, and motor dysfunction in the rating.",
+              "timeFrame": "Baseline, 1 Year, 2 Year, 3 Year, 4 Year, 5 Year"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Plasma Neurofilament Light Chain Analysis",
+              "description": "Annual blood samples will be collected to detect changes in plasma neurofilament light chain concentrations",
+              "timeFrame": "5 years"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Longitudinal Arm Inclusion Criteria\n\nFamilial FTLD (f-FTLD) participants (either is acceptable):\n\n* members of families in whom at least one member has a known disease-associated mutation in one of the major genes that cause f-FTLD: MAPT, GRN, C9orf72 (or other rare genes)\n* an autosomal dominant family history of a FTLD syndrome (without a known gene) verified by medical record review or well-documented family history including family members with a medical history consistent with FTLD or a related disorder.\n\nSporadic FTLD (s-FTLD) participants:\n\nSporadic participants should be symptomatic with no known family history nor a genetic mutation indicating f-FTLD. All sporadic participants must have an FTLD syndrome as a referring diagnosis; those determined by ALLFTD clinicians to have non-FTLD diagnoses will be excluded from longitudinal visits, but their baseline visit will be included in comparative datasets. For inclusion in the longitudinal follow-up, participants should meet research criteria for one of the following FTLD syndromes:\n\n* Progressive Supranuclear Palsy (PSP)\n* Semantic variant Primary Progressive Aphasia (svPPA)\n* Nonfluent variant Primary Progressive Aphasia (nfvPPA)\n* Corticobasal Degeneration (CBD)/Corticobasal Syndrome (CBS)\n* Behavioral variant Frontotemporal dementia (bvFTD)\n* Frontotemporal Dementia with Amyotrophic Lateral Sclerosis (FTD/ALS)\n\nBiofluid-Focused Arm Inclusion Criteria\n\nParticipants enrolled in the biofluid arm may be either f-FTLD or s-FTLD. All general inclusion criteria apply. Participants should meet research criteria (as specified above) for any FTLD syndrome or meet familial FTLD inclusion criteria. Because the biofluid arm participants do not undergo the same detailed clinical and functional assessments required for the longitudinal arm, participants may be included regardless of primary language, as long as an appropriately translated consent is available.\n\nExclusion Criteria:\n\n* Known presence of a structural brain lesion (e.g. tumor, cortical infarct) that could reasonably explain symptoms in a symptomatic participant.\n* Known presence of an Alzheimer's disease causing mutation in PSEN1, PSEN2 or APP; or biomarker evidence for Alzheimer's disease as a cause of the clinical syndrome.\n* A previous history of Korsakoff encephalopathy, severe alcohol dependence (within 5 years of onset of dementia), frequent alcohol or other substance intoxication, or other neurological disorder.\n* Evidence through history or laboratory testing of uncorrected B12 deficiency (B12 \\< 95% of local laboratory's normal value), unregulated hypothyroidism (TSH \\>150% of normal), HIV positive, renal failure (creatinine \\> 2), liver failure (ALT or AST \\> two times normal), respiratory failure that requires supplemental oxygen, large confluent white matter lesions, significant systemic medical illnesses such as deteriorating cardiovascular disease.\n* Current medication likely to affect CNS functions in the opinion of the site PI.\n* In the site investigator's opinion, the participant cannot complete sufficient key study procedures. The participant may be enrolled into the biofluid-focused arm if they can tolerate a blood draw and short clinical exam, but must be able to complete at least 75% of study procedures for enrollment into the longitudinal arm.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Participants will have a referring diagnosis of an FTLD clinical syndrome or will be a member of a family with a strong family history of an FTLD syndrome.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Leah K Forsberg, PhD",
+              "role": "CONTACT",
+              "phone": "507-293-9577",
+              "email": "forsberg.leah@mayo.edu"
+            },
+            {
+              "name": "Hilary Heuer, PhD",
+              "role": "CONTACT",
+              "phone": "415-476-6743",
+              "email": "hilary.heuer@ucsf.edu"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Bradley Boeve, MD",
+              "affiliation": "Mayo Clinic",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Adam Boxer, MD, PhD",
+              "affiliation": "University of California, San Francisco",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Howie Rosen, MD",
+              "affiliation": "University of California, San Francisco",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "University of Alabama Birmingham",
+              "status": "RECRUITING",
+              "city": "Birmingham",
+              "state": "Alabama",
+              "zip": "35233",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Loren Brown",
+                  "role": "CONTACT",
+                  "email": "samanthabrown@uabmc.edu"
+                },
+                {
+                  "name": "Erik Roberson, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 33.52066,
+                "lon": -86.80249
+              }
+            },
+            {
+              "facility": "University of California, Los Angeles",
+              "status": "RECRUITING",
+              "city": "Los Angeles",
+              "state": "California",
+              "zip": "90095",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Alexander Sheppard",
+                  "role": "CONTACT",
+                  "email": "asheppard@mednet.ucla.edu"
+                },
+                {
+                  "name": "Mario Mendez, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 34.05223,
+                "lon": -118.24368
+              }
+            },
+            {
+              "facility": "University of California, San Diego",
+              "status": "RECRUITING",
+              "city": "San Diego",
+              "state": "California",
+              "zip": "92093",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Michael Skipworth",
+                  "role": "CONTACT",
+                  "email": "mskipworth@health.ucsd.edu"
+                },
+                {
+                  "name": "Brandon Pulido",
+                  "role": "CONTACT",
+                  "email": "b1pulido@health.ucsd.edu"
+                },
+                {
+                  "name": "Irene Litvan, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Doug Galasko, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Gabriel Leger, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 32.71571,
+                "lon": -117.16472
+              }
+            },
+            {
+              "facility": "University of California San Francisco",
+              "status": "RECRUITING",
+              "city": "San Francisco",
+              "state": "California",
+              "zip": "91358",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Cole Mollard",
+                  "role": "CONTACT",
+                  "email": "Cole.Mollard@ucsf.edu"
+                },
+                {
+                  "name": "Adam Boxer, MD, Ph.D",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Howard Rosen, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 37.77493,
+                "lon": -122.41942
+              }
+            },
+            {
+              "facility": "University of Colorado Denver",
+              "status": "RECRUITING",
+              "city": "Denver",
+              "state": "Colorado",
+              "zip": "80204",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Danelle Carter",
+                  "role": "CONTACT",
+                  "email": "DANELLE.CARTER@CUANSCHUTZ.EDU"
+                },
+                {
+                  "name": "Ece Bayram, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 39.73915,
+                "lon": -104.9847
+              }
+            },
+            {
+              "facility": "Mayo Clinic Florida",
+              "status": "RECRUITING",
+              "city": "Jacksonville",
+              "state": "Florida",
+              "zip": "32224",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Kandise Chrestensen",
+                  "role": "CONTACT",
+                  "email": "chrestensen.kandise@mayo.edu"
+                },
+                {
+                  "name": "Neill Graff-Radford, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 30.33218,
+                "lon": -81.65565
+              }
+            },
+            {
+              "facility": "Emory University",
+              "status": "RECRUITING",
+              "city": "Atlanta",
+              "state": "Georgia",
+              "zip": "30322",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Samantha Heldenberg",
+                  "role": "CONTACT",
+                  "email": "shelden@emory.edu"
+                },
+                {
+                  "name": "Chad Hales, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 33.749,
+                "lon": -84.38798
+              }
+            },
+            {
+              "facility": "Northwestern University",
+              "status": "RECRUITING",
+              "city": "Chicago",
+              "state": "Illinois",
+              "zip": "60611",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Northwestern Study Team",
+                  "role": "CONTACT",
+                  "email": "clinicaltrials.mesulam@northwestern.edu"
+                },
+                {
+                  "name": "Ian Grant, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Sandra Weintraub, PhD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 41.85003,
+                "lon": -87.65005
+              }
+            },
+            {
+              "facility": "Indiana University",
+              "status": "RECRUITING",
+              "city": "Indianapolis",
+              "state": "Indiana",
+              "zip": "46202",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Ralitsa Kostadinova",
+                  "role": "CONTACT",
+                  "email": "rkostad@iu.edu"
+                },
+                {
+                  "name": "David Clark, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 39.76838,
+                "lon": -86.15804
+              }
+            },
+            {
+              "facility": "Johns Hopkins University",
+              "status": "RECRUITING",
+              "city": "Baltimore",
+              "state": "Maryland",
+              "zip": "21287",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Ann Fishman",
+                  "role": "CONTACT",
+                  "email": "ann.fishman@jhu.edu"
+                },
+                {
+                  "name": "Chiadi Onyike, MD, MHS",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 39.29038,
+                "lon": -76.61219
+              }
+            },
+            {
+              "facility": "NIH",
+              "status": "RECRUITING",
+              "city": "Bethesda",
+              "state": "Maryland",
+              "zip": "20814",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Carol Hoffman",
+                  "role": "CONTACT",
+                  "email": "carol.hoffman@nih.gov"
+                },
+                {
+                  "name": "Allison Snyder, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Justin Kwan, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 38.98067,
+                "lon": -77.10026
+              }
+            },
+            {
+              "facility": "Massachusetts General Hospital",
+              "status": "RECRUITING",
+              "city": "Boston",
+              "state": "Massachusetts",
+              "zip": "02114",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Erin Krahn",
+                  "role": "CONTACT",
+                  "email": "ekrahn@mgh.harvard.edu"
+                },
+                {
+                  "name": "Brad Dickerson, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 42.35843,
+                "lon": -71.05977
+              }
+            },
+            {
+              "facility": "University of Michigan",
+              "status": "RECRUITING",
+              "city": "Ann Arbor",
+              "state": "Michigan",
+              "zip": "48109",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Kiren Chaudhry",
+                  "role": "CONTACT",
+                  "email": "chaudhki@med.umich.edu"
+                },
+                {
+                  "name": "Sami Barmada, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 42.27756,
+                "lon": -83.74088
+              }
+            },
+            {
+              "facility": "Mayo Clinic Rochester",
+              "status": "RECRUITING",
+              "city": "Rochester",
+              "state": "Minnesota",
+              "zip": "55905",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Abbi Osborne",
+                  "role": "CONTACT",
+                  "email": "osborne.abigail@mayo.edu"
+                },
+                {
+                  "name": "Bradley Boeve, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 44.02163,
+                "lon": -92.4699
+              }
+            },
+            {
+              "facility": "Washinton University in St. Louis",
+              "status": "RECRUITING",
+              "city": "St Louis",
+              "state": "Missouri",
+              "zip": "63110",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Tina Nolte",
+                  "role": "CONTACT",
+                  "email": "nolte.tina@wustl.edu"
+                },
+                {
+                  "name": "Nupur Ghoshal, MD, PhD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 38.62727,
+                "lon": -90.19789
+              }
+            },
+            {
+              "facility": "Cleveland Clinic Lou Ruvo Center for Brain Health",
+              "status": "RECRUITING",
+              "city": "Las Vegas",
+              "state": "Nevada",
+              "zip": "89106",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Ghanen Concepcion",
+                  "role": "CONTACT",
+                  "email": "CONCEPG5@ccf.org"
+                },
+                {
+                  "name": "Dylan Wint, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 36.17497,
+                "lon": -115.13722
+              }
+            },
+            {
+              "facility": "Mount Sinai",
+              "status": "NOT_YET_RECRUITING",
+              "city": "New York",
+              "state": "New York",
+              "zip": "10029",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Anna Torten Rabinowitz",
+                  "role": "CONTACT",
+                  "email": "tortenrabinowitz.anna@mssm.edu"
+                },
+                {
+                  "name": "Fanny Elahi",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 40.71427,
+                "lon": -74.00597
+              }
+            },
+            {
+              "facility": "Columbia University",
+              "status": "RECRUITING",
+              "city": "New York",
+              "state": "New York",
+              "zip": "10032",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Arlene Mejia",
+                  "role": "CONTACT",
+                  "email": "am4717@cumc.columbia.edu"
+                },
+                {
+                  "name": "Lawrence S Honig, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 40.71427,
+                "lon": -74.00597
+              }
+            },
+            {
+              "facility": "University of North Carolina, Chapel Hill",
+              "status": "RECRUITING",
+              "city": "Chapel Hill",
+              "state": "North Carolina",
+              "zip": "27514",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "UNC ALLFTD Team",
+                  "role": "CONTACT",
+                  "email": "ALLFTD@neurology.unc.edu"
+                },
+                {
+                  "name": "Andrea Bozoki, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 35.9132,
+                "lon": -79.05584
+              }
+            },
+            {
+              "facility": "Case Western Reserve Medical Center",
+              "status": "RECRUITING",
+              "city": "Cleveland",
+              "state": "Ohio",
+              "zip": "44106",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Maria Toth",
+                  "role": "CONTACT",
+                  "email": "maria.toth@uhhospitals.org"
+                },
+                {
+                  "name": "Brain Appleby, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 41.4995,
+                "lon": -81.69541
+              }
+            },
+            {
+              "facility": "University of Pennsylvania",
+              "status": "RECRUITING",
+              "city": "Philadelphia",
+              "state": "Pennsylvania",
+              "zip": "19104",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Jessica Legaspi",
+                  "role": "CONTACT",
+                  "email": "jessica.legaspi@pennmedicine.upenn.edu"
+                },
+                {
+                  "name": "David Irwin, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 39.95238,
+                "lon": -75.16362
+              }
+            },
+            {
+              "facility": "Vanderbilt University",
+              "status": "RECRUITING",
+              "city": "Nashville",
+              "state": "Tennessee",
+              "zip": "37235",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Jerica Braswell",
+                  "role": "CONTACT",
+                  "email": "jerica.braswell@vumc.org"
+                },
+                {
+                  "name": "Richard R Darby, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 36.16589,
+                "lon": -86.78444
+              }
+            },
+            {
+              "facility": "Nantz National Alzheimer Center Houston",
+              "status": "RECRUITING",
+              "city": "Houston",
+              "state": "Texas",
+              "zip": "77030",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Victoria Arbones",
+                  "role": "CONTACT",
+                  "email": "varbones@houstonmethodist.org"
+                },
+                {
+                  "name": "Belen Pascual, PhD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Joseph Masdeu, MD, PhD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 29.76328,
+                "lon": -95.36327
+              }
+            },
+            {
+              "facility": "UT San Antonio Health Science Center",
+              "status": "RECRUITING",
+              "city": "San Antonio",
+              "state": "Texas",
+              "zip": "78229",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Crystal Mendoza",
+                  "role": "CONTACT",
+                  "email": "mendozac2@uthscsa.edu"
+                },
+                {
+                  "name": "A.Campbell Sullivan, PsyD, ABPP",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 29.42412,
+                "lon": -98.49363
+              }
+            },
+            {
+              "facility": "University of Washington",
+              "status": "RECRUITING",
+              "city": "Seattle",
+              "state": "Washington",
+              "zip": "98195",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Alicia Adams",
+                  "role": "CONTACT",
+                  "email": "adamsali@uw.edu"
+                },
+                {
+                  "name": "Kimiko Domoto-Reilly, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 47.60621,
+                "lon": -122.33207
+              }
+            },
+            {
+              "facility": "University of British Columbia",
+              "status": "RECRUITING",
+              "city": "Vancouver",
+              "state": "British Columbia",
+              "country": "Canada",
+              "contacts": [
+                {
+                  "name": "Jessica Luk",
+                  "role": "CONTACT",
+                  "email": "jessica.luk@vch.ca"
+                },
+                {
+                  "name": "Rachel Freid",
+                  "role": "CONTACT",
+                  "phone": "604-827-1050",
+                  "email": "rachel.freid@uhn.ca"
+                },
+                {
+                  "name": "Ging-Yuek Robin Hsiung, MD, MHSc, FRCPC",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Ian Mackenzie, MD, MSc, LMCC, FRCPC",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 49.24966,
+                "lon": -123.11934
+              }
+            },
+            {
+              "facility": "University of Toronto",
+              "status": "RECRUITING",
+              "city": "Toronto",
+              "state": "Ontario",
+              "country": "Canada",
+              "contacts": [
+                {
+                  "name": "Kasey Cortez",
+                  "role": "CONTACT",
+                  "email": "kasey.cortez@uhn.ca"
+                },
+                {
+                  "name": "Carmela Tartaglia, MD, FRCPC",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 43.70643,
+                "lon": -79.39864
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "35790423",
+              "type": "DERIVED",
+              "citation": "Tipton PW, Deutschlaender AB, Savica R, Heckman MG, Brushaber DE, Dickerson BC, Gavrilova RH, Geschwind DH, Ghoshal N, Graff-Radford J, Graff-Radford NR, Grossman M, Hsiung GR, Huey ED, Irwin DJ, Jones DT, Knopman DS, McGinnis SM, Rademakers R, Ramos EM, Forsberg LK, Heuer HW, Onyike C, Tartaglia C, Domoto-Reilly K, Roberson ED, Mendez MF, Litvan I, Appleby BS, Grant I, Kaufer D, Boxer AL, Rosen HJ, Boeve BF, Wszolek ZK; ALLFTD Consortium. Differences in Motor Features of C9orf72, MAPT, or GRN Variant Carriers With Familial Frontotemporal Lobar Degeneration. Neurology. 2022 Sep 13;99(11):e1154-e1167. doi: 10.1212/WNL.0000000000200860. Epub 2022 Jul 5."
+            }
+          ],
+          "seeAlsoLinks": [
+            {
+              "label": "ALLFTD Study Website",
+              "url": "https://www.allftd.org/"
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "YES",
+          "description": "De-identified subject level data will be shared upon approved data request.",
+          "timeFrame": "De-identified data will be available for at least the duration of the study.",
+          "accessCriteria": "Interested researchers must complete a data request through the ALLFTD website. All data requests will be reviewed by a committee for evaluation of scientific merit and feasibility. Please consult the website for additional information regarding this process (https://www.allftd.org/policies).\n\nApproved requests will be delivered in a de-identified manner.",
+          "url": "https://www.allftd.org/data"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D057174",
+              "term": "Frontotemporal Lobar Degeneration"
+            },
+            {
+              "id": "D013494",
+              "term": "Supranuclear Palsy, Progressive"
+            },
+            {
+              "id": "D000088282",
+              "term": "Corticobasal Degeneration"
+            },
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            },
+            {
+              "id": "C566288",
+              "term": "Frontotemporal Dementia With Motor Neuron Disease"
+            },
+            {
+              "id": "D057180",
+              "term": "Frontotemporal Dementia"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D003704",
+              "term": "Dementia"
+            },
+            {
+              "id": "D001927",
+              "term": "Brain Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            },
+            {
+              "id": "D019965",
+              "term": "Neurocognitive Disorders"
+            },
+            {
+              "id": "D001523",
+              "term": "Mental Disorders"
+            },
+            {
+              "id": "D001480",
+              "term": "Basal Ganglia Diseases"
+            },
+            {
+              "id": "D009069",
+              "term": "Movement Disorders"
+            },
+            {
+              "id": "D009886",
+              "term": "Ophthalmoplegia"
+            },
+            {
+              "id": "D015835",
+              "term": "Ocular Motility Disorders"
+            },
+            {
+              "id": "D003389",
+              "term": "Cranial Nerve Diseases"
+            },
+            {
+              "id": "D024801",
+              "term": "Tauopathies"
+            },
+            {
+              "id": "D010243",
+              "term": "Paralysis"
+            },
+            {
+              "id": "D009461",
+              "term": "Neurologic Manifestations"
+            },
+            {
+              "id": "D005128",
+              "term": "Eye Diseases"
+            },
+            {
+              "id": "D012816",
+              "term": "Signs and Symptoms"
+            },
+            {
+              "id": "D013568",
+              "term": "Pathological Conditions, Signs and Symptoms"
+            },
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ]
+}

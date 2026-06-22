@@ -1,0 +1,168 @@
+{
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR021063",
+        "name": "NF-kappa-B essential modulator NEMO, N-terminal",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF11577": "NF-kappa-B essential modulator NEMO"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q96cv9",
+          "protein_length": 577,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 37,
+                  "end": 104,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR032419",
+        "name": "NF-kappa-B essential modulator NEMO, CC2-LZ domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF16516": "Leucine zipper of domain CC2 of NEMO, NF-kappa-B essential modulator"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q96cv9",
+          "protein_length": 577,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 408,
+                  "end": 506,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR034735",
+        "name": "NEMO, Zinc finger",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "profile": {
+            "PS51801": "Zinc finger CCHC NOA-type profile"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0070530",
+            "name": "K63-linked polyubiquitin modification-dependent protein binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "q96cv9",
+          "protein_length": 577,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 547,
+                  "end": 577,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR051301",
+        "name": "Optineurin/NF-kappa-B Essential Modulator",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR31553": "Optineurin/NF-kappa-B Essential Modulator"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q96cv9",
+          "protein_length": 577,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 2,
+                  "end": 576,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

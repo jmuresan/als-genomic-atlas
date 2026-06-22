@@ -1,0 +1,3091 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4795080",
+      "4795040",
+      "4794927",
+      "4794647",
+      "4794644",
+      "4794625",
+      "4794597",
+      "4794361",
+      "4794347",
+      "4793556",
+      "4793023",
+      "4792976",
+      "4792829",
+      "4792699",
+      "4791998",
+      "4791874",
+      "4791681",
+      "4791125",
+      "4791087",
+      "4790513"
+    ],
+    "4795080": {
+      "uid": "4795080",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004795080",
+      "accession_version": "VCV004795080.1",
+      "title": "NM_007126.5(VCP):c.1569G>C (p.Gly523=)",
+      "variation_set": [
+        {
+          "measure_id": "4905010",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.1569G>C (p.Gly523=)",
+          "cdna_change": "c.1569G>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060439",
+              "stop": "35060439",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060439",
+              "display_stop": "35060439",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060436",
+              "stop": "35060436",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060436",
+              "display_stop": "35060436",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35060438:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007493167"
+        ],
+        "rcv": [
+          "RCV006597516"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/24 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035060439",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4795040": {
+      "uid": "4795040",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004795040",
+      "accession_version": "VCV004795040.1",
+      "title": "NM_007126.5(VCP):c.1215G>T (p.Gly405=)",
+      "variation_set": [
+        {
+          "measure_id": "4904971",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.1215G>T (p.Gly405=)",
+          "cdna_change": "c.1215G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35061159",
+              "stop": "35061159",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35061159",
+              "display_stop": "35061159",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35061156",
+              "stop": "35061156",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35061156",
+              "display_stop": "35061156",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35061158:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007493062"
+        ],
+        "rcv": [
+          "RCV006597476"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/06/06 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035061159",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794927": {
+      "uid": "4794927",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794927",
+      "accession_version": "VCV004794927.1",
+      "title": "NM_007126.5(VCP):c.2005-19C>T",
+      "variation_set": [
+        {
+          "measure_id": "4906301",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.2005-19C>T",
+          "cdna_change": "NM_007126.5(VCP):c.2005-19C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35059238",
+              "stop": "35059238",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35059238",
+              "display_stop": "35059238",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35059235",
+              "stop": "35059235",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35059235",
+              "display_stop": "35059235",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35059237:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492896"
+        ],
+        "rcv": [
+          "RCV006597363"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/05/19 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035059238",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794647": {
+      "uid": "4794647",
+      "obj_type": "Deletion",
+      "accession": "VCV004794647",
+      "accession_version": "VCV004794647.1",
+      "title": "NM_007126.5(VCP):c.18-10del",
+      "variation_set": [
+        {
+          "measure_id": "4906022",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.18-10del",
+          "cdna_change": "NM_007126.5(VCP):c.18-10del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35068372",
+              "stop": "35068372",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35068372",
+              "display_stop": "35068372",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35068369",
+              "stop": "35068369",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35068369",
+              "display_stop": "35068369",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000009.12:35068371:GG:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492592"
+        ],
+        "rcv": [
+          "RCV006593659"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/03/05 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035068372",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794644": {
+      "uid": "4794644",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794644",
+      "accession_version": "VCV004794644.1",
+      "title": "NM_007126.5(VCP):c.1695+16C>T",
+      "variation_set": [
+        {
+          "measure_id": "4906019",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.1695+16C>T",
+          "cdna_change": "NM_007126.5(VCP):c.1695+16C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060297",
+              "stop": "35060297",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060297",
+              "display_stop": "35060297",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060294",
+              "stop": "35060294",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060294",
+              "display_stop": "35060294",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35060296:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492571"
+        ],
+        "rcv": [
+          "RCV006593656"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/03/06 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035060297",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794625": {
+      "uid": "4794625",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794625",
+      "accession_version": "VCV004794625.1",
+      "title": "NM_007126.5(VCP):c.946-13C>T",
+      "variation_set": [
+        {
+          "measure_id": "4906000",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.946-13C>T",
+          "cdna_change": "NM_007126.5(VCP):c.946-13C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35062151",
+              "stop": "35062151",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35062151",
+              "display_stop": "35062151",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35062148",
+              "stop": "35062148",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35062148",
+              "display_stop": "35062148",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35062150:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492586"
+        ],
+        "rcv": [
+          "RCV006593637"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/04/08 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035062151",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794597": {
+      "uid": "4794597",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794597",
+      "accession_version": "VCV004794597.1",
+      "title": "NM_007126.5(VCP):c.811+13G>A",
+      "variation_set": [
+        {
+          "measure_id": "4905972",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.811+13G>A",
+          "cdna_change": "NM_007126.5(VCP):c.811+13G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35062965",
+              "stop": "35062965",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35062965",
+              "display_stop": "35062965",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35062962",
+              "stop": "35062962",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35062962",
+              "display_stop": "35062962",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35062964:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492589"
+        ],
+        "rcv": [
+          "RCV006593609"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035062965",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794361": {
+      "uid": "4794361",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794361",
+      "accession_version": "VCV004794361.1",
+      "title": "NM_007126.5(VCP):c.1308C>T (p.Thr436=)",
+      "variation_set": [
+        {
+          "measure_id": "4902571",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.1308C>T (p.Thr436=)",
+          "cdna_change": "c.1308C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35061066",
+              "stop": "35061066",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35061066",
+              "display_stop": "35061066",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35061063",
+              "stop": "35061063",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35061063",
+              "display_stop": "35061063",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35061065:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492180"
+        ],
+        "rcv": [
+          "RCV006593373"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/06 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035061066",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4794347": {
+      "uid": "4794347",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794347",
+      "accession_version": "VCV004794347.1",
+      "title": "NM_007126.5(VCP):c.105C>T (p.Asp35=)",
+      "variation_set": [
+        {
+          "measure_id": "4902557",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.105C>T (p.Asp35=)",
+          "cdna_change": "c.105C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35068275",
+              "stop": "35068275",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35068275",
+              "display_stop": "35068275",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35068272",
+              "stop": "35068272",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35068272",
+              "display_stop": "35068272",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35068274:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492270"
+        ],
+        "rcv": [
+          "RCV006593359"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035068275",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "5 prime UTR variant",
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793556": {
+      "uid": "4793556",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793556",
+      "accession_version": "VCV004793556.1",
+      "title": "NM_007126.5(VCP):c.1695+12T>C",
+      "variation_set": [
+        {
+          "measure_id": "4904789",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.1695+12T>C",
+          "cdna_change": "NM_007126.5(VCP):c.1695+12T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060301",
+              "stop": "35060301",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060301",
+              "display_stop": "35060301",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060298",
+              "stop": "35060298",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060298",
+              "display_stop": "35060298",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35060300:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491180"
+        ],
+        "rcv": [
+          "RCV006600882"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/05/25 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035060301",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793023": {
+      "uid": "4793023",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793023",
+      "accession_version": "VCV004793023.1",
+      "title": "NM_007126.5(VCP):c.2230C>T (p.Arg744Cys)",
+      "variation_set": [
+        {
+          "measure_id": "4905699",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.2230C>T (p.Arg744Cys)",
+          "cdna_change": "c.2230C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35057461",
+              "stop": "35057461",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35057461",
+              "display_stop": "35057461",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35057458",
+              "stop": "35057458",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35057458",
+              "display_stop": "35057458",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35057460:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490511"
+        ],
+        "rcv": [
+          "RCV006596923"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/05/27 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035057461",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "R699C, R744C",
+      "fda_recognized_database": ""
+    },
+    "4792976": {
+      "uid": "4792976",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792976",
+      "accession_version": "VCV004792976.1",
+      "title": "NM_007126.5(VCP):c.1486C>T (p.Pro496Ser)",
+      "variation_set": [
+        {
+          "measure_id": "4905653",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.1486C>T (p.Pro496Ser)",
+          "cdna_change": "c.1486C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060522",
+              "stop": "35060522",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060522",
+              "display_stop": "35060522",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060519",
+              "stop": "35060519",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060519",
+              "display_stop": "35060519",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35060521:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490517"
+        ],
+        "rcv": [
+          "RCV006596876"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/09/06 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035060522",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "P451S, P496S",
+      "fda_recognized_database": ""
+    },
+    "4792829": {
+      "uid": "4792829",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792829",
+      "accession_version": "VCV004792829.1",
+      "title": "NM_007126.5(VCP):c.1662G>A (p.Glu554=)",
+      "variation_set": [
+        {
+          "measure_id": "4905507",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.1662G>A (p.Glu554=)",
+          "cdna_change": "c.1662G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060346",
+              "stop": "35060346",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060346",
+              "display_stop": "35060346",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060343",
+              "stop": "35060343",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060343",
+              "display_stop": "35060343",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35060345:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490255"
+        ],
+        "rcv": [
+          "RCV006596729"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/04/12 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035060346",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4792699": {
+      "uid": "4792699",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792699",
+      "accession_version": "VCV004792699.1",
+      "title": "NM_007126.5(VCP):c.812-7C>A",
+      "variation_set": [
+        {
+          "measure_id": "4902209",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.812-7C>A",
+          "cdna_change": "NM_007126.5(VCP):c.812-7C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35062357",
+              "stop": "35062357",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35062357",
+              "display_stop": "35062357",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35062354",
+              "stop": "35062354",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35062354",
+              "display_stop": "35062354",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35062356:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490182"
+        ],
+        "rcv": [
+          "RCV006593175"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/12/29 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035062357",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4791998": {
+      "uid": "4791998",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004791998",
+      "accession_version": "VCV004791998.1",
+      "title": "NM_007126.5(VCP):c.1483-4C>G",
+      "variation_set": [
+        {
+          "measure_id": "4903233",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.1483-4C>G",
+          "cdna_change": "NM_007126.5(VCP):c.1483-4C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060529",
+              "stop": "35060529",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060529",
+              "display_stop": "35060529",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060526",
+              "stop": "35060526",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060526",
+              "display_stop": "35060526",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35060528:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007489248"
+        ],
+        "rcv": [
+          "RCV006604216"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/07/30 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035060529",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4791874": {
+      "uid": "4791874",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004791874",
+      "accession_version": "VCV004791874.1",
+      "title": "NM_007126.5(VCP):c.2315+8G>T",
+      "variation_set": [
+        {
+          "measure_id": "4904401",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.2315+8G>T",
+          "cdna_change": "NM_007126.5(VCP):c.2315+8G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35057368",
+              "stop": "35057368",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35057368",
+              "display_stop": "35057368",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35057365",
+              "stop": "35057365",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35057365",
+              "display_stop": "35057365",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35057367:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007489165"
+        ],
+        "rcv": [
+          "RCV006604092"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/07/13 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035057368",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4791681": {
+      "uid": "4791681",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004791681",
+      "accession_version": "VCV004791681.1",
+      "title": "NM_007126.5(VCP):c.1497C>A (p.His499Gln)",
+      "variation_set": [
+        {
+          "measure_id": "4904209",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.1497C>A (p.His499Gln)",
+          "cdna_change": "c.1497C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060511",
+              "stop": "35060511",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060511",
+              "display_stop": "35060511",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35060508",
+              "stop": "35060508",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35060508",
+              "display_stop": "35060508",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35060510:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007488888"
+        ],
+        "rcv": [
+          "RCV006600471"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/11/22 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035060511",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "H454Q, H499Q",
+      "fda_recognized_database": ""
+    },
+    "4791125": {
+      "uid": "4791125",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004791125",
+      "accession_version": "VCV004791125.1",
+      "title": "NM_007126.5(VCP):c.901A>G (p.Ile301Val)",
+      "variation_set": [
+        {
+          "measure_id": "4905096",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.901A>G (p.Ile301Val)",
+          "cdna_change": "c.901A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35062261",
+              "stop": "35062261",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35062261",
+              "display_stop": "35062261",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35062258",
+              "stop": "35062258",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35062258",
+              "display_stop": "35062258",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35062260:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007488318"
+        ],
+        "rcv": [
+          "RCV006596489"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/08/24 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035062261",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "I256V, I301V",
+      "fda_recognized_database": ""
+    },
+    "4791087": {
+      "uid": "4791087",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004791087",
+      "accession_version": "VCV004791087.1",
+      "title": "NM_007126.5(VCP):c.2005-11G>A",
+      "variation_set": [
+        {
+          "measure_id": "4905058",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.2005-11G>A",
+          "cdna_change": "NM_007126.5(VCP):c.2005-11G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35059230",
+              "stop": "35059230",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35059230",
+              "display_stop": "35059230",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35059227",
+              "stop": "35059227",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35059227",
+              "display_stop": "35059227",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35059229:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007488140"
+        ],
+        "rcv": [
+          "RCV006596451"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/11 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035059230",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4790513": {
+      "uid": "4790513",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004790513",
+      "accession_version": "VCV004790513.1",
+      "title": "NM_007126.5(VCP):c.1866T>C (p.Ala622=)",
+      "variation_set": [
+        {
+          "measure_id": "4903047",
+          "variation_xrefs": [],
+          "variation_name": "NM_007126.5(VCP):c.1866T>C (p.Ala622=)",
+          "cdna_change": "c.1866T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35059631",
+              "stop": "35059631",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35059631",
+              "display_stop": "35059631",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "35059628",
+              "stop": "35059628",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35059628",
+              "display_stop": "35059628",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:35059630:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007487467"
+        ],
+        "rcv": [
+          "RCV006592453"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/11/19 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "52430"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1833662"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0000507"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "PS167320"
+              }
+            ],
+            "trait_name": "Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436279"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013501"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "613954"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "VCP",
+      "chr_sort": "09",
+      "location_sort": "00000000000035059631",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "VCP",
+          "geneid": "7415",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    }
+  }
+}

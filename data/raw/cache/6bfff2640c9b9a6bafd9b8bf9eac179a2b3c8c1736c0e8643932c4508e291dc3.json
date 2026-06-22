@@ -1,0 +1,248 @@
+{
+  "count": 5,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR002957",
+        "name": "Keratin, type I",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR23239": "INTERMEDIATE FILAMENT"
+          },
+          "prints": {
+            "PR01248": "TYPE1KERATIN"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0005198",
+            "name": "structural molecule activity",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "p41219",
+          "protein_length": 470,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 193,
+                  "end": 216,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 249,
+                  "end": 269,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 347,
+                  "end": 373,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR006821",
+        "name": "Intermediate filament head, DNA-binding domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF04732": "Intermediate filament head (DNA binding) region"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0005882",
+            "name": "intermediate filament",
+            "category": {
+              "code": "C",
+              "name": "cellular_component"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "p41219",
+          "protein_length": 470,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 13,
+                  "end": 95,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR018039",
+        "name": "Intermediate filament protein, conserved site",
+        "source_database": "interpro",
+        "type": "conserved_site",
+        "integrated": null,
+        "member_databases": {
+          "prosite": {
+            "PS00226": "Intermediate filament (IF) rod domain signature"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "p41219",
+          "protein_length": 470,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 393,
+                  "end": 401,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR039008",
+        "name": "Intermediate filament, rod domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "profile": {
+            "PS51842": "Intermediate filament (IF) rod domain profile"
+          },
+          "smart": {
+            "SM01391": "Intermediate filament protein"
+          },
+          "pfam": {
+            "PF00038": "Intermediate filament protein"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "p41219",
+          "protein_length": 470,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 96,
+                  "end": 407,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR050405",
+        "name": "Intermediate filament structural protein",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR45652": "Intermediate filament structural protein"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "p41219",
+          "protein_length": 470,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 14,
+                  "end": 458,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

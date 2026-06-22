@@ -1,0 +1,2830 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4853949",
+      "4819588",
+      "4794790",
+      "4793848",
+      "4793691",
+      "4793164",
+      "4793084",
+      "4790368",
+      "4790051",
+      "4789418",
+      "4789033",
+      "4787551",
+      "4786480",
+      "4786343",
+      "4785673",
+      "4783510",
+      "4783186",
+      "4783043",
+      "4783025",
+      "4782830"
+    ],
+    "4853949": {
+      "uid": "4853949",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004853949",
+      "accession_version": "VCV004853949.1",
+      "title": "NM_007375.4(TARDBP):c.962C>T (p.Ala321Val)",
+      "variation_set": [
+        {
+          "measure_id": "4964889",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.962C>T (p.Ala321Val)",
+          "cdna_change": "c.962C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "",
+              "start": "11022371",
+              "stop": "11022371",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11022371",
+              "display_stop": "11022371",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "",
+              "start": "11082428",
+              "stop": "11082428",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11082428",
+              "display_stop": "11082428",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11022370:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007608218"
+        ],
+        "rcv": [
+          "RCV006706709"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2025/09/01 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011022371",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "A321V",
+      "fda_recognized_database": ""
+    },
+    "4819588": {
+      "uid": "4819588",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004819588",
+      "accession_version": "VCV004819588.1",
+      "title": "NM_007375.4(TARDBP):c.1127G>T (p.Gly376Val)",
+      "variation_set": [
+        {
+          "measure_id": "4930706",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.1127G>T (p.Gly376Val)",
+          "cdna_change": "c.1127G>T",
+          "aliases": [
+            "NM_007375.4:c.1127G>T"
+          ],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11022536",
+              "stop": "11022536",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11022536",
+              "display_stop": "11022536",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11082593",
+              "stop": "11082593",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11082593",
+              "display_stop": "11082593",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11022535:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007539429"
+        ],
+        "rcv": [
+          "RCV006646808"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/03/05 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "611"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0238190"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007827"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "147421"
+              }
+            ],
+            "trait_name": "Inclusion body myositis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011022536",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "G376V",
+      "fda_recognized_database": ""
+    },
+    "4794790": {
+      "uid": "4794790",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004794790",
+      "accession_version": "VCV004794790.1",
+      "title": "NM_007375.4(TARDBP):c.660C>T (p.Val220=)",
+      "variation_set": [
+        {
+          "measure_id": "4906164",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.660C>T (p.Val220=)",
+          "cdna_change": "c.660C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11020545",
+              "stop": "11020545",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11020545",
+              "display_stop": "11020545",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11080602",
+              "stop": "11080602",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11080602",
+              "display_stop": "11080602",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11020544:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007492765"
+        ],
+        "rcv": [
+          "RCV006597226"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/03/19 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011020545",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793848": {
+      "uid": "4793848",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793848",
+      "accession_version": "VCV004793848.1",
+      "title": "NM_007375.4(TARDBP):c.543+4C>T",
+      "variation_set": [
+        {
+          "measure_id": "4903785",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.543+4C>T",
+          "cdna_change": "NM_007375.4(TARDBP):c.543+4C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11018877",
+              "stop": "11018877",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11018877",
+              "display_stop": "11018877",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11078934",
+              "stop": "11078934",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11078934",
+              "display_stop": "11078934",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11018876:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491591"
+        ],
+        "rcv": [
+          "RCV006604602"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/05/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011018877",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793691": {
+      "uid": "4793691",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793691",
+      "accession_version": "VCV004793691.1",
+      "title": "NM_007375.4(TARDBP):c.1098C>T (p.Ala366=)",
+      "variation_set": [
+        {
+          "measure_id": "4903629",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.1098C>T (p.Ala366=)",
+          "cdna_change": "c.1098C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11022507",
+              "stop": "11022507",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11022507",
+              "display_stop": "11022507",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11082564",
+              "stop": "11082564",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11082564",
+              "display_stop": "11082564",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11022506:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007491349"
+        ],
+        "rcv": [
+          "RCV006601017"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/11/11 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011022507",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793164": {
+      "uid": "4793164",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793164",
+      "accession_version": "VCV004793164.1",
+      "title": "NM_007375.4(TARDBP):c.114G>C (p.Ala38=)",
+      "variation_set": [
+        {
+          "measure_id": "4905840",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.114G>C (p.Ala38=)",
+          "cdna_change": "c.114G>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11013841",
+              "stop": "11013841",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11013841",
+              "display_stop": "11013841",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11073898",
+              "stop": "11073898",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11073898",
+              "display_stop": "11073898",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11013840:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490639"
+        ],
+        "rcv": [
+          "RCV006597064"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/10/22 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011013841",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4793084": {
+      "uid": "4793084",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004793084",
+      "accession_version": "VCV004793084.1",
+      "title": "NM_007375.4(TARDBP):c.209A>C (p.Asn70Thr)",
+      "variation_set": [
+        {
+          "measure_id": "4905760",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.209A>C (p.Asn70Thr)",
+          "cdna_change": "c.209A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11013936",
+              "stop": "11013936",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11013936",
+              "display_stop": "11013936",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11073993",
+              "stop": "11073993",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11073993",
+              "display_stop": "11073993",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11013935:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007490674"
+        ],
+        "rcv": [
+          "RCV006596984"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/02/25 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011013936",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "N70T",
+      "fda_recognized_database": ""
+    },
+    "4790368": {
+      "uid": "4790368",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004790368",
+      "accession_version": "VCV004790368.1",
+      "title": "NM_007375.4(TARDBP):c.639G>A (p.Gln213=)",
+      "variation_set": [
+        {
+          "measure_id": "4902902",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.639G>A (p.Gln213=)",
+          "cdna_change": "c.639G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11020524",
+              "stop": "11020524",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11020524",
+              "display_stop": "11020524",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11080581",
+              "stop": "11080581",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11080581",
+              "display_stop": "11080581",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11020523:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007487311"
+        ],
+        "rcv": [
+          "RCV006592308"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/11/25 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011020524",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4790051": {
+      "uid": "4790051",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004790051",
+      "accession_version": "VCV004790051.1",
+      "title": "NM_007375.4(TARDBP):c.1041A>G (p.Ser347=)",
+      "variation_set": [
+        {
+          "measure_id": "4899158",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.1041A>G (p.Ser347=)",
+          "cdna_change": "c.1041A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11022450",
+              "stop": "11022450",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11022450",
+              "display_stop": "11022450",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11082507",
+              "stop": "11082507",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11082507",
+              "display_stop": "11082507",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11022449:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007485902"
+        ],
+        "rcv": [
+          "RCV006603733"
+        ]
+      },
+      "germline_classification": {
+        "description": "Benign",
+        "last_evaluated": "2025/07/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011022450",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4789418": {
+      "uid": "4789418",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004789418",
+      "accession_version": "VCV004789418.1",
+      "title": "NM_007375.4(TARDBP):c.693T>C (p.Phe231=)",
+      "variation_set": [
+        {
+          "measure_id": "4895556",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.693T>C (p.Phe231=)",
+          "cdna_change": "c.693T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11020578",
+              "stop": "11020578",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11020578",
+              "display_stop": "11020578",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11080635",
+              "stop": "11080635",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11080635",
+              "display_stop": "11080635",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11020577:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007485215"
+        ],
+        "rcv": [
+          "RCV006599672"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/12/03 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011020578",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4789033": {
+      "uid": "4789033",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004789033",
+      "accession_version": "VCV004789033.1",
+      "title": "NM_007375.4(TARDBP):c.1071C>T (p.Gly357=)",
+      "variation_set": [
+        {
+          "measure_id": "4899011",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.1071C>T (p.Gly357=)",
+          "cdna_change": "c.1071C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11022480",
+              "stop": "11022480",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11022480",
+              "display_stop": "11022480",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11082537",
+              "stop": "11082537",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11082537",
+              "display_stop": "11082537",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11022479:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007486351"
+        ],
+        "rcv": [
+          "RCV006595861"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/08/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011022480",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4787551": {
+      "uid": "4787551",
+      "obj_type": "Deletion",
+      "accession": "VCV004787551",
+      "accession_version": "VCV004787551.1",
+      "title": "NM_007375.4(TARDBP):c.544-17_544-14del",
+      "variation_set": [
+        {
+          "measure_id": "4897117",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.544-17_544-14del",
+          "cdna_change": "NM_007375.4(TARDBP):c.544-17_544-14del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11020409",
+              "stop": "11020412",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11020409",
+              "display_stop": "11020412",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11080466",
+              "stop": "11080469",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11080466",
+              "display_stop": "11080469",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000001.11:11020408:CTTCCTT:CTT",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007482643"
+        ],
+        "rcv": [
+          "RCV006599269"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/13 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011020409",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4786480": {
+      "uid": "4786480",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004786480",
+      "accession_version": "VCV004786480.1",
+      "title": "NM_007375.4(TARDBP):c.714+13T>C",
+      "variation_set": [
+        {
+          "measure_id": "4894762",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.714+13T>C",
+          "cdna_change": "NM_007375.4(TARDBP):c.714+13T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11020612",
+              "stop": "11020612",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11020612",
+              "display_stop": "11020612",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11080669",
+              "stop": "11080669",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11080669",
+              "display_stop": "11080669",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11020611:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007482011"
+        ],
+        "rcv": [
+          "RCV006591348"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/10/21 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011020612",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4786343": {
+      "uid": "4786343",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004786343",
+      "accession_version": "VCV004786343.1",
+      "title": "NM_007375.4(TARDBP):c.1118C>A (p.Ser373Tyr)",
+      "variation_set": [
+        {
+          "measure_id": "4894625",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.1118C>A (p.Ser373Tyr)",
+          "cdna_change": "c.1118C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11022527",
+              "stop": "11022527",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11022527",
+              "display_stop": "11022527",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11082584",
+              "stop": "11082584",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11082584",
+              "display_stop": "11082584",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11022526:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007481523"
+        ],
+        "rcv": [
+          "RCV006602953"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/10/07 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011022527",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "S373Y",
+      "fda_recognized_database": ""
+    },
+    "4785673": {
+      "uid": "4785673",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004785673",
+      "accession_version": "VCV004785673.1",
+      "title": "NM_007375.4(TARDBP):c.1088C>G (p.Pro363Arg)",
+      "variation_set": [
+        {
+          "measure_id": "4898196",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.1088C>G (p.Pro363Arg)",
+          "cdna_change": "c.1088C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11022497",
+              "stop": "11022497",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11022497",
+              "display_stop": "11022497",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11082554",
+              "stop": "11082554",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11082554",
+              "display_stop": "11082554",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11022496:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007479188"
+        ],
+        "rcv": [
+          "RCV006598855"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/12/21 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011022497",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "P363R",
+      "fda_recognized_database": ""
+    },
+    "4783510": {
+      "uid": "4783510",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004783510",
+      "accession_version": "VCV004783510.1",
+      "title": "NM_007375.4(TARDBP):c.962C>G (p.Ala321Gly)",
+      "variation_set": [
+        {
+          "measure_id": "4899627",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.962C>G (p.Ala321Gly)",
+          "cdna_change": "c.962C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11082428",
+              "stop": "11082428",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11082428",
+              "display_stop": "11082428",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11022371",
+              "stop": "11022371",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11022371",
+              "display_stop": "11022371",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11022370:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007477939"
+        ],
+        "rcv": [
+          "RCV006594730"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2025/04/02 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011022371",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "A321G",
+      "fda_recognized_database": ""
+    },
+    "4783186": {
+      "uid": "4783186",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004783186",
+      "accession_version": "VCV004783186.1",
+      "title": "NM_007375.4(TARDBP):c.691T>G (p.Phe231Val)",
+      "variation_set": [
+        {
+          "measure_id": "4899303",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.691T>G (p.Phe231Val)",
+          "cdna_change": "c.691T>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11020576",
+              "stop": "11020576",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11020576",
+              "display_stop": "11020576",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11080633",
+              "stop": "11080633",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11080633",
+              "display_stop": "11080633",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11020575:T:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007477512"
+        ],
+        "rcv": [
+          "RCV006594406"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/03/11 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011020576",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "F231V",
+      "fda_recognized_database": ""
+    },
+    "4783043": {
+      "uid": "4783043",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004783043",
+      "accession_version": "VCV004783043.1",
+      "title": "NM_007375.4(TARDBP):c.821G>A (p.Gly274Glu)",
+      "variation_set": [
+        {
+          "measure_id": "4893867",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.821G>A (p.Gly274Glu)",
+          "cdna_change": "c.821G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11022230",
+              "stop": "11022230",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11022230",
+              "display_stop": "11022230",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11082287",
+              "stop": "11082287",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11082287",
+              "display_stop": "11082287",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11022229:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007477372"
+        ],
+        "rcv": [
+          "RCV006594263"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/03/18 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011022230",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "G274E",
+      "fda_recognized_database": ""
+    },
+    "4783025": {
+      "uid": "4783025",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004783025",
+      "accession_version": "VCV004783025.1",
+      "title": "NM_007375.4(TARDBP):c.353A>C (p.Gln118Pro)",
+      "variation_set": [
+        {
+          "measure_id": "4893849",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.353A>C (p.Gln118Pro)",
+          "cdna_change": "c.353A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11016958",
+              "stop": "11016958",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11016958",
+              "display_stop": "11016958",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11077015",
+              "stop": "11077015",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11077015",
+              "display_stop": "11077015",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11016957:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007477367"
+        ],
+        "rcv": [
+          "RCV006594245"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/07/09 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011016958",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "Q118P",
+      "fda_recognized_database": ""
+    },
+    "4782830": {
+      "uid": "4782830",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004782830",
+      "accession_version": "VCV004782830.1",
+      "title": "NM_007375.4(TARDBP):c.652A>G (p.Met218Val)",
+      "variation_set": [
+        {
+          "measure_id": "4893655",
+          "variation_xrefs": [],
+          "variation_name": "NM_007375.4(TARDBP):c.652A>G (p.Met218Val)",
+          "cdna_change": "c.652A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11020537",
+              "stop": "11020537",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11020537",
+              "display_stop": "11020537",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "1",
+              "band": "1p36.22",
+              "start": "11080594",
+              "stop": "11080594",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "11080594",
+              "display_stop": "11080594",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000001.11:11020536:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007477203"
+        ],
+        "rcv": [
+          "RCV006590626"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/01/07 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C2677565"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0012790"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "612069"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 10"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3150169"
+              }
+            ],
+            "trait_name": "FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TARDBP",
+      "chr_sort": "01",
+      "location_sort": "00000000000011020537",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TARDBP",
+          "geneid": "23435",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "M218V",
+      "fda_recognized_database": ""
+    }
+  }
+}

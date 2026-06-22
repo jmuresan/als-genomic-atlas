@@ -1,0 +1,1010 @@
+{
+  "numberOfHits": 31,
+  "results": [
+    {
+      "id": "UniProtKB:Q9UPW8!118848395",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "enables",
+      "goId": "GO:0005509",
+      "goName": null,
+      "goEvidence": "IEA",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000256",
+      "reference": "GO_REF:0000002",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "InterPro",
+              "id": "IPR037302"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "InterPro",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20260616",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848396",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "enables",
+      "goId": "GO:0005516",
+      "goName": null,
+      "goEvidence": "ISS",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000250",
+      "reference": "GO_REF:0000024",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q62768"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "ParkinsonsUK-UCL",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20180716",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848397",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "enables",
+      "goId": "GO:0005516",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:3051532"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000826129"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "619722"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "619723"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "628592"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20230109",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848398",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "enables",
+      "goId": "GO:0005543",
+      "goName": null,
+      "goEvidence": "IEA",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000256",
+      "reference": "GO_REF:0000002",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "InterPro",
+              "id": "IPR037302"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "InterPro",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20260616",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848399",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "enables",
+      "goId": "GO:0017075",
+      "goName": null,
+      "goEvidence": "ISS",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000250",
+      "reference": "GO_REF:0000024",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q62768"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "ParkinsonsUK-UCL",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20140731",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848400",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "enables",
+      "goId": "GO:0017075",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000826129"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "619722"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "619723"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "628592"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20170922",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848401",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "enables",
+      "goId": "GO:0019992",
+      "goName": null,
+      "goEvidence": "IEA",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000256",
+      "reference": "GO_REF:0000002",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "InterPro",
+              "id": "IPR027080"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "InterPro",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20260616",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848402",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "involved_in",
+      "goId": "GO:0007268",
+      "goName": null,
+      "goEvidence": "IEA",
+      "goAspect": "biological_process",
+      "evidenceCode": "ECO:0000256",
+      "reference": "GO_REF:0000002",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "InterPro",
+              "id": "IPR027080"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "InterPro",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20260616",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848403",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "involved_in",
+      "goId": "GO:0007269",
+      "goName": null,
+      "goEvidence": "ISS",
+      "goAspect": "biological_process",
+      "evidenceCode": "ECO:0000250",
+      "reference": "GO_REF:0000024",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q62768"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "ParkinsonsUK-UCL",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20140731",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848404",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "involved_in",
+      "goId": "GO:0016082",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "biological_process",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0025726"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:1342278"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:3051532"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000049880"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "619722"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "619723"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "628592"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20260528",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848405",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "involved_in",
+      "goId": "GO:0035249",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "biological_process",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:1342278"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:3051532"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000049880"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20170922",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848406",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "involved_in",
+      "goId": "GO:0051966",
+      "goName": null,
+      "goEvidence": "TAS",
+      "goAspect": "biological_process",
+      "evidenceCode": "ECO:0000304",
+      "reference": "PMID:15217342",
+      "withFrom": null,
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "ParkinsonsUK-UCL",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20140819",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848407",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "involved_in",
+      "goId": "GO:0061789",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "biological_process",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000049880"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "619722"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "619723"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20170922",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848408",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "involved_in",
+      "goId": "GO:0099011",
+      "goName": null,
+      "goEvidence": "ISS",
+      "goAspect": "biological_process",
+      "evidenceCode": "ECO:0000250",
+      "reference": "GO_REF:0000024",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q4KUS2"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "UniProt",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20191104",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848409",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "involved_in",
+      "goId": "GO:1903861",
+      "goName": null,
+      "goEvidence": "IDA",
+      "goAspect": "biological_process",
+      "evidenceCode": "ECO:0000314",
+      "reference": "PMID:23999003",
+      "withFrom": null,
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "UniProt",
+      "extensions": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "CL",
+              "id": "0000148",
+              "relation": "occurs_in"
+            }
+          ]
+        }
+      ],
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20150317",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848410",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "is_active_in",
+      "goId": "GO:0005886",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0025726"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000826129"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "619722"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "619723"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20230602",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848411",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "is_active_in",
+      "goId": "GO:0030672",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000049880"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "628592"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20170922",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848412",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "is_active_in",
+      "goId": "GO:0031594",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:1342278"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:3051532"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000049880"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20170922",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848413",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "is_active_in",
+      "goId": "GO:0042734",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000049880"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "619722"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20170922",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848414",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "is_active_in",
+      "goId": "GO:0043195",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0025726"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000049880"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "RGD",
+              "id": "619723"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20170922",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848415",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "located_in",
+      "goId": "GO:0005737",
+      "goName": null,
+      "goEvidence": "ISS",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0000250",
+      "reference": "GO_REF:0000024",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q62768"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "UniProt",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20220523",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848416",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "located_in",
+      "goId": "GO:0005737",
+      "goName": null,
+      "goEvidence": "IEA",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0007322",
+      "reference": "GO_REF:0000044",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB-SubCell",
+              "id": "SL-0086"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "UniProt",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20260616",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848417",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "located_in",
+      "goId": "GO:0005886",
+      "goName": null,
+      "goEvidence": "ISS",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0000250",
+      "reference": "GO_REF:0000024",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q62768"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "UniProt",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20220523",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848418",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "located_in",
+      "goId": "GO:0005886",
+      "goName": null,
+      "goEvidence": "IEA",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0007322",
+      "reference": "GO_REF:0000044",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB-SubCell",
+              "id": "SL-0039"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "UniProt",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20260616",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:Q9UPW8!118848419",
+      "geneProductId": "UniProtKB:Q9UPW8",
+      "qualifier": "located_in",
+      "goId": "GO:0042734",
+      "goName": null,
+      "goEvidence": "ISS",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0000250",
+      "reference": "GO_REF:0000024",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q62768"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "ParkinsonsUK-UCL",
+      "extensions": null,
+      "targetSets": [
+        "ParkinsonsUK-UCL"
+      ],
+      "symbol": "UNC13A",
+      "date": "20140731",
+      "synonyms": null,
+      "name": null
+    }
+  ],
+  "pageInfo": {
+    "resultsPerPage": 25,
+    "current": 1,
+    "total": 2
+  }
+}

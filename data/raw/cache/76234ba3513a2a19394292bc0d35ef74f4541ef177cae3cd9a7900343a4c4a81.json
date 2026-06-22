@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr20",
+      "dataSource": "HAVANA",
+      "description": "VAMP associated protein B and C [Source:HGNC Symbol;Acc:HGNC:12649]",
+      "end": 58451101,
+      "entrezGeneId": 9217,
+      "gencodeId": "ENSG00000124164.15",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "VAPB",
+      "geneSymbolUpper": "VAPB",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 58389122,
+      "strand": "+",
+      "tss": 58389122
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

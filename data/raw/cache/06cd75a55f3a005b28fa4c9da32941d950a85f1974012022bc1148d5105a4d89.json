@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "359",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4794561",
+      "4793368",
+      "4792932",
+      "4792912",
+      "4792145",
+      "4789983",
+      "4788431",
+      "4788326",
+      "4787463",
+      "4785735",
+      "4784438",
+      "4784069",
+      "4783010",
+      "4782471",
+      "4782351",
+      "3764077",
+      "3761709",
+      "3761641",
+      "3761504",
+      "3759812"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "VAPB[gene]",
+        "field": "gene",
+        "count": "440",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "VAPB[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

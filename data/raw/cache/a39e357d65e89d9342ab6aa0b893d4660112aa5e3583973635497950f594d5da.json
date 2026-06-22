@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr17",
+      "dataSource": "HAVANA",
+      "description": "profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]",
+      "end": 4949061,
+      "entrezGeneId": 5216,
+      "gencodeId": "ENSG00000108518.7",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "PFN1",
+      "geneSymbolUpper": "PFN1",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 4945652,
+      "strand": "-",
+      "tss": 4949061
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

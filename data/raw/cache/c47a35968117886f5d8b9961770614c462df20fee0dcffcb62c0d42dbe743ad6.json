@@ -1,0 +1,381 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "SOD1",
+      "associatedDiseases": {
+        "count": 1766,
+        "rows": [
+          {
+            "score": 0.8701480663155676,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.7352903083071041,
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.7326519660884125,
+            "disease": {
+              "id": "EFO_0001357",
+              "name": "sporadic amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.6072238263131183,
+            "disease": {
+              "id": "EFO_0010567",
+              "name": "spastic tetraplegia and axial hypotonia, progressive"
+            }
+          },
+          {
+            "score": 0.5934743129094009,
+            "disease": {
+              "id": "EFO_0003782",
+              "name": "motor neuron disease"
+            }
+          },
+          {
+            "score": 0.5530837180941583,
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "score": 0.3485618483487828,
+            "disease": {
+              "id": "MONDO_0017161",
+              "name": "frontotemporal dementia with motor neuron disease"
+            }
+          },
+          {
+            "score": 0.3400134663099256,
+            "disease": {
+              "id": "HP_0003690",
+              "name": "Limb muscle weakness"
+            }
+          },
+          {
+            "score": 0.3207049414875614,
+            "disease": {
+              "id": "HP_0007367",
+              "name": "Atrophy/Degeneration affecting the central nervous system"
+            }
+          },
+          {
+            "score": 0.26609749537298527,
+            "disease": {
+              "id": "HP_0011442",
+              "name": "Abnormal central motor function"
+            }
+          },
+          {
+            "score": 0.2612138586309898,
+            "disease": {
+              "id": "MONDO_0024654",
+              "name": "skull disorder"
+            }
+          },
+          {
+            "score": 0.2547822557969678,
+            "disease": {
+              "id": "EFO_0004329",
+              "name": "alcohol drinking"
+            }
+          },
+          {
+            "score": 0.23674200054377112,
+            "disease": {
+              "id": "MONDO_0001039",
+              "name": "tonsillitis"
+            }
+          },
+          {
+            "score": 0.22594000808128442,
+            "disease": {
+              "id": "EFO_0001061",
+              "name": "cervical carcinoma"
+            }
+          },
+          {
+            "score": 0.2084739040942312,
+            "disease": {
+              "id": "EFO_1001754",
+              "name": "Abruptio Placentae"
+            }
+          },
+          {
+            "score": 0.18360243763762182,
+            "disease": {
+              "id": "EFO_0000400",
+              "name": "diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.15124462095421026,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.1087517105489078,
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            }
+          },
+          {
+            "score": 0.10679244052943615,
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            }
+          },
+          {
+            "score": 0.10318173260613596,
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "score": 0.10276960035682345,
+            "disease": {
+              "id": "EFO_0003060",
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "score": 0.09975218710934738,
+            "disease": {
+              "id": "MONDO_0005148",
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.09856037800458956,
+            "disease": {
+              "id": "EFO_1001052",
+              "name": "myeloid sarcoma"
+            }
+          },
+          {
+            "score": 0.09778169078943795,
+            "disease": {
+              "id": "EFO_0000182",
+              "name": "hepatocellular carcinoma"
+            }
+          },
+          {
+            "score": 0.0961808562925813,
+            "disease": {
+              "id": "MONDO_0007254",
+              "name": "breast cancer"
+            }
+          },
+          {
+            "score": 0.0947668021589783,
+            "disease": {
+              "id": "MONDO_0002492",
+              "name": "acute kidney injury"
+            }
+          },
+          {
+            "score": 0.09454996889848188,
+            "disease": {
+              "id": "EFO_1000680",
+              "name": "mucous membrane pemphigoid"
+            }
+          },
+          {
+            "score": 0.09288786294185186,
+            "disease": {
+              "id": "EFO_0001066",
+              "name": "experimental autoimmune encephalomyelitis"
+            }
+          },
+          {
+            "score": 0.09157494793579897,
+            "disease": {
+              "id": "EFO_0003884",
+              "name": "chronic kidney disease"
+            }
+          },
+          {
+            "score": 0.09154120663443974,
+            "disease": {
+              "id": "EFO_0005543",
+              "name": "glioma"
+            }
+          },
+          {
+            "score": 0.09105259628242231,
+            "disease": {
+              "id": "HP_0100543",
+              "name": "Cognitive impairment"
+            }
+          },
+          {
+            "score": 0.08984094765223345,
+            "disease": {
+              "id": "MONDO_0008903",
+              "name": "lung cancer"
+            }
+          },
+          {
+            "score": 0.08874691578075498,
+            "disease": {
+              "id": "EFO_0000544",
+              "name": "infection"
+            }
+          },
+          {
+            "score": 0.08865418509163323,
+            "disease": {
+              "id": "EFO_0003872",
+              "name": "colitis"
+            }
+          },
+          {
+            "score": 0.08816338555574922,
+            "disease": {
+              "id": "EFO_0000713",
+              "name": "subarachnoid hemorrhage"
+            }
+          },
+          {
+            "score": 0.087328880386183,
+            "disease": {
+              "id": "EFO_0004610",
+              "name": "acute lung injury"
+            }
+          },
+          {
+            "score": 0.08195164000612155,
+            "disease": {
+              "id": "MONDO_0015459",
+              "name": "nasopharyngeal carcinoma"
+            }
+          },
+          {
+            "score": 0.0815323553570711,
+            "disease": {
+              "id": "MONDO_0007804",
+              "name": "Pallister-Hall syndrome"
+            }
+          },
+          {
+            "score": 0.08024725569510892,
+            "disease": {
+              "id": "EFO_0007982",
+              "name": "mild neurocognitive disorder"
+            }
+          },
+          {
+            "score": 0.07905690575749018,
+            "disease": {
+              "id": "EFO_0000660",
+              "name": "polycystic ovary syndrome"
+            }
+          },
+          {
+            "score": 0.07749774710994922,
+            "disease": {
+              "id": "MONDO_0100096",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "score": 0.07631505854675975,
+            "disease": {
+              "id": "EFO_0001063",
+              "name": "deafness"
+            }
+          },
+          {
+            "score": 0.07330676782380659,
+            "disease": {
+              "id": "MONDO_0019587",
+              "name": "autosomal dominant nonsyndromic hearing loss"
+            }
+          },
+          {
+            "score": 0.07304619936876465,
+            "disease": {
+              "id": "EFO_1001951",
+              "name": "colorectal carcinoma"
+            }
+          },
+          {
+            "score": 0.07264712730117719,
+            "disease": {
+              "id": "EFO_0005537",
+              "name": "triple-negative breast cancer"
+            }
+          },
+          {
+            "score": 0.0719251965903847,
+            "disease": {
+              "id": "MONDO_0100319",
+              "name": "COVID-19–associated multisystem inflammatory syndrome in adults"
+            }
+          },
+          {
+            "score": 0.07174989343807153,
+            "disease": {
+              "id": "EFO_0001365",
+              "name": "age-related macular degeneration"
+            }
+          },
+          {
+            "score": 0.07164494168237369,
+            "disease": {
+              "id": "EFO_0001645",
+              "name": "coronary artery disease"
+            }
+          },
+          {
+            "score": 0.07059093293882061,
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "score": 0.06929913772433474,
+            "disease": {
+              "id": "EFO_0003918",
+              "name": "obstructive sleep apnea"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 1,
+        "rows": [
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL3833346",
+              "name": "TOFERSEN",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "SOD1 mRNA antisense inhibitor"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "NEK1",
+      "associatedDiseases": {
+        "count": 491,
+        "rows": [
+          {
+            "score": 0.8094331894878286,
+            "disease": {
+              "id": "MONDO_0009894",
+              "name": "short-rib thoracic dysplasia 6 with or without polydactyly"
+            }
+          },
+          {
+            "score": 0.5907253209637263,
+            "disease": {
+              "id": "MONDO_0015461",
+              "name": "short rib-polydactyly syndrome"
+            }
+          },
+          {
+            "score": 0.5810999553200537,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.5734625035934449,
+            "disease": {
+              "id": "Orphanet_2751",
+              "name": "Orofaciodigital syndrome type 2"
+            }
+          },
+          {
+            "score": 0.5159401710606811,
+            "disease": {
+              "id": "MONDO_0009642",
+              "name": "orofaciodigital syndrome type II"
+            }
+          },
+          {
+            "score": 0.45273532198875965,
+            "disease": {
+              "id": "MONDO_0019662",
+              "name": "short rib-polydactyly syndrome, Majewski type"
+            }
+          },
+          {
+            "score": 0.41889170116223307,
+            "disease": {
+              "id": "EFO_0005670",
+              "name": "smoking initiation"
+            }
+          },
+          {
+            "score": 0.40796673063333233,
+            "disease": {
+              "id": "EFO_1001986",
+              "name": "connective tissue disease"
+            }
+          },
+          {
+            "score": 0.3967552266447045,
+            "disease": {
+              "id": "EFO_0003782",
+              "name": "motor neuron disease"
+            }
+          },
+          {
+            "score": 0.343591932472132,
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "score": 0.33493174330801095,
+            "disease": {
+              "id": "MONDO_0013127",
+              "name": "asphyxiating thoracic dystrophy 3"
+            }
+          },
+          {
+            "score": 0.3326218692162316,
+            "disease": {
+              "id": "MONDO_0010024",
+              "name": "Beemer-Langer syndrome"
+            }
+          },
+          {
+            "score": 0.3258243558334964,
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "score": 0.32438292423992504,
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "score": 0.32387950405527555,
+            "disease": {
+              "id": "MONDO_0005301",
+              "name": "multiple sclerosis"
+            }
+          },
+          {
+            "score": 0.3229555544185638,
+            "disease": {
+              "id": "MONDO_0002561",
+              "name": "lysosomal storage disease"
+            }
+          },
+          {
+            "score": 0.30140874655570254,
+            "disease": {
+              "id": "EFO_0009578",
+              "name": "placental retention"
+            }
+          },
+          {
+            "score": 0.282954840750444,
+            "disease": {
+              "id": "MONDO_0005090",
+              "name": "schizophrenia"
+            }
+          },
+          {
+            "score": 0.270994323801152,
+            "disease": {
+              "id": "EFO_0020092",
+              "name": "neuroinflammatory disorder"
+            }
+          },
+          {
+            "score": 0.2678357226803011,
+            "disease": {
+              "id": "EFO_0004607",
+              "name": "duodenal ulcer"
+            }
+          },
+          {
+            "score": 0.2562622308212339,
+            "disease": {
+              "id": "EFO_0009003",
+              "name": "ovarian dysfunction"
+            }
+          },
+          {
+            "score": 0.248931814875871,
+            "disease": {
+              "id": "EFO_0000729",
+              "name": "ulcerative colitis"
+            }
+          },
+          {
+            "score": 0.24553655661363216,
+            "disease": {
+              "id": "EFO_0009485",
+              "name": "eye injury"
+            }
+          },
+          {
+            "score": 0.19403717506525964,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.1509137245565974,
+            "disease": {
+              "id": "MONDO_0018770",
+              "name": "Jeune syndrome"
+            }
+          },
+          {
+            "score": 0.09624180932445515,
+            "disease": {
+              "id": "EFO_0008577",
+              "name": "Juvenile Osteochondrosis"
+            }
+          },
+          {
+            "score": 0.07512427916887449,
+            "disease": {
+              "id": "EFO_0000681",
+              "name": "renal cell carcinoma"
+            }
+          },
+          {
+            "score": 0.07309239694479668,
+            "disease": {
+              "id": "EFO_0004289",
+              "name": "lymphoid leukemia"
+            }
+          },
+          {
+            "score": 0.0572751785585274,
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            }
+          },
+          {
+            "score": 0.05214996770872595,
+            "disease": {
+              "id": "EFO_0005543",
+              "name": "glioma"
+            }
+          },
+          {
+            "score": 0.052137032427012016,
+            "disease": {
+              "id": "EFO_0000279",
+              "name": "azoospermia"
+            }
+          },
+          {
+            "score": 0.05069097330419181,
+            "disease": {
+              "id": "EFO_0003756",
+              "name": "autism spectrum disorder"
+            }
+          },
+          {
+            "score": 0.045809490672478935,
+            "disease": {
+              "id": "MONDO_0018899",
+              "name": "posterior cortical atrophy"
+            }
+          },
+          {
+            "score": 0.04200644628346321,
+            "disease": {
+              "id": "MONDO_0018914",
+              "name": "hypotrichosis simplex"
+            }
+          },
+          {
+            "score": 0.04189351910564289,
+            "disease": {
+              "id": "OTAR_0000003",
+              "name": "cyst"
+            }
+          },
+          {
+            "score": 0.040093870535469874,
+            "disease": {
+              "id": "MONDO_0009034",
+              "name": "craniofacial dyssynostosis"
+            }
+          },
+          {
+            "score": 0.0399146243059478,
+            "disease": {
+              "id": "EFO_0000478",
+              "name": "esophageal adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.03754192163887201,
+            "disease": {
+              "id": "MONDO_0010803",
+              "name": "Eiken syndrome"
+            }
+          },
+          {
+            "score": 0.036351874506787264,
+            "disease": {
+              "id": "MONDO_0011549",
+              "name": "hypotrichosis 1"
+            }
+          },
+          {
+            "score": 0.03443005926242682,
+            "disease": {
+              "id": "MONDO_0957301",
+              "name": "spermatogenic failure 84"
+            }
+          },
+          {
+            "score": 0.03443005926242682,
+            "disease": {
+              "id": "MONDO_0971000",
+              "name": "spermatogenic failure 93"
+            }
+          },
+          {
+            "score": 0.034422667665333126,
+            "disease": {
+              "id": "MONDO_0859477",
+              "name": "spermatogenic failure, X-linked, 5"
+            }
+          },
+          {
+            "score": 0.03439310127695835,
+            "disease": {
+              "id": "MONDO_0030809",
+              "name": "spermatogenic failure 72"
+            }
+          },
+          {
+            "score": 0.03435614329148988,
+            "disease": {
+              "id": "MONDO_0030531",
+              "name": "spermatogenic failure 65"
+            }
+          },
+          {
+            "score": 0.03423048614089708,
+            "disease": {
+              "id": "MONDO_0030507",
+              "name": "spermatogenic failure 61"
+            }
+          },
+          {
+            "score": 0.03423048614089708,
+            "disease": {
+              "id": "MONDO_0957821",
+              "name": "spermatogenic failure 88"
+            }
+          },
+          {
+            "score": 0.03423048614089708,
+            "disease": {
+              "id": "MONDO_0030508",
+              "name": "spermatogenic failure 62"
+            }
+          },
+          {
+            "score": 0.03421570294670969,
+            "disease": {
+              "id": "MONDO_0971002",
+              "name": "spermatogenic failure 94"
+            }
+          },
+          {
+            "score": 0.03421570294670969,
+            "disease": {
+              "id": "MONDO_0970999",
+              "name": "spermatogenic failure 92"
+            }
+          },
+          {
+            "score": 0.03421570294670969,
+            "disease": {
+              "id": "MONDO_0030430",
+              "name": "spermatogenic failure 56"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

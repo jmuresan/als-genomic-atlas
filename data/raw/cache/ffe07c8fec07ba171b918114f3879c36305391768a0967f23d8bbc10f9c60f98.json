@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr9",
+      "dataSource": "HAVANA",
+      "description": "sigma non-opioid intracellular receptor 1 [Source:HGNC Symbol;Acc:HGNC:8157]",
+      "end": 34637809,
+      "entrezGeneId": 10280,
+      "gencodeId": "ENSG00000147955.16",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "SIGMAR1",
+      "geneSymbolUpper": "SIGMAR1",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 34634722,
+      "strand": "-",
+      "tss": 34637809
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

@@ -1,0 +1,3015 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4792061",
+      "4791804",
+      "4791081",
+      "4790003",
+      "4789868",
+      "4356097",
+      "4278117",
+      "4278097",
+      "3897005",
+      "3763541",
+      "3762418",
+      "3761654",
+      "3761647",
+      "3760977",
+      "3756143",
+      "3752559",
+      "3750553",
+      "3750482",
+      "3749597",
+      "3749523"
+    ],
+    "4792061": {
+      "uid": "4792061",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004792061",
+      "accession_version": "VCV004792061.1",
+      "title": "NM_005866.4(SIGMAR1):c.667C>G (p.Pro223Ala)",
+      "variation_set": [
+        {
+          "measure_id": "4903296",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.667C>G (p.Pro223Ala)",
+          "cdna_change": "c.667C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635637",
+              "stop": "34635637",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635637",
+              "display_stop": "34635637",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635634",
+              "stop": "34635634",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635634",
+              "display_stop": "34635634",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34635636:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007489254"
+        ],
+        "rcv": [
+          "RCV006604279"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/06/24 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034635637",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "3 prime UTR variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "P123A, P192A, P150R, P203A, P223A",
+      "fda_recognized_database": ""
+    },
+    "4791804": {
+      "uid": "4791804",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004791804",
+      "accession_version": "VCV004791804.1",
+      "title": "NM_005866.4(SIGMAR1):c.642C>T (p.Leu214=)",
+      "variation_set": [
+        {
+          "measure_id": "4904331",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.642C>T (p.Leu214=)",
+          "cdna_change": "c.642C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635662",
+              "stop": "34635662",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635662",
+              "display_stop": "34635662",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635659",
+              "stop": "34635659",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635659",
+              "display_stop": "34635659",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34635661:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007489084"
+        ],
+        "rcv": [
+          "RCV006600594"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/12/22 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034635662",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "3 prime UTR variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4791081": {
+      "uid": "4791081",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004791081",
+      "accession_version": "VCV004791081.1",
+      "title": "NM_005866.4(SIGMAR1):c.135G>A (p.Leu45=)",
+      "variation_set": [
+        {
+          "measure_id": "4905052",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.135G>A (p.Leu45=)",
+          "cdna_change": "c.135G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637563",
+              "stop": "34637563",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637563",
+              "display_stop": "34637563",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637560",
+              "stop": "34637560",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637560",
+              "display_stop": "34637560",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34637562:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007488284"
+        ],
+        "rcv": [
+          "RCV006596445"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/10/29 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LOC130001681",
+      "chr_sort": "09",
+      "location_sort": "00000000000034637563",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LOC130001681",
+          "geneid": "130001681",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "5 prime UTR variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4790003": {
+      "uid": "4790003",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004790003",
+      "accession_version": "VCV004790003.1",
+      "title": "NM_005866.4(SIGMAR1):c.151+7G>C",
+      "variation_set": [
+        {
+          "measure_id": "4901418",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.151+7G>C",
+          "cdna_change": "NM_005866.4(SIGMAR1):c.151+7G>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637540",
+              "stop": "34637540",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637540",
+              "display_stop": "34637540",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637537",
+              "stop": "34637537",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637537",
+              "display_stop": "34637537",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34637539:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007485865"
+        ],
+        "rcv": [
+          "RCV006603685"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/07/13 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LOC130001681",
+      "chr_sort": "09",
+      "location_sort": "00000000000034637540",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LOC130001681",
+          "geneid": "130001681",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4789868": {
+      "uid": "4789868",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004789868",
+      "accession_version": "VCV004789868.1",
+      "title": "NM_005866.4(SIGMAR1):c.633G>A (p.Arg211=)",
+      "variation_set": [
+        {
+          "measure_id": "4901283",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.633G>A (p.Arg211=)",
+          "cdna_change": "c.633G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635671",
+              "stop": "34635671",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635671",
+              "display_stop": "34635671",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635668",
+              "stop": "34635668",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635668",
+              "display_stop": "34635668",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34635670:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007486994"
+        ],
+        "rcv": [
+          "RCV006603550"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/07/13 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034635671",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "3 prime UTR variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4356097": {
+      "uid": "4356097",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004356097",
+      "accession_version": "VCV004356097.2",
+      "title": "NM_005866.4(SIGMAR1):c.353-2A>G",
+      "variation_set": [
+        {
+          "measure_id": "4470319",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.353-2A>G",
+          "cdna_change": "NM_005866.4(SIGMAR1):c.353-2A>G",
+          "aliases": [
+            "NC_000009.11:g.34637088T>C"
+          ],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637091",
+              "stop": "34637091",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637091",
+              "display_stop": "34637091",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637088",
+              "stop": "34637088",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637088",
+              "display_stop": "34637088",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34637090:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006737116",
+          "SCV006737117",
+          "SCV006737118",
+          "SCV007490535"
+        ],
+        "rcv": [
+          "RCV006027766",
+          "RCV006569279"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2025/10/04 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034637091",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "splice acceptor variant",
+        "intron variant"
+      ],
+      "protein_change": "Q125R",
+      "fda_recognized_database": ""
+    },
+    "4278117": {
+      "uid": "4278117",
+      "obj_type": "Deletion",
+      "accession": "VCV004278117",
+      "accession_version": "VCV004278117.1",
+      "title": "NM_005866.4(SIGMAR1):c.73del (p.Val25fs)",
+      "variation_set": [
+        {
+          "measure_id": "4390622",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.73del (p.Val25fs)",
+          "cdna_change": "c.73del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637625",
+              "stop": "34637625",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637625",
+              "display_stop": "34637625",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637622",
+              "stop": "34637622",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637622",
+              "display_stop": "34637622",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000009.12:34637624:CC:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006552090"
+        ],
+        "rcv": [
+          "RCV005859700"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2025/09/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LOC130001681",
+      "chr_sort": "09",
+      "location_sort": "00000000000034637625",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LOC130001681",
+          "geneid": "130001681",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant",
+        "5 prime UTR variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "V25fs",
+      "fda_recognized_database": ""
+    },
+    "4278097": {
+      "uid": "4278097",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004278097",
+      "accession_version": "VCV004278097.1",
+      "title": "NM_005866.4(SIGMAR1):c.672A>G (p.Ter224Trp)",
+      "variation_set": [
+        {
+          "measure_id": "4390604",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.672A>G (p.Ter224Trp)",
+          "cdna_change": "c.672A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635632",
+              "stop": "34635632",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635632",
+              "display_stop": "34635632",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635629",
+              "stop": "34635629",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635629",
+              "display_stop": "34635629",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34635631:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006552037"
+        ],
+        "rcv": [
+          "RCV005859680"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2025/09/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034635632",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "stop lost",
+        "3 prime UTR variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "T152A",
+      "fda_recognized_database": ""
+    },
+    "3897005": {
+      "uid": "3897005",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003897005",
+      "accession_version": "VCV003897005.1",
+      "title": "NM_005866.4(SIGMAR1):c.521G>T (p.Gly174Val)",
+      "variation_set": [
+        {
+          "measure_id": "4012863",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.521G>T (p.Gly174Val)",
+          "cdna_change": "c.521G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635783",
+              "stop": "34635783",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635783",
+              "display_stop": "34635783",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635780",
+              "stop": "34635780",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635780",
+              "display_stop": "34635780",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34635782:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006075260"
+        ],
+        "rcv": [
+          "RCV005410327"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/05/30 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034635783",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "3 prime UTR variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "G143V, G154V, G174V, G74V",
+      "fda_recognized_database": ""
+    },
+    "3763541": {
+      "uid": "3763541",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003763541",
+      "accession_version": "VCV003763541.2",
+      "title": "NM_005866.4(SIGMAR1):c.523C>A (p.Arg175=)",
+      "variation_set": [
+        {
+          "measure_id": "3879165",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.523C>A (p.Arg175=)",
+          "cdna_change": "c.523C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635781",
+              "stop": "34635781",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635781",
+              "display_stop": "34635781",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635778",
+              "stop": "34635778",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635778",
+              "display_stop": "34635778",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34635780:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005869463"
+        ],
+        "rcv": [
+          "RCV005224662"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/10/27 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034635781",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "3 prime UTR variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3762418": {
+      "uid": "3762418",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003762418",
+      "accession_version": "VCV003762418.2",
+      "title": "NM_005866.4(SIGMAR1):c.446-7C>T",
+      "variation_set": [
+        {
+          "measure_id": "3878470",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.446-7C>T",
+          "cdna_change": "NM_005866.4(SIGMAR1):c.446-7C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635865",
+              "stop": "34635865",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635865",
+              "display_stop": "34635865",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635862",
+              "stop": "34635862",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635862",
+              "display_stop": "34635862",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34635864:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005868068"
+        ],
+        "rcv": [
+          "RCV005226960"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/03/21 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034635865",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3761654": {
+      "uid": "3761654",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003761654",
+      "accession_version": "VCV003761654.2",
+      "title": "NM_005866.4(SIGMAR1):c.339C>A (p.Ser113=)",
+      "variation_set": [
+        {
+          "measure_id": "3873967",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.339C>A (p.Ser113=)",
+          "cdna_change": "c.339C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637233",
+              "stop": "34637233",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637233",
+              "display_stop": "34637233",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637230",
+              "stop": "34637230",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637230",
+              "display_stop": "34637230",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34637232:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005867046"
+        ],
+        "rcv": [
+          "RCV005224238"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/10/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034637233",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3761647": {
+      "uid": "3761647",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003761647",
+      "accession_version": "VCV003761647.2",
+      "title": "NM_005866.4(SIGMAR1):c.561C>T (p.Ala187=)",
+      "variation_set": [
+        {
+          "measure_id": "3873960",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.561C>T (p.Ala187=)",
+          "cdna_change": "c.561C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635743",
+              "stop": "34635743",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635743",
+              "display_stop": "34635743",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34635740",
+              "stop": "34635740",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34635740",
+              "display_stop": "34635740",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34635742:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005867036"
+        ],
+        "rcv": [
+          "RCV005224231"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/07/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034635743",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "3 prime UTR variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3760977": {
+      "uid": "3760977",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003760977",
+      "accession_version": "VCV003760977.2",
+      "title": "NM_005866.4(SIGMAR1):c.152-7C>T",
+      "variation_set": [
+        {
+          "measure_id": "3870740",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.152-7C>T",
+          "cdna_change": "NM_005866.4(SIGMAR1):c.152-7C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637427",
+              "stop": "34637427",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637427",
+              "display_stop": "34637427",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637424",
+              "stop": "34637424",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637424",
+              "display_stop": "34637424",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34637426:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005865146"
+        ],
+        "rcv": [
+          "RCV005228941"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/09/12 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034637427",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3756143": {
+      "uid": "3756143",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003756143",
+      "accession_version": "VCV003756143.2",
+      "title": "NM_005866.4(SIGMAR1):c.445+1G>A",
+      "variation_set": [
+        {
+          "measure_id": "3869303",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.445+1G>A",
+          "cdna_change": "NM_005866.4(SIGMAR1):c.445+1G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34636996",
+              "stop": "34636996",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34636996",
+              "display_stop": "34636996",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34636993",
+              "stop": "34636993",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34636993",
+              "display_stop": "34636993",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34636995:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005860328"
+        ],
+        "rcv": [
+          "RCV005215233"
+        ]
+      },
+      "germline_classification": {
+        "description": "Pathogenic",
+        "last_evaluated": "2024/05/01 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034636996",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "splice donor variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3752559": {
+      "uid": "3752559",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003752559",
+      "accession_version": "VCV003752559.2",
+      "title": "NM_005866.4(SIGMAR1):c.96G>A (p.Thr32=)",
+      "variation_set": [
+        {
+          "measure_id": "3872139",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.96G>A (p.Thr32=)",
+          "cdna_change": "c.96G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637602",
+              "stop": "34637602",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637602",
+              "display_stop": "34637602",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637599",
+              "stop": "34637599",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637599",
+              "display_stop": "34637599",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34637601:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005855450"
+        ],
+        "rcv": [
+          "RCV005217191"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/02/20 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034637602",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        },
+        {
+          "symbol": "LOC130001681",
+          "geneid": "130001681",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "5 prime UTR variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3750553": {
+      "uid": "3750553",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003750553",
+      "accession_version": "VCV003750553.2",
+      "title": "NM_005866.4(SIGMAR1):c.152-15C>T",
+      "variation_set": [
+        {
+          "measure_id": "3871433",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.152-15C>T",
+          "cdna_change": "NM_005866.4(SIGMAR1):c.152-15C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637435",
+              "stop": "34637435",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637435",
+              "display_stop": "34637435",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637432",
+              "stop": "34637432",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637432",
+              "display_stop": "34637432",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34637434:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005853095"
+        ],
+        "rcv": [
+          "RCV005216649"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/09/18 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034637435",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3750482": {
+      "uid": "3750482",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003750482",
+      "accession_version": "VCV003750482.2",
+      "title": "NM_005866.4(SIGMAR1):c.216C>T (p.His72=)",
+      "variation_set": [
+        {
+          "measure_id": "3871364",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.216C>T (p.His72=)",
+          "cdna_change": "c.216C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637356",
+              "stop": "34637356",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637356",
+              "display_stop": "34637356",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637353",
+              "stop": "34637353",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637353",
+              "display_stop": "34637353",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34637355:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005853035"
+        ],
+        "rcv": [
+          "RCV005216578"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/02/24 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034637356",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "5 prime UTR variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3749597": {
+      "uid": "3749597",
+      "obj_type": "Deletion",
+      "accession": "VCV003749597",
+      "accession_version": "VCV003749597.2",
+      "title": "NM_005866.4(SIGMAR1):c.217_220del (p.Val73fs)",
+      "variation_set": [
+        {
+          "measure_id": "3864502",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.217_220del (p.Val73fs)",
+          "cdna_change": "c.217_220del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637352",
+              "stop": "34637355",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637352",
+              "display_stop": "34637355",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637349",
+              "stop": "34637352",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637349",
+              "display_stop": "34637352",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000009.12:34637351:GCACG:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005851971"
+        ],
+        "rcv": [
+          "RCV005211113"
+        ]
+      },
+      "germline_classification": {
+        "description": "Pathogenic",
+        "last_evaluated": "2024/11/03 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034637352",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant",
+        "5 prime UTR variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "V53fs, V73fs",
+      "fda_recognized_database": ""
+    },
+    "3749523": {
+      "uid": "3749523",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003749523",
+      "accession_version": "VCV003749523.2",
+      "title": "NM_005866.4(SIGMAR1):c.195G>T (p.Leu65=)",
+      "variation_set": [
+        {
+          "measure_id": "3867843",
+          "variation_xrefs": [],
+          "variation_name": "NM_005866.4(SIGMAR1):c.195G>T (p.Leu65=)",
+          "cdna_change": "c.195G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637377",
+              "stop": "34637377",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637377",
+              "display_stop": "34637377",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "9",
+              "band": "9p13.3",
+              "start": "34637374",
+              "stop": "34637374",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34637374",
+              "display_stop": "34637374",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000009.12:34637376:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005851834"
+        ],
+        "rcv": [
+          "RCV005211039"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2024/05/07 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "139552"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1854023"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011585"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "605726"
+              }
+            ],
+            "trait_name": "Autosomal recessive distal spinal muscular atrophy 2"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3280587"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0013715"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "614373"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 16"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SIGMAR1",
+      "chr_sort": "09",
+      "location_sort": "00000000000034637377",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SIGMAR1",
+          "geneid": "10280",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant",
+        "5 prime UTR variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    }
+  }
+}

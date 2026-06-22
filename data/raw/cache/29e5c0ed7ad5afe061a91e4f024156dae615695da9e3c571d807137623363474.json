@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr15",
+      "dataSource": "HAVANA",
+      "description": "transient receptor potential cation channel subfamily M member 7 [Source:HGNC Symbol;Acc:HGNC:17994]",
+      "end": 50686815,
+      "entrezGeneId": 54822,
+      "gencodeId": "ENSG00000092439.13",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "TRPM7",
+      "geneSymbolUpper": "TRPM7",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 50552473,
+      "strand": "-",
+      "tss": 50686815
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

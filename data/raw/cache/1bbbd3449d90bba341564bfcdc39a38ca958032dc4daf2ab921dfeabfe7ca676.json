@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr10",
+      "dataSource": "HAVANA",
+      "description": "optineurin [Source:HGNC Symbol;Acc:HGNC:17142]",
+      "end": 13138308,
+      "entrezGeneId": 10133,
+      "gencodeId": "ENSG00000123240.16",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "OPTN",
+      "geneSymbolUpper": "OPTN",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 13099449,
+      "strand": "+",
+      "tss": 13099449
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

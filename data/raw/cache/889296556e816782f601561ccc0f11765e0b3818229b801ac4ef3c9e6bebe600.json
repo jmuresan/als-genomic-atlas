@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "226",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4853949",
+      "4819588",
+      "4794790",
+      "4793848",
+      "4793691",
+      "4793164",
+      "4793084",
+      "4790368",
+      "4790051",
+      "4789418",
+      "4789033",
+      "4787551",
+      "4786480",
+      "4786343",
+      "4785673",
+      "4783510",
+      "4783186",
+      "4783043",
+      "4783025",
+      "4782830"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "TARDBP[gene]",
+        "field": "gene",
+        "count": "444",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "TARDBP[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

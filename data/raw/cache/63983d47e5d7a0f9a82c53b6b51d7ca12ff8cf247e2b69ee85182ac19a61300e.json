@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr15",
+      "dataSource": "HAVANA",
+      "description": "SPG11, spatacsin vesicle trafficking associated [Source:HGNC Symbol;Acc:HGNC:11226]",
+      "end": 44663678,
+      "entrezGeneId": 80208,
+      "gencodeId": "ENSG00000104133.14",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "SPG11",
+      "geneSymbolUpper": "SPG11",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 44562696,
+      "strand": "-",
+      "tss": 44663678
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

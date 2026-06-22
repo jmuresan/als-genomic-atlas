@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "353",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4850648",
+      "4845274",
+      "4292992",
+      "3897021",
+      "3897020",
+      "3897019",
+      "3897017",
+      "3780658",
+      "3775518",
+      "3775228",
+      "3577171",
+      "3577170",
+      "3577169",
+      "3577168",
+      "3577167",
+      "3577166",
+      "3577165",
+      "3577164",
+      "3577163",
+      "3577162"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "SPG11[gene]",
+        "field": "gene",
+        "count": "3803",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "SPG11[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

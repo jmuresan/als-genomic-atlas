@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "68",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4849563",
+      "4820026",
+      "4819004",
+      "4745913",
+      "4737585",
+      "4722633",
+      "4706196",
+      "4687928",
+      "4529553",
+      "3891824",
+      "3713675",
+      "3666381",
+      "3590450",
+      "3391231",
+      "3383149",
+      "3382213",
+      "3357865",
+      "3357258",
+      "3242535",
+      "3024566"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "NEK1[gene]",
+        "field": "gene",
+        "count": "1131",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "NEK1[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

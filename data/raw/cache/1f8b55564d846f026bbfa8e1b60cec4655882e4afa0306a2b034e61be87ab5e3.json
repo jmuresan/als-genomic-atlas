@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "VCP",
+      "associatedDiseases": {
+        "count": 677,
+        "rows": [
+          {
+            "score": 0.8028131613498347,
+            "disease": {
+              "id": "MONDO_0008178",
+              "name": "inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1"
+            }
+          },
+          {
+            "score": 0.7670680808271994,
+            "disease": {
+              "id": "MONDO_0013501",
+              "name": "frontotemporal dementia and/or amyotrophic lateral sclerosis 6"
+            }
+          },
+          {
+            "score": 0.7061090983070427,
+            "disease": {
+              "id": "MONDO_0000507",
+              "name": "inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+            }
+          },
+          {
+            "score": 0.7052626345457925,
+            "disease": {
+              "id": "MONDO_0014735",
+              "name": "Charcot-Marie-Tooth disease type 2Y"
+            }
+          },
+          {
+            "score": 0.6635490991062041,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.5353816112312213,
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.5143932720922909,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.5070433425020403,
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "score": 0.4644849328661462,
+            "disease": {
+              "id": "MONDO_0009061",
+              "name": "cystic fibrosis"
+            }
+          },
+          {
+            "score": 0.4619748183558772,
+            "disease": {
+              "id": "MONDO_0016296",
+              "name": "holoprosencephaly"
+            }
+          },
+          {
+            "score": 0.45273532198875965,
+            "disease": {
+              "id": "MONDO_0017161",
+              "name": "frontotemporal dementia with motor neuron disease"
+            }
+          },
+          {
+            "score": 0.4117961401967693,
+            "disease": {
+              "id": "EFO_0022918",
+              "name": "amyotrophic lateral sclerosis, dominant"
+            }
+          },
+          {
+            "score": 0.40453594927362985,
+            "disease": {
+              "id": "HP_0001249",
+              "name": "Intellectual disability"
+            }
+          },
+          {
+            "score": 0.3998289391799371,
+            "disease": {
+              "id": "EFO_0010642",
+              "name": "Neurodevelopmental disorder"
+            }
+          },
+          {
+            "score": 0.377233853475222,
+            "disease": {
+              "id": "MONDO_0018006",
+              "name": "adult-onset distal myopathy due to VCP mutation"
+            }
+          },
+          {
+            "score": 0.37197442415984644,
+            "disease": {
+              "id": "MONDO_0100096",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "score": 0.3704114093577423,
+            "disease": {
+              "id": "EFO_0005547",
+              "name": "dengue disease"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0000694",
+              "name": "severe acute respiratory syndrome"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0018005",
+              "name": "spastic paraplegia-Paget disease of bone syndrome"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "Orphanet_329475",
+              "name": "Spastic paraplegia - Paget disease of bone"
+            }
+          },
+          {
+            "score": 0.34267947165612206,
+            "disease": {
+              "id": "HP_0001258",
+              "name": "Spastic paraplegia"
+            }
+          },
+          {
+            "score": 0.3407680251799069,
+            "disease": {
+              "id": "HP_0001263",
+              "name": "Global developmental delay"
+            }
+          },
+          {
+            "score": 0.3369099194802108,
+            "disease": {
+              "id": "EFO_0001357",
+              "name": "sporadic amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.31493185254408734,
+            "disease": {
+              "id": "EFO_0000668",
+              "name": "preeclampsia"
+            }
+          },
+          {
+            "score": 0.2789195253772771,
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "score": 0.26609749537298527,
+            "disease": {
+              "id": "HP_0003323",
+              "name": "Progressive muscle weakness"
+            }
+          },
+          {
+            "score": 0.25939372745328776,
+            "disease": {
+              "id": "EFO_0006792",
+              "name": "Lewy body dementia"
+            }
+          },
+          {
+            "score": 0.11160797266301,
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            }
+          },
+          {
+            "score": 0.10744553032126415,
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            }
+          },
+          {
+            "score": 0.10363105655381324,
+            "disease": {
+              "id": "EFO_0000182",
+              "name": "hepatocellular carcinoma"
+            }
+          },
+          {
+            "score": 0.09864273872724817,
+            "disease": {
+              "id": "EFO_0003060",
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "score": 0.09746854358688035,
+            "disease": {
+              "id": "EFO_1001951",
+              "name": "colorectal carcinoma"
+            }
+          },
+          {
+            "score": 0.0941509399295178,
+            "disease": {
+              "id": "EFO_0000544",
+              "name": "infection"
+            }
+          },
+          {
+            "score": 0.09083700038474458,
+            "disease": {
+              "id": "EFO_0000222",
+              "name": "acute myeloid leukemia"
+            }
+          },
+          {
+            "score": 0.08958145292184581,
+            "disease": {
+              "id": "MONDO_0009685",
+              "name": "Miyoshi myopathy"
+            }
+          },
+          {
+            "score": 0.0873600352614058,
+            "disease": {
+              "id": "EFO_0000519",
+              "name": "glioblastoma multiforme"
+            }
+          },
+          {
+            "score": 0.08220926189414547,
+            "disease": {
+              "id": "MONDO_0007739",
+              "name": "Huntington disease"
+            }
+          },
+          {
+            "score": 0.0816237643611957,
+            "disease": {
+              "id": "EFO_0001378",
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "score": 0.07934132240240471,
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "score": 0.07816613926581444,
+            "disease": {
+              "id": "EFO_0005221",
+              "name": "cholangiocarcinoma"
+            }
+          },
+          {
+            "score": 0.07728016165453525,
+            "disease": {
+              "id": "EFO_0005537",
+              "name": "triple-negative breast cancer"
+            }
+          },
+          {
+            "score": 0.06763311340730044,
+            "disease": {
+              "id": "EFO_0006352",
+              "name": "laryngeal squamous cell carcinoma"
+            }
+          },
+          {
+            "score": 0.06682071508926922,
+            "disease": {
+              "id": "EFO_0000637",
+              "name": "osteosarcoma"
+            }
+          },
+          {
+            "score": 0.06557989199238541,
+            "disease": {
+              "id": "EFO_0000199",
+              "name": "oral squamous cell carcinoma"
+            }
+          },
+          {
+            "score": 0.059531019575189206,
+            "disease": {
+              "id": "Orphanet_602",
+              "name": "Distal myopathy, Nonaka type"
+            }
+          },
+          {
+            "score": 0.059127528464200906,
+            "disease": {
+              "id": "EFO_0000571",
+              "name": "lung adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.05885297400123475,
+            "disease": {
+              "id": "MONDO_0011603",
+              "name": "GNE myopathy"
+            }
+          },
+          {
+            "score": 0.058670578434132176,
+            "disease": {
+              "id": "EFO_0004145",
+              "name": "myopathy"
+            }
+          },
+          {
+            "score": 0.0573031443901772,
+            "disease": {
+              "id": "MONDO_0008903",
+              "name": "lung cancer"
+            }
+          },
+          {
+            "score": 0.057173990948980014,
+            "disease": {
+              "id": "EFO_0005922",
+              "name": "esophageal squamous cell carcinoma"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

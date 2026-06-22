@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr12",
+      "dataSource": "HAVANA",
+      "description": "peripherin [Source:HGNC Symbol;Acc:HGNC:9461]",
+      "end": 49298686,
+      "entrezGeneId": 5630,
+      "gencodeId": "ENSG00000135406.13",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "PRPH",
+      "geneSymbolUpper": "PRPH",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 49293252,
+      "strand": "+",
+      "tss": 49293252
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

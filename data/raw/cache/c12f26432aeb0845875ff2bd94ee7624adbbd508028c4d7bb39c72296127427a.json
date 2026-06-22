@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "TMEM106B",
+      "associatedDiseases": {
+        "count": 221,
+        "rows": [
+          {
+            "score": 0.7091343619255346,
+            "disease": {
+              "id": "MONDO_0054791",
+              "name": "leukodystrophy, hypomyelinating, 16"
+            }
+          },
+          {
+            "score": 0.5163786442113515,
+            "disease": {
+              "id": "MONDO_0002009",
+              "name": "major depressive disorder"
+            }
+          },
+          {
+            "score": 0.46248407555834414,
+            "disease": {
+              "id": "MONDO_0005148",
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.44577745431663024,
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "score": 0.44061785328547814,
+            "disease": {
+              "id": "EFO_0001645",
+              "name": "coronary artery disease"
+            }
+          },
+          {
+            "score": 0.4183606901378243,
+            "disease": {
+              "id": "EFO_0000677",
+              "name": "mental or behavioural disorder"
+            }
+          },
+          {
+            "score": 0.402691669899097,
+            "disease": {
+              "id": "EFO_0000400",
+              "name": "diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.4011496513476487,
+            "disease": {
+              "id": "EFO_0005670",
+              "name": "smoking initiation"
+            }
+          },
+          {
+            "score": 0.39346802464753483,
+            "disease": {
+              "id": "MONDO_0017276",
+              "name": "frontotemporal dementia"
+            }
+          },
+          {
+            "score": 0.3828630540414048,
+            "disease": {
+              "id": "MONDO_0001627",
+              "name": "dementia"
+            }
+          },
+          {
+            "score": 0.3801357428723832,
+            "disease": {
+              "id": "EFO_0004698",
+              "name": "insomnia"
+            }
+          },
+          {
+            "score": 0.37178979348514546,
+            "disease": {
+              "id": "EFO_0008568",
+              "name": "Sleep Disorder"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0007105",
+              "name": "frontotemporal dementia and/or amyotrophic lateral sclerosis 1"
+            }
+          },
+          {
+            "score": 0.3526370111814936,
+            "disease": {
+              "id": "EFO_0022597",
+              "name": "aging"
+            }
+          },
+          {
+            "score": 0.3266377091981553,
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "score": 0.3194357560909411,
+            "disease": {
+              "id": "MONDO_0002050",
+              "name": "depressive disorder"
+            }
+          },
+          {
+            "score": 0.3136624398708966,
+            "disease": {
+              "id": "EFO_0000195",
+              "name": "metabolic syndrome"
+            }
+          },
+          {
+            "score": 0.31320080693759156,
+            "disease": {
+              "id": "EFO_0004192",
+              "name": "alopecia areata"
+            }
+          },
+          {
+            "score": 0.30010613541466125,
+            "disease": {
+              "id": "EFO_0000537",
+              "name": "hypertension"
+            }
+          },
+          {
+            "score": 0.29789034846090623,
+            "disease": {
+              "id": "EFO_0003777",
+              "name": "heart disease"
+            }
+          },
+          {
+            "score": 0.29769821434923005,
+            "disease": {
+              "id": "MONDO_0004985",
+              "name": "bipolar disorder"
+            }
+          },
+          {
+            "score": 0.29769821434923005,
+            "disease": {
+              "id": "EFO_1001870",
+              "name": "late-onset Alzheimers disease"
+            }
+          },
+          {
+            "score": 0.29728149400914944,
+            "disease": {
+              "id": "EFO_0004247",
+              "name": "mood disorder"
+            }
+          },
+          {
+            "score": 0.2967271242271224,
+            "disease": {
+              "id": "MONDO_0001134",
+              "name": "essential hypertension"
+            }
+          },
+          {
+            "score": 0.2967271242271224,
+            "disease": {
+              "id": "EFO_0008623",
+              "name": "dysthymic disorder"
+            }
+          },
+          {
+            "score": 0.2965378979006722,
+            "disease": {
+              "id": "EFO_0003144",
+              "name": "heart failure"
+            }
+          },
+          {
+            "score": 0.29363032078201146,
+            "disease": {
+              "id": "EFO_0000712",
+              "name": "stroke"
+            }
+          },
+          {
+            "score": 0.2876346128785915,
+            "disease": {
+              "id": "MONDO_0021661",
+              "name": "coronary atherosclerosis"
+            }
+          },
+          {
+            "score": 0.2869599177103063,
+            "disease": {
+              "id": "EFO_1001892",
+              "name": "generalized anxiety disorder"
+            }
+          },
+          {
+            "score": 0.28671066324187977,
+            "disease": {
+              "id": "EFO_0004257",
+              "name": "neurotic disorder"
+            }
+          },
+          {
+            "score": 0.284482543186328,
+            "disease": {
+              "id": "EFO_0001358",
+              "name": "post-traumatic stress disorder"
+            }
+          },
+          {
+            "score": 0.28232638398133514,
+            "disease": {
+              "id": "EFO_0005755",
+              "name": "rheumatic disease"
+            }
+          },
+          {
+            "score": 0.281910901124155,
+            "disease": {
+              "id": "EFO_0003877",
+              "name": "sleep apnea"
+            }
+          },
+          {
+            "score": 0.23098740917793859,
+            "disease": {
+              "id": "MONDO_0018656",
+              "name": "tremor-ataxia-central hypomyelination syndrome"
+            }
+          },
+          {
+            "score": 0.21362017728472216,
+            "disease": {
+              "id": "EFO_0003895",
+              "name": "epistaxis"
+            }
+          },
+          {
+            "score": 0.2009667956730074,
+            "disease": {
+              "id": "EFO_1000783",
+              "name": "diabetic neuropathy"
+            }
+          },
+          {
+            "score": 0.19969351617415432,
+            "disease": {
+              "id": "EFO_0000341",
+              "name": "chronic obstructive pulmonary disease"
+            }
+          },
+          {
+            "score": 0.1931481577164334,
+            "disease": {
+              "id": "EFO_0000668",
+              "name": "preeclampsia"
+            }
+          },
+          {
+            "score": 0.19171508696039946,
+            "disease": {
+              "id": "EFO_0004264",
+              "name": "vascular disease"
+            }
+          },
+          {
+            "score": 0.19011502229683117,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "MONDO_0011842",
+              "name": "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+            }
+          },
+          {
+            "score": 0.1525629546968187,
+            "disease": {
+              "id": "EFO_1001375",
+              "name": "Myocardial Ischemia"
+            }
+          },
+          {
+            "score": 0.11749927174794522,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.11087395640541053,
+            "disease": {
+              "id": "EFO_0004718",
+              "name": "vascular dementia"
+            }
+          },
+          {
+            "score": 0.10482600642157237,
+            "disease": {
+              "id": "EFO_0003096",
+              "name": "Pick disease"
+            }
+          },
+          {
+            "score": 0.08829136553889112,
+            "disease": {
+              "id": "EFO_0007634",
+              "name": "major depressive episode"
+            }
+          },
+          {
+            "score": 0.08449763535851551,
+            "disease": {
+              "id": "EFO_0001365",
+              "name": "age-related macular degeneration"
+            }
+          },
+          {
+            "score": 0.08264096496987994,
+            "disease": {
+              "id": "EFO_0000544",
+              "name": "infection"
+            }
+          },
+          {
+            "score": 0.07994197046757442,
+            "disease": {
+              "id": "MONDO_0010722",
+              "name": "X-linked retinal dysplasia"
+            }
+          },
+          {
+            "score": 0.07732325198448635,
+            "disease": {
+              "id": "MONDO_0004634",
+              "name": "vein disorder"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

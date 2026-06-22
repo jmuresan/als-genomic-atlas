@@ -1,0 +1,272 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06450691",
+          "orgStudyIdInfo": {
+            "id": "APHP231795"
+          },
+          "organization": {
+            "fullName": "Assistance Publique - Hôpitaux de Paris",
+            "class": "OTHER"
+          },
+          "briefTitle": "Modeling Amyotrophic Lateral Sclerosis With Fibroblasts",
+          "officialTitle": "Modeling of Amyotrophic Lateral Sclerosis Using Patient Fibroblasts to Study Different Form of the Disease.",
+          "acronym": "FIBRALS"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-04",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2025-08-28",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2034-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2034-09",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2024-06-05",
+          "studyFirstSubmitQcDate": "2024-06-05",
+          "studyFirstPostDateStruct": {
+            "date": "2024-06-10",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2026-04-08",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-04-13",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Assistance Publique - Hôpitaux de Paris",
+            "class": "OTHER"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "Amyotrophic Lateral Sclerosis (ALS) is the most common motor neuron disease in adults. This longitudinal study involves three cohorts of participants: patients with sporadic or hereditary ALS, asymptomatic individuals carrying pathogenic mutations responsible for ALS, and control subjects. In this study, a skin biopsy and blood sampling will be performed at the initial visit (M0), then at M12 (+/- 2 months) for patients, and at M36 (+/- 12 months) for asymptomatic carriers of pathogenic mutations. The aim of this research is to model ALS pathology using fibroblasts derived from the patients' skin biopsies.",
+          "detailedDescription": "Amyotrophic Lateral Sclerosis (ALS) is the most common motor neuron disease in adults. This longitudinal study involves three cohorts of participants: patients with sporadic or hereditary ALS, asymptomatic individuals carrying pathogenic mutations responsible for ALS, and control subjects. In this study, a skin biopsy and blood sampling will be performed at the initial visit (M0), then at M12 (+/- 2 months) for patients, and at M36 (+/- 12 months) for asymptomatic carriers of pathogenic mutations. The aim of this research is to model ALS pathology using fibroblasts derived from the patients' skin biopsies."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ],
+          "keywords": [
+            "amyotrophic lateral sclerosis",
+            "genetic",
+            "fibroblasts"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "primaryPurpose": "OTHER",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "participants (SLA, healthy controls and asymptomatics)",
+              "type": "EXPERIMENTAL",
+              "description": "Patients fulfilling the El Escorial criteria definite ALS or asymptomatics or Healthy controls",
+              "interventionNames": [
+                "Procedure: biopsy"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "PROCEDURE",
+              "name": "biopsy",
+              "description": "skin biopsy and blood sampling",
+              "armGroupLabels": [
+                "participants (SLA, healthy controls and asymptomatics)"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Detection of cytoplasmic TDP-43, TIA1 and/or p62 aggregates in patient fibroblasts",
+              "description": "Detection of cytoplasmic TDP-43, TIA1 and/or p62 aggregates in patient fibroblasts subjected to various cellular stresses by immunofluorescence analysis.",
+              "timeFrame": "1 year"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion criteria common to all 3 populations:\n\n* adults, both sexes\n* with written consent to participate in the study\n* affiliated to a social security scheme\n\nALS patients :\n\n* patients with ALS according to the revised El Escorial criteria :\n* with a hereditary form of ALS, defined by the presence of a family history of ALS or by the demonstration of a pathogenic mutation in the patient or\n* with a juvenile form of the disease, defined by onset of symptoms at less than 30 years of age or\n* with a sporadic form of ALS\n\nAsymptomatic mutation carriers :\n\n\\- Asymptomatic individuals who carry a mutation causing ALS but have not developed symptoms.\n\nHealthy subjects:\n\n* control individuals, taking into account male/female and close age matching\n\nExclusion Criteria:\n\n* with a known skin disease (acne, atopic dermatitis, psoriasis, melanoma, skin carcinoma, rosacea, scabies; as referenced on http://dermato-info.fr/), which in the investigator's opinion constitutes a contraindication to skin biopsy\n* have a platelet count of less than 75,000/mm3 in a laboratory test less than 3 months old,\n* with a proven allergy to lidocaine or prilocaine,\n* Pregnant or breast-feeding women, or subjects under guardianship, curatorship or safeguard of justice.\n* Patient's condition which, in the opinion of the investigator, is incompatible with skin sampling or participation in the study.\n* Participation in a clinical trial (involving a drug) or other interventional research if this interferes with FIBRALS research.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Maria del Mar Amador, MD",
+              "role": "CONTACT",
+              "phone": "33142162472",
+              "phoneExt": "33",
+              "email": "mariadelmar.amador@aphp.fr"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "CIC Neurosciences",
+              "status": "RECRUITING",
+              "city": "Paris",
+              "zip": "75013",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Maria del Mar Amador, MD",
+                  "role": "CONTACT",
+                  "phone": "33142162472",
+                  "email": "mariadelmar.amador@aphp.fr"
+                }
+              ],
+              "geoPoint": {
+                "lat": 48.85341,
+                "lon": 2.3488
+              }
+            }
+          ]
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D001706",
+              "term": "Biopsy"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D003581",
+              "term": "Cytodiagnosis"
+            },
+            {
+              "id": "D003584",
+              "term": "Cytological Techniques"
+            },
+            {
+              "id": "D019411",
+              "term": "Clinical Laboratory Techniques"
+            },
+            {
+              "id": "D019937",
+              "term": "Diagnostic Techniques and Procedures"
+            },
+            {
+              "id": "D003933",
+              "term": "Diagnosis"
+            },
+            {
+              "id": "D013048",
+              "term": "Specimen Handling"
+            },
+            {
+              "id": "D003949",
+              "term": "Diagnostic Techniques, Surgical"
+            },
+            {
+              "id": "D013514",
+              "term": "Surgical Procedures, Operative"
+            },
+            {
+              "id": "D008919",
+              "term": "Investigative Techniques"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "SETX",
+      "associatedDiseases": {
+        "count": 411,
+        "rows": [
+          {
+            "score": 0.8154226722373533,
+            "disease": {
+              "id": "MONDO_0018996",
+              "name": "spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 2"
+            }
+          },
+          {
+            "score": 0.7941930260812039,
+            "disease": {
+              "id": "MONDO_0011223",
+              "name": "amyotrophic lateral sclerosis type 4"
+            }
+          },
+          {
+            "score": 0.6691305217589745,
+            "disease": {
+              "id": "Orphanet_64753",
+              "name": "Spinocerebellar ataxia with axonal neuropathy type 2"
+            }
+          },
+          {
+            "score": 0.5321820317863537,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.4852429316701338,
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "score": 0.4099957487887805,
+            "disease": {
+              "id": "MONDO_0018894",
+              "name": "distal hereditary motor neuropathy"
+            }
+          },
+          {
+            "score": 0.4093925634520089,
+            "disease": {
+              "id": "MONDO_0000437",
+              "name": "cerebellar ataxia"
+            }
+          },
+          {
+            "score": 0.37802769756824256,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.3562339154877542,
+            "disease": {
+              "id": "MONDO_0017276",
+              "name": "frontotemporal dementia"
+            }
+          },
+          {
+            "score": 0.34576248627168765,
+            "disease": {
+              "id": "MONDO_0017845",
+              "name": "spastic ataxia"
+            }
+          },
+          {
+            "score": 0.3400134663099256,
+            "disease": {
+              "id": "HP_0011442",
+              "name": "Abnormal central motor function"
+            }
+          },
+          {
+            "score": 0.30917408065790214,
+            "disease": {
+              "id": "Orphanet_1168",
+              "name": "Ataxia - oculomotor apraxia type 1"
+            }
+          },
+          {
+            "score": 0.3088045008032175,
+            "disease": {
+              "id": "MONDO_0008842",
+              "name": "ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia"
+            }
+          },
+          {
+            "score": 0.26609749537298527,
+            "disease": {
+              "id": "EFO_1000632",
+              "name": "cerebral palsy"
+            }
+          },
+          {
+            "score": 0.2613658564950767,
+            "disease": {
+              "id": "EFO_0010673",
+              "name": "cardiac transplant"
+            }
+          },
+          {
+            "score": 0.26051552043328235,
+            "disease": {
+              "id": "HP_0001272",
+              "name": "Cerebellar atrophy"
+            }
+          },
+          {
+            "score": 0.25870589827929125,
+            "disease": {
+              "id": "HP_0001310",
+              "name": "Dysmetria"
+            }
+          },
+          {
+            "score": 0.25870589827929125,
+            "disease": {
+              "id": "HP_0000639",
+              "name": "Nystagmus"
+            }
+          },
+          {
+            "score": 0.25870589827929125,
+            "disease": {
+              "id": "HP_0002075",
+              "name": "Dysdiadochokinesis"
+            }
+          },
+          {
+            "score": 0.25870589827929125,
+            "disease": {
+              "id": "HP_0001350",
+              "name": "Slurred speech"
+            }
+          },
+          {
+            "score": 0.23131264054973263,
+            "disease": {
+              "id": "EFO_0004264",
+              "name": "vascular disease"
+            }
+          },
+          {
+            "score": 0.218692720496793,
+            "disease": {
+              "id": "MONDO_0042981",
+              "name": "aortic valve stenosis"
+            }
+          },
+          {
+            "score": 0.1946111480308508,
+            "disease": {
+              "id": "MONDO_0019064",
+              "name": "hereditary spastic paraplegia"
+            }
+          },
+          {
+            "score": 0.16934557700324515,
+            "disease": {
+              "id": "MONDO_0015626",
+              "name": "Charcot-Marie-Tooth disease"
+            }
+          },
+          {
+            "score": 0.16886514204827008,
+            "disease": {
+              "id": "EFO_0022918",
+              "name": "amyotrophic lateral sclerosis, dominant"
+            }
+          },
+          {
+            "score": 0.12011345277252809,
+            "disease": {
+              "id": "MONDO_0010100",
+              "name": "Tay-Sachs disease"
+            }
+          },
+          {
+            "score": 0.12011345277252809,
+            "disease": {
+              "id": "HP_0001258",
+              "name": "Spastic paraplegia"
+            }
+          },
+          {
+            "score": 0.11826555349910459,
+            "disease": {
+              "id": "MONDO_0018993",
+              "name": "Charcot-Marie-Tooth disease type 2"
+            }
+          },
+          {
+            "score": 0.11826555349910459,
+            "disease": {
+              "id": "MONDO_0016971",
+              "name": "limb-girdle muscular dystrophy"
+            }
+          },
+          {
+            "score": 0.11234396027741894,
+            "disease": {
+              "id": "HP_0001332",
+              "name": "Dystonia"
+            }
+          },
+          {
+            "score": 0.11161311611477993,
+            "disease": {
+              "id": "MONDO_0019079",
+              "name": "proximal spinal muscular atrophy"
+            }
+          },
+          {
+            "score": 0.11087395640541053,
+            "disease": {
+              "id": "HP_0001268",
+              "name": "Mental deterioration"
+            }
+          },
+          {
+            "score": 0.11087395640541053,
+            "disease": {
+              "id": "MONDO_0024257",
+              "name": "hereditary motor neuron disease"
+            }
+          },
+          {
+            "score": 0.11087395640541053,
+            "disease": {
+              "id": "Orphanet_98505",
+              "name": "Genetic motor neuron disease"
+            }
+          },
+          {
+            "score": 0.11087395640541053,
+            "disease": {
+              "id": "MONDO_0015362",
+              "name": "neuronopathy, distal hereditary motor, autosomal dominant"
+            }
+          },
+          {
+            "score": 0.11087395640541053,
+            "disease": {
+              "id": "MONDO_0003441",
+              "name": "dystonic disorder"
+            }
+          },
+          {
+            "score": 0.08826158198872737,
+            "disease": {
+              "id": "EFO_0000279",
+              "name": "azoospermia"
+            }
+          },
+          {
+            "score": 0.08169454175394085,
+            "disease": {
+              "id": "EFO_0010970",
+              "name": "severe malarial anemia"
+            }
+          },
+          {
+            "score": 0.07581569519497541,
+            "disease": {
+              "id": "EFO_0000544",
+              "name": "infection"
+            }
+          },
+          {
+            "score": 0.07042898500799019,
+            "disease": {
+              "id": "MONDO_0015607",
+              "name": "partial chromosome Y deletion"
+            }
+          },
+          {
+            "score": 0.05820882711284053,
+            "disease": {
+              "id": "MONDO_0030439",
+              "name": "spermatogenic failure 57"
+            }
+          },
+          {
+            "score": 0.058142302738997294,
+            "disease": {
+              "id": "MONDO_0030869",
+              "name": "spermatogenic failure 50"
+            }
+          },
+          {
+            "score": 0.05793533802037386,
+            "disease": {
+              "id": "MONDO_0054729",
+              "name": "spermatogenic failure 25"
+            }
+          },
+          {
+            "score": 0.05701877998075579,
+            "disease": {
+              "id": "MONDO_0020304",
+              "name": "isochromosomy Yp"
+            }
+          },
+          {
+            "score": 0.05697258249892021,
+            "disease": {
+              "id": "MONDO_0013486",
+              "name": "spinocerebellar ataxia type 32"
+            }
+          },
+          {
+            "score": 0.056146571523699895,
+            "disease": {
+              "id": "MONDO_0030787",
+              "name": "spermatogenic failure 71"
+            }
+          },
+          {
+            "score": 0.055239252980448954,
+            "disease": {
+              "id": "Orphanet_52901",
+              "name": "Isolated follicle stimulating hormone deficiency"
+            }
+          },
+          {
+            "score": 0.054483462177618736,
+            "disease": {
+              "id": "MONDO_0010647",
+              "name": "spermatogenic failure, X-linked, 2"
+            }
+          },
+          {
+            "score": 0.05425062686916738,
+            "disease": {
+              "id": "MONDO_0018801",
+              "name": "congenital bilateral absence of vas deferens"
+            }
+          },
+          {
+            "score": 0.05399561676943492,
+            "disease": {
+              "id": "MONDO_0030515",
+              "name": "spermatogenic failure 63"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

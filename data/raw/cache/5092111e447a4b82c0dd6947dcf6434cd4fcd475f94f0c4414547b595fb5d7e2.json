@@ -1,0 +1,214 @@
+{
+  "count": 5,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR004839",
+        "name": "Aminotransferase, class I/classII, large domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF00155": "Aminotransferase class I and II"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0030170",
+            "name": "pyridoxal phosphate binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          },
+          {
+            "identifier": "GO:0009058",
+            "name": "biosynthetic process",
+            "category": {
+              "code": "P",
+              "name": "biological_process"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "o15269",
+          "protein_length": 473,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 99,
+                  "end": 464,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR015421",
+        "name": "Pyridoxal phosphate-dependent transferase, major domain",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:3.40.640.10": "Type I PLP-dependent aspartate aminotransferase-like (Major domain)"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "o15269",
+          "protein_length": 473,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 114,
+                  "end": 359,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR015422",
+        "name": "Pyridoxal phosphate-dependent transferase, small domain",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:3.90.1150.10": "Aspartate Aminotransferase, domain 1"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "o15269",
+          "protein_length": 473,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 93,
+                  "end": 463,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR015424",
+        "name": "Pyridoxal phosphate-dependent transferase",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF53383": "PLP-dependent transferases"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "o15269",
+          "protein_length": 473,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 58,
+                  "end": 469,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR050087",
+        "name": "8-amino-7-oxononanoate synthase class-II",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR13693": "8-amino-7-oxononanoate synthase class-II"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "o15269",
+          "protein_length": 473,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 23,
+                  "end": 467,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

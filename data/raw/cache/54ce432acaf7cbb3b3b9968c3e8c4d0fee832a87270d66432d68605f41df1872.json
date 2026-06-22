@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "185",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4792061",
+      "4791804",
+      "4791081",
+      "4790003",
+      "4789868",
+      "4356097",
+      "4278117",
+      "4278097",
+      "3897005",
+      "3763541",
+      "3762418",
+      "3761654",
+      "3761647",
+      "3760977",
+      "3756143",
+      "3752559",
+      "3750553",
+      "3750482",
+      "3749597",
+      "3749523"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "SIGMAR1[gene]",
+        "field": "gene",
+        "count": "310",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "SIGMAR1[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

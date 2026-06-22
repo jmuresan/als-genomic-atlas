@@ -1,0 +1,425 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06083584",
+          "orgStudyIdInfo": {
+            "id": "NIMAO/LOCAL/2023/CG-01"
+          },
+          "organization": {
+            "fullName": "Centre Hospitalier Universitaire de Nīmes",
+            "class": "OTHER"
+          },
+          "briefTitle": "Development of Targeted RNA-Seq for Amyotrophic Lateral Sclerosis Diagnosis",
+          "officialTitle": "Development of Targeted RNA-Seq for Amyotrophic Lateral Sclerosis Diagnosis",
+          "acronym": "ROSA"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2025-05",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2023-11-22",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-05",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2023-10-09",
+          "studyFirstSubmitQcDate": "2023-10-09",
+          "studyFirstPostDateStruct": {
+            "date": "2023-10-16",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2025-05-15",
+          "lastUpdatePostDateStruct": {
+            "date": "2025-05-20",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Centre Hospitalier Universitaire de Nīmes",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "Association pour la Recherche sur la Sclérose Latérale Amyotrophique et autres maladies du motoneurones",
+              "class": "UNKNOWN"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false,
+          "isUsExport": false
+        },
+        "descriptionModule": {
+          "briefSummary": "Genetic diagnosis of Amyotrophic Lateral Sclerosis (ALS) could identify the origin of the disease, potentially allowing the patient to pursue targeted/gene therapy. However, many familial forms of ALS are genetically undiagnosed, either because no variant has been detected in the genes of interest, or because the detected variant(s) have uncertain significance. Currently, molecular diagnosis takes place in two stages: 1) Search for the GGGGCC expansion in the C9ORF72 gene by RP-PCR; 2) Analysis of the coding regions by high-throughput sequencing of a panel of 30 genes involved in ALS.\n\nMany of these variants of uncertain significance affect splicing. Their impact can be predicted using in silico tools, but only an analysis of the patient's RNA can confirm their pathogenic nature. Currently, the analysis of transcripts is only done a posteriori, when a variant predicted to impact splicing is detected on the patient's DNA. RT-PCR followed by Sanger sequencing then verifies the impact of the splice variants. This method confirmed the impact of certain splice variants in patients. However, this method is time-consuming and requires custom development, and is mutation/gene/patient-dependent. In contrast, high-throughput RNA sequencing (RNA-Seq) simultaneously analyzes the splicing of numerous genes, with a global approach, applicable to all patients. This approach avoids the custom design of primers, which can be biased by the interpretation of splicing predictions, while RNA-Seq systematically captures and sequences all the transcripts. Finally, RNA-Seq provides additional information compared to DNA sequencing such as the detection of exon skipping, intron inclusion, and the creation of fusion transcripts.\n\nIn the GTEx project (GTEx Consortium, 2013), expression levels of human genome transcripts were quantified by RNA-Seq. Using these results, the study investigators measured expression of transcripts of known ALS genes in whole blood. Applying a threshold value of 0.5 transcripts per million reads (TPM), 25 of the 30 ALS genes currently analyzed by NGS in routine diagnostics at Nîmes University Hospital could be eligible for a complete analysis by RNA-Seq. None of the French laboratories carrying out genetic analyzes of ALS has yet developed RNA-Seq as a routine diagnostic tool. The study laboratory receives more than 600 requests for genetic diagnosis of ALS patients per year. The aim of this study is therefore to develop a global method for analyzing RNA transcripts of ALS genes to categorize the mutations to improve the diagnostic management of patients."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 192,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Positive controls",
+              "description": "6 patients already in database. The 6 confirmed splicing mutations are: DCTN1 (NM\\_004082.5): c.3209G\\>T, OPTN (NM\\_001008211.1) : c.1613-7T\\>G, FUS (NM\\_004960.4) : c.764+8T\\>A, GRN (NM\\_002087.4): c.835+1G\\>A, GRN (NM\\_002087.4): c.709-3C\\>G, SPG11 (NM\\_025137.4): c.3039-5T\\>G",
+              "interventionNames": [
+                "Other: RNA sequencing"
+              ]
+            },
+            {
+              "label": "Negative controls",
+              "description": "30 patients with familial hypercholesterolemia. The absence of splicing anomalies in the SLA genes after confirmation by RT-PCR followed by Sanger sequencing of the absence of anomalies for the 6 variants listed above for each of the 30 individuals.",
+              "interventionNames": [
+                "Other: RNA sequencing"
+              ]
+            },
+            {
+              "label": "Exploratory cohort",
+              "description": "156 ALS: 20 ALS patients with splice variants predicted to be deleterious by in silico prediction software; 136 panel-analysis-negative ALS patients (priority will be given to familial ALS)",
+              "interventionNames": [
+                "Other: RNA sequencing"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "RNA sequencing",
+              "description": "RNA-Seq (Sureselect XT HS2 RNA) from patient blood sample",
+              "armGroupLabels": [
+                "Exploratory cohort",
+                "Negative controls",
+                "Positive controls"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Concordance between the RNA-Seq results (index text) versus RT-PCR followed by Sanger sequencing (reference technique) on positive plus negative controls",
+              "description": "Sashimi Plot visualized in Integrative Genomics Viewer",
+              "timeFrame": "Day 0"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Frequency of splicing anomalies detected in ALS patients in the \"exploratory cohort\" versus negative controls.",
+              "description": "Frequency",
+              "timeFrame": "Day 0"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Have a prescription for a genetic diagnosis of ALS (or familial hypercholesterolemia for the control cohort)\n* Have given their informed consent for the genetic study and the biobank\n* The patient must be a member or beneficiary of a health insurance plan\n\nExclusion Criteria:\n\n* The patient is under safeguard of justice or state guardianship",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Patients will be recruited during a consultation for a clinical diagnosis of ALS for which a request for a genetic diagnosis has been made in one of the prescribing centers: CHU Lyon, Montpellier University Hospital, Marseille University Hospital, Clermont-Ferrand University Hospital, Bordeaux University Hospital, Toulouse University Hospital.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Claire Guissart",
+              "role": "CONTACT",
+              "phone": "04 66 68 32 07",
+              "email": "claire.guissart@chu-nimes.fr"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Claire Guissart",
+              "affiliation": "CHU de Nimes",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "CHU de Bordeaux",
+              "status": "RECRUITING",
+              "city": "Bordeaux",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Gwendal Le Masson",
+                  "role": "CONTACT",
+                  "email": "gwendal.le-masson@chu-bordeaux.fr"
+                },
+                {
+                  "name": "Gwendal Le Masson",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Stephane Mathis",
+                  "role": "SUB_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 44.84124,
+                "lon": -0.58046
+              }
+            },
+            {
+              "facility": "CHU de Clermont-Ferrand",
+              "status": "RECRUITING",
+              "city": "Clermont-Ferrand",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Nathalie Guy",
+                  "role": "CONTACT",
+                  "email": "nguy@chu-clermontferrand.fr"
+                },
+                {
+                  "name": "Nathalie Guy",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Annaick Desmaison",
+                  "role": "SUB_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 45.77969,
+                "lon": 3.08682
+              }
+            },
+            {
+              "facility": "CHU de Lyon",
+              "status": "RECRUITING",
+              "city": "Lyon",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Emilien Bernard",
+                  "role": "CONTACT",
+                  "email": "emilien.bernard@chu-lyon.fr"
+                },
+                {
+                  "name": "Emilien Bernard",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 45.74906,
+                "lon": 4.84789
+              }
+            },
+            {
+              "facility": "La Timone",
+              "status": "RECRUITING",
+              "city": "Marseille",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Annie Verschueren",
+                  "role": "CONTACT",
+                  "email": "annie.verschueren@ap-hm.fr"
+                },
+                {
+                  "name": "Annie Verschueren",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Aude-Marie Grapperon",
+                  "role": "SUB_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 43.29695,
+                "lon": 5.38107
+              }
+            },
+            {
+              "facility": "CHU de Montpellier",
+              "status": "RECRUITING",
+              "city": "Montpellier",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Elisa De la Cruz",
+                  "role": "CONTACT",
+                  "email": "e-delacruz@chu-montpellier.fr"
+                },
+                {
+                  "name": "Elisa De la Cruz",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Florence Esselin",
+                  "role": "SUB_INVESTIGATOR"
+                },
+                {
+                  "name": "Alix Durand",
+                  "role": "SUB_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 43.61093,
+                "lon": 3.87635
+              }
+            },
+            {
+              "facility": "CHU de Nîmes",
+              "status": "RECRUITING",
+              "city": "Nîmes",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Anissa Megzari",
+                  "role": "CONTACT",
+                  "phone": "04.66.68.42.36",
+                  "email": "drc@chu-nimes.fr"
+                },
+                {
+                  "name": "Claire Guissart",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 43.83665,
+                "lon": 4.35788
+              }
+            },
+            {
+              "facility": "CHU de Toulouse",
+              "status": "RECRUITING",
+              "city": "Toulouse",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Blandine Acket",
+                  "role": "CONTACT",
+                  "email": "acket.b@chu-toulouse.fr"
+                },
+                {
+                  "name": "Blandine Acket",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 43.60426,
+                "lon": 1.44367
+              }
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D017423",
+              "term": "Sequence Analysis, RNA"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D017421",
+              "term": "Sequence Analysis"
+            },
+            {
+              "id": "D005821",
+              "term": "Genetic Techniques"
+            },
+            {
+              "id": "D008919",
+              "term": "Investigative Techniques"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ]
+}

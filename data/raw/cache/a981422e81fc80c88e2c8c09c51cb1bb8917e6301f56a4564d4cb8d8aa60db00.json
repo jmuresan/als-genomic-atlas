@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr17",
+      "dataSource": "HAVANA",
+      "description": "TATA-box binding protein associated factor 15 [Source:HGNC Symbol;Acc:HGNC:11547]",
+      "end": 35864615,
+      "entrezGeneId": 8148,
+      "gencodeId": "ENSG00000270647.5",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "TAF15",
+      "geneSymbolUpper": "TAF15",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 35713791,
+      "strand": "+",
+      "tss": 35713791
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

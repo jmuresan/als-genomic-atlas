@@ -1,0 +1,66 @@
+{
+  "seq_region_name": "X",
+  "canonical_transcript": "ENST00000338222.7",
+  "version": 9,
+  "strand": 1,
+  "assembly_name": "GRCh38",
+  "id": "ENSG00000188021",
+  "logic_name": "ensembl_havana_gene_homo_sapiens",
+  "species": "homo_sapiens",
+  "end": 56567868,
+  "description": "ubiquilin 2 [Source:HGNC Symbol;Acc:HGNC:12509]",
+  "biotype": "protein_coding",
+  "start": 56563627,
+  "display_name": "UBQLN2",
+  "db_type": "core",
+  "object_type": "Gene",
+  "source": "ensembl_havana",
+  "Transcript": [
+    {
+      "is_canonical": 1,
+      "seq_region_name": "X",
+      "Exon": [
+        {
+          "id": "ENSE00001368073",
+          "object_type": "Exon",
+          "species": "homo_sapiens",
+          "end": 56567868,
+          "seq_region_name": "X",
+          "start": 56563627,
+          "version": 7,
+          "strand": 1,
+          "assembly_name": "GRCh38",
+          "db_type": "core"
+        }
+      ],
+      "strand": 1,
+      "assembly_name": "GRCh38",
+      "length": 4242,
+      "version": 7,
+      "logic_name": "ensembl_havana_transcript_homo_sapiens",
+      "species": "homo_sapiens",
+      "end": 56567868,
+      "Translation": {
+        "start": 56563874,
+        "db_type": "core",
+        "version": 5,
+        "length": 624,
+        "end": 56565748,
+        "species": "homo_sapiens",
+        "object_type": "Translation",
+        "id": "ENSP00000345195",
+        "Parent": "ENST00000338222"
+      },
+      "id": "ENST00000338222",
+      "ens_canon_extended": 0,
+      "biotype": "protein_coding",
+      "start": 56563627,
+      "gencode_primary": 1,
+      "display_name": "UBQLN2-201",
+      "db_type": "core",
+      "object_type": "Transcript",
+      "source": "ensembl_havana",
+      "Parent": "ENSG00000188021"
+    }
+  ]
+}

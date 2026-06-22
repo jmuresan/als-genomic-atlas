@@ -1,0 +1,1377 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07567664",
+          "orgStudyIdInfo": {
+            "id": "StG-2016_714388_NeuroTRACK_"
+          },
+          "organization": {
+            "fullName": "IRCCS San Raffaele",
+            "class": "OTHER"
+          },
+          "briefTitle": "Tracking and Predicting How Brain Damage Spreads in Neurodegenerative Diseases",
+          "officialTitle": "Tracking and Predicting Neurodegeneration Spreading Across the Brain Connectome"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-04",
+          "overallStatus": "ENROLLING_BY_INVITATION",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2017-06-01",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-02-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-01",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2025-11-26",
+          "studyFirstSubmitQcDate": "2026-04-30",
+          "studyFirstPostDateStruct": {
+            "date": "2026-05-05",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2026-04-30",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-05-05",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "Prof. Massimo Filippi",
+            "investigatorTitle": "FULL PROFESSOR",
+            "investigatorAffiliation": "IRCCS San Raffaele"
+          },
+          "leadSponsor": {
+            "name": "IRCCS San Raffaele",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "IRCCS Istituto delle Scienze Neurologiche di Bologna",
+              "class": "OTHER"
+            },
+            {
+              "name": "Azienda Ospedaliera San Gerardo di Monza",
+              "class": "OTHER"
+            },
+            {
+              "name": "Istituto Auxologico Italiano",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "Neurodegenerative diseases, including frontotemporal lobar degeneration (FTLD) spectrum syndromes, are characterized by the accumulation of insoluble protein aggregates in the central nervous system. A common feature of these diseases is that pathological changes accumulate over time following a stereotyped spatial pattern, which contributes to the onset and progression of clinical symptoms. Until recently, the causes of such progression were still unknown. Recent pathological and neuroimaging studies have, however, suggested that insoluble and pathological protein aggregates are able to alter the conformation of neighboring proteins and spread through cell-to-cell transmission. According to this theory, called the 'brain connectome,' the brain network is established as a set of nodes, which correspond to different anatomical regions.\n\nThese brain networks are highly connected to each other and their internal organization is fundamental for an efficient integration of information coming from different regions and to guarantee adequate levels of motor/cognitive performance. Thanks to magnetic resonance studies and research in the field of brain networks, it is possible to understand the pathophysiology of neurodegenerative diseases and reveal the connectivity profiles associated with different clinical outcomes.\n\nThe main objective of this project is to explore the mechanisms of neurodegeneration associated with the different FTLD spectrum syndromes, and in particular the hypothesis that the neurodegenerative process is driven by the structural architecture of the brain 'connectome'. The ultimate goal is to apply mathematical models to structural and functional connectivity data to predict the evolution of the neurodegenerative process in sporadic and genetic forms of Frontotemporal Lobar Degeneration Disease.\n\nThis study aims to investigate the spatiotemporal progression of neurodegeneration in frontotemporal lobar degeneration (FTLD) using advanced neuroimaging and connectomics. 360 patients with sporadic FTLD (including bvFTD, semantic and nonfluent PPA, PSPs, CBS, and ALS) and 65 patients with genetic FTLD (MAPT, GRN, and C9orf72 mutati will be enrolled. The study also plans to enroll 120 subjects who are members of families carrying FLTD-associated mutations (including 60 mutation carriers). Finally, 100 healthy controls will also be enrolled, including 50 young healthy controls and 50 healthy controls comparable with patients by sex and age. Participants will undergo clinical, neuropsychological, and behavioral assessments, blood and Cerebrospinal fluid (CSF) collection, and multimodal 3Tesla Magnetic Resonance Imaging MRI at baseline and every 6 months for up to 2 years. Primary objectives include mapping longitudinal changes in structural and functional brain networks, developing predictive models of network degeneration and clinical decline, and characterizing protein-specific patterns of network degeneration. Secondary aims include identifying early network biomarkers in presymptomatic carriers and correlating network changes with biological markers."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neurodegenerative Disease",
+            "Behavioral Variant Frontotemporal Dementia (bvFTD)",
+            "Primary Progressive Aphasia(PPA)",
+            "Progressive Supranuclear Palsy(PSP)",
+            "Amyotrophic Lateral Sclerosis (ALS)",
+            "Cortical Basal Syndrome (CBS)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "interventionModelDescription": "Intervention, multicentric and multiparametric study",
+            "primaryPurpose": "DIAGNOSTIC",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 645,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls",
+              "type": "EXPERIMENTAL",
+              "description": "Partecipants affected by behavioral variant of FTLD (bvFTD), primary progressive aphasia (PPA), semantic variant of PPA (svPPA), non-fluent variant of PPA (nfvPPA), progressive supranuclear paralysis (PSP), corticobasal syndrome (CBS), amyotrophic lateral sclerosis (ALS), genetic and sporadic FTLD. Asymptomatic familiar. Healthy elderly and young controls.",
+              "interventionNames": [
+                "Diagnostic Test: 3 Tesla MRI without contrast medium",
+                "Genetic: Blood sample for genetic analysis",
+                "Diagnostic Test: Cerebrospinal fluid sampling (CSF)",
+                "Diagnostic Test: Neurological evaluation",
+                "Diagnostic Test: Neuropsychological evaluation"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "3 Tesla MRI without contrast medium",
+              "description": "3 Tesla MRI examination without contrast medium in which resting functional MRI sequences, diffusion-weighted sequence, structural MRI sequences will be obtained",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            },
+            {
+              "type": "GENETIC",
+              "name": "Blood sample for genetic analysis",
+              "description": "During the screening/basal visit, a blood sample will be taken to assess the genetic profile of patients, consanguineous family members, and healthy elderly controls. Objective is to evaluate the major genes that have been shown to play a role in the pathogenesis of FTLD The genes GRN, MAPT, C9orf72, TARDBP, SOD1, FUS, OPTN, VCP will be analyzed.",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Cerebrospinal fluid sampling (CSF)",
+              "description": "During the baseline visit, patients will undergo lumbar puncture for the collection of CSF for quantification of biological biomarkers",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Neurological evaluation",
+              "description": "A neurological evaluation will be conducted in order to be able to exclude from the study all participants with a history of psychiatric illness, head injury, alcohol or psychotropic substance use",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Neuropsychological evaluation",
+              "description": "A neuropsychological assessment will be conducted in order to be able to exclude from the study all participants with a history of psychiatric illness, alcohol or psychotropic substance use",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Longitudinal change in the structural connectome via Neurite Orientation Dispersion and Density Imaging (NODDI)",
+              "description": "Evaluating structural white matter integrity over time through graph-theoretical analysis based on NODDI-derived metrics",
+              "timeFrame": "6 months, 12 months, 18 months, 24 months"
+            },
+            {
+              "measure": "Longitudinal change in the structural connectome via Diffusion Tensor Imaging (DTI)",
+              "description": "Evaluating structural white matter integrity over time through graph-theoretical analysis",
+              "timeFrame": "6 months, 12 months, 18 months, 24 months"
+            },
+            {
+              "measure": "Longitudinal change in brain functional connectome via functional MRI",
+              "description": "Evaluating functional brain changes in functional brain networks using graph-theoretical analysis of fMRI-derived connectivity",
+              "timeFrame": "6 months, 12 months, 18 months, 24 months"
+            },
+            {
+              "measure": "Prediction of pathological spreading through the structural connectome",
+              "description": "To predict spatial and temporal spreading of neurodegeneration through the structural connectome using network diffusion model",
+              "timeFrame": "6 months, 12 months, 18 months, 24 months"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\nAdult participants, under 85 years of age, diagnosed with bvFTD, semantic variant PPA, non-fluent variant PPA, PSP, CBS, and early-stage ALS, according to the criteria of Rascovsky (2011), Gorno-Tempini (2011), Litvan (1996), Armstrong (2013), and Brooks (2000), respectively;\n\nParticipants with genetic forms of FTLD associated with mutations in the c9orf72, GRN, MAPT genes, and asymptomatic family members related to FTLD patients carrying such mutations\n\nHealthy participants (age between 20 and 30 years old); Healthy participants matched to patients for age and sex\n\nExclusion Criteria:\n\n* Participants with a history of other neurological and/or psychiatric disorders, head trauma, alcohol or psychoactive substance use, or a family history of other neurodegenerative diseases.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "85 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "overallOfficials": [
+            {
+              "name": "Prof. Massimo Filippi",
+              "affiliation": "IRCCS San Raffaele",
+              "role": "STUDY_DIRECTOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "IRCCS San Raffaele",
+              "city": "Milan",
+              "state": "Lombardy",
+              "zip": "20132",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 45.46427,
+                "lon": 9.18951
+              }
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "UNDECIDED",
+          "description": "Still undecided"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D018888",
+              "term": "Aphasia, Primary Progressive"
+            },
+            {
+              "id": "D013494",
+              "term": "Supranuclear Palsy, Progressive"
+            },
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D003704",
+              "term": "Dementia"
+            },
+            {
+              "id": "D001927",
+              "term": "Brain Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D001037",
+              "term": "Aphasia"
+            },
+            {
+              "id": "D013064",
+              "term": "Speech Disorders"
+            },
+            {
+              "id": "D007806",
+              "term": "Language Disorders"
+            },
+            {
+              "id": "D003147",
+              "term": "Communication Disorders"
+            },
+            {
+              "id": "D019954",
+              "term": "Neurobehavioral Manifestations"
+            },
+            {
+              "id": "D009461",
+              "term": "Neurologic Manifestations"
+            },
+            {
+              "id": "D012816",
+              "term": "Signs and Symptoms"
+            },
+            {
+              "id": "D013568",
+              "term": "Pathological Conditions, Signs and Symptoms"
+            },
+            {
+              "id": "D019965",
+              "term": "Neurocognitive Disorders"
+            },
+            {
+              "id": "D001523",
+              "term": "Mental Disorders"
+            },
+            {
+              "id": "D001480",
+              "term": "Basal Ganglia Diseases"
+            },
+            {
+              "id": "D009069",
+              "term": "Movement Disorders"
+            },
+            {
+              "id": "D009886",
+              "term": "Ophthalmoplegia"
+            },
+            {
+              "id": "D015835",
+              "term": "Ocular Motility Disorders"
+            },
+            {
+              "id": "D003389",
+              "term": "Cranial Nerve Diseases"
+            },
+            {
+              "id": "D024801",
+              "term": "Tauopathies"
+            },
+            {
+              "id": "D010243",
+              "term": "Paralysis"
+            },
+            {
+              "id": "D005128",
+              "term": "Eye Diseases"
+            },
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D001800",
+              "term": "Blood Specimen Collection"
+            },
+            {
+              "id": "D005820",
+              "term": "Genetic Testing"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013048",
+              "term": "Specimen Handling"
+            },
+            {
+              "id": "D019411",
+              "term": "Clinical Laboratory Techniques"
+            },
+            {
+              "id": "D019937",
+              "term": "Diagnostic Techniques and Procedures"
+            },
+            {
+              "id": "D003933",
+              "term": "Diagnosis"
+            },
+            {
+              "id": "D011677",
+              "term": "Punctures"
+            },
+            {
+              "id": "D013514",
+              "term": "Surgical Procedures, Operative"
+            },
+            {
+              "id": "D008919",
+              "term": "Investigative Techniques"
+            },
+            {
+              "id": "D005821",
+              "term": "Genetic Techniques"
+            },
+            {
+              "id": "D033142",
+              "term": "Genetic Services"
+            },
+            {
+              "id": "D006296",
+              "term": "Health Services"
+            },
+            {
+              "id": "D005159",
+              "term": "Health Care Facilities Workforce and Services"
+            },
+            {
+              "id": "D003954",
+              "term": "Diagnostic Services"
+            },
+            {
+              "id": "D011314",
+              "term": "Preventive Health Services"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03693781",
+          "orgStudyIdInfo": {
+            "id": "Co-ALS"
+          },
+          "organization": {
+            "fullName": "Azienda Ospedaliero-Universitaria di Modena",
+            "class": "OTHER"
+          },
+          "briefTitle": "Colchicine for Amyotrophic Lateral Sclerosis",
+          "officialTitle": "Colchicine for Amyotrophic Lateral Sclerosis: a Phase II, Randomized, Double Blind, Placebo Controlled, Multicenter Clinical Trial",
+          "acronym": "Co-ALS"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2023-02",
+          "overallStatus": "COMPLETED",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2019-04-10",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2022-04-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-03",
+            "type": "ACTUAL"
+          },
+          "studyFirstSubmitDate": "2018-09-30",
+          "studyFirstSubmitQcDate": "2018-10-01",
+          "studyFirstPostDateStruct": {
+            "date": "2018-10-03",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2023-02-28",
+          "lastUpdatePostDateStruct": {
+            "date": "2023-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "JESSICA MANDRIOLI",
+            "investigatorTitle": "Principal Investigator",
+            "investigatorAffiliation": "Azienda Ospedaliero-Universitaria di Modena"
+          },
+          "leadSponsor": {
+            "name": "Azienda Ospedaliero-Universitaria di Modena",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "University of Modena and Reggio Emilia",
+              "class": "OTHER"
+            },
+            {
+              "name": "University of Turin, Italy",
+              "class": "OTHER"
+            },
+            {
+              "name": "Istituto Auxologico Italiano",
+              "class": "OTHER"
+            },
+            {
+              "name": "IRCCS National Neurological Institute \"C. Mondino\" Foundation",
+              "class": "OTHER"
+            },
+            {
+              "name": "University of Bari",
+              "class": "OTHER"
+            },
+            {
+              "name": "IRCCS San Raffaele",
+              "class": "OTHER"
+            },
+            {
+              "name": "University of Padova",
+              "class": "OTHER"
+            },
+            {
+              "name": "University of Milan",
+              "class": "OTHER"
+            },
+            {
+              "name": "Istituto Di Ricerche Farmacologiche Mario Negri",
+              "class": "OTHER"
+            },
+            {
+              "name": "University of Campania Luigi Vanvitelli",
+              "class": "OTHER"
+            },
+            {
+              "name": "Catholic University of the Sacred Heart",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false,
+          "isUsExport": false
+        },
+        "descriptionModule": {
+          "briefSummary": "The study evaluates the effects of two different Colchicine doses (0.01mg/kg/day or 0.005 mg/kg/day) compared to placebo in Amyotrophic Lateral Sclerosis (ALS) patients. Disease progression as defined by changes in ALSFRS-r is the primary outcome measure. Other measures of clinical progression and survival, together with safety and tolerability of Colchicine in ALS patients will be assessed.",
+          "detailedDescription": "Recent evidence supports the disruption of the ubiquitin-proteasome-system and autophagy as central events in ALS. ALS is characterized by the presence of misfolded proteins prone to oligomerize into aggregates, which exert a toxic effect by affecting several intracellular functions. Heat shock protein B8 (HSPB8) recognizes and promotes the autophagy-mediated removal of misfolded mutant SOD1 and TDP-43 fragments from ALS motor neurons (MNs). Moreover, HSPB8-BAG3-HSP70 maintains the so called \"granulostasis\", a surveillance mechanism that avoids the conversion of dynamic stress granules (SGs) into aggregation-prone assemblies, which are a hallmark of ALS.\n\nColchicine enhances the expression of HSPB8 and of several autophagy players while blocking TDP-43 accumulation in neurons. Moreover, given the cross-talk between infalmmation and autophagy, the well-known antinflammatory action of Cochicine may contribute to cell homeostasis.\n\nBased on these premises, this is a phase II randomized, double-blind, placebo-controlled, multicenter (9 MND Centres in Italy: 2 centres in Milan, Pavia, Turin, Modena, Padua, Rome, Naples, Bari), clinical trial to test efficacy of Colchicine in ALS."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ],
+          "keywords": [
+            "amyotrophic lateral sclerosis",
+            "stress granules",
+            "HSPB8",
+            "protein quality control",
+            "colchicine",
+            "ALSFRS-r",
+            "survival",
+            "safety"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "interventionModelDescription": "Three arms of 18 patients each; in two arms two colchicine dosages will be tested compared to placebo in the control arm. The three arms will undergo treatment vs placebo in parallel",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "DOUBLE",
+              "maskingDescription": "placebo will be unrecognizable from active treatment (both in tablets)",
+              "whoMasked": [
+                "PARTICIPANT",
+                "INVESTIGATOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Colchicine 0.01mg/kg/day + Riluzole 100 mg",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Oral colchicine will be administered at fast, at specified dose pro kilograms for 30 weeks, while taking Riluzole 100 mg/day",
+              "interventionNames": [
+                "Drug: Colchicine 1 MG Oral Tablet"
+              ]
+            },
+            {
+              "label": "Colchicine 0.005 mg/kg/day + Riluzole 100 mg",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Oral colchicine will be administered at fast, at specified dose pro kilograms for 30 weeks, while taking Riluzole 100 mg/day",
+              "interventionNames": [
+                "Drug: Colchicine 1 MG Oral Tablet"
+              ]
+            },
+            {
+              "label": "Placebo + Riluzole 100 mg",
+              "type": "PLACEBO_COMPARATOR",
+              "description": "Placebo pills will be administered at fast, while taking Riluzole 100 mg/day",
+              "interventionNames": [
+                "Drug: Placebo Oral Tablet"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Colchicine 1 MG Oral Tablet",
+              "description": "Colchicine tablets depending on arm (0.01 mg/kg/day, 0.005 mg/kg/day, placebo) and on weight (\\>70 kg or \\<71 kg) for 30 weeks of duration.",
+              "armGroupLabels": [
+                "Colchicine 0.01mg/kg/day + Riluzole 100 mg"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Colchicine 1 MG Oral Tablet",
+              "description": "Colchicine tablets depending on arm (0.01 mg/kg/day, 0.005 mg/kg/day, placebo) and on weight (\\>70 kg or \\<71 kg) for 30 weeks of duration.",
+              "armGroupLabels": [
+                "Colchicine 0.005 mg/kg/day + Riluzole 100 mg"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Placebo Oral Tablet",
+              "description": "Corresponding tablets for 30 weeks",
+              "armGroupLabels": [
+                "Placebo + Riluzole 100 mg"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Decrease in ALS disease progression as measured by ALS Functional rating Scale Revised (ALSFRS-R)",
+              "description": "ALSFRS-R is a scale that measures disability in ALS; the scores range from 0 (maximum disability, the worst score) to 48 (no disability, the best score). We will measure total score changes from baseline to week 30 in treatment and placebo arms.",
+              "timeFrame": "comparison between baseline and treatment end (week 30)"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Incidence of Treatment-Emergent Adverse Events (safety and tolerability)",
+              "description": "Number of serious adverse events (SAEs) and AEs in placebo and treatment arms",
+              "timeFrame": "week 30 and 54"
+            },
+            {
+              "measure": "Tracheostomy-free survival rate",
+              "description": "Overall survival from randomization to date of death or tracheostomy",
+              "timeFrame": "Up to week 54"
+            },
+            {
+              "measure": "Changes in Forced Vital Capacity (FVC)",
+              "description": "Changes in FVC score from baseline to week 8, 18, 30, 54 in treatment and placebo arms.",
+              "timeFrame": "Up to week 54"
+            },
+            {
+              "measure": "Changes in quality of life",
+              "description": "Changes in Amyotrophic Lateral Sclerosis Assessment Questionnaire (ALSAQ-40) from baseline to week 8, 18, 30 and week 54, in placebo and treatment arms",
+              "timeFrame": "at 8,18,30 and 54 week"
+            },
+            {
+              "measure": "enhancement of autophagy",
+              "description": "assessment of mRNA and protein levels of p62, LC3, TFEB, ATGs, HSPB8, BAG3, BAG1, HSP70, and HSF1, in patients' PBMCs, lymphoblasts and fibroblasts (transcriptome profile);",
+              "timeFrame": "at week 30 and 54, compared to baseline"
+            },
+            {
+              "measure": "changes in stress granules size, number and composition",
+              "description": "identification of changes in stress granules response and composition in patients' fibroblasts and lymphoblasts will be carried out by measuring granules size, number and composition by confocal microscopy using automated systems. The aberrant recruitment or sequestration of specific mRNA inside stress granules will be assessed by FISH using specific probes, followed by densitometric analysis as previously described by Gareau et al. (2011).",
+              "timeFrame": "at week 30 compared to baseline"
+            },
+            {
+              "measure": "quantification of insoluble species",
+              "description": "assessment of overall levels and the relative ratio between soluble and insoluble species of TDP-43, TDP-43 fragments, SQSTM1/p62, UBQLN, OPTN in fibroblasts and lymphoblasts derived from the same patients",
+              "timeFrame": "at week 30 compared to baseline"
+            },
+            {
+              "measure": "modifications on extracellular vesicles secretion in blood and CSF",
+              "description": "assessment of TDP-43, hyperphosphorylated TDP-43, SQSTM1/p62, UBQLN and OPTN in extracellular vesicles by plasma and CSF.",
+              "timeFrame": "at week 30 compared to baseline"
+            },
+            {
+              "measure": "effects on biomarkers of neurodegeneration",
+              "description": "creatinine, albumin, CK, and vitamin D in plasma as markers of disease severity; phosphorylated neurofilaments heavy chain",
+              "timeFrame": "at week 30 compared to baseline"
+            },
+            {
+              "measure": "effects on biomarkers of inflammation",
+              "description": "assessment of plasma/CSF IL18, its endogenous inhibitor IL-18BP, MCP1 and IL17",
+              "timeFrame": "at week 30 compared to baseline"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients diagnosed with a laboratory supported, clinically \"probable\" or \"definite\" amyotrophic lateral sclerosis according to the Revised El Escorial criteria (Brooks, 2000)\n* Sporadic ALS\n* ALS phenotypes: classic or bulbar\n* Female or male patients aged between 18 and 80 years old\n* Disease duration from symptoms onset no longer than 18 months at the screening visit\n* Patients treated with a stable dose of Riluzole (100 mg/day) for at least 30 days prior to screening\n* Patients with a weight \\> 50 kg and a BMI ≥18\n* Patients with a FVC (Forced Vital Capacity) equal or more than 65 % predicted normal value for gender, height, and age at the screening visit Patients able and willing to comply with study procedures as per protocol\n* Patients able to understand, and capable of providing informed consent at screening visit prior to any protocol-specific procedures\n* Use of highly effective contraception\n\nExclusion Criteria:\n\n* Prior use of Colchicine\n* Prior allergy/sensitivity to Colchicine\n* Receiving Colchicine or other anti-inflammatory drugs (such as corticosteroids, methotrexate, anti-neoplastic, Interleukin 1-1b antagonist, Tumor necrosis factor-alpha inhibitor)\n* Receiving food or co-medications such as strong-moderate cytochrome P450 3A4 inhibitors that will result in elevated plasma level of Colchicine\n* Inflammatory disorders (SLE, Rheumatoid arthritis, connective tissue disorder) or chronic infections (HIV, hepatitis B or C infection) or significant history of malignancy\n* Severe renal (eGFR\\< 30ml/min/1.73m2), or liver failure or liver aminotransferase (ALT/AST \\> 2x Upper limit of normal),\n* Existing blood dyscrasia (e.g., myelodysplasia)\n* White blood cells\\<4,000/mm³, platelets count\\<100,000/mm³, hematocrit\\<30%\n* Severe comorbidities (heart, renal, liver failure), autoimmune diseases or any type of interstitial lung disease\n* Patients who underwent non invasive ventilation, tracheotomy and /or gastrostomy\n* Women who are pregnant or breastfeeding\n* Participation in pharmacological studies within the last 30 days before screening\n* Patients with the following ALS phenotypes: flail arm, flail leg, UMN-p, respiratory, PLS, progressive muscular atrophy.\n* Patients with familial ALS defined as presence of at least one first degree family member (parents/son/daughter/brother/sister) affected by ALS.\n* Patients with known pathogenic mutations (SOD1, TARDBP, FUS, C9ORF72).",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "overallOfficials": [
+            {
+              "name": "Jessica Mandrioli",
+              "affiliation": "Azienda Ospedaliero-Universitaria di Modena",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "Centro Sla, University of Bari",
+              "city": "Bari",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 41.12066,
+                "lon": 16.86982
+              }
+            },
+            {
+              "facility": "Centro Sla, Istituto Auxologico Italiano, University of Milano, Milano",
+              "city": "Milan",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 42.78235,
+                "lon": 12.59836
+              }
+            },
+            {
+              "facility": "Irccs Carlo Besta",
+              "city": "Milan",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 42.78235,
+                "lon": 12.59836
+              }
+            },
+            {
+              "facility": "Irccs St. Raffaele Institute of Milano",
+              "city": "Milan",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 42.78235,
+                "lon": 12.59836
+              }
+            },
+            {
+              "facility": "Centro Sla, Ospedale Civile S. Agostino Estense, A.O.U. Modena",
+              "city": "Modena",
+              "zip": "41126",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 44.64783,
+                "lon": 10.92539
+              }
+            },
+            {
+              "facility": "Università della Campania Gianluigi Vanvitelli",
+              "city": "Naples",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 40.85216,
+                "lon": 14.26811
+              }
+            },
+            {
+              "facility": "Als Centre, \"C. Mondino\" National Neurological Institute, University of Pavia",
+              "city": "Pavia",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 45.19205,
+                "lon": 9.15917
+              }
+            },
+            {
+              "facility": ", Neuromuscular Omnicentre Centre, Rome, Catholic University, Rome",
+              "city": "Roma",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 44.99364,
+                "lon": 11.10642
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "23474849",
+              "type": "BACKGROUND",
+              "citation": "Thomas M, Alegre-Abarrategui J, Wade-Martins R. RNA dysfunction and aggrephagy at the centre of an amyotrophic lateral sclerosis/frontotemporal dementia disease continuum. Brain. 2013 May;136(Pt 5):1345-60. doi: 10.1093/brain/awt030. Epub 2013 Mar 9."
+            },
+            {
+              "pmid": "27694913",
+              "type": "BACKGROUND",
+              "citation": "Cadwell K. Crosstalk between autophagy and inflammatory signalling pathways: balancing defence and homeostasis. Nat Rev Immunol. 2016 Nov;16(11):661-675. doi: 10.1038/nri.2016.100. Epub 2016 Oct 3."
+            },
+            {
+              "pmid": "26961006",
+              "type": "BACKGROUND",
+              "citation": "Crippa V, D'Agostino VG, Cristofani R, Rusmini P, Cicardi ME, Messi E, Loffredo R, Pancher M, Piccolella M, Galbiati M, Meroni M, Cereda C, Carra S, Provenzani A, Poletti A. Transcriptional induction of the heat shock protein B8 mediates the clearance of misfolded proteins responsible for motor neuron diseases. Sci Rep. 2016 Mar 10;6:22827. doi: 10.1038/srep22827."
+            },
+            {
+              "pmid": "27466192",
+              "type": "BACKGROUND",
+              "citation": "Crippa V, Cicardi ME, Ramesh N, Seguin SJ, Ganassi M, Bigi I, Diacci C, Zelotti E, Baratashvili M, Gregory JM, Dobson CM, Cereda C, Pandey UB, Poletti A, Carra S. The chaperone HSPB8 reduces the accumulation of truncated TDP-43 species in cells and protects against TDP-43-mediated toxicity. Hum Mol Genet. 2016 Sep 15;25(18):3908-3924. doi: 10.1093/hmg/ddw232. Epub 2016 Jul 27."
+            },
+            {
+              "pmid": "28608264",
+              "type": "BACKGROUND",
+              "citation": "Cristofani R, Crippa V, Vezzoli G, Rusmini P, Galbiati M, Cicardi ME, Meroni M, Ferrari V, Tedesco B, Piccolella M, Messi E, Carra S, Poletti A. The small heat shock protein B8 (HSPB8) efficiently removes aggregating species of dipeptides produced in C9ORF72-related neurodegenerative diseases. Cell Stress Chaperones. 2018 Jan;23(1):1-12. doi: 10.1007/s12192-017-0806-9. Epub 2017 Jun 12."
+            },
+            {
+              "pmid": "28402699",
+              "type": "BACKGROUND",
+              "citation": "Cristofani R, Crippa V, Rusmini P, Cicardi ME, Meroni M, Licata NV, Sala G, Giorgetti E, Grunseich C, Galbiati M, Piccolella M, Messi E, Ferrarese C, Carra S, Poletti A. Inhibition of retrograde transport modulates misfolded protein accumulation and clearance in motoneuron diseases. Autophagy. 2017 Aug 3;13(8):1280-1303. doi: 10.1080/15548627.2017.1308985."
+            },
+            {
+              "pmid": "18094623",
+              "type": "BACKGROUND",
+              "citation": "Carra S, Seguin SJ, Landry J. HspB8 and Bag3: a new chaperone complex targeting misfolded proteins to macroautophagy. Autophagy. 2008 Feb;4(2):237-9. doi: 10.4161/auto.5407. Epub 2007 Dec 11."
+            },
+            {
+              "pmid": "20570967",
+              "type": "BACKGROUND",
+              "citation": "Crippa V, Sau D, Rusmini P, Boncoraglio A, Onesto E, Bolzoni E, Galbiati M, Fontana E, Marino M, Carra S, Bendotti C, De Biasi S, Poletti A. The small heat shock protein B8 (HspB8) promotes autophagic removal of misfolded proteins involved in amyotrophic lateral sclerosis (ALS). Hum Mol Genet. 2010 Sep 1;19(17):3440-56. doi: 10.1093/hmg/ddq257. Epub 2010 Jun 22."
+            },
+            {
+              "pmid": "18973929",
+              "type": "BACKGROUND",
+              "citation": "Terkeltaub RA. Colchicine update: 2008. Semin Arthritis Rheum. 2009 Jun;38(6):411-9. doi: 10.1016/j.semarthrit.2008.08.006. Epub 2008 Oct 29."
+            },
+            {
+              "pmid": "27830784",
+              "type": "BACKGROUND",
+              "citation": "Taylor JP, Brown RH Jr, Cleveland DW. Decoding ALS: from genes to mechanism. Nature. 2016 Nov 10;539(7628):197-206. doi: 10.1038/nature20413."
+            },
+            {
+              "pmid": "22419278",
+              "type": "BACKGROUND",
+              "citation": "Miller RG, Mitchell JD, Moore DH. Riluzole for amyotrophic lateral sclerosis (ALS)/motor neuron disease (MND). Cochrane Database Syst Rev. 2012 Mar 14;2012(3):CD001447. doi: 10.1002/14651858.CD001447.pub3."
+            },
+            {
+              "pmid": "31152038",
+              "type": "DERIVED",
+              "citation": "Mandrioli J, Crippa V, Cereda C, Bonetto V, Zucchi E, Gessani A, Ceroni M, Chio A, D'Amico R, Monsurro MR, Riva N, Sabatelli M, Silani V, Simone IL, Soraru G, Provenzani A, D'Agostino VG, Carra S, Poletti A. Proteostasis and ALS: protocol for a phase II, randomised, double-blind, placebo-controlled, multicentre clinical trial for colchicine in ALS (Co-ALS). BMJ Open. 2019 May 30;9(5):e028486. doi: 10.1136/bmjopen-2018-028486."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "YES",
+          "description": "de-identified individual participant data will be made available after study completion upon specific request",
+          "infoTypes": [
+            "STUDY_PROTOCOL",
+            "SAP",
+            "ICF",
+            "CSR"
+          ],
+          "timeFrame": "The data will become available at study completion (after final data analysis)",
+          "accessCriteria": "specific personal request by the subject"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D003078",
+              "term": "Colchicine"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D000470",
+              "term": "Alkaloids"
+            },
+            {
+              "id": "D006571",
+              "term": "Heterocyclic Compounds"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06083584",
+          "orgStudyIdInfo": {
+            "id": "NIMAO/LOCAL/2023/CG-01"
+          },
+          "organization": {
+            "fullName": "Centre Hospitalier Universitaire de Nīmes",
+            "class": "OTHER"
+          },
+          "briefTitle": "Development of Targeted RNA-Seq for Amyotrophic Lateral Sclerosis Diagnosis",
+          "officialTitle": "Development of Targeted RNA-Seq for Amyotrophic Lateral Sclerosis Diagnosis",
+          "acronym": "ROSA"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2025-05",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2023-11-22",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-05",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2023-10-09",
+          "studyFirstSubmitQcDate": "2023-10-09",
+          "studyFirstPostDateStruct": {
+            "date": "2023-10-16",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2025-05-15",
+          "lastUpdatePostDateStruct": {
+            "date": "2025-05-20",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Centre Hospitalier Universitaire de Nīmes",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "Association pour la Recherche sur la Sclérose Latérale Amyotrophique et autres maladies du motoneurones",
+              "class": "UNKNOWN"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false,
+          "isUsExport": false
+        },
+        "descriptionModule": {
+          "briefSummary": "Genetic diagnosis of Amyotrophic Lateral Sclerosis (ALS) could identify the origin of the disease, potentially allowing the patient to pursue targeted/gene therapy. However, many familial forms of ALS are genetically undiagnosed, either because no variant has been detected in the genes of interest, or because the detected variant(s) have uncertain significance. Currently, molecular diagnosis takes place in two stages: 1) Search for the GGGGCC expansion in the C9ORF72 gene by RP-PCR; 2) Analysis of the coding regions by high-throughput sequencing of a panel of 30 genes involved in ALS.\n\nMany of these variants of uncertain significance affect splicing. Their impact can be predicted using in silico tools, but only an analysis of the patient's RNA can confirm their pathogenic nature. Currently, the analysis of transcripts is only done a posteriori, when a variant predicted to impact splicing is detected on the patient's DNA. RT-PCR followed by Sanger sequencing then verifies the impact of the splice variants. This method confirmed the impact of certain splice variants in patients. However, this method is time-consuming and requires custom development, and is mutation/gene/patient-dependent. In contrast, high-throughput RNA sequencing (RNA-Seq) simultaneously analyzes the splicing of numerous genes, with a global approach, applicable to all patients. This approach avoids the custom design of primers, which can be biased by the interpretation of splicing predictions, while RNA-Seq systematically captures and sequences all the transcripts. Finally, RNA-Seq provides additional information compared to DNA sequencing such as the detection of exon skipping, intron inclusion, and the creation of fusion transcripts.\n\nIn the GTEx project (GTEx Consortium, 2013), expression levels of human genome transcripts were quantified by RNA-Seq. Using these results, the study investigators measured expression of transcripts of known ALS genes in whole blood. Applying a threshold value of 0.5 transcripts per million reads (TPM), 25 of the 30 ALS genes currently analyzed by NGS in routine diagnostics at Nîmes University Hospital could be eligible for a complete analysis by RNA-Seq. None of the French laboratories carrying out genetic analyzes of ALS has yet developed RNA-Seq as a routine diagnostic tool. The study laboratory receives more than 600 requests for genetic diagnosis of ALS patients per year. The aim of this study is therefore to develop a global method for analyzing RNA transcripts of ALS genes to categorize the mutations to improve the diagnostic management of patients."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 192,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Positive controls",
+              "description": "6 patients already in database. The 6 confirmed splicing mutations are: DCTN1 (NM\\_004082.5): c.3209G\\>T, OPTN (NM\\_001008211.1) : c.1613-7T\\>G, FUS (NM\\_004960.4) : c.764+8T\\>A, GRN (NM\\_002087.4): c.835+1G\\>A, GRN (NM\\_002087.4): c.709-3C\\>G, SPG11 (NM\\_025137.4): c.3039-5T\\>G",
+              "interventionNames": [
+                "Other: RNA sequencing"
+              ]
+            },
+            {
+              "label": "Negative controls",
+              "description": "30 patients with familial hypercholesterolemia. The absence of splicing anomalies in the SLA genes after confirmation by RT-PCR followed by Sanger sequencing of the absence of anomalies for the 6 variants listed above for each of the 30 individuals.",
+              "interventionNames": [
+                "Other: RNA sequencing"
+              ]
+            },
+            {
+              "label": "Exploratory cohort",
+              "description": "156 ALS: 20 ALS patients with splice variants predicted to be deleterious by in silico prediction software; 136 panel-analysis-negative ALS patients (priority will be given to familial ALS)",
+              "interventionNames": [
+                "Other: RNA sequencing"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "RNA sequencing",
+              "description": "RNA-Seq (Sureselect XT HS2 RNA) from patient blood sample",
+              "armGroupLabels": [
+                "Exploratory cohort",
+                "Negative controls",
+                "Positive controls"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Concordance between the RNA-Seq results (index text) versus RT-PCR followed by Sanger sequencing (reference technique) on positive plus negative controls",
+              "description": "Sashimi Plot visualized in Integrative Genomics Viewer",
+              "timeFrame": "Day 0"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Frequency of splicing anomalies detected in ALS patients in the \"exploratory cohort\" versus negative controls.",
+              "description": "Frequency",
+              "timeFrame": "Day 0"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Have a prescription for a genetic diagnosis of ALS (or familial hypercholesterolemia for the control cohort)\n* Have given their informed consent for the genetic study and the biobank\n* The patient must be a member or beneficiary of a health insurance plan\n\nExclusion Criteria:\n\n* The patient is under safeguard of justice or state guardianship",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Patients will be recruited during a consultation for a clinical diagnosis of ALS for which a request for a genetic diagnosis has been made in one of the prescribing centers: CHU Lyon, Montpellier University Hospital, Marseille University Hospital, Clermont-Ferrand University Hospital, Bordeaux University Hospital, Toulouse University Hospital.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Claire Guissart",
+              "role": "CONTACT",
+              "phone": "04 66 68 32 07",
+              "email": "claire.guissart@chu-nimes.fr"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Claire Guissart",
+              "affiliation": "CHU de Nimes",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "CHU de Bordeaux",
+              "status": "RECRUITING",
+              "city": "Bordeaux",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Gwendal Le Masson",
+                  "role": "CONTACT",
+                  "email": "gwendal.le-masson@chu-bordeaux.fr"
+                },
+                {
+                  "name": "Gwendal Le Masson",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Stephane Mathis",
+                  "role": "SUB_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 44.84124,
+                "lon": -0.58046
+              }
+            },
+            {
+              "facility": "CHU de Clermont-Ferrand",
+              "status": "RECRUITING",
+              "city": "Clermont-Ferrand",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Nathalie Guy",
+                  "role": "CONTACT",
+                  "email": "nguy@chu-clermontferrand.fr"
+                },
+                {
+                  "name": "Nathalie Guy",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Annaick Desmaison",
+                  "role": "SUB_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 45.77969,
+                "lon": 3.08682
+              }
+            },
+            {
+              "facility": "CHU de Lyon",
+              "status": "RECRUITING",
+              "city": "Lyon",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Emilien Bernard",
+                  "role": "CONTACT",
+                  "email": "emilien.bernard@chu-lyon.fr"
+                },
+                {
+                  "name": "Emilien Bernard",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 45.74906,
+                "lon": 4.84789
+              }
+            },
+            {
+              "facility": "La Timone",
+              "status": "RECRUITING",
+              "city": "Marseille",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Annie Verschueren",
+                  "role": "CONTACT",
+                  "email": "annie.verschueren@ap-hm.fr"
+                },
+                {
+                  "name": "Annie Verschueren",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Aude-Marie Grapperon",
+                  "role": "SUB_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 43.29695,
+                "lon": 5.38107
+              }
+            },
+            {
+              "facility": "CHU de Montpellier",
+              "status": "RECRUITING",
+              "city": "Montpellier",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Elisa De la Cruz",
+                  "role": "CONTACT",
+                  "email": "e-delacruz@chu-montpellier.fr"
+                },
+                {
+                  "name": "Elisa De la Cruz",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                },
+                {
+                  "name": "Florence Esselin",
+                  "role": "SUB_INVESTIGATOR"
+                },
+                {
+                  "name": "Alix Durand",
+                  "role": "SUB_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 43.61093,
+                "lon": 3.87635
+              }
+            },
+            {
+              "facility": "CHU de Nîmes",
+              "status": "RECRUITING",
+              "city": "Nîmes",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Anissa Megzari",
+                  "role": "CONTACT",
+                  "phone": "04.66.68.42.36",
+                  "email": "drc@chu-nimes.fr"
+                },
+                {
+                  "name": "Claire Guissart",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 43.83665,
+                "lon": 4.35788
+              }
+            },
+            {
+              "facility": "CHU de Toulouse",
+              "status": "RECRUITING",
+              "city": "Toulouse",
+              "country": "France",
+              "contacts": [
+                {
+                  "name": "Blandine Acket",
+                  "role": "CONTACT",
+                  "email": "acket.b@chu-toulouse.fr"
+                },
+                {
+                  "name": "Blandine Acket",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 43.60426,
+                "lon": 1.44367
+              }
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D017423",
+              "term": "Sequence Analysis, RNA"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D017421",
+              "term": "Sequence Analysis"
+            },
+            {
+              "id": "D005821",
+              "term": "Genetic Techniques"
+            },
+            {
+              "id": "D008919",
+              "term": "Investigative Techniques"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ]
+}

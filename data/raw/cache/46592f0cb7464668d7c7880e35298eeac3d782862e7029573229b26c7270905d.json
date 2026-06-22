@@ -1,0 +1,523 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "SIGMAR1",
+      "associatedDiseases": {
+        "count": 346,
+        "rows": [
+          {
+            "score": 0.7050607861911166,
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.7027430672987991,
+            "disease": {
+              "id": "MONDO_0011585",
+              "name": "autosomal recessive distal spinal muscular atrophy 2"
+            }
+          },
+          {
+            "score": 0.6422358593971611,
+            "disease": {
+              "id": "MONDO_0017593",
+              "name": "juvenile amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.6056489526747296,
+            "disease": {
+              "id": "HP_0002315",
+              "name": "Headache"
+            }
+          },
+          {
+            "score": 0.6047067422513455,
+            "disease": {
+              "id": "HP_0012735",
+              "name": "Cough"
+            }
+          },
+          {
+            "score": 0.604143964006997,
+            "disease": {
+              "id": "HP_0001742",
+              "name": "Nasal congestion"
+            }
+          },
+          {
+            "score": 0.6040236319519341,
+            "disease": {
+              "id": "EFO_0007214",
+              "name": "common cold"
+            }
+          },
+          {
+            "score": 0.5980796144822393,
+            "disease": {
+              "id": "EFO_0003956",
+              "name": "seasonal allergic rhinitis"
+            }
+          },
+          {
+            "score": 0.5969030778732289,
+            "disease": {
+              "id": "HP_0001945",
+              "name": "Fever"
+            }
+          },
+          {
+            "score": 0.5954075619101403,
+            "disease": {
+              "id": "MONDO_0002258",
+              "name": "pharyngitis"
+            }
+          },
+          {
+            "score": 0.5831353291968568,
+            "disease": {
+              "id": "HP_0012531",
+              "name": "Pain"
+            }
+          },
+          {
+            "score": 0.5587297348479079,
+            "disease": {
+              "id": "EFO_0007486",
+              "name": "sinusitis"
+            }
+          },
+          {
+            "score": 0.5456003857501341,
+            "disease": {
+              "id": "MONDO_0100135",
+              "name": "Dravet syndrome"
+            }
+          },
+          {
+            "score": 0.5248257449577456,
+            "disease": {
+              "id": "EFO_0000474",
+              "name": "epilepsy"
+            }
+          },
+          {
+            "score": 0.4845359660848986,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.4634318324597505,
+            "disease": {
+              "id": "EFO_0001073",
+              "name": "obesity"
+            }
+          },
+          {
+            "score": 0.4619748183558772,
+            "disease": {
+              "id": "HP_0003418",
+              "name": "Back pain"
+            }
+          },
+          {
+            "score": 0.3713302259409168,
+            "disease": {
+              "id": "HP_0001250",
+              "name": "Seizure"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_1001900",
+              "name": "myoclonic epilepsy"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "MONDO_0005271",
+              "name": "allergic disease"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "HP_0000155",
+              "name": "Oral ulcer"
+            }
+          },
+          {
+            "score": 0.33427471245523815,
+            "disease": {
+              "id": "MONDO_0016532",
+              "name": "Lennox-Gastaut syndrome"
+            }
+          },
+          {
+            "score": 0.3334431577821976,
+            "disease": {
+              "id": "MONDO_0004985",
+              "name": "bipolar disorder"
+            }
+          },
+          {
+            "score": 0.30099239850751586,
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "score": 0.29555139745018805,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.26874181631214944,
+            "disease": {
+              "id": "EFO_0020092",
+              "name": "neuroinflammatory disorder"
+            }
+          },
+          {
+            "score": 0.2684997644284358,
+            "disease": {
+              "id": "EFO_0005611",
+              "name": "opioid dependence"
+            }
+          },
+          {
+            "score": 0.2610799355402867,
+            "disease": {
+              "id": "MONDO_0005301",
+              "name": "multiple sclerosis"
+            }
+          },
+          {
+            "score": 0.2592602680613183,
+            "disease": {
+              "id": "MONDO_0015643",
+              "name": "photosensitive epilepsy"
+            }
+          },
+          {
+            "score": 0.25870589827929125,
+            "disease": {
+              "id": "HP_0000093",
+              "name": "Proteinuria"
+            }
+          },
+          {
+            "score": 0.25870589827929125,
+            "disease": {
+              "id": "EFO_0003929",
+              "name": "relapsing-remitting multiple sclerosis"
+            }
+          },
+          {
+            "score": 0.2060378043103921,
+            "disease": {
+              "id": "MONDO_0005090",
+              "name": "schizophrenia"
+            }
+          },
+          {
+            "score": 0.1847899273423509,
+            "disease": {
+              "id": "EFO_0003756",
+              "name": "autism spectrum disorder"
+            }
+          },
+          {
+            "score": 0.11616474960883687,
+            "disease": {
+              "id": "MONDO_0002050",
+              "name": "depressive disorder"
+            }
+          },
+          {
+            "score": 0.09982471503453577,
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "score": 0.09775503109084839,
+            "disease": {
+              "id": "MONDO_0007254",
+              "name": "breast cancer"
+            }
+          },
+          {
+            "score": 0.09446615077347097,
+            "disease": {
+              "id": "MONDO_0010726",
+              "name": "Rett syndrome"
+            }
+          },
+          {
+            "score": 0.09256825555859428,
+            "disease": {
+              "id": "EFO_0003888",
+              "name": "attention deficit hyperactivity disorder"
+            }
+          },
+          {
+            "score": 0.09010489505140959,
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "score": 0.08737668521098167,
+            "disease": {
+              "id": "EFO_0003758",
+              "name": "autism"
+            }
+          },
+          {
+            "score": 0.08078425514041222,
+            "disease": {
+              "id": "HP_0000739",
+              "name": "Anxiety"
+            }
+          },
+          {
+            "score": 0.08075319824860736,
+            "disease": {
+              "id": "EFO_0005687",
+              "name": "fibromyalgia"
+            }
+          },
+          {
+            "score": 0.07902145997673266,
+            "disease": {
+              "id": "EFO_0003100",
+              "name": "peripheral neuropathy"
+            }
+          },
+          {
+            "score": 0.07815623502254182,
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            }
+          },
+          {
+            "score": 0.07717048881380081,
+            "disease": {
+              "id": "EFO_0005762",
+              "name": "neuropathic pain"
+            }
+          },
+          {
+            "score": 0.07698553695223831,
+            "disease": {
+              "id": "EFO_1000783",
+              "name": "diabetic neuropathy"
+            }
+          },
+          {
+            "score": 0.07668032244622534,
+            "disease": {
+              "id": "MONDO_0005148",
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.07562801422945262,
+            "disease": {
+              "id": "EFO_0000275",
+              "name": "atrial fibrillation"
+            }
+          },
+          {
+            "score": 0.07539429035567917,
+            "disease": {
+              "id": "EFO_0002460",
+              "name": "hypertrophy"
+            }
+          },
+          {
+            "score": 0.07520436737479953,
+            "disease": {
+              "id": "MONDO_0005277",
+              "name": "migraine disorder"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 9,
+        "rows": [
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL52440",
+              "name": "DEXTROMETHORPHAN",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+                  },
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL87493",
+              "name": "FENFLURAMINE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Serotonin 2c (5-HT2c) receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor antagonist"
+                  },
+                  {
+                    "mechanismOfAction": "Serotonin 1d (5-HT1d) receptor agonist"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1256818",
+              "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL3989510",
+              "name": "PENTAZOCINE HYDROCHLORIDE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor modulator"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1256696",
+              "name": "CARBETAPENTANE CITRATE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1201461",
+              "name": "DEXTROMETHORPHAN POLISTIREX",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL100116",
+              "name": "PENTAZOCINE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor modulator"
+                  },
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor modulator"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL2106217",
+              "name": "FENFLURAMINE HYDROCHLORIDE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Serotonin 2c (5-HT2c) receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor antagonist"
+                  },
+                  {
+                    "mechanismOfAction": "Serotonin 1d (5-HT1d) receptor agonist"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL73234",
+              "name": "CARBETAPENTANE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

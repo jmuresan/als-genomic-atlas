@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "431",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4855481",
+      "4820025",
+      "4794706",
+      "4794577",
+      "4793869",
+      "4793752",
+      "4793653",
+      "4793089",
+      "4792893",
+      "4792772",
+      "4792704",
+      "4792122",
+      "4791885",
+      "4791499",
+      "4790804",
+      "4789057",
+      "4788843",
+      "4787882",
+      "4787690",
+      "4786903"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "OPTN[gene]",
+        "field": "gene",
+        "count": "637",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "OPTN[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

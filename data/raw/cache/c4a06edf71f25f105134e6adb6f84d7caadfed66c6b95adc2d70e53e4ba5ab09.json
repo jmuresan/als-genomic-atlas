@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "PFN1",
+      "associatedDiseases": {
+        "count": 263,
+        "rows": [
+          {
+            "score": 0.7379440663997104,
+            "disease": {
+              "id": "MONDO_0013891",
+              "name": "amyotrophic lateral sclerosis type 18"
+            }
+          },
+          {
+            "score": 0.5771665345358764,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.4850271789903044,
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "score": 0.46541975217604103,
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.3695798546847018,
+            "disease": {
+              "id": "EFO_0020092",
+              "name": "neuroinflammatory disorder"
+            }
+          },
+          {
+            "score": 0.26609749537298527,
+            "disease": {
+              "id": "HP_0002180",
+              "name": "Neurodegeneration"
+            }
+          },
+          {
+            "score": 0.25870589827929125,
+            "disease": {
+              "id": "HP_0007340",
+              "name": "Lower limb muscle weakness"
+            }
+          },
+          {
+            "score": 0.23350003888444087,
+            "disease": {
+              "id": "EFO_0004261",
+              "name": "osteitis deformans"
+            }
+          },
+          {
+            "score": 0.18247106284115613,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.10888312941689739,
+            "disease": {
+              "id": "MONDO_0007254",
+              "name": "breast cancer"
+            }
+          },
+          {
+            "score": 0.1042277089577454,
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            }
+          },
+          {
+            "score": 0.09765121049335788,
+            "disease": {
+              "id": "MONDO_0009685",
+              "name": "Miyoshi myopathy"
+            }
+          },
+          {
+            "score": 0.0830948051205348,
+            "disease": {
+              "id": "EFO_0000182",
+              "name": "hepatocellular carcinoma"
+            }
+          },
+          {
+            "score": 0.07740398347659798,
+            "disease": {
+              "id": "EFO_0003060",
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "score": 0.07449108786201512,
+            "disease": {
+              "id": "EFO_0000519",
+              "name": "glioblastoma multiforme"
+            }
+          },
+          {
+            "score": 0.06615479398856162,
+            "disease": {
+              "id": "HP_0002571",
+              "name": "Achalasia"
+            }
+          },
+          {
+            "score": 0.06289017193884675,
+            "disease": {
+              "id": "MONDO_0005341",
+              "name": "skin basal cell carcinoma"
+            }
+          },
+          {
+            "score": 0.05704875701341355,
+            "disease": {
+              "id": "EFO_0005543",
+              "name": "glioma"
+            }
+          },
+          {
+            "score": 0.05282918168362172,
+            "disease": {
+              "id": "MONDO_0009942",
+              "name": "pyknoachondrogenesis"
+            }
+          },
+          {
+            "score": 0.04854117398419375,
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            }
+          },
+          {
+            "score": 0.04730622139964183,
+            "disease": {
+              "id": "MONDO_0002358",
+              "name": "laryngeal carcinoma"
+            }
+          },
+          {
+            "score": 0.04685162560763628,
+            "disease": {
+              "id": "EFO_0000676",
+              "name": "psoriasis"
+            }
+          },
+          {
+            "score": 0.044630873896007575,
+            "disease": {
+              "id": "Orphanet_98974",
+              "name": "Fuchs endothelial corneal dystrophy"
+            }
+          },
+          {
+            "score": 0.04341879104109636,
+            "disease": {
+              "id": "EFO_0003914",
+              "name": "atherosclerosis"
+            }
+          },
+          {
+            "score": 0.0425838121453373,
+            "disease": {
+              "id": "EFO_0000181",
+              "name": "head and neck squamous cell carcinoma"
+            }
+          },
+          {
+            "score": 0.04108249664675145,
+            "disease": {
+              "id": "MONDO_0007377",
+              "name": "granular corneal dystrophy type I"
+            }
+          },
+          {
+            "score": 0.0399146243059478,
+            "disease": {
+              "id": "MONDO_0800195",
+              "name": "achalasia-alacrima syndrome"
+            }
+          },
+          {
+            "score": 0.038046192818375145,
+            "disease": {
+              "id": "EFO_0003884",
+              "name": "chronic kidney disease"
+            }
+          },
+          {
+            "score": 0.037407891121909724,
+            "disease": {
+              "id": "EFO_0000571",
+              "name": "lung adenocarcinoma"
+            }
+          },
+          {
+            "score": 0.037164950187093614,
+            "disease": {
+              "id": "HP_0002224",
+              "name": "Woolly hair"
+            }
+          },
+          {
+            "score": 0.037164950187093614,
+            "disease": {
+              "id": "MONDO_0008686",
+              "name": "isolated familial wooly hair disorder"
+            }
+          },
+          {
+            "score": 0.03584924590441607,
+            "disease": {
+              "id": "EFO_0000760",
+              "name": "malignant peripheral nerve sheath tumor"
+            }
+          },
+          {
+            "score": 0.03548705764682506,
+            "disease": {
+              "id": "MONDO_0011133",
+              "name": "deaf blind hypopigmentation syndrome, Yemenite type"
+            }
+          },
+          {
+            "score": 0.03545009966135659,
+            "disease": {
+              "id": "MONDO_0007380",
+              "name": "lattice corneal dystrophy type I"
+            }
+          },
+          {
+            "score": 0.03465919877233133,
+            "disease": {
+              "id": "Orphanet_88632",
+              "name": "Familial ocular anterior segment mesenchymal dysgenesis"
+            }
+          },
+          {
+            "score": 0.03453518419887047,
+            "disease": {
+              "id": "EFO_0001361",
+              "name": "pulmonary arterial hypertension"
+            }
+          },
+          {
+            "score": 0.03416396176705384,
+            "disease": {
+              "id": "MONDO_0007077",
+              "name": "Tietz syndrome"
+            }
+          },
+          {
+            "score": 0.03416396176705384,
+            "disease": {
+              "id": "MONDO_0001858",
+              "name": "Tietze syndrome"
+            }
+          },
+          {
+            "score": 0.03394221385424301,
+            "disease": {
+              "id": "MONDO_0010426",
+              "name": "X-linked endothelial corneal dystrophy"
+            }
+          },
+          {
+            "score": 0.033461760043152905,
+            "disease": {
+              "id": "MONDO_0015300",
+              "name": "cataract - microcornea syndrome"
+            }
+          },
+          {
+            "score": 0.033461760043152905,
+            "disease": {
+              "id": "Orphanet_1377",
+              "name": "Cataract-microcornea syndrome"
+            }
+          },
+          {
+            "score": 0.033040439008812345,
+            "disease": {
+              "id": "MONDO_0011855",
+              "name": "granular corneal dystrophy type II"
+            }
+          },
+          {
+            "score": 0.032959131440781705,
+            "disease": {
+              "id": "MONDO_0015198",
+              "name": "aniridia-ptosis-intellectual disability-familial obesity syndrome"
+            }
+          },
+          {
+            "score": 0.032959131440781705,
+            "disease": {
+              "id": "Orphanet_1067",
+              "name": "Aniridia - ptosis - intellectual disability - familial obesity"
+            }
+          },
+          {
+            "score": 0.03259430576580748,
+            "disease": {
+              "id": "EFO_0000400",
+              "name": "diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.03213866416338167,
+            "disease": {
+              "id": "MONDO_0020364",
+              "name": "posterior polymorphous corneal dystrophy"
+            }
+          },
+          {
+            "score": 0.031976049027320395,
+            "disease": {
+              "id": "MONDO_0010649",
+              "name": "isolated congenital megalocornea"
+            }
+          },
+          {
+            "score": 0.031976049027320395,
+            "disease": {
+              "id": "MONDO_0009576",
+              "name": "megalocornea"
+            }
+          },
+          {
+            "score": 0.031365488255280786,
+            "disease": {
+              "id": "EFO_0005537",
+              "name": "triple-negative breast cancer"
+            }
+          },
+          {
+            "score": 0.031266455706325774,
+            "disease": {
+              "id": "MONDO_0013206",
+              "name": "corneal dystrophy, Fuchs endothelial, 6"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

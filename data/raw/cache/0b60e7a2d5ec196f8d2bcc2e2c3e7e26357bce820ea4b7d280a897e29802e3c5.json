@@ -1,0 +1,1589 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03865420",
+          "orgStudyIdInfo": {
+            "id": "AAAR7275"
+          },
+          "organization": {
+            "fullName": "Columbia University",
+            "class": "OTHER"
+          },
+          "briefTitle": "Amyotrophic Lateral Sclerosis (ALS) Families Project",
+          "officialTitle": "Amyotrophic Lateral Sclerosis (ALS) Families Project"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-01",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2018-09-11",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2019-02-25",
+          "studyFirstSubmitQcDate": "2019-03-05",
+          "studyFirstPostDateStruct": {
+            "date": "2019-03-06",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2026-01-05",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-01-07",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Columbia University",
+            "class": "OTHER"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "This program provides family members of individuals with familial ALS the opportunity to contribute to research focused on learning more about why motor neuron degeneration begins and how or why it progresses. This study provides genetic counseling and testing to help participants understand and manage their risk and determine if they want to learn their genetic status. This study will follow unaffected ALS gene mutation carriers on an annual basis to gather essential information that will ultimately help researchers develop novel therapies for the prevention and treatment of ALS.",
+          "detailedDescription": "Approximately 10% of people with amyotrophic lateral sclerosis (ALS), or Lou Gehrig's Disease, have a family history of ALS or a related condition called frontotemporal dementia (FTD). In most of these familial cases, and a significant number of \"sporadic\" patients with no family history, a mutation is present in one of a growing number of genes that have been associated with ALS and/or FTD.\n\nThe ALS Families Project will study unaffected carriers of ALS/FTD-associated gene mutations to investigate the first steps in the disease process that leads to motor neuron degeneration, with the goal of identifying early disease targets and points of intervention to slow or stop disease onset and progression.\n\nUnaffected individuals who have either a family member with a known ALS/FTD-associated gene mutation or have a strong family history of ALS and FTD are invited to participate in the ALS Families Project. For those who enroll, research visits will occur every 6-12 months."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "ALS"
+          ],
+          "keywords": [
+            "Pre-symptomatic",
+            "Familial",
+            "FALS",
+            "Genetic testing",
+            "C9orf72",
+            "SOD1",
+            "TARDBP",
+            "FUS",
+            "VCP",
+            "PFN1"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "FAMILY_BASED",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "DNA, RNA, spinal fluid, plasma, serum and Peripheral blood mononuclear cells (PBMCs)"
+          },
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Time to emergence of symptoms attributable to gene mutations",
+              "description": "Emergence of symptoms will defined by the development of any of the following: a) any weakness on neurological examination, b) evidence of nerve loss on electromyography (EMG)-nerve conduction studies, or c) evidence of cognitive impairment on the ECAS or ALS-Cognitive Behavioral Scale (ALS-CBS).",
+              "timeFrame": "Up to 10 years"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Men or women of any race or ethnicity aged 18 or older\n* No symptoms of ALS or fronto-temporal dementia at enrollment\n* Scenario 1: has already had genetic testing that identified an ALS-spectrum gene mutation.\n* Scenario 2: has a first degree relative who was/is an obligate carrier of a familial ALS-spectrum gene mutation.\n* Scenario 3: has a first degree relative who has/had an ALS-spectrum diagnosis who had a confirmed ALS-spectrum gene mutation or comes from a family with a high burden of ALS-spectrum diagnoses and a known ALS-spectrum gene mutation.\n* Scenario 4: is deemed to be at high risk for carrying an ALS-spectrum gene mutation as judged by a review of the family structure and genetic information by the study team.\n* Willing to undergo genetic analysis, with option of whether or not to learn results\n* Willing to travel to Columbia University Irving Medical Center (CUIMC) every 6-24 months for study procedures\n* Capable of providing informed consent and following study procedures, or has a legally authorized representative who is able to consent for the subject.\n\nExclusion Criteria for participation in biosample portion of the study:\n\n* Known HIV\n* Known hepatitis B\n* Known hepatitis C",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "105 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Unaffected individuals who have either a family member with a known ALS/FTD-associated gene mutation or have a strong family history of ALS and FTD.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Elizabeth Harrington, MS, CGC",
+              "role": "CONTACT",
+              "phone": "347-852-5315",
+              "email": "ALSFamiliesProject@cumc.columbia.edu"
+            },
+            {
+              "name": "Matthew Harms, MD",
+              "role": "CONTACT"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Matthew Harms, MD",
+              "affiliation": "Columbia University",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "Columbia University",
+              "status": "RECRUITING",
+              "city": "New York",
+              "state": "New York",
+              "zip": "10032",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Elizabeth Harrington, MS, CGC",
+                  "role": "CONTACT",
+                  "phone": "347-852-5315",
+                  "email": "ALSFamiliesProject@cumc.columbia.edu"
+                }
+              ],
+              "geoPoint": {
+                "lat": 40.71427,
+                "lon": -74.00597
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "39192497",
+              "type": "DERIVED",
+              "citation": "Lee I, Garret MA, Wuu J, Harrington EA, Berry JD, Miller TM, Harms M, Benatar M, Shneider N. Body mass index is lower in asymptomatic C9orf72 expansion carriers but not in SOD1 pathogenic variant carriers compared to gene negatives. Amyotroph Lateral Scler Frontotemporal Degener. 2024 Nov;25(7-8):672-679. doi: 10.1080/21678421.2024.2396831. Epub 2024 Aug 27."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "C566288",
+              "term": "Frontotemporal Dementia With Motor Neuron Disease"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07567664",
+          "orgStudyIdInfo": {
+            "id": "StG-2016_714388_NeuroTRACK_"
+          },
+          "organization": {
+            "fullName": "IRCCS San Raffaele",
+            "class": "OTHER"
+          },
+          "briefTitle": "Tracking and Predicting How Brain Damage Spreads in Neurodegenerative Diseases",
+          "officialTitle": "Tracking and Predicting Neurodegeneration Spreading Across the Brain Connectome"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-04",
+          "overallStatus": "ENROLLING_BY_INVITATION",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2017-06-01",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-02-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-01",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2025-11-26",
+          "studyFirstSubmitQcDate": "2026-04-30",
+          "studyFirstPostDateStruct": {
+            "date": "2026-05-05",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2026-04-30",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-05-05",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "Prof. Massimo Filippi",
+            "investigatorTitle": "FULL PROFESSOR",
+            "investigatorAffiliation": "IRCCS San Raffaele"
+          },
+          "leadSponsor": {
+            "name": "IRCCS San Raffaele",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "IRCCS Istituto delle Scienze Neurologiche di Bologna",
+              "class": "OTHER"
+            },
+            {
+              "name": "Azienda Ospedaliera San Gerardo di Monza",
+              "class": "OTHER"
+            },
+            {
+              "name": "Istituto Auxologico Italiano",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "Neurodegenerative diseases, including frontotemporal lobar degeneration (FTLD) spectrum syndromes, are characterized by the accumulation of insoluble protein aggregates in the central nervous system. A common feature of these diseases is that pathological changes accumulate over time following a stereotyped spatial pattern, which contributes to the onset and progression of clinical symptoms. Until recently, the causes of such progression were still unknown. Recent pathological and neuroimaging studies have, however, suggested that insoluble and pathological protein aggregates are able to alter the conformation of neighboring proteins and spread through cell-to-cell transmission. According to this theory, called the 'brain connectome,' the brain network is established as a set of nodes, which correspond to different anatomical regions.\n\nThese brain networks are highly connected to each other and their internal organization is fundamental for an efficient integration of information coming from different regions and to guarantee adequate levels of motor/cognitive performance. Thanks to magnetic resonance studies and research in the field of brain networks, it is possible to understand the pathophysiology of neurodegenerative diseases and reveal the connectivity profiles associated with different clinical outcomes.\n\nThe main objective of this project is to explore the mechanisms of neurodegeneration associated with the different FTLD spectrum syndromes, and in particular the hypothesis that the neurodegenerative process is driven by the structural architecture of the brain 'connectome'. The ultimate goal is to apply mathematical models to structural and functional connectivity data to predict the evolution of the neurodegenerative process in sporadic and genetic forms of Frontotemporal Lobar Degeneration Disease.\n\nThis study aims to investigate the spatiotemporal progression of neurodegeneration in frontotemporal lobar degeneration (FTLD) using advanced neuroimaging and connectomics. 360 patients with sporadic FTLD (including bvFTD, semantic and nonfluent PPA, PSPs, CBS, and ALS) and 65 patients with genetic FTLD (MAPT, GRN, and C9orf72 mutati will be enrolled. The study also plans to enroll 120 subjects who are members of families carrying FLTD-associated mutations (including 60 mutation carriers). Finally, 100 healthy controls will also be enrolled, including 50 young healthy controls and 50 healthy controls comparable with patients by sex and age. Participants will undergo clinical, neuropsychological, and behavioral assessments, blood and Cerebrospinal fluid (CSF) collection, and multimodal 3Tesla Magnetic Resonance Imaging MRI at baseline and every 6 months for up to 2 years. Primary objectives include mapping longitudinal changes in structural and functional brain networks, developing predictive models of network degeneration and clinical decline, and characterizing protein-specific patterns of network degeneration. Secondary aims include identifying early network biomarkers in presymptomatic carriers and correlating network changes with biological markers."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neurodegenerative Disease",
+            "Behavioral Variant Frontotemporal Dementia (bvFTD)",
+            "Primary Progressive Aphasia(PPA)",
+            "Progressive Supranuclear Palsy(PSP)",
+            "Amyotrophic Lateral Sclerosis (ALS)",
+            "Cortical Basal Syndrome (CBS)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "interventionModelDescription": "Intervention, multicentric and multiparametric study",
+            "primaryPurpose": "DIAGNOSTIC",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 645,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls",
+              "type": "EXPERIMENTAL",
+              "description": "Partecipants affected by behavioral variant of FTLD (bvFTD), primary progressive aphasia (PPA), semantic variant of PPA (svPPA), non-fluent variant of PPA (nfvPPA), progressive supranuclear paralysis (PSP), corticobasal syndrome (CBS), amyotrophic lateral sclerosis (ALS), genetic and sporadic FTLD. Asymptomatic familiar. Healthy elderly and young controls.",
+              "interventionNames": [
+                "Diagnostic Test: 3 Tesla MRI without contrast medium",
+                "Genetic: Blood sample for genetic analysis",
+                "Diagnostic Test: Cerebrospinal fluid sampling (CSF)",
+                "Diagnostic Test: Neurological evaluation",
+                "Diagnostic Test: Neuropsychological evaluation"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "3 Tesla MRI without contrast medium",
+              "description": "3 Tesla MRI examination without contrast medium in which resting functional MRI sequences, diffusion-weighted sequence, structural MRI sequences will be obtained",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            },
+            {
+              "type": "GENETIC",
+              "name": "Blood sample for genetic analysis",
+              "description": "During the screening/basal visit, a blood sample will be taken to assess the genetic profile of patients, consanguineous family members, and healthy elderly controls. Objective is to evaluate the major genes that have been shown to play a role in the pathogenesis of FTLD The genes GRN, MAPT, C9orf72, TARDBP, SOD1, FUS, OPTN, VCP will be analyzed.",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Cerebrospinal fluid sampling (CSF)",
+              "description": "During the baseline visit, patients will undergo lumbar puncture for the collection of CSF for quantification of biological biomarkers",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Neurological evaluation",
+              "description": "A neurological evaluation will be conducted in order to be able to exclude from the study all participants with a history of psychiatric illness, head injury, alcohol or psychotropic substance use",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Neuropsychological evaluation",
+              "description": "A neuropsychological assessment will be conducted in order to be able to exclude from the study all participants with a history of psychiatric illness, alcohol or psychotropic substance use",
+              "armGroupLabels": [
+                "Participants with the spectrum of FTLD, asymptomatic familiar, healthy elderly and young controls"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Longitudinal change in the structural connectome via Neurite Orientation Dispersion and Density Imaging (NODDI)",
+              "description": "Evaluating structural white matter integrity over time through graph-theoretical analysis based on NODDI-derived metrics",
+              "timeFrame": "6 months, 12 months, 18 months, 24 months"
+            },
+            {
+              "measure": "Longitudinal change in the structural connectome via Diffusion Tensor Imaging (DTI)",
+              "description": "Evaluating structural white matter integrity over time through graph-theoretical analysis",
+              "timeFrame": "6 months, 12 months, 18 months, 24 months"
+            },
+            {
+              "measure": "Longitudinal change in brain functional connectome via functional MRI",
+              "description": "Evaluating functional brain changes in functional brain networks using graph-theoretical analysis of fMRI-derived connectivity",
+              "timeFrame": "6 months, 12 months, 18 months, 24 months"
+            },
+            {
+              "measure": "Prediction of pathological spreading through the structural connectome",
+              "description": "To predict spatial and temporal spreading of neurodegeneration through the structural connectome using network diffusion model",
+              "timeFrame": "6 months, 12 months, 18 months, 24 months"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\nAdult participants, under 85 years of age, diagnosed with bvFTD, semantic variant PPA, non-fluent variant PPA, PSP, CBS, and early-stage ALS, according to the criteria of Rascovsky (2011), Gorno-Tempini (2011), Litvan (1996), Armstrong (2013), and Brooks (2000), respectively;\n\nParticipants with genetic forms of FTLD associated with mutations in the c9orf72, GRN, MAPT genes, and asymptomatic family members related to FTLD patients carrying such mutations\n\nHealthy participants (age between 20 and 30 years old); Healthy participants matched to patients for age and sex\n\nExclusion Criteria:\n\n* Participants with a history of other neurological and/or psychiatric disorders, head trauma, alcohol or psychoactive substance use, or a family history of other neurodegenerative diseases.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "85 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "overallOfficials": [
+            {
+              "name": "Prof. Massimo Filippi",
+              "affiliation": "IRCCS San Raffaele",
+              "role": "STUDY_DIRECTOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "IRCCS San Raffaele",
+              "city": "Milan",
+              "state": "Lombardy",
+              "zip": "20132",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 45.46427,
+                "lon": 9.18951
+              }
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "UNDECIDED",
+          "description": "Still undecided"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D018888",
+              "term": "Aphasia, Primary Progressive"
+            },
+            {
+              "id": "D013494",
+              "term": "Supranuclear Palsy, Progressive"
+            },
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D003704",
+              "term": "Dementia"
+            },
+            {
+              "id": "D001927",
+              "term": "Brain Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D001037",
+              "term": "Aphasia"
+            },
+            {
+              "id": "D013064",
+              "term": "Speech Disorders"
+            },
+            {
+              "id": "D007806",
+              "term": "Language Disorders"
+            },
+            {
+              "id": "D003147",
+              "term": "Communication Disorders"
+            },
+            {
+              "id": "D019954",
+              "term": "Neurobehavioral Manifestations"
+            },
+            {
+              "id": "D009461",
+              "term": "Neurologic Manifestations"
+            },
+            {
+              "id": "D012816",
+              "term": "Signs and Symptoms"
+            },
+            {
+              "id": "D013568",
+              "term": "Pathological Conditions, Signs and Symptoms"
+            },
+            {
+              "id": "D019965",
+              "term": "Neurocognitive Disorders"
+            },
+            {
+              "id": "D001523",
+              "term": "Mental Disorders"
+            },
+            {
+              "id": "D001480",
+              "term": "Basal Ganglia Diseases"
+            },
+            {
+              "id": "D009069",
+              "term": "Movement Disorders"
+            },
+            {
+              "id": "D009886",
+              "term": "Ophthalmoplegia"
+            },
+            {
+              "id": "D015835",
+              "term": "Ocular Motility Disorders"
+            },
+            {
+              "id": "D003389",
+              "term": "Cranial Nerve Diseases"
+            },
+            {
+              "id": "D024801",
+              "term": "Tauopathies"
+            },
+            {
+              "id": "D010243",
+              "term": "Paralysis"
+            },
+            {
+              "id": "D005128",
+              "term": "Eye Diseases"
+            },
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D001800",
+              "term": "Blood Specimen Collection"
+            },
+            {
+              "id": "D005820",
+              "term": "Genetic Testing"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013048",
+              "term": "Specimen Handling"
+            },
+            {
+              "id": "D019411",
+              "term": "Clinical Laboratory Techniques"
+            },
+            {
+              "id": "D019937",
+              "term": "Diagnostic Techniques and Procedures"
+            },
+            {
+              "id": "D003933",
+              "term": "Diagnosis"
+            },
+            {
+              "id": "D011677",
+              "term": "Punctures"
+            },
+            {
+              "id": "D013514",
+              "term": "Surgical Procedures, Operative"
+            },
+            {
+              "id": "D008919",
+              "term": "Investigative Techniques"
+            },
+            {
+              "id": "D005821",
+              "term": "Genetic Techniques"
+            },
+            {
+              "id": "D033142",
+              "term": "Genetic Services"
+            },
+            {
+              "id": "D006296",
+              "term": "Health Services"
+            },
+            {
+              "id": "D005159",
+              "term": "Health Care Facilities Workforce and Services"
+            },
+            {
+              "id": "D003954",
+              "term": "Diagnostic Services"
+            },
+            {
+              "id": "D011314",
+              "term": "Preventive Health Services"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03367650",
+          "orgStudyIdInfo": {
+            "id": "RBM-PAP-2013/55"
+          },
+          "organization": {
+            "fullName": "Centre Hospitalier Universitaire de la Guadeloupe",
+            "class": "OTHER"
+          },
+          "briefTitle": "Epidemiology and Genetics of the Amyotrophic Lateral Sclerosis in the French West Indies",
+          "officialTitle": "Epidemiology and Genetics of the Amyotrophic Lateral Sclerosis in the French West Indies",
+          "acronym": "SLA-DOM"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2017-11",
+          "overallStatus": "UNKNOWN",
+          "lastKnownStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2014-05-13",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2020-05-13",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-13",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2017-11-28",
+          "studyFirstSubmitQcDate": "2017-12-04",
+          "studyFirstPostDateStruct": {
+            "date": "2017-12-11",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2017-12-04",
+          "lastUpdatePostDateStruct": {
+            "date": "2017-12-11",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Centre Hospitalier Universitaire de la Guadeloupe",
+            "class": "OTHER"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "The diagnosis and the follow-up of the patients reached of SLA is centralized, since a few years, at the the Caribbean Reference center of the rare neurological diseases (CERCA labélisé in 2006) in Martinique and at the Unity of coverage of the neuromuscular Diseases, SLA and the rare neurological diseases (create in 2010) in Guadeloupe. Several phenotypic characteristics seemed to us to take out again data collected during the follow-up of the patients (26 in Guadeloupe, since the creation of the unity) in particular patients' high proportion of exceptionally long evolution (more than 10 years). Besides, we diagnosed several cases (10 cases in Guadeloupe since 2000) of association SLA- Parkinsonien Syndrome.\n\nThis association, considered as exceptional could establish a particular phenotypic entity which we would like to describe. We are interested also originally geographical of the patients, with the hypothesis that he could exist in the Antilles one or several geographical isolates of the disease allowing to lead a étiologique investigation in search of a possible genetic or environmental cause.",
+          "detailedDescription": "The amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease characterized by progressive muscular paralysis due to degeneration of motor neurons in the primary motor cortex, corticospinal pathway, brain stem and spinal cord. The incidence is estimated at 2/100 000 per year and prevalence at approximately 4/100000.\n\nVarious clinical forms are described. The disease is fatal is 3-5 years on average.\n\nThe majority of cases are sporadic and of unknown origin but 5-10% are familial and present for 20% of them, mutations in the SOD1 (21q22.11) gene. Other genes have recently been implicated in ALS. Environmental toxic factors have been extensively researched. Beta-methylamino-L-alanine (BMAA), a neurotoxic nonprotein amino acid produced by most cyanobacteria, has been proposed to be the causative agent of the ALS-Parkinsonism Complex on the island of Guam in the Pacific Ocean.\n\nEpidemiology and clinical features of ALS have never been studied in Caribbean countries.\n\nThe main purpose of the study will be to evaluate the incidence of ALS in Guadeloupe and Martinique.\n\nSecondary purposes will be:\n\n1. to evaluate the presence of specific phenotypic features;\n2. to establish he prognosis of different clinical forms;\n3. to study the genes implicated in ALS and quantify theexposure to BMAA.\n\nSince 2000, the diagnosis of ALS is made in about 20 patients per year in Guadeloupe and Martinique(for a total population of 800000 inhabitants) but the incidence and the clinical presentation of ALS in the French West Indiesare unknown.\n\nThe exceptional association of ALS and parkinsonism is regularly observed in Guadeloupe. We propose to perform a prospective descriptive and longitudinal epidemiological study to determine the incidence of ALSin the French West Indies. In parallel we will study the involvement of genetic andenvironmental toxic factors as etiological factor for this disease.\n\nPrimary outcome:\n\n\\- the impact of ALS in Guadeloupe and Martinique\n\nSecondary outcomes:\n\n* Assess the clinical characteristics (presence of phenotypic features?),\n* the prognosis of different clinical forms study,\n* to establish the genetic factors of the ALS and to search potential environmental factors"
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ],
+          "keywords": [
+            "amyotrophic lateral sclerosis",
+            "epidemiology",
+            "genetic",
+            "environmental factor"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "interventionModelDescription": "Bi-centric epidemiological prospective, cross-sectional descriptive study coupled with a longitudinal study.",
+            "primaryPurpose": "DIAGNOSTIC",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "ALS's patients in Guadeloupe and Martinique",
+              "type": "OTHER",
+              "description": "We shall determine:\n\n* Impact of ALS in Guadeloupe and Martinique\n* Prevalence of the ALS in Guadeloupe and Martinique on the duration of the study\n* The distribution of ALS various phenotypes in our population of patients.\n* We shall collect the date of the beginning of the symptoms of the SLA, the date of diagnosis of ALS, the date of death for the same individual and the origin of the death, the weight, the size, the albumin, CRP; in order to establish the forecast of the various clinical forms, the description of the evolution of the nutritional state.\n* Search for transfers of genes TARDBP, VCP, SOD1 known and involved in the disease\n* Search for possible environmental factors",
+              "interventionNames": [
+                "Dietary Supplement: Blood sample and environmental survey"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DIETARY_SUPPLEMENT",
+              "name": "Blood sample and environmental survey",
+              "description": "The intervention corresponds to a 10 ml of Blood sample and an environmental survey.",
+              "armGroupLabels": [
+                "ALS's patients in Guadeloupe and Martinique"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "the impact of amyotrophic lateral sclerosis in Guadeloupe and Martinique",
+              "description": "Number of new cases per year.",
+              "timeFrame": "Through study completion, an average of 6 years"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Estimate prevalence of the ALS",
+              "description": "Determine the total number of case of ALS diagnosed in Guadeloupe and Martinique on the duration of the study",
+              "timeFrame": "Through study completion, an average of 6 years"
+            },
+            {
+              "measure": "Clinical criteria of SLA",
+              "description": "General, neurological, digestive clinical examination and cardiorespiratory complete and the realization of the score \" ALS funtional rating scale \"",
+              "timeFrame": "Through study completion, an average of 9 years"
+            },
+            {
+              "measure": "Study the genetic factors of the ALS",
+              "description": "Search for transfers of genes TARDBP, VCP, SOD1:\n\nAccording to the genealogical data, we shall target the possible family forms to test at these patient's the various genes known and involved in the disease (transfers of the gene SOD1 (21q22.11), of the gene TARDBP (1p36.22) coding the protein TAR DNA-binding protein 43 (TDP-43) and of the gene VCP (9p13.3) coding for the protein Valosin Containing Protein).\n\nFor the sporadic cases the analysis of these genes will be realized on the whole studied population.\n\nFor the family cases the genetic study will be spread in the whole family.",
+              "timeFrame": "Through study completion, an average of 9 years"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient or third-party responsible for receiving information on the study and who signed informed consent ;\n* Patient age over 18 years;\n* Patient living in the Antilles;\n* Patient with ALS or SLP (primary lateral sclerosis, pure central form of ALS).\n\nExclusion Criteria:\n\n* Patient non-affiliated to the social security scheme ;\n* in case of difficulty of monitoring patient, exclusion of the longitudinal study.",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Chantal LERUS, Director of Clinical Research",
+              "role": "CONTACT",
+              "phone": "0590 93 46 86",
+              "phoneExt": "(+590)",
+              "email": "chantal.lerus@chu-guadeloupe.fr"
+            },
+            {
+              "name": "Valérie SOTER, Manager of Reseach",
+              "role": "CONTACT",
+              "phone": "0590 93 46 86",
+              "phoneExt": "(+590)",
+              "email": "valerie.soter@chu-guadeloupe.fr"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Annie LANNUZEL, Professor, Neurological",
+              "affiliation": "Hospital University Center of Pointe-à-Pitre",
+              "role": "STUDY_DIRECTOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "Hospital University Center of Pointe-à-Pitre",
+              "status": "RECRUITING",
+              "city": "Pointe-à-Pitre",
+              "zip": "97159",
+              "country": "Guadeloupe",
+              "contacts": [
+                {
+                  "name": "Chantal LERUS, Director of Clinical Research",
+                  "role": "CONTACT",
+                  "phone": "0590 93 46 86",
+                  "phoneExt": "(+590)",
+                  "email": "chantal.lerus@chu-guadeloupe.fr"
+                },
+                {
+                  "name": "Valérie SOTER, Manager of Reseach",
+                  "role": "CONTACT",
+                  "phone": "0590 93 46 86",
+                  "phoneExt": "(+590)",
+                  "email": "valerie.soter@chu-guadeloupe.fr"
+                },
+                {
+                  "name": "Alice DEMOLY, Neurologist",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 16.23638,
+                "lon": -61.53459
+              }
+            },
+            {
+              "facility": "Hospital University Center of Martinique",
+              "status": "RECRUITING",
+              "city": "Fort-de-France",
+              "zip": "97261",
+              "country": "Martinique",
+              "contacts": [
+                {
+                  "name": "Chantal LERUS, Director of Clinical Research",
+                  "role": "CONTACT",
+                  "phone": "0590 93 46 86",
+                  "phoneExt": "(+590)",
+                  "email": "chantal.lerus@chu-guadeloupe.fr"
+                },
+                {
+                  "name": "Valerie SOTER, Manager of Reseach",
+                  "role": "CONTACT",
+                  "phone": "0590 93 46 86",
+                  "phoneExt": "(+590)",
+                  "email": "valerie.soter@chu-guadeloupe.fr"
+                },
+                {
+                  "name": "Remy BELLANCE, Neurologist",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 14.60365,
+                "lon": -61.07418
+              }
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D001800",
+              "term": "Blood Specimen Collection"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013048",
+              "term": "Specimen Handling"
+            },
+            {
+              "id": "D019411",
+              "term": "Clinical Laboratory Techniques"
+            },
+            {
+              "id": "D019937",
+              "term": "Diagnostic Techniques and Procedures"
+            },
+            {
+              "id": "D003933",
+              "term": "Diagnosis"
+            },
+            {
+              "id": "D011677",
+              "term": "Punctures"
+            },
+            {
+              "id": "D013514",
+              "term": "Surgical Procedures, Operative"
+            },
+            {
+              "id": "D008919",
+              "term": "Investigative Techniques"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06875739",
+          "orgStudyIdInfo": {
+            "id": "SANDY - POC"
+          },
+          "organization": {
+            "fullName": "Fondazione Don Carlo Gnocchi Onlus",
+            "class": "OTHER"
+          },
+          "briefTitle": "An Innovative Method in SAliva Samples for the Early Differential Diagnosis of High-impact NeuroDegenerative Diseases Through Raman Spectroscopy",
+          "officialTitle": "An Innovative Method in SAliva Samples for the Early Differential Diagnosis of High-impact NeuroDegenerative Diseases Through Raman Spectroscopy",
+          "acronym": "SANDY"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2024-10",
+          "overallStatus": "ENROLLING_BY_INVITATION",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2025-02-14",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-10-01",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2025-03-07",
+          "studyFirstSubmitQcDate": "2025-03-11",
+          "studyFirstPostDateStruct": {
+            "date": "2025-03-13",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2025-03-11",
+          "lastUpdatePostDateStruct": {
+            "date": "2025-03-13",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Fondazione Don Carlo Gnocchi Onlus",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "University of Cagliari",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "The aim of the study is to validate a salivary test that allows for rapid and accurate objective diagnosis in the context of neurodegenerative diseases, a complex of diseases that includes Alzheimer's Dementia, Frontotemporal Dementia, Parkinson's Disease, Atypical Parkinsonisms, and Amyotrophic Lateral Sclerosis. In particular, the study aims to validate the salivary method against methods already in use (CSF method) or better studied (blood-based method) to allow early recognition of the disease condition and a distinction between the various diseases in order to receive appropriate therapy when possible.\n\nIn fact, the term neurodegenerative diseases is a broad term that includes disorders characterized by predominantly cognitive, motor, or mixed disorders for which early and accurate diagnosis of the disease is often difficult given also the variability with which these diseases can present. Ab initio recognition of a specific neurodegenerative disease would allow better pharmacological management of this disorder and facilitate the planning of care and rehabilitation interventions. In general, the recognition of neurodegenerative diseases could be facilitated by the use of a biomarker, which is a biological indicator that can be related to the onset or development of a disease. For this reason, it is necessary to compare the biomarker assay of patients with that of controls, so you were asked to participate as a \"Control Subject\" precisely because you do not have neurodegenerative disease.\n\nParticipation in the study involves, in addition to the collection of clinical-demographic data, the performance of a cognitive screening test to attest that your cognitive performance is in the normal range and the collection of biological blood and salivary samples, to be compared with those of participants with neurodegenerative diseases. Apolipoprotein E (ApoE) polymorphism study will be performed on the blood. A genetic polymorphism is a variation in the DNA sequence present in at least 1% of the population, the determination of ApoE polymorphism will allow to define a His genetic characteristic related to a higher or lower risk of developing Alzheimer's Disease. Two specific biomarkers, called neurofilament light chain (NfL) and gliofibrillary acidic protein (GFAP), namely a marker of neurodegeneration and one of neuroinflammation, will also be assayed on blood. Analysis of some inflammatory proteins called cytokines will also be performed.\n\nOn saliva, the biochemical composition will be evaluated with the analysis of particles present within it called vesicles by a method called Raman Spectroscopy, and the assay of specific biomarkers called NfL and GFAP will also be performed on saliva. The diagnosis of pathology made according to clinical diagnostic criteria and supported, when necessary, by the presence of recognized biomarkers (molecular imaging/liquid markers) will be used as a reference to evaluate the diagnostic capabilities of salivary methodology to detect different pathologies and to differentiate a pathological condition from Controls. Finally, the study will also include a comparison of salivary study methods on a group of people who are at a very early stage of disease, in order to detect whether the study performed with portable instrumentation is as good a method as that with laboratory instrumentation. In fact, the use of portable instrumentation would make it even easier to acquire a biomarker quickly directly from the clinic."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neurodegenerative Disorders",
+            "Parkinson Disease",
+            "Alzheimer Disease",
+            "Parkinsonian Disorders",
+            "Fronto-temporal Dementia",
+            "Amyotrophic Lateral Sclerosis"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "CASE_CONTROL",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 310,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "control subjects",
+              "description": "They are subjects admitted to IRCCS Don Gnocchi Florence in the cardiology, pulmonology, and orthopedics departments who have no neurological symptoms or diagnosis of neurological or psychiatric diseases, in the absence of positive family history (relatives I and II degree) for NDDs. Control subjects should be in a clinically stable condition at inclusion, and will be enrolled at least 15 days after the acute event causing hospitalization."
+            },
+            {
+              "label": "cases",
+              "description": "They are individuals with a diagnosis of alzheimer's dementia, diagnosis of fronto-temporal dementia(behavioral variant), diagnosis of Parkinson's disease, clinical diagnosis of Parkinsonisms, and clinical diagnosis of amyotrophic lateral sclerosis."
+            },
+            {
+              "label": "prodromal cases",
+              "description": "Subjects with Parkinson's or Alzheimer's disease or Frontotemporal dementia (behavioral variant) in the prodromal stage according to Berg's criteria."
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Cumulative Illness Rating Scale (CIRS)",
+              "description": "it's a scale that records the comorbidity",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "Neurological Clinical informations",
+              "description": "Presence/absence of symptoms/signs such as presence of speech disorder, hearing loss, low vision, dysphagia, oculomotricity disorder, disorientation, decreased insight, fatuity, perseveration/affacceleration, dx/sn recognition inability, gait disorder, instability/falls, neglect, ideomotor apraxia, signs of frontal release, rigidity/spasticity, bradykinesia, tremor or other involuntary movements, signs of first or second motor neuron, need for use of aids/presence of medical aids.",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "Genetic test",
+              "description": "genetic testing will lead in NDDs and CTRL to the determination of the ApoE polymorphism (categorical variable). In NDDs, diagnostic investigation will aim to confirm/exclude a mutation in one of the disease-causing genes (APP, PS1, PS2, MAPT, PGRN, C9ORF72, SOD 1, TARDBP, VCP) in accordance with the pathological phenotype",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "Plasma test",
+              "description": "NfL and GFAP assay result on plasma (continuous numeric variables)",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "Salivary test",
+              "description": "results of NfL and GFAP assay on saliva (continuous numeric variables)",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "nerological objective examination checklist",
+              "description": "presence/absence of symptoms/signs such as presence of speech disorder, hearing impairment, low vision, dysphagia, oculomotor disorder, disorientation, decreased insight, fatuity, perseveration/affacility, dx/sn recognition inability, gait disorder, instability/falls, neglect, ideomotor apraxia, signs of frontal release, rigidity/spasticity, bradykinesia, tremor or other involuntary movements, signs of first or second motor neuron,need for use of aids/presence of medical aids (categorical variables)",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "UPDRS part III and IV",
+              "description": "evaluation of motor symptoms only for subjects with parkinson's disease or parkinsonisms",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "Hoehn and Yahr Scale",
+              "description": "evaluation of clinical status only for subjects with parkinson's disease",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "NON-MOTOR SYMPTOMS SCALE",
+              "description": "evaluation of non motor symptoms only for subjects with parkinson's disease",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "Functional Rating Scale-Revised (ALSFRS-R)",
+              "description": "evaluation of disability only for subjects with ALS",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "MONTREAL COGNITIVE ASSESSMENT (MOCA)",
+              "description": "Cognitive screening test for all except control subjects",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "denomination test of SAND",
+              "description": "denomination of visual stimuli for all subjects except control cases",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "semantic, phonemic and alternate fluency Test",
+              "description": "semantic, phonemic and alternate fluency Test for all subjects except control cases",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "TRAIL MAKING TEST part A and B",
+              "description": "evaluation of attentional skills for all subjects except control cases",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "STROOP TEST",
+              "description": "evaluation of inhibitory control for all subjects except control cases",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "REY'S 15-WORD TEST",
+              "description": "evaluation of long term memory for all subjects except control cases",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "REY OSTERRIETH COMPLEX FIGURE",
+              "description": "evaluation of visuospatial skills for all subjects except control cases",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "FACE TEST",
+              "description": "evaluation of ability to recognize mental states of others for all subjects except control cases",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "NEUROPSYCHIATRICH INVENTORY (NPI)",
+              "description": "interview assessing behavioral of others for all subjects except control cases",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "FRONTAL ASSESSMENT BATTERY (FAB)",
+              "description": "evaluation of executive functions; for all subjects except control cases",
+              "timeFrame": "at enrollment"
+            },
+            {
+              "measure": "MINIMENTAL STATE EXAMINATION (MMSE)",
+              "description": "cognitive screening only for subjects with ADD and with Mild Cognitive Impairment (MCI)",
+              "timeFrame": "at enrollment"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\nFOR ALL SUBJECTS: between 60 and 85 years old\n\nFOR CASE:\n\n1. ADD: diagnosis of dementia due to AD according to clinical criteria and supported by amyloid biomarkers (biomarkers in CSF or brain PET scan with amyloid-specific tracer) according to the definition biological or neurochemical definition of disease.\n2. FTD: diagnosis of FTD-bv (behavioral variant) according to current clinical criteria.\n3. PD: diagnosis according to MDS criteria; stable drug treatment (last 4 weeks).\n4. APs: clinical diagnosis of Progressive Supranuclear Palsy according to the criteria of Hoglinger 2017, Corticobasal Degeneration according to the criteria of Armostrong 2013, Multisystem Atrophy according to the criteria of Wenning 2022.\n5. ALS: clinical diagnosis according to the criteria of Brooks (2000) and subsequent revisions.\n\nFOR CONTROL SUBJECTS\n\n1. subjects admitted to IRCCS Don Gnocchi Florence in the departments of cardiology, pulmonology, orthopedics\n2. ABSENCE of neurological symptoms\n3. ABSENCE OF diagnosis of neurological or psychiatric diseases.\n4. absence of positive family history (relatives I and II degree) for NDDs.\n5. condition of clinical stability\n6. at least 15 days after the acute event causing hospitalization.\n\nFOR PRODROMAL CASE\n\n1. Prodromal PD according to Berg's criteria.\n2. prodromal FTD-bv according to Barker's criteria\n3. prodromal AD according to the criteria of Dubois and Albert\n\nExclusion Criteria:\n\nFOR CASE\n\n1. Vascular Parkinsonism and other forms of secondary Parkinsonism such as drug-induced, other known or suspected causes (metabolic, brain tumor, etc.).\n2. MoCA\\<15 for subjects with PD\n3. cases with validated biomarkers (CSF and PET) in diagnostic conflict.\n\nFOR ALL SUBJECTS\n\n1. significant comorbidities\n2. presence of severe systemic diseases or previously diagnosed psychiatric illnesses\n3. patients unable to express consent for participation in the study themselves\n4. presence of clinically unstable oral cavity disease (inflammatory/infectious)\n5. time since acute event (if it occurred) \\<15 days\n6. presence of local or systemic infection/inflammation detected on routine examinations.",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "85 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Patients with NDDs will be recruited from participating centers through enrollment. We plan to recruit at least 52 subjects per experimental group (52 ADDs, 52 FTDs, 52 PDs, 52 APs, 52 ALS) and 50 CTRLs. An additional 50 prodromal cases belonging to the PD, FTD behavioral variant, and AD categories.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        },
+        "contactsLocationsModule": {
+          "locations": [
+            {
+              "facility": "Azienda Ospedaliera Universitaria di Cagliari",
+              "city": "Cagliari",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 39.23054,
+                "lon": 9.11917
+              }
+            },
+            {
+              "facility": "IRCCS Fondazione Don Carlo Gnocchi",
+              "city": "Florence",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 43.77925,
+                "lon": 11.24626
+              }
+            },
+            {
+              "facility": "Laboratorio Congiunto di Ricerca DON GNOCCHI - UNIFI neurogenetica in riabilitazione - NGR",
+              "city": "Florence",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 43.77925,
+                "lon": 11.24626
+              }
+            },
+            {
+              "facility": "IRCCS Fondazione Don Carlo Gnocchi, Milano",
+              "city": "Milan",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 42.78235,
+                "lon": 12.59836
+              }
+            }
+          ]
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D010300",
+              "term": "Parkinson Disease"
+            },
+            {
+              "id": "D000544",
+              "term": "Alzheimer Disease"
+            },
+            {
+              "id": "D020734",
+              "term": "Parkinsonian Disorders"
+            },
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D001480",
+              "term": "Basal Ganglia Diseases"
+            },
+            {
+              "id": "D001927",
+              "term": "Brain Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009069",
+              "term": "Movement Disorders"
+            },
+            {
+              "id": "D000080874",
+              "term": "Synucleinopathies"
+            },
+            {
+              "id": "D003704",
+              "term": "Dementia"
+            },
+            {
+              "id": "D024801",
+              "term": "Tauopathies"
+            },
+            {
+              "id": "D019965",
+              "term": "Neurocognitive Disorders"
+            },
+            {
+              "id": "D001523",
+              "term": "Mental Disorders"
+            },
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00317616",
+          "orgStudyIdInfo": {
+            "id": "Pre-fALS"
+          },
+          "organization": {
+            "fullName": "University of Miami",
+            "class": "OTHER"
+          },
+          "briefTitle": "The Pre-symptomatic Familial Amyotrophic Lateral Sclerosis (Pre-fALS) Study",
+          "officialTitle": "The Pre-symptomatic Familial Amyotrophic Lateral Sclerosis (Pre-fALS) Study",
+          "acronym": "Pre-fALS"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-03",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2006-04"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2037-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2037-12",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2006-04-24",
+          "studyFirstSubmitQcDate": "2006-04-24",
+          "studyFirstPostDateStruct": {
+            "date": "2006-04-25",
+            "type": "ESTIMATED"
+          },
+          "lastUpdateSubmitDate": "2026-03-19",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-03-20",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "Michael Benatar",
+            "investigatorTitle": "Professor",
+            "investigatorAffiliation": "University of Miami"
+          },
+          "leadSponsor": {
+            "name": "University of Miami",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "ALS Association",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "Pre-fALS is a prospective natural history and biomarker study of people not yet affected with ALS, but who are at genetic risk for developing ALS. The investigators aim to recruit unaffected (healthy) people from familial ALS (fALS) pedigrees in which a known genetic mutation associated with ALS has been identified; for this study, a fALS pedigree is one with two biologically related individuals who have or have had ALS and/or FTD. Individuals who may be at genetic risk for ALS and who belong to families with at least one affected family member who has tested positive for a known ALS genetic mutation may also be eligible to participate. Our goal is to study the pre-symptomatic phase, onset and progression of ALS and to learn more about genetic and environmental factors that put people at risk for developing ALS.",
+          "detailedDescription": "Healthy individuals from fALS families with a known genetic mutation will be included in this study. We encourage people who have previously undergone genetic testing and were found to carry the mutation that affects their family as well as those who do not know their genetic status to contact us. Those who wish to participate and to learn the results of genetic testing, may do so after undergoing genetic counseling. It is also possible to participate without learning the results of genetic testing. Participants eligible to complete study visits will travel to Miami (at our expense) approximately every 12-24 months for a period of 10 years or longer and will perform various biomarker procedures. Between visits, participants will complete phone calls about their health."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ],
+          "keywords": [
+            "FALS",
+            "SOD1",
+            "familial",
+            "genetic testing",
+            "genetic counseling",
+            "ALS",
+            "C9ORF72",
+            "TARDBP",
+            "VCP",
+            "FUS",
+            "PFN1"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "Serum, Plasma, CSF, DNA, Urine, Cell lines"
+          },
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Unaffected individuals from families in which the genetic cause of ALS is known",
+              "description": "This population would include pre-symptomatic individuals at genetic risk for ALS or a related neurodegenerative disorder (i.e., FTD)."
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Risk Factors for Progression to familial ALS",
+              "timeFrame": "Years"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria\n\n* A member of a family in which a mutation in a gene associated with ALS has been identified.\n* No symptoms to suggest the presence of ALS (i.e. study participants must currently be healthy).\n* Having at least 50% probability of carrying an ALS associated gene mutation based on family pedigree.\n* Willingness to undergo genetic testing, with the option of whether or not to learn the results.\n* Willingness and availability to travel to Miami for a few days approximately every 12 to 24 months to complete biomarker procedures (e.g, MRI, blood draws, spinal tab/lumbar puncture, cognitive testing)\n\nExclusion Criteria\n\n* Diagnosis of ALS\n* Any condition or situation which, in the PI's opinion, could confound the biomarker data or may interfere with the individual's participation and compliance with the study protocol, including but not limited to neurological, psychological and/or medical conditions.",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Healthy individuals who harbor a mutation in a gene associated with ALS.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Anne-Laure M Grignon, MD",
+              "role": "CONTACT",
+              "phone": "1-888-413-9315",
+              "email": "fals@med.miami.edu"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Michael G Benatar, MD, PhD.",
+              "affiliation": "University of Miami",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "University of Miami",
+              "status": "RECRUITING",
+              "city": "Miami",
+              "state": "Florida",
+              "zip": "33136",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Anne-Laure Grignon",
+                  "role": "CONTACT",
+                  "phone": "1-888-413-9315",
+                  "email": "fals@med.miami.edu"
+                },
+                {
+                  "name": "Danielle Dauphin",
+                  "role": "CONTACT"
+                }
+              ],
+              "geoPoint": {
+                "lat": 25.77427,
+                "lon": -80.19366
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "39192497",
+              "type": "DERIVED",
+              "citation": "Lee I, Garret MA, Wuu J, Harrington EA, Berry JD, Miller TM, Harms M, Benatar M, Shneider N. Body mass index is lower in asymptomatic C9orf72 expansion carriers but not in SOD1 pathogenic variant carriers compared to gene negatives. Amyotroph Lateral Scler Frontotemporal Degener. 2024 Nov;25(7-8):672-679. doi: 10.1080/21678421.2024.2396831. Epub 2024 Aug 27."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            },
+            {
+              "id": "C566288",
+              "term": "Frontotemporal Dementia With Motor Neuron Disease"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ]
+}

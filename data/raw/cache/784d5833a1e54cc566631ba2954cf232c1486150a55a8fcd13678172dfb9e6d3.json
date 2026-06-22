@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr2",
+      "dataSource": "HAVANA",
+      "description": "tubulin alpha 4a [Source:HGNC Symbol;Acc:HGNC:12407]",
+      "end": 219278170,
+      "entrezGeneId": 7277,
+      "gencodeId": "ENSG00000127824.13",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "TUBA4A",
+      "geneSymbolUpper": "TUBA4A",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 219249711,
+      "strand": "-",
+      "tss": 219278170
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

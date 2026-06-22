@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "NEFH",
+      "associatedDiseases": {
+        "count": 355,
+        "rows": [
+          {
+            "score": 0.6885381089189695,
+            "disease": {
+              "id": "MONDO_0014836",
+              "name": "Charcot-Marie-Tooth disease axonal type 2CC"
+            }
+          },
+          {
+            "score": 0.4916767397455144,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.3876744624436019,
+            "disease": {
+              "id": "HP_0000924",
+              "name": "Abnormality of the skeletal system"
+            }
+          },
+          {
+            "score": 0.34160592051471333,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.26609749537298527,
+            "disease": {
+              "id": "MONDO_0011633",
+              "name": "Charcot-Marie-Tooth disease axonal type 2C"
+            }
+          },
+          {
+            "score": 0.24731180355146323,
+            "disease": {
+              "id": "EFO_0009455",
+              "name": "lacrimal apparatus disease"
+            }
+          },
+          {
+            "score": 0.18949550347038488,
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.17803247097198513,
+            "disease": {
+              "id": "EFO_0001357",
+              "name": "sporadic amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.17248251970430736,
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "score": 0.16335830816351346,
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "score": 0.163157676616637,
+            "disease": {
+              "id": "MONDO_0005301",
+              "name": "multiple sclerosis"
+            }
+          },
+          {
+            "score": 0.16264713207568687,
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "score": 0.15948672183276444,
+            "disease": {
+              "id": "MONDO_0002561",
+              "name": "lysosomal storage disease"
+            }
+          },
+          {
+            "score": 0.14070983009089427,
+            "disease": {
+              "id": "EFO_0003100",
+              "name": "peripheral neuropathy"
+            }
+          },
+          {
+            "score": 0.090793493385593,
+            "disease": {
+              "id": "EFO_0000731",
+              "name": "uterine fibroid"
+            }
+          },
+          {
+            "score": 0.07675721873089973,
+            "disease": {
+              "id": "EFO_0005922",
+              "name": "esophageal squamous cell carcinoma"
+            }
+          },
+          {
+            "score": 0.07471672728875722,
+            "disease": {
+              "id": "MONDO_0016525",
+              "name": "familial hyperaldosteronism"
+            }
+          },
+          {
+            "score": 0.07391597093694036,
+            "disease": {
+              "id": "MONDO_0002630",
+              "name": "small cell osteogenic sarcoma"
+            }
+          },
+          {
+            "score": 0.07083092626306366,
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            }
+          },
+          {
+            "score": 0.06945189653161069,
+            "disease": {
+              "id": "EFO_0000349",
+              "name": "clear cell renal carcinoma"
+            }
+          },
+          {
+            "score": 0.06410732159360838,
+            "disease": {
+              "id": "Orphanet_231249",
+              "name": "Hemoglobin E - beta-thalassemia"
+            }
+          },
+          {
+            "score": 0.06410732159360838,
+            "disease": {
+              "id": "MONDO_0016491",
+              "name": "hemoglobin E-beta-thalassemia syndrome"
+            }
+          },
+          {
+            "score": 0.05994958643688894,
+            "disease": {
+              "id": "EFO_1001052",
+              "name": "myeloid sarcoma"
+            }
+          },
+          {
+            "score": 0.053921700798497986,
+            "disease": {
+              "id": "MONDO_0016672",
+              "name": "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome"
+            }
+          },
+          {
+            "score": 0.05341866155184381,
+            "disease": {
+              "id": "MONDO_0018899",
+              "name": "posterior cortical atrophy"
+            }
+          },
+          {
+            "score": 0.05232511582626009,
+            "disease": {
+              "id": "MONDO_0019537",
+              "name": "hemoglobin D disease"
+            }
+          },
+          {
+            "score": 0.05188158514951078,
+            "disease": {
+              "id": "HP_0000131",
+              "name": "Uterine leiomyoma"
+            }
+          },
+          {
+            "score": 0.05170422167038978,
+            "disease": {
+              "id": "MONDO_0008087",
+              "name": "hereditary neuropathy with liability to pressure palsies"
+            }
+          },
+          {
+            "score": 0.04979718962021673,
+            "disease": {
+              "id": "Orphanet_255132",
+              "name": "Adult-onset autosomal recessive sideroblastic anemia"
+            }
+          },
+          {
+            "score": 0.049279777823658145,
+            "disease": {
+              "id": "EFO_0004143",
+              "name": "carpal tunnel syndrome"
+            }
+          },
+          {
+            "score": 0.04742448695314093,
+            "disease": {
+              "id": "MONDO_0016489",
+              "name": "delta-beta-thalassemia"
+            }
+          },
+          {
+            "score": 0.04609399947627601,
+            "disease": {
+              "id": "Orphanet_46532",
+              "name": "Hereditary persistence of fetal hemoglobin - beta-thalassemia"
+            }
+          },
+          {
+            "score": 0.04525135740759489,
+            "disease": {
+              "id": "MONDO_0011381",
+              "name": "dominant beta-thalassemia"
+            }
+          },
+          {
+            "score": 0.04519961622793903,
+            "disease": {
+              "id": "MONDO_0008788",
+              "name": "IRIDA syndrome"
+            }
+          },
+          {
+            "score": 0.04435697415925791,
+            "disease": {
+              "id": "MONDO_0014531",
+              "name": "amyotrophic lateral sclerosis type 22"
+            }
+          },
+          {
+            "score": 0.044320016173789445,
+            "disease": {
+              "id": "Orphanet_231242",
+              "name": "Hemoglobin C - beta-thalassemia"
+            }
+          },
+          {
+            "score": 0.044320016173789445,
+            "disease": {
+              "id": "MONDO_0010328",
+              "name": "alpha-thalassemia-myelodysplastic syndrome"
+            }
+          },
+          {
+            "score": 0.044320016173789445,
+            "disease": {
+              "id": "Orphanet_231401",
+              "name": "Alpha-thalassemia - myelodysplastic syndrome"
+            }
+          },
+          {
+            "score": 0.044320016173789445,
+            "disease": {
+              "id": "MONDO_0016490",
+              "name": "hemoglobin C-beta-thalassemia syndrome"
+            }
+          },
+          {
+            "score": 0.043554985874592105,
+            "disease": {
+              "id": "MONDO_0011223",
+              "name": "amyotrophic lateral sclerosis type 4"
+            }
+          },
+          {
+            "score": 0.04332215056614074,
+            "disease": {
+              "id": "MONDO_0020458",
+              "name": "hemolytic anemia due to erythrocyte adenosine deaminase overproduction"
+            }
+          },
+          {
+            "score": 0.042751149690652884,
+            "disease": {
+              "id": "Orphanet_330041",
+              "name": "Autosomal dominant methemoglobinemia"
+            }
+          },
+          {
+            "score": 0.04162947483168481,
+            "disease": {
+              "id": "MONDO_0016243",
+              "name": "hemoglobin E disease"
+            }
+          },
+          {
+            "score": 0.04140409701955183,
+            "disease": {
+              "id": "EFO_0004329",
+              "name": "alcohol drinking"
+            }
+          },
+          {
+            "score": 0.040838573942659544,
+            "disease": {
+              "id": "Orphanet_846",
+              "name": "Alpha-thalassemia"
+            }
+          },
+          {
+            "score": 0.040838573942659544,
+            "disease": {
+              "id": "MONDO_0013517",
+              "name": "beta-thalassemia HBB/LCRB"
+            }
+          },
+          {
+            "score": 0.040838573942659544,
+            "disease": {
+              "id": "MONDO_0011399",
+              "name": "alpha thalassemia spectrum"
+            }
+          },
+          {
+            "score": 0.040838573942659544,
+            "disease": {
+              "id": "MONDO_0019402",
+              "name": "beta thalassemia"
+            }
+          },
+          {
+            "score": 0.040838573942659544,
+            "disease": {
+              "id": "Orphanet_848",
+              "name": "Beta-thalassemia"
+            }
+          },
+          {
+            "score": 0.04076465797172261,
+            "disease": {
+              "id": "MONDO_0013512",
+              "name": "hemoglobin H disease"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

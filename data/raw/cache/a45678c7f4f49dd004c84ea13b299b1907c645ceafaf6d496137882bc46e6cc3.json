@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "273",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4854945",
+      "4848410",
+      "4808632",
+      "4803213",
+      "4803212",
+      "4769272",
+      "4751975",
+      "4741106",
+      "4736901",
+      "4719106",
+      "4711341",
+      "4710599",
+      "4707367",
+      "4699222",
+      "4693362",
+      "4684991",
+      "4542403",
+      "4535488",
+      "4293538",
+      "4292153"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "SOD1[gene]",
+        "field": "gene",
+        "count": "388",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "SOD1[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr9",
+      "dataSource": "HAVANA",
+      "description": "valosin containing protein [Source:HGNC Symbol;Acc:HGNC:12666]",
+      "end": 35073249,
+      "entrezGeneId": 7415,
+      "gencodeId": "ENSG00000165280.15",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "VCP",
+      "geneSymbolUpper": "VCP",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 35056064,
+      "strand": "-",
+      "tss": 35073249
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

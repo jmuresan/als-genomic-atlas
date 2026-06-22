@@ -1,0 +1,592 @@
+{
+  "count": 9,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR000217",
+        "name": "Tubulin",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR11588": "TUBULIN"
+          },
+          "prints": {
+            "PR01161": "TUBULIN"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0007017",
+            "name": "microtubule-based process",
+            "category": {
+              "code": "P",
+              "name": "biological_process"
+            }
+          },
+          {
+            "identifier": "GO:0005874",
+            "name": "microtubule",
+            "category": {
+              "code": "C",
+              "name": "cellular_component"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "p68366",
+          "protein_length": 448,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 2,
+                  "end": 439,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR002452",
+        "name": "Alpha tubulin",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "prints": {
+            "PR01162": "ALPHATUBULIN"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0005200",
+            "name": "structural constituent of cytoskeleton",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          },
+          {
+            "identifier": "GO:0005525",
+            "name": "GTP binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          },
+          {
+            "identifier": "GO:0007017",
+            "name": "microtubule-based process",
+            "category": {
+              "code": "P",
+              "name": "biological_process"
+            }
+          },
+          {
+            "identifier": "GO:0005874",
+            "name": "microtubule",
+            "category": {
+              "code": "C",
+              "name": "cellular_component"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "p68366",
+          "protein_length": 448,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 18,
+                  "end": 33,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 45,
+                  "end": 58,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 88,
+                  "end": 101,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 120,
+                  "end": 128,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 148,
+                  "end": 160,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 161,
+                  "end": 172,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 214,
+                  "end": 226,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 274,
+                  "end": 289,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 321,
+                  "end": 342,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 347,
+                  "end": 360,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 360,
+                  "end": 379,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 385,
+                  "end": 401,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 422,
+                  "end": 438,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR003008",
+        "name": "Tubulin/FtsZ, GTPase domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "prints": {
+            "PR00423": "Cell division protein FtsZ"
+          },
+          "smart": {
+            "SM00864": "Tubulin/FtsZ family, GTPase domain"
+          },
+          "pfam": {
+            "PF00091": "Tubulin/FtsZ family, GTPase domain"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0005525",
+            "name": "GTP binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "p68366",
+          "protein_length": 448,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 3,
+                  "end": 246,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR008280",
+        "name": "Tubulin/FtsZ, C-terminal",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF55307": "Tubulin C-terminal domain-like"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "p68366",
+          "protein_length": 448,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 246,
+                  "end": 437,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR017975",
+        "name": "Tubulin, conserved site",
+        "source_database": "interpro",
+        "type": "conserved_site",
+        "integrated": null,
+        "member_databases": {
+          "prosite": {
+            "PS00227": "Tubulin subunits alpha, beta, and gamma signature"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0005525",
+            "name": "GTP binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          },
+          {
+            "identifier": "GO:0007017",
+            "name": "microtubule-based process",
+            "category": {
+              "code": "P",
+              "name": "biological_process"
+            }
+          },
+          {
+            "identifier": "GO:0005874",
+            "name": "microtubule",
+            "category": {
+              "code": "C",
+              "name": "cellular_component"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "p68366",
+          "protein_length": 448,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 142,
+                  "end": 148,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR018316",
+        "name": "Tubulin/FtsZ, 2-layer sandwich domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "smart": {
+            "SM00865": "Tubulin/FtsZ family, C-terminal domain"
+          },
+          "pfam": {
+            "PF03953": "Tubulin C-terminal domain"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "p68366",
+          "protein_length": 448,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 248,
+                  "end": 393,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR023123",
+        "name": "Tubulin, C-terminal",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:1.10.287.600": "Helix hairpin bin"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "p68366",
+          "protein_length": 448,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 384,
+                  "end": 448,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR036525",
+        "name": "Tubulin/FtsZ, GTPase domain superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF52490": "Tubulin nucleotide-binding domain-like"
+          },
+          "cathgene3d": {
+            "G3DSA:3.40.50.1440": "Tubulin/FtsZ, GTPase domain"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "p68366",
+          "protein_length": 448,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 1,
+                  "end": 268,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR037103",
+        "name": "Tubulin/FtsZ-like, C-terminal domain",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:3.30.1330.20": "Tubulin/FtsZ, C-terminal domain"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "p68366",
+          "protein_length": 448,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 269,
+                  "end": 383,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

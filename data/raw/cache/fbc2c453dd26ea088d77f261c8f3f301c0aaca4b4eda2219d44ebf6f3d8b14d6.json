@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "36",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4805682",
+      "4769749",
+      "3587876",
+      "2628855",
+      "2419182",
+      "2180976",
+      "2138427",
+      "2112040",
+      "1676846",
+      "1511240",
+      "1499447",
+      "1422080",
+      "1400458",
+      "1399847",
+      "1376129",
+      "1350647",
+      "1350059",
+      "1305764",
+      "1298890",
+      "981024"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "NEFH[gene]",
+        "field": "gene",
+        "count": "1154",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "NEFH[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

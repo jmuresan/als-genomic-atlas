@@ -1,0 +1,3161 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4850648",
+      "4845274",
+      "4292992",
+      "3897021",
+      "3897020",
+      "3897019",
+      "3897017",
+      "3780658",
+      "3775518",
+      "3775228",
+      "3577171",
+      "3577170",
+      "3577169",
+      "3577168",
+      "3577167",
+      "3577166",
+      "3577165",
+      "3577164",
+      "3577163",
+      "3577162"
+    ],
+    "4850648": {
+      "uid": "4850648",
+      "obj_type": "Microsatellite",
+      "accession": "VCV004850648",
+      "accession_version": "VCV004850648.1",
+      "title": "NM_025137.4(SPG11):c.5601_5602dup (p.Asn1868fs)",
+      "variation_set": [
+        {
+          "measure_id": "4961667",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.5601_5602dup (p.Asn1868fs)",
+          "cdna_change": "c.5601_5602dup",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44584077",
+              "stop": "44584078",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44584077",
+              "display_stop": "44584078",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44876275",
+              "stop": "44876276",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44876275",
+              "display_stop": "44876276",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Microsatellite",
+          "canonical_spdi": "NC_000015.10:44584077:TCTC:TCTCTC",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007595004"
+        ],
+        "rcv": [
+          "RCV006696681"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2025/08/04 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044584077",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "N1820fs, N1868fs",
+      "fda_recognized_database": ""
+    },
+    "4845274": {
+      "uid": "4845274",
+      "obj_type": "Microsatellite",
+      "accession": "VCV004845274",
+      "accession_version": "VCV004845274.1",
+      "title": "NM_025137.4(SPG11):c.6350_6351del (p.Glu2117fs)",
+      "variation_set": [
+        {
+          "measure_id": "4956351",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.6350_6351del (p.Glu2117fs)",
+          "cdna_change": "c.6350_6351del",
+          "aliases": [
+            "p.Glu2117AlafsTer31"
+          ],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44570651",
+              "stop": "44570652",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44570651",
+              "display_stop": "44570652",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44862849",
+              "stop": "44862850",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44862849",
+              "display_stop": "44862850",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Microsatellite",
+          "canonical_spdi": "NC_000015.10:44570650:CTCT:CT",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007579206"
+        ],
+        "rcv": [
+          "RCV006683947"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2026/03/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044570651",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "E2004fs, E2069fs, E2117fs",
+      "fda_recognized_database": ""
+    },
+    "4292992": {
+      "uid": "4292992",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004292992",
+      "accession_version": "VCV004292992.1",
+      "title": "NM_025137.4(SPG11):c.5380C>G (p.Leu1794Val)",
+      "variation_set": [
+        {
+          "measure_id": "4405518",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.5380C>G (p.Leu1794Val)",
+          "cdna_change": "c.5380C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44584300",
+              "stop": "44584300",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44584300",
+              "display_stop": "44584300",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44876498",
+              "stop": "44876498",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44876498",
+              "display_stop": "44876498",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:44584299:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006582957"
+        ],
+        "rcv": [
+          "RCV005885781"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/06/26 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044584300",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "L1746V, L1794V",
+      "fda_recognized_database": ""
+    },
+    "3897021": {
+      "uid": "3897021",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003897021",
+      "accession_version": "VCV003897021.1",
+      "title": "NM_025137.4(SPG11):c.3332T>G (p.Val1111Gly)",
+      "variation_set": [
+        {
+          "measure_id": "4012879",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.3332T>G (p.Val1111Gly)",
+          "cdna_change": "c.3332T>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44608565",
+              "stop": "44608565",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44608565",
+              "display_stop": "44608565",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44900763",
+              "stop": "44900763",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44900763",
+              "display_stop": "44900763",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:44608564:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006075284"
+        ],
+        "rcv": [
+          "RCV005410343"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/01/09 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044608565",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "V1111G",
+      "fda_recognized_database": ""
+    },
+    "3897020": {
+      "uid": "3897020",
+      "obj_type": "Insertion",
+      "accession": "VCV003897020",
+      "accession_version": "VCV003897020.1",
+      "title": "NM_025137.4(SPG11):c.3743_3744insCTACC (p.Ser1249fs)",
+      "variation_set": [
+        {
+          "measure_id": "4012878",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.3743_3744insCTACC (p.Ser1249fs)",
+          "cdna_change": "c.3743_3744insCTACC",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44598779",
+              "stop": "44598780",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44598779",
+              "display_stop": "44598780",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44890977",
+              "stop": "44890978",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44890977",
+              "display_stop": "44890978",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Insertion",
+          "canonical_spdi": "NC_000015.10:44598779:GGTA:GGTAGGGTA",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006075283"
+        ],
+        "rcv": [
+          "RCV005410342"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2024/01/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044598779",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "S1249fs",
+      "fda_recognized_database": ""
+    },
+    "3897019": {
+      "uid": "3897019",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003897019",
+      "accession_version": "VCV003897019.1",
+      "title": "NM_025137.4(SPG11):c.3764T>A (p.Val1255Asp)",
+      "variation_set": [
+        {
+          "measure_id": "4012877",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.3764T>A (p.Val1255Asp)",
+          "cdna_change": "c.3764T>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44598759",
+              "stop": "44598759",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44598759",
+              "display_stop": "44598759",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44890957",
+              "stop": "44890957",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44890957",
+              "display_stop": "44890957",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:44598758:A:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006075282"
+        ],
+        "rcv": [
+          "RCV005410341"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2021/01/09 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044598759",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "V1255D",
+      "fda_recognized_database": ""
+    },
+    "3897017": {
+      "uid": "3897017",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003897017",
+      "accession_version": "VCV003897017.1",
+      "title": "NM_025137.4(SPG11):c.6362T>C (p.Leu2121Pro)",
+      "variation_set": [
+        {
+          "measure_id": "4012875",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.6362T>C (p.Leu2121Pro)",
+          "cdna_change": "c.6362T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44570640",
+              "stop": "44570640",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44570640",
+              "display_stop": "44570640",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44862838",
+              "stop": "44862838",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44862838",
+              "display_stop": "44862838",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:44570639:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006075279"
+        ],
+        "rcv": [
+          "RCV005410339"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/01/31 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044570640",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "L2008P, L2073P, L2121P",
+      "fda_recognized_database": ""
+    },
+    "3780658": {
+      "uid": "3780658",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003780658",
+      "accession_version": "VCV003780658.1",
+      "title": "NM_025137.4(SPG11):c.751C>T (p.Gln251Ter)",
+      "variation_set": [
+        {
+          "measure_id": "3896622",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.751C>T (p.Gln251Ter)",
+          "cdna_change": "c.751C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44657213",
+              "stop": "44657213",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44657213",
+              "display_stop": "44657213",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44949411",
+              "stop": "44949411",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44949411",
+              "display_stop": "44949411",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:44657212:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005915119"
+        ],
+        "rcv": [
+          "RCV005356832"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2023/02/01 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044657213",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "nonsense"
+      ],
+      "protein_change": "Q251*",
+      "fda_recognized_database": ""
+    },
+    "3775518": {
+      "uid": "3775518",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003775518",
+      "accession_version": "VCV003775518.1",
+      "title": "NM_025137.4(SPG11):c.2120T>C (p.Phe707Ser)",
+      "variation_set": [
+        {
+          "measure_id": "3891666",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.2120T>C (p.Phe707Ser)",
+          "cdna_change": "c.2120T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44626455",
+              "stop": "44626455",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44626455",
+              "display_stop": "44626455",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44918653",
+              "stop": "44918653",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44918653",
+              "display_stop": "44918653",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:44626454:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005905629"
+        ],
+        "rcv": [
+          "RCV005252509"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/08/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044626455",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "F707S",
+      "fda_recognized_database": ""
+    },
+    "3775228": {
+      "uid": "3775228",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003775228",
+      "accession_version": "VCV003775228.1",
+      "title": "NM_025137.4(SPG11):c.4831C>T (p.Gln1611Ter)",
+      "variation_set": [
+        {
+          "measure_id": "3891377",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.4831C>T (p.Gln1611Ter)",
+          "cdna_change": "c.4831C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44589327",
+              "stop": "44589327",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44589327",
+              "display_stop": "44589327",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44881525",
+              "stop": "44881525",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44881525",
+              "display_stop": "44881525",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:44589326:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005904197"
+        ],
+        "rcv": [
+          "RCV005252219"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2023/08/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044589327",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "nonsense"
+      ],
+      "protein_change": "Q1611*",
+      "fda_recognized_database": ""
+    },
+    "3577171": {
+      "uid": "3577171",
+      "obj_type": "Deletion",
+      "accession": "VCV003577171",
+      "accession_version": "VCV003577171.1",
+      "title": "NM_025137.4(SPG11):c.793del (p.Ser265fs)",
+      "variation_set": [
+        {
+          "measure_id": "3707912",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.793del (p.Ser265fs)",
+          "cdna_change": "c.793del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44657171",
+              "stop": "44657171",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44657171",
+              "display_stop": "44657171",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44949369",
+              "stop": "44949369",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44949369",
+              "display_stop": "44949369",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000015.10:44657170:AAA:AA",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005637757"
+        ],
+        "rcv": [
+          "RCV005009635"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2024/06/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044657171",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "S265fs",
+      "fda_recognized_database": ""
+    },
+    "3577170": {
+      "uid": "3577170",
+      "obj_type": "Duplication",
+      "accession": "VCV003577170",
+      "accession_version": "VCV003577170.2",
+      "title": "NM_025137.4(SPG11):c.856_857dup (p.Asn286fs)",
+      "variation_set": [
+        {
+          "measure_id": "3707911",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.856_857dup (p.Asn286fs)",
+          "cdna_change": "c.856_857dup",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44657106",
+              "stop": "44657107",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44657106",
+              "display_stop": "44657107",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44949304",
+              "stop": "44949305",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44949304",
+              "display_stop": "44949305",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Duplication",
+          "canonical_spdi": "NC_000015.10:44657106:TTT:TTTTT",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005637756",
+          "SCV006584852"
+        ],
+        "rcv": [
+          "RCV005009634",
+          "RCV005867230"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2024/09/12 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044657106",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "N286fs",
+      "fda_recognized_database": ""
+    },
+    "3577169": {
+      "uid": "3577169",
+      "obj_type": "Deletion",
+      "accession": "VCV003577169",
+      "accession_version": "VCV003577169.1",
+      "title": "NM_025137.4(SPG11):c.1275del (p.Ile425fs)",
+      "variation_set": [
+        {
+          "measure_id": "3707910",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.1275del (p.Ile425fs)",
+          "cdna_change": "c.1275del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44651672",
+              "stop": "44651672",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44651672",
+              "display_stop": "44651672",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44943870",
+              "stop": "44943870",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44943870",
+              "display_stop": "44943870",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000015.10:44651671:T:",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005637753"
+        ],
+        "rcv": [
+          "RCV005009633"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2024/03/15 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044651672",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "I425fs",
+      "fda_recognized_database": ""
+    },
+    "3577168": {
+      "uid": "3577168",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003577168",
+      "accession_version": "VCV003577168.1",
+      "title": "NM_025137.4(SPG11):c.1820C>G (p.Ser607Ter)",
+      "variation_set": [
+        {
+          "measure_id": "3707908",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.1820C>G (p.Ser607Ter)",
+          "cdna_change": "c.1820C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44629304",
+              "stop": "44629304",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44629304",
+              "display_stop": "44629304",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44921502",
+              "stop": "44921502",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44921502",
+              "display_stop": "44921502",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:44629303:G:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005637919"
+        ],
+        "rcv": [
+          "RCV005009632"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2024/02/26 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044629304",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "nonsense"
+      ],
+      "protein_change": "S607*",
+      "fda_recognized_database": ""
+    },
+    "3577167": {
+      "uid": "3577167",
+      "obj_type": "Deletion",
+      "accession": "VCV003577167",
+      "accession_version": "VCV003577167.1",
+      "title": "NM_025137.4(SPG11):c.1845_1848del (p.Phe617fs)",
+      "variation_set": [
+        {
+          "measure_id": "3707907",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.1845_1848del (p.Phe617fs)",
+          "cdna_change": "c.1845_1848del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44629276",
+              "stop": "44629279",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44629276",
+              "display_stop": "44629279",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44921474",
+              "stop": "44921477",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44921474",
+              "display_stop": "44921477",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000015.10:44629275:AGACAG:AG",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005637917"
+        ],
+        "rcv": [
+          "RCV005009631"
+        ]
+      },
+      "germline_classification": {
+        "description": "Pathogenic",
+        "last_evaluated": "2024/04/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044629276",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "F617fs",
+      "fda_recognized_database": ""
+    },
+    "3577166": {
+      "uid": "3577166",
+      "obj_type": "Deletion",
+      "accession": "VCV003577166",
+      "accession_version": "VCV003577166.1",
+      "title": "NM_025137.4(SPG11):c.1987_1988del (p.Asp663fs)",
+      "variation_set": [
+        {
+          "measure_id": "3707906",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.1987_1988del (p.Asp663fs)",
+          "cdna_change": "c.1987_1988del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44628748",
+              "stop": "44628749",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44628748",
+              "display_stop": "44628749",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44920946",
+              "stop": "44920947",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44920946",
+              "display_stop": "44920947",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000015.10:44628747:TCT:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005637916"
+        ],
+        "rcv": [
+          "RCV005009630"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2024/06/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044628748",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "D663fs",
+      "fda_recognized_database": ""
+    },
+    "3577165": {
+      "uid": "3577165",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003577165",
+      "accession_version": "VCV003577165.1",
+      "title": "NM_025137.4(SPG11):c.2863G>T (p.Glu955Ter)",
+      "variation_set": [
+        {
+          "measure_id": "3707905",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.2863G>T (p.Glu955Ter)",
+          "cdna_change": "c.2863G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44615538",
+              "stop": "44615538",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44615538",
+              "display_stop": "44615538",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44907736",
+              "stop": "44907736",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44907736",
+              "display_stop": "44907736",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:44615537:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005637907"
+        ],
+        "rcv": [
+          "RCV005009629"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2024/04/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044615538",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "nonsense"
+      ],
+      "protein_change": "E955*",
+      "fda_recognized_database": ""
+    },
+    "3577164": {
+      "uid": "3577164",
+      "obj_type": "Deletion",
+      "accession": "VCV003577164",
+      "accession_version": "VCV003577164.1",
+      "title": "NM_025137.4(SPG11):c.2984_2985del (p.Tyr995fs)",
+      "variation_set": [
+        {
+          "measure_id": "3707904",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.2984_2985del (p.Tyr995fs)",
+          "cdna_change": "c.2984_2985del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44615416",
+              "stop": "44615417",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44615416",
+              "display_stop": "44615417",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44907614",
+              "stop": "44907615",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44907614",
+              "display_stop": "44907615",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000015.10:44615415:ATA:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005637906"
+        ],
+        "rcv": [
+          "RCV005009628"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2024/01/24 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044615416",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "Y995fs",
+      "fda_recognized_database": ""
+    },
+    "3577163": {
+      "uid": "3577163",
+      "obj_type": "Duplication",
+      "accession": "VCV003577163",
+      "accession_version": "VCV003577163.1",
+      "title": "NM_025137.4(SPG11):c.3016dup (p.Tyr1006fs)",
+      "variation_set": [
+        {
+          "measure_id": "3707903",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.3016dup (p.Tyr1006fs)",
+          "cdna_change": "c.3016dup",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44615384",
+              "stop": "44615385",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44615384",
+              "display_stop": "44615385",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44907582",
+              "stop": "44907583",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44907582",
+              "display_stop": "44907583",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Duplication",
+          "canonical_spdi": "NC_000015.10:44615384:AAA:AAAA",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005637905"
+        ],
+        "rcv": [
+          "RCV005009627"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2024/03/19 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044615384",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "frameshift variant"
+      ],
+      "protein_change": "Y1006fs",
+      "fda_recognized_database": ""
+    },
+    "3577162": {
+      "uid": "3577162",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003577162",
+      "accession_version": "VCV003577162.1",
+      "title": "NM_025137.4(SPG11):c.3039-1G>A",
+      "variation_set": [
+        {
+          "measure_id": "3707902",
+          "variation_xrefs": [],
+          "variation_name": "NM_025137.4(SPG11):c.3039-1G>A",
+          "cdna_change": "NM_025137.4(SPG11):c.3039-1G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44613537",
+              "stop": "44613537",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44613537",
+              "display_stop": "44613537",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.1",
+              "start": "44905735",
+              "stop": "44905735",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "44905735",
+              "display_stop": "44905735",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:44613536:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005637904"
+        ],
+        "rcv": [
+          "RCV005009626"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic",
+        "last_evaluated": "2024/04/17 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "2822"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1858479"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011445"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604360"
+              }
+            ],
+            "trait_name": "Hereditary spastic paraplegia 11"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "466775"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C5569024"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014726"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616668"
+              }
+            ],
+            "trait_name": "Charcot-Marie-Tooth disease axonal type 2X"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C1865864"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011196"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "602099"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis type 5"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "SPG11",
+      "chr_sort": "15",
+      "location_sort": "00000000000044613537",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "SPG11",
+          "geneid": "80208",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "splice acceptor variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    }
+  }
+}

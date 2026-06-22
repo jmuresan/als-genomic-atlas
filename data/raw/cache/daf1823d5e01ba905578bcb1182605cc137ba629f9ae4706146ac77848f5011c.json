@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "463",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4810529",
+      "4810278",
+      "4807953",
+      "4807823",
+      "4806862",
+      "4804675",
+      "4804562",
+      "4803922",
+      "4803068",
+      "4803067",
+      "4803064",
+      "4799433",
+      "4798712",
+      "4797566",
+      "4796855",
+      "4778028",
+      "4774148",
+      "4771075",
+      "4768377",
+      "4763332"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "TBK1[gene]",
+        "field": "gene",
+        "count": "634",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "TBK1[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

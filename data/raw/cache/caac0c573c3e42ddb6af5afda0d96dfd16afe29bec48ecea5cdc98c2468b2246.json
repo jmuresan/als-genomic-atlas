@@ -1,0 +1,366 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "VAPB",
+      "associatedDiseases": {
+        "count": 313,
+        "rows": [
+          {
+            "score": 0.7282213787361973,
+            "disease": {
+              "id": "MONDO_0012077",
+              "name": "amyotrophic lateral sclerosis type 8"
+            }
+          },
+          {
+            "score": 0.6522143147972859,
+            "disease": {
+              "id": "MONDO_0008453",
+              "name": "adult-onset proximal spinal muscular atrophy, autosomal dominant"
+            }
+          },
+          {
+            "score": 0.4669708245480237,
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "score": 0.41621781731829316,
+            "disease": {
+              "id": "EFO_0022918",
+              "name": "amyotrophic lateral sclerosis, dominant"
+            }
+          },
+          {
+            "score": 0.4016075620169975,
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.3372777449790728,
+            "disease": {
+              "id": "EFO_0004329",
+              "name": "alcohol drinking"
+            }
+          },
+          {
+            "score": 0.286247141334012,
+            "disease": {
+              "id": "MONDO_0005148",
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.277416610655893,
+            "disease": {
+              "id": "EFO_0008546",
+              "name": "poisoning"
+            }
+          },
+          {
+            "score": 0.2227120506827974,
+            "disease": {
+              "id": "EFO_0000384",
+              "name": "Crohn's disease"
+            }
+          },
+          {
+            "score": 0.19119470364426527,
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            }
+          },
+          {
+            "score": 0.10654696204136618,
+            "disease": {
+              "id": "Orphanet_552",
+              "name": "MODY"
+            }
+          },
+          {
+            "score": 0.0966360978258239,
+            "disease": {
+              "id": "MONDO_0005147",
+              "name": "type 1 diabetes mellitus"
+            }
+          },
+          {
+            "score": 0.08180814341159065,
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            }
+          },
+          {
+            "score": 0.07934674157939056,
+            "disease": {
+              "id": "EFO_0002939",
+              "name": "medulloblastoma"
+            }
+          },
+          {
+            "score": 0.07931510138581024,
+            "disease": {
+              "id": "EFO_0000540",
+              "name": "immune system disease"
+            }
+          },
+          {
+            "score": 0.07396654746050338,
+            "disease": {
+              "id": "MONDO_0007254",
+              "name": "breast cancer"
+            }
+          },
+          {
+            "score": 0.07101846487621229,
+            "disease": {
+              "id": "MONDO_0007453",
+              "name": "maturity-onset diabetes of the young type 2"
+            }
+          },
+          {
+            "score": 0.07101846487621229,
+            "disease": {
+              "id": "MONDO_0011668",
+              "name": "maturity-onset diabetes of the young type 6"
+            }
+          },
+          {
+            "score": 0.07101846487621229,
+            "disease": {
+              "id": "MONDO_0011667",
+              "name": "maturity-onset diabetes of the young type 4"
+            }
+          },
+          {
+            "score": 0.07022017239009334,
+            "disease": {
+              "id": "MONDO_0009061",
+              "name": "cystic fibrosis"
+            }
+          },
+          {
+            "score": 0.06942927150106809,
+            "disease": {
+              "id": "MONDO_0002009",
+              "name": "major depressive disorder"
+            }
+          },
+          {
+            "score": 0.06744093188286439,
+            "disease": {
+              "id": "MONDO_0012480",
+              "name": "diabetes mellitus, transient neonatal, 2"
+            }
+          },
+          {
+            "score": 0.06694015117976662,
+            "disease": {
+              "id": "MONDO_0010404",
+              "name": "X-linked non progressive cerebellar ataxia"
+            }
+          },
+          {
+            "score": 0.0658221721193454,
+            "disease": {
+              "id": "MONDO_0100352",
+              "name": "episodic kinesigenic dyskinesia 1"
+            }
+          },
+          {
+            "score": 0.0636210126235801,
+            "disease": {
+              "id": "Orphanet_2828",
+              "name": "Young adult-onset Parkinsonism"
+            }
+          },
+          {
+            "score": 0.060969588627335265,
+            "disease": {
+              "id": "MONDO_0010747",
+              "name": "X-linked dystonia-parkinsonism"
+            }
+          },
+          {
+            "score": 0.06095850123169471,
+            "disease": {
+              "id": "EFO_0003888",
+              "name": "attention deficit hyperactivity disorder"
+            }
+          },
+          {
+            "score": 0.06083214227279572,
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "score": 0.06006801910404608,
+            "disease": {
+              "id": "EFO_0003108",
+              "name": "essential tremor"
+            }
+          },
+          {
+            "score": 0.05884820026144507,
+            "disease": {
+              "id": "MONDO_0014627",
+              "name": "dystonia 27"
+            }
+          },
+          {
+            "score": 0.05862645234863425,
+            "disease": {
+              "id": "MONDO_0044637",
+              "name": "infantile-onset generalized dyskinesia with orofacial involvement"
+            }
+          },
+          {
+            "score": 0.058130496715861533,
+            "disease": {
+              "id": "Orphanet_411602",
+              "name": "Hereditary late-onset Parkinson disease"
+            }
+          },
+          {
+            "score": 0.05797968760293602,
+            "disease": {
+              "id": "MONDO_0010894",
+              "name": "maturity-onset diabetes of the young type 3"
+            }
+          },
+          {
+            "score": 0.05643114801180712,
+            "disease": {
+              "id": "MONDO_0011950",
+              "name": "infantile-onset autosomal recessive nonprogressive cerebellar ataxia"
+            }
+          },
+          {
+            "score": 0.05523001348408183,
+            "disease": {
+              "id": "MONDO_0007309",
+              "name": "Charcot-Marie-Tooth disease type 1A"
+            }
+          },
+          {
+            "score": 0.05499533027635705,
+            "disease": {
+              "id": "MONDO_0012098",
+              "name": "spinocerebellar ataxia type 20"
+            }
+          },
+          {
+            "score": 0.054626608995803884,
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "score": 0.05461466302603181,
+            "disease": {
+              "id": "EFO_0009040",
+              "name": "Cranio-cervical dystonia with laryngeal and upper-limb involvement"
+            }
+          },
+          {
+            "score": 0.053840393230467354,
+            "disease": {
+              "id": "MONDO_0011569",
+              "name": "Charcot-Marie-Tooth disease type 2B1"
+            }
+          },
+          {
+            "score": 0.0529164435937556,
+            "disease": {
+              "id": "Orphanet_98807",
+              "name": "Primary dystonia, DYT13 type"
+            }
+          },
+          {
+            "score": 0.052060866230160506,
+            "disease": {
+              "id": "MONDO_0011674",
+              "name": "Charcot-Marie-Tooth disease dominant intermediate B"
+            }
+          },
+          {
+            "score": 0.052060866230160506,
+            "disease": {
+              "id": "Orphanet_100044",
+              "name": "Autosomal dominant intermediate Charcot-Marie-Tooth disease type B"
+            }
+          },
+          {
+            "score": 0.05179661663406095,
+            "disease": {
+              "id": "Orphanet_101150",
+              "name": "Autosomal recessive dopa-responsive dystonia"
+            }
+          },
+          {
+            "score": 0.05179661663406095,
+            "disease": {
+              "id": "MONDO_0011551",
+              "name": "TH-deficient dopa-responsive dystonia"
+            }
+          },
+          {
+            "score": 0.05179107293624068,
+            "disease": {
+              "id": "MONDO_0010482",
+              "name": "X-linked parkinsonism-spasticity syndrome"
+            }
+          },
+          {
+            "score": 0.05129768383023661,
+            "disease": {
+              "id": "EFO_0009057",
+              "name": "Spinocerebellar ataxia type 40"
+            }
+          },
+          {
+            "score": 0.05096506196102037,
+            "disease": {
+              "id": "MONDO_0013548",
+              "name": "acetyl-CoA acetyltransferase-2 deficiency"
+            }
+          },
+          {
+            "score": 0.05084679640752127,
+            "disease": {
+              "id": "MONDO_0859380",
+              "name": "episodic kinesigenic dyskinesia 3"
+            }
+          },
+          {
+            "score": 0.05066200648017893,
+            "disease": {
+              "id": "MONDO_0013240",
+              "name": "maturity-onset diabetes of the young type 10"
+            }
+          },
+          {
+            "score": 0.050543740926679806,
+            "disease": {
+              "id": "MONDO_0011223",
+              "name": "amyotrophic lateral sclerosis type 4"
+            }
+          }
+        ]
+      },
+      "drugAndClinicalCandidates": {
+        "count": 0,
+        "rows": []
+      }
+    }
+  }
+}

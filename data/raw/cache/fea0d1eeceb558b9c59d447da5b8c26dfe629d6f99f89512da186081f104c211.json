@@ -1,0 +1,2050 @@
+{
+  "numberOfHits": 56,
+  "results": [
+    {
+      "id": "UniProtKB:P68366!58680519",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0003924",
+      "goName": null,
+      "goEvidence": "ISS",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000250",
+      "reference": "GO_REF:0000024",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P68363"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "UniProt",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20251027",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680520",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005200",
+      "goName": null,
+      "goEvidence": "IEA",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000256",
+      "reference": "GO_REF:0000002",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "InterPro",
+              "id": "IPR002452"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "InterPro",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260616",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680521",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005200",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "CGD",
+              "id": "CAL0000176403"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0003886"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0003888"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0052396"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:107812"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:107814"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000172598"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "SGD",
+              "id": "S000001857"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "SGD",
+              "id": "S000004202"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "SGD",
+              "id": "S000004593"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P18695"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P24633"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P68363"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q13509"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "dictyBase",
+              "id": "DDB_G0269196"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "dictyBase",
+              "id": "DDB_G0287689"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20250902",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680522",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005515",
+      "goName": null,
+      "goEvidence": "IPI",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000353",
+      "reference": "PMID:16455083",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P30622"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "IntAct",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260613",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680523",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005515",
+      "goName": null,
+      "goEvidence": "IPI",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000353",
+      "reference": "PMID:20855515",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q4G4D4"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "AgBase",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20170807",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680524",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005515",
+      "goName": null,
+      "goEvidence": "IPI",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000353",
+      "reference": "PMID:28514442",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q8N4U5"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "IntAct",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260613",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680525",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005515",
+      "goName": null,
+      "goEvidence": "IPI",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000353",
+      "reference": "PMID:28514442",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q99426"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "IntAct",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260613",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680526",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005515",
+      "goName": null,
+      "goEvidence": "IPI",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000353",
+      "reference": "PMID:30845169",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q8NA72"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "IntAct",
+      "extensions": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "GO",
+              "id": "0005929",
+              "relation": "occurs_in"
+            }
+          ]
+        }
+      ],
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260613",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680527",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005515",
+      "goName": null,
+      "goEvidence": "IPI",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000353",
+      "reference": "PMID:32296183",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q8N4U5"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "IntAct",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260613",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680528",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005515",
+      "goName": null,
+      "goEvidence": "IPI",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000353",
+      "reference": "PMID:32814053",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P05067"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "IntAct",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260613",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680529",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005515",
+      "goName": null,
+      "goEvidence": "IPI",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000353",
+      "reference": "PMID:33961781",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q8N4U5"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "IntAct",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260613",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680530",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005515",
+      "goName": null,
+      "goEvidence": "IPI",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000353",
+      "reference": "PMID:33961781",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q99426"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "IntAct",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260613",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680531",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005515",
+      "goName": null,
+      "goEvidence": "IPI",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000353",
+      "reference": "PMID:40205054",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q8N4U5"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "IntAct",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260613",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680532",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005525",
+      "goName": null,
+      "goEvidence": "IEA",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000256",
+      "reference": "GO_REF:0000002",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "InterPro",
+              "id": "IPR002452"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "InterPro",
+              "id": "IPR003008"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "InterPro",
+              "id": "IPR017975"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "InterPro",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260616",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680533",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0005525",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0010097"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0260639"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:98869"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000172598"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P68363"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q13509"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20230110",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680534",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0019899",
+      "goName": null,
+      "goEvidence": "IEA",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000265",
+      "reference": "GO_REF:0000107",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P68368"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "ensembl",
+              "id": "ENSMUSP00000140657"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "Ensembl",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260609",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680535",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "enables",
+      "goId": "GO:0019901",
+      "goName": null,
+      "goEvidence": "IPI",
+      "goAspect": "molecular_function",
+      "evidenceCode": "ECO:0000353",
+      "reference": "PMID:24327345",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q13627-2"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "ARUK-UCL",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20171205",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680536",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "involved_in",
+      "goId": "GO:0000226",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "biological_process",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "AGI_LocusCode",
+              "id": "AT3G61650"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "AGI_LocusCode",
+              "id": "AT4G14960"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "AGI_LocusCode",
+              "id": "AT5G05620"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0003885"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0010097"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0052396"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0087040"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0260639"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:101834"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:107812"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:107814"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:98869"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000172598"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PomBase",
+              "id": "SPBC16A3.15c"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PomBase",
+              "id": "SPBC26H8.07c"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PomBase",
+              "id": "SPBC32F12.04"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PomBase",
+              "id": "SPBC800.05c"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "SGD",
+              "id": "S000001857"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "SGD",
+              "id": "S000004202"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "SGD",
+              "id": "S000004550"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "A0A644F0Y1"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "D6XD01"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P10653"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P18695"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P23330"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P24633"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P54401"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P68363"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q13509"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q3ZCM7"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q4QQZ8"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q9UJT0"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q9UJT1"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00003171"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006528"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006529"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006537"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006540"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260528",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680537",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "involved_in",
+      "goId": "GO:0000278",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "biological_process",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0087040"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0260639"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000172598"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PomBase",
+              "id": "SPBC26H8.07c"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PomBase",
+              "id": "SPBC32F12.04"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PomBase",
+              "id": "SPBC800.05c"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "SGD",
+              "id": "S000001857"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "SGD",
+              "id": "S000004202"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "SGD",
+              "id": "S000004550"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "A0A644F0Y1"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P10653"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P18695"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006528"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006529"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006540"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260528",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680538",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "involved_in",
+      "goId": "GO:0007017",
+      "goName": null,
+      "goEvidence": "IEA",
+      "goAspect": "biological_process",
+      "evidenceCode": "ECO:0000256",
+      "reference": "GO_REF:0000002",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "InterPro",
+              "id": "IPR000217"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "InterPro",
+              "id": "IPR002452"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "InterPro",
+              "id": "IPR017975"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "InterPro",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260616",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680539",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "involved_in",
+      "goId": "GO:0030182",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "biological_process",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:98869"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN001697695"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "ZFIN",
+              "id": "ZDB-GENE-040426-1646"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20250429",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680540",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "is_active_in",
+      "goId": "GO:0005737",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "AGI_LocusCode",
+              "id": "AT3G61650"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0003884"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0003885"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0003886"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0010097"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0087040"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0260639"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:101834"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:107804"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:107813"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:107848"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:1095409"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:1858225"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:1891826"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:2144208"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:98869"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000172598"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PomBase",
+              "id": "SPBC26H8.07c"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PomBase",
+              "id": "SPBC32F12.04"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "A0A644F0Y1"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "D6XD01"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P04350"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P07437"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P10653"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P23258"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P24633"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P68371"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q4FKF8"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q4GYY5"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q4GYY6"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q4GZA3"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q71U36"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q9H4B7"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006531"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006538"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006540"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "dictyBase",
+              "id": "DDB_G0271738"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20251218",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680541",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "is_active_in",
+      "goId": "GO:0005874",
+      "goName": null,
+      "goEvidence": "IBA",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0000318",
+      "reference": "GO_REF:0000033",
+      "withFrom": [
+        {
+          "connectedXrefs": [
+            {
+              "db": "AGI_LocusCode",
+              "id": "AT3G61650"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "AGI_LocusCode",
+              "id": "AT4G14960"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "AGI_LocusCode",
+              "id": "AT5G05620"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "CGD",
+              "id": "CAL0000176403"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0003884"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0003886"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0003888"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0052396"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0087040"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "FB",
+              "id": "FBgn0260639"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "JaponicusDB",
+              "id": "SJAG_02509"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:101834"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:107804"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:107812"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:107814"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:1095409"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:2144208"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "MGI",
+              "id": "MGI:98869"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PANTHER",
+              "id": "PTN000172598"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PomBase",
+              "id": "SPBC26H8.07c"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "PomBase",
+              "id": "SPBC800.05c"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "SGD",
+              "id": "S000001857"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P04350"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P07437"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P10653"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P23258"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P24633"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P68363"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P68366"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "P68371"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q13509"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q13885"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q71U36"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q9BUF5"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q9BVA1"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "UniProtKB",
+              "id": "Q9NRH3"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00003175"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006531"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006536"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006537"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "WB",
+              "id": "WBGene00006538"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "dictyBase",
+              "id": "DDB_G0269196"
+            }
+          ]
+        },
+        {
+          "connectedXrefs": [
+            {
+              "db": "dictyBase",
+              "id": "DDB_G0287689"
+            }
+          ]
+        }
+      ],
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "GO_Central",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20260528",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680542",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "located_in",
+      "goId": "GO:0005576",
+      "goName": null,
+      "goEvidence": "TAS",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0000304",
+      "reference": "Reactome:R-HSA-482772",
+      "withFrom": null,
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "Reactome",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20130528",
+      "synonyms": null,
+      "name": null
+    },
+    {
+      "id": "UniProtKB:P68366!58680543",
+      "geneProductId": "UniProtKB:P68366",
+      "qualifier": "located_in",
+      "goId": "GO:0005829",
+      "goName": null,
+      "goEvidence": "TAS",
+      "goAspect": "cellular_component",
+      "evidenceCode": "ECO:0000304",
+      "reference": "Reactome:R-HSA-2574840",
+      "withFrom": null,
+      "taxonId": 9606,
+      "taxonName": null,
+      "assignedBy": "Reactome",
+      "extensions": null,
+      "targetSets": [
+        "Exosome"
+      ],
+      "symbol": "TUBA4A",
+      "date": "20130503",
+      "synonyms": null,
+      "name": null
+    }
+  ],
+  "pageInfo": {
+    "resultsPerPage": 25,
+    "current": 1,
+    "total": 3
+  }
+}

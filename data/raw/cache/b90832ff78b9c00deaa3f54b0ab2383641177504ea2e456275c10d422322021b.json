@@ -1,0 +1,2590 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4810529",
+      "4810278",
+      "4807953",
+      "4807823",
+      "4806862",
+      "4804675",
+      "4804562",
+      "4803922",
+      "4803068",
+      "4803067",
+      "4803064",
+      "4799433",
+      "4798712",
+      "4797566",
+      "4796855",
+      "4778028",
+      "4774148",
+      "4771075",
+      "4768377",
+      "4763332"
+    ],
+    "4810529": {
+      "uid": "4810529",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004810529",
+      "accession_version": "VCV004810529.1",
+      "title": "NM_013254.4(TBK1):c.1310A>T (p.Glu437Val)",
+      "variation_set": [
+        {
+          "measure_id": "4922986",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.1310A>T (p.Glu437Val)",
+          "cdna_change": "c.1310A>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64485987",
+              "stop": "64485987",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64485987",
+              "display_stop": "64485987",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64879767",
+              "stop": "64879767",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64879767",
+              "display_stop": "64879767",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64485986:A:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007514033"
+        ],
+        "rcv": [
+          "RCV006630044"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/01/18 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064485987",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "E437V",
+      "fda_recognized_database": ""
+    },
+    "4810278": {
+      "uid": "4810278",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004810278",
+      "accession_version": "VCV004810278.1",
+      "title": "NM_013254.4(TBK1):c.1928A>T (p.Glu643Val)",
+      "variation_set": [
+        {
+          "measure_id": "4914487",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.1928A>T (p.Glu643Val)",
+          "cdna_change": "c.1928A>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64497228",
+              "stop": "64497228",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64497228",
+              "display_stop": "64497228",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64891008",
+              "stop": "64891008",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64891008",
+              "display_stop": "64891008",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64497227:A:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007513699"
+        ],
+        "rcv": [
+          "RCV006628308"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/08/03 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064497228",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "E643V",
+      "fda_recognized_database": ""
+    },
+    "4807953": {
+      "uid": "4807953",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004807953",
+      "accession_version": "VCV004807953.1",
+      "title": "NM_013254.4(TBK1):c.701+15G>A",
+      "variation_set": [
+        {
+          "measure_id": "4921191",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.701+15G>A",
+          "cdna_change": "NM_013254.4(TBK1):c.701+15G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64474405",
+              "stop": "64474405",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64474405",
+              "display_stop": "64474405",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64868185",
+              "stop": "64868185",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64868185",
+              "display_stop": "64868185",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64474404:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007510752"
+        ],
+        "rcv": [
+          "RCV006632799"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/09/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064474405",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4807823": {
+      "uid": "4807823",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004807823",
+      "accession_version": "VCV004807823.1",
+      "title": "NM_013254.4(TBK1):c.433A>G (p.Ile145Val)",
+      "variation_set": [
+        {
+          "measure_id": "4921061",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.433A>G (p.Ile145Val)",
+          "cdna_change": "c.433A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64466975",
+              "stop": "64466975",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64466975",
+              "display_stop": "64466975",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64860755",
+              "stop": "64860755",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64860755",
+              "display_stop": "64860755",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64466974:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007510597"
+        ],
+        "rcv": [
+          "RCV006632669"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/04/08 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064466975",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "I145V",
+      "fda_recognized_database": ""
+    },
+    "4806862": {
+      "uid": "4806862",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004806862",
+      "accession_version": "VCV004806862.1",
+      "title": "NM_013254.4(TBK1):c.944C>T (p.Ser315Leu)",
+      "variation_set": [
+        {
+          "measure_id": "4913711",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.944C>T (p.Ser315Leu)",
+          "cdna_change": "c.944C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64481973",
+              "stop": "64481973",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64481973",
+              "display_stop": "64481973",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64875753",
+              "stop": "64875753",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64875753",
+              "display_stop": "64875753",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64481972:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007509033"
+        ],
+        "rcv": [
+          "RCV006620105"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/05/18 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064481973",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "S315L",
+      "fda_recognized_database": ""
+    },
+    "4804675": {
+      "uid": "4804675",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004804675",
+      "accession_version": "VCV004804675.1",
+      "title": "NM_013254.4(TBK1):c.1250C>T (p.Ala417Val)",
+      "variation_set": [
+        {
+          "measure_id": "4916624",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.1250C>T (p.Ala417Val)",
+          "cdna_change": "c.1250C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64485927",
+              "stop": "64485927",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64485927",
+              "display_stop": "64485927",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64879707",
+              "stop": "64879707",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64879707",
+              "display_stop": "64879707",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64485926:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007506600"
+        ],
+        "rcv": [
+          "RCV006615829"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/03/23 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064485927",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "A417V",
+      "fda_recognized_database": ""
+    },
+    "4804562": {
+      "uid": "4804562",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004804562",
+      "accession_version": "VCV004804562.1",
+      "title": "NM_013254.4(TBK1):c.1963C>G (p.Gln655Glu)",
+      "variation_set": [
+        {
+          "measure_id": "4920415",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.1963C>G (p.Gln655Glu)",
+          "cdna_change": "c.1963C>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64497651",
+              "stop": "64497651",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64497651",
+              "display_stop": "64497651",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64891431",
+              "stop": "64891431",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64891431",
+              "display_stop": "64891431",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64497650:C:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007506465"
+        ],
+        "rcv": [
+          "RCV006615716"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/05/05 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064497651",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "Q655E",
+      "fda_recognized_database": ""
+    },
+    "4803922": {
+      "uid": "4803922",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004803922",
+      "accession_version": "VCV004803922.1",
+      "title": "NM_013254.4(TBK1):c.2108A>C (p.Glu703Ala)",
+      "variation_set": [
+        {
+          "measure_id": "4909909",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.2108A>C (p.Glu703Ala)",
+          "cdna_change": "c.2108A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64498009",
+              "stop": "64498009",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64498009",
+              "display_stop": "64498009",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64891789",
+              "stop": "64891789",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64891789",
+              "display_stop": "64891789",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64498008:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007505652"
+        ],
+        "rcv": [
+          "RCV006626706"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/08/03 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064498009",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "E703A",
+      "fda_recognized_database": ""
+    },
+    "4803068": {
+      "uid": "4803068",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004803068",
+      "accession_version": "VCV004803068.1",
+      "title": "NM_013254.4(TBK1):c.2000G>A (p.Ser667Asn)",
+      "variation_set": [
+        {
+          "measure_id": "4916316",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.2000G>A (p.Ser667Asn)",
+          "cdna_change": "c.2000G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64497688",
+              "stop": "64497688",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64497688",
+              "display_stop": "64497688",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64891468",
+              "stop": "64891468",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64891468",
+              "display_stop": "64891468",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64497687:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007503883"
+        ],
+        "rcv": [
+          "RCV006619287"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/12/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064497688",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "S667N",
+      "fda_recognized_database": ""
+    },
+    "4803067": {
+      "uid": "4803067",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004803067",
+      "accession_version": "VCV004803067.1",
+      "title": "NM_013254.4(TBK1):c.1757A>T (p.Asp586Val)",
+      "variation_set": [
+        {
+          "measure_id": "4916315",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.1757A>T (p.Asp586Val)",
+          "cdna_change": "c.1757A>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64496403",
+              "stop": "64496403",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64496403",
+              "display_stop": "64496403",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64890183",
+              "stop": "64890183",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64890183",
+              "display_stop": "64890183",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64496402:A:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007503882"
+        ],
+        "rcv": [
+          "RCV006619286"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/03/19 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064496403",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "D586V",
+      "fda_recognized_database": ""
+    },
+    "4803064": {
+      "uid": "4803064",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004803064",
+      "accession_version": "VCV004803064.1",
+      "title": "NM_013254.4(TBK1):c.426G>A (p.Met142Ile)",
+      "variation_set": [
+        {
+          "measure_id": "4916312",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.426G>A (p.Met142Ile)",
+          "cdna_change": "c.426G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64466968",
+              "stop": "64466968",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64466968",
+              "display_stop": "64466968",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64860748",
+              "stop": "64860748",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64860748",
+              "display_stop": "64860748",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64466967:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007503879"
+        ],
+        "rcv": [
+          "RCV006619283"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/02/19 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064466968",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "M142I",
+      "fda_recognized_database": ""
+    },
+    "4799433": {
+      "uid": "4799433",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004799433",
+      "accession_version": "VCV004799433.1",
+      "title": "NM_013254.4(TBK1):c.546T>C (p.Pro182=)",
+      "variation_set": [
+        {
+          "measure_id": "4915279",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.546T>C (p.Pro182=)",
+          "cdna_change": "c.546T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64474235",
+              "stop": "64474235",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64474235",
+              "display_stop": "64474235",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64868015",
+              "stop": "64868015",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64868015",
+              "display_stop": "64868015",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64474234:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007499985"
+        ],
+        "rcv": [
+          "RCV006621947"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/27 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064474235",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4798712": {
+      "uid": "4798712",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004798712",
+      "accession_version": "VCV004798712.1",
+      "title": "NM_013254.4(TBK1):c.127A>G (p.Ile43Val)",
+      "variation_set": [
+        {
+          "measure_id": "4908596",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.127A>G (p.Ile43Val)",
+          "cdna_change": "c.127A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64460228",
+              "stop": "64460228",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64460228",
+              "display_stop": "64460228",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64854008",
+              "stop": "64854008",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64854008",
+              "display_stop": "64854008",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64460227:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007498907"
+        ],
+        "rcv": [
+          "RCV006614322"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/12/01 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064460228",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "I43V",
+      "fda_recognized_database": ""
+    },
+    "4797566": {
+      "uid": "4797566",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004797566",
+      "accession_version": "VCV004797566.1",
+      "title": "NM_013254.4(TBK1):c.814G>A (p.Gly272Ser)",
+      "variation_set": [
+        {
+          "measure_id": "4918615",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.814G>A (p.Gly272Ser)",
+          "cdna_change": "c.814G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64481843",
+              "stop": "64481843",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64481843",
+              "display_stop": "64481843",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64875623",
+              "stop": "64875623",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64875623",
+              "display_stop": "64875623",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64481842:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007497445"
+        ],
+        "rcv": [
+          "RCV006621568"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/02/06 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064481843",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "G272S",
+      "fda_recognized_database": ""
+    },
+    "4796855": {
+      "uid": "4796855",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004796855",
+      "accession_version": "VCV004796855.1",
+      "title": "NM_013254.4(TBK1):c.254T>C (p.Ile85Thr)",
+      "variation_set": [
+        {
+          "measure_id": "4908037",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.254T>C (p.Ile85Thr)",
+          "cdna_change": "c.254T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64464359",
+              "stop": "64464359",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64464359",
+              "display_stop": "64464359",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64858139",
+              "stop": "64858139",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64858139",
+              "display_stop": "64858139",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64464358:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007496533"
+        ],
+        "rcv": [
+          "RCV006617535"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/04/22 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064464359",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "I85T",
+      "fda_recognized_database": ""
+    },
+    "4778028": {
+      "uid": "4778028",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004778028",
+      "accession_version": "VCV004778028.1",
+      "title": "NM_013254.4(TBK1):c.894T>C (p.Phe298=)",
+      "variation_set": [
+        {
+          "measure_id": "4885669",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.894T>C (p.Phe298=)",
+          "cdna_change": "c.894T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64481923",
+              "stop": "64481923",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64481923",
+              "display_stop": "64481923",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64875703",
+              "stop": "64875703",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64875703",
+              "display_stop": "64875703",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64481922:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007471395"
+        ],
+        "rcv": [
+          "RCV006589451"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2025/07/21 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064481923",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "synonymous variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4774148": {
+      "uid": "4774148",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004774148",
+      "accession_version": "VCV004774148.1",
+      "title": "NM_013254.4(TBK1):c.1253T>C (p.Ile418Thr)",
+      "variation_set": [
+        {
+          "measure_id": "4887013",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.1253T>C (p.Ile418Thr)",
+          "cdna_change": "c.1253T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64485930",
+              "stop": "64485930",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64485930",
+              "display_stop": "64485930",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64879710",
+              "stop": "64879710",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64879710",
+              "display_stop": "64879710",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64485929:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007467560"
+        ],
+        "rcv": [
+          "RCV006588547"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/05/14 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064485930",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "I418T",
+      "fda_recognized_database": ""
+    },
+    "4771075": {
+      "uid": "4771075",
+      "obj_type": "Microsatellite",
+      "accession": "VCV004771075",
+      "accession_version": "VCV004771075.1",
+      "title": "NM_013254.4(TBK1):c.88-18TC[2]",
+      "variation_set": [
+        {
+          "measure_id": "4877182",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.88-18TC[2]",
+          "cdna_change": "NM_013254.4(TBK1):c.88-18TC[2]",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64460171",
+              "stop": "64460174",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64460171",
+              "display_stop": "64460174",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64853951",
+              "stop": "64853954",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64853951",
+              "display_stop": "64853954",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Microsatellite",
+          "canonical_spdi": "NC_000012.12:64460170:TCTCTCTCT:TCTCT",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007463658"
+        ],
+        "rcv": [
+          "RCV006577874"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/11/13 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064460171",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4768377": {
+      "uid": "4768377",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004768377",
+      "accession_version": "VCV004768377.1",
+      "title": "NM_013254.4(TBK1):c.2067-20G>T",
+      "variation_set": [
+        {
+          "measure_id": "4873184",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.2067-20G>T",
+          "cdna_change": "NM_013254.4(TBK1):c.2067-20G>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64497948",
+              "stop": "64497948",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64497948",
+              "display_stop": "64497948",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64891728",
+              "stop": "64891728",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64891728",
+              "display_stop": "64891728",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64497947:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007460355"
+        ],
+        "rcv": [
+          "RCV006587239"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely benign",
+        "last_evaluated": "2026/01/27 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064497948",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4763332": {
+      "uid": "4763332",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004763332",
+      "accession_version": "VCV004763332.1",
+      "title": "NM_013254.4(TBK1):c.495A>C (p.Glu165Asp)",
+      "variation_set": [
+        {
+          "measure_id": "4872030",
+          "variation_xrefs": [],
+          "variation_name": "NM_013254.4(TBK1):c.495A>C (p.Glu165Asp)",
+          "cdna_change": "c.495A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64467037",
+              "stop": "64467037",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64467037",
+              "display_stop": "64467037",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q14.2",
+              "start": "64860817",
+              "stop": "64860817",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "64860817",
+              "display_stop": "64860817",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:64467036:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007454414"
+        ],
+        "rcv": [
+          "RCV006576083"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/07/02 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "275872"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C4225325"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0014641"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "616439"
+              }
+            ],
+            "trait_name": "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TBK1",
+      "chr_sort": "12",
+      "location_sort": "00000000000064467037",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TBK1",
+          "geneid": "29110",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "E165D",
+      "fda_recognized_database": ""
+    }
+  }
+}

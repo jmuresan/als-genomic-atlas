@@ -1,0 +1,139 @@
+{
+  "count": 3,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "IPR010790",
+        "name": "Repeat of unknown function DUF1388",
+        "source_database": "interpro",
+        "type": "repeat",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF07142": "Repeat of unknown function (DUF1388)"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "p12036",
+          "protein_length": 1020,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 535,
+                  "end": 561,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 591,
+                  "end": 609,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR018039",
+        "name": "Intermediate filament protein, conserved site",
+        "source_database": "interpro",
+        "type": "conserved_site",
+        "integrated": null,
+        "member_databases": {
+          "prosite": {
+            "PS00226": "Intermediate filament (IF) rod domain signature"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "p12036",
+          "protein_length": 1020,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 399,
+                  "end": 407,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR039008",
+        "name": "Intermediate filament, rod domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "profile": {
+            "PS51842": "Intermediate filament (IF) rod domain profile"
+          },
+          "smart": {
+            "SM01391": "Intermediate filament protein"
+          },
+          "pfam": {
+            "PF00038": "Intermediate filament protein"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "p12036",
+          "protein_length": 1020,
+          "source_database": "reviewed",
+          "organism": "9606",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 96,
+                  "end": 413,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

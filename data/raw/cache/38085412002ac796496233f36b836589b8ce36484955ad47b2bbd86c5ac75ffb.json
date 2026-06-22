@@ -1,0 +1,442 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03865420",
+          "orgStudyIdInfo": {
+            "id": "AAAR7275"
+          },
+          "organization": {
+            "fullName": "Columbia University",
+            "class": "OTHER"
+          },
+          "briefTitle": "Amyotrophic Lateral Sclerosis (ALS) Families Project",
+          "officialTitle": "Amyotrophic Lateral Sclerosis (ALS) Families Project"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-01",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2018-09-11",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2019-02-25",
+          "studyFirstSubmitQcDate": "2019-03-05",
+          "studyFirstPostDateStruct": {
+            "date": "2019-03-06",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2026-01-05",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-01-07",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Columbia University",
+            "class": "OTHER"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "This program provides family members of individuals with familial ALS the opportunity to contribute to research focused on learning more about why motor neuron degeneration begins and how or why it progresses. This study provides genetic counseling and testing to help participants understand and manage their risk and determine if they want to learn their genetic status. This study will follow unaffected ALS gene mutation carriers on an annual basis to gather essential information that will ultimately help researchers develop novel therapies for the prevention and treatment of ALS.",
+          "detailedDescription": "Approximately 10% of people with amyotrophic lateral sclerosis (ALS), or Lou Gehrig's Disease, have a family history of ALS or a related condition called frontotemporal dementia (FTD). In most of these familial cases, and a significant number of \"sporadic\" patients with no family history, a mutation is present in one of a growing number of genes that have been associated with ALS and/or FTD.\n\nThe ALS Families Project will study unaffected carriers of ALS/FTD-associated gene mutations to investigate the first steps in the disease process that leads to motor neuron degeneration, with the goal of identifying early disease targets and points of intervention to slow or stop disease onset and progression.\n\nUnaffected individuals who have either a family member with a known ALS/FTD-associated gene mutation or have a strong family history of ALS and FTD are invited to participate in the ALS Families Project. For those who enroll, research visits will occur every 6-12 months."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "ALS"
+          ],
+          "keywords": [
+            "Pre-symptomatic",
+            "Familial",
+            "FALS",
+            "Genetic testing",
+            "C9orf72",
+            "SOD1",
+            "TARDBP",
+            "FUS",
+            "VCP",
+            "PFN1"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "FAMILY_BASED",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "DNA, RNA, spinal fluid, plasma, serum and Peripheral blood mononuclear cells (PBMCs)"
+          },
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Time to emergence of symptoms attributable to gene mutations",
+              "description": "Emergence of symptoms will defined by the development of any of the following: a) any weakness on neurological examination, b) evidence of nerve loss on electromyography (EMG)-nerve conduction studies, or c) evidence of cognitive impairment on the ECAS or ALS-Cognitive Behavioral Scale (ALS-CBS).",
+              "timeFrame": "Up to 10 years"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Men or women of any race or ethnicity aged 18 or older\n* No symptoms of ALS or fronto-temporal dementia at enrollment\n* Scenario 1: has already had genetic testing that identified an ALS-spectrum gene mutation.\n* Scenario 2: has a first degree relative who was/is an obligate carrier of a familial ALS-spectrum gene mutation.\n* Scenario 3: has a first degree relative who has/had an ALS-spectrum diagnosis who had a confirmed ALS-spectrum gene mutation or comes from a family with a high burden of ALS-spectrum diagnoses and a known ALS-spectrum gene mutation.\n* Scenario 4: is deemed to be at high risk for carrying an ALS-spectrum gene mutation as judged by a review of the family structure and genetic information by the study team.\n* Willing to undergo genetic analysis, with option of whether or not to learn results\n* Willing to travel to Columbia University Irving Medical Center (CUIMC) every 6-24 months for study procedures\n* Capable of providing informed consent and following study procedures, or has a legally authorized representative who is able to consent for the subject.\n\nExclusion Criteria for participation in biosample portion of the study:\n\n* Known HIV\n* Known hepatitis B\n* Known hepatitis C",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "105 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Unaffected individuals who have either a family member with a known ALS/FTD-associated gene mutation or have a strong family history of ALS and FTD.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Elizabeth Harrington, MS, CGC",
+              "role": "CONTACT",
+              "phone": "347-852-5315",
+              "email": "ALSFamiliesProject@cumc.columbia.edu"
+            },
+            {
+              "name": "Matthew Harms, MD",
+              "role": "CONTACT"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Matthew Harms, MD",
+              "affiliation": "Columbia University",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "Columbia University",
+              "status": "RECRUITING",
+              "city": "New York",
+              "state": "New York",
+              "zip": "10032",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Elizabeth Harrington, MS, CGC",
+                  "role": "CONTACT",
+                  "phone": "347-852-5315",
+                  "email": "ALSFamiliesProject@cumc.columbia.edu"
+                }
+              ],
+              "geoPoint": {
+                "lat": 40.71427,
+                "lon": -74.00597
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "39192497",
+              "type": "DERIVED",
+              "citation": "Lee I, Garret MA, Wuu J, Harrington EA, Berry JD, Miller TM, Harms M, Benatar M, Shneider N. Body mass index is lower in asymptomatic C9orf72 expansion carriers but not in SOD1 pathogenic variant carriers compared to gene negatives. Amyotroph Lateral Scler Frontotemporal Degener. 2024 Nov;25(7-8):672-679. doi: 10.1080/21678421.2024.2396831. Epub 2024 Aug 27."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "C566288",
+              "term": "Frontotemporal Dementia With Motor Neuron Disease"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00317616",
+          "orgStudyIdInfo": {
+            "id": "Pre-fALS"
+          },
+          "organization": {
+            "fullName": "University of Miami",
+            "class": "OTHER"
+          },
+          "briefTitle": "The Pre-symptomatic Familial Amyotrophic Lateral Sclerosis (Pre-fALS) Study",
+          "officialTitle": "The Pre-symptomatic Familial Amyotrophic Lateral Sclerosis (Pre-fALS) Study",
+          "acronym": "Pre-fALS"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2026-03",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2006-04"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2037-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2037-12",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2006-04-24",
+          "studyFirstSubmitQcDate": "2006-04-24",
+          "studyFirstPostDateStruct": {
+            "date": "2006-04-25",
+            "type": "ESTIMATED"
+          },
+          "lastUpdateSubmitDate": "2026-03-19",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-03-20",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "Michael Benatar",
+            "investigatorTitle": "Professor",
+            "investigatorAffiliation": "University of Miami"
+          },
+          "leadSponsor": {
+            "name": "University of Miami",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "ALS Association",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "Pre-fALS is a prospective natural history and biomarker study of people not yet affected with ALS, but who are at genetic risk for developing ALS. The investigators aim to recruit unaffected (healthy) people from familial ALS (fALS) pedigrees in which a known genetic mutation associated with ALS has been identified; for this study, a fALS pedigree is one with two biologically related individuals who have or have had ALS and/or FTD. Individuals who may be at genetic risk for ALS and who belong to families with at least one affected family member who has tested positive for a known ALS genetic mutation may also be eligible to participate. Our goal is to study the pre-symptomatic phase, onset and progression of ALS and to learn more about genetic and environmental factors that put people at risk for developing ALS.",
+          "detailedDescription": "Healthy individuals from fALS families with a known genetic mutation will be included in this study. We encourage people who have previously undergone genetic testing and were found to carry the mutation that affects their family as well as those who do not know their genetic status to contact us. Those who wish to participate and to learn the results of genetic testing, may do so after undergoing genetic counseling. It is also possible to participate without learning the results of genetic testing. Participants eligible to complete study visits will travel to Miami (at our expense) approximately every 12-24 months for a period of 10 years or longer and will perform various biomarker procedures. Between visits, participants will complete phone calls about their health."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ],
+          "keywords": [
+            "FALS",
+            "SOD1",
+            "familial",
+            "genetic testing",
+            "genetic counseling",
+            "ALS",
+            "C9ORF72",
+            "TARDBP",
+            "VCP",
+            "FUS",
+            "PFN1"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "Serum, Plasma, CSF, DNA, Urine, Cell lines"
+          },
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Unaffected individuals from families in which the genetic cause of ALS is known",
+              "description": "This population would include pre-symptomatic individuals at genetic risk for ALS or a related neurodegenerative disorder (i.e., FTD)."
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Risk Factors for Progression to familial ALS",
+              "timeFrame": "Years"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria\n\n* A member of a family in which a mutation in a gene associated with ALS has been identified.\n* No symptoms to suggest the presence of ALS (i.e. study participants must currently be healthy).\n* Having at least 50% probability of carrying an ALS associated gene mutation based on family pedigree.\n* Willingness to undergo genetic testing, with the option of whether or not to learn the results.\n* Willingness and availability to travel to Miami for a few days approximately every 12 to 24 months to complete biomarker procedures (e.g, MRI, blood draws, spinal tab/lumbar puncture, cognitive testing)\n\nExclusion Criteria\n\n* Diagnosis of ALS\n* Any condition or situation which, in the PI's opinion, could confound the biomarker data or may interfere with the individual's participation and compliance with the study protocol, including but not limited to neurological, psychological and/or medical conditions.",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Healthy individuals who harbor a mutation in a gene associated with ALS.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Anne-Laure M Grignon, MD",
+              "role": "CONTACT",
+              "phone": "1-888-413-9315",
+              "email": "fals@med.miami.edu"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Michael G Benatar, MD, PhD.",
+              "affiliation": "University of Miami",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "University of Miami",
+              "status": "RECRUITING",
+              "city": "Miami",
+              "state": "Florida",
+              "zip": "33136",
+              "country": "United States",
+              "contacts": [
+                {
+                  "name": "Anne-Laure Grignon",
+                  "role": "CONTACT",
+                  "phone": "1-888-413-9315",
+                  "email": "fals@med.miami.edu"
+                },
+                {
+                  "name": "Danielle Dauphin",
+                  "role": "CONTACT"
+                }
+              ],
+              "geoPoint": {
+                "lat": 25.77427,
+                "lon": -80.19366
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "39192497",
+              "type": "DERIVED",
+              "citation": "Lee I, Garret MA, Wuu J, Harrington EA, Berry JD, Miller TM, Harms M, Benatar M, Shneider N. Body mass index is lower in asymptomatic C9orf72 expansion carriers but not in SOD1 pathogenic variant carriers compared to gene negatives. Amyotroph Lateral Scler Frontotemporal Degener. 2024 Nov;25(7-8):672-679. doi: 10.1080/21678421.2024.2396831. Epub 2024 Aug 27."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            },
+            {
+              "id": "C566288",
+              "term": "Frontotemporal Dementia With Motor Neuron Disease"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ]
+}

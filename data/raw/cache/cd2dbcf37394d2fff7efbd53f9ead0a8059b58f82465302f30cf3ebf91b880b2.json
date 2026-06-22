@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "197",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "4806806",
+      "4806590",
+      "4806333",
+      "4803350",
+      "4776816",
+      "4771469",
+      "4768499",
+      "4760899",
+      "4753367",
+      "4751147",
+      "4748810",
+      "4748563",
+      "4741340",
+      "4740396",
+      "4730227",
+      "4724704",
+      "4724584",
+      "4716840",
+      "4708276",
+      "4708061"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "UBQLN2[gene]",
+        "field": "gene",
+        "count": "388",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10890",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23753",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32865",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "UBQLN2[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

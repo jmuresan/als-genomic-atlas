@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "chromosome": "chr2",
+      "dataSource": "HAVANA",
+      "description": "TIA1 cytotoxic granule associated RNA binding protein [Source:HGNC Symbol;Acc:HGNC:11802]",
+      "end": 70248660,
+      "entrezGeneId": 7072,
+      "gencodeId": "ENSG00000116001.15",
+      "gencodeVersion": "v26",
+      "geneStatus": "",
+      "geneSymbol": "TIA1",
+      "geneSymbolUpper": "TIA1",
+      "geneType": "protein coding",
+      "genomeBuild": "GRCh38/hg38",
+      "start": 70209444,
+      "strand": "-",
+      "tss": 70248660
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

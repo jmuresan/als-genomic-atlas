@@ -1,0 +1,989 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06681610",
+          "orgStudyIdInfo": {
+            "id": "NEU-TPS-ALS-01"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "FUSF-RAP-S-23-00096",
+              "type": "OTHER_GRANT",
+              "domain": "Focused Ultrasound Foundation and ALS Foundation. USA"
+            }
+          ],
+          "organization": {
+            "fullName": "Parc de Salut Mar",
+            "class": "OTHER"
+          },
+          "briefTitle": "Testing Pulse Stimulation to Improve Motor Function in People With ALS: A Pilot Study",
+          "officialTitle": "Modulation of the Motor Pathway by Transcranial Pulse Stimulation in People With ALS: a Pilot Randomized Trial",
+          "acronym": "TPS4ALS"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2024-11",
+          "overallStatus": "RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2024-10-24",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2025-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2024-11-06",
+          "studyFirstSubmitQcDate": "2024-11-07",
+          "studyFirstPostDateStruct": {
+            "date": "2024-11-08",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2024-11-07",
+          "lastUpdatePostDateStruct": {
+            "date": "2024-11-08",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Parc de Salut Mar",
+            "class": "OTHER"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": false,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "The goal of this clinical trial is to assess the efficacy of TPS of the motor cortex on biomarkers and clinical endpoints in patients with ALS. The main questions it aims to answer are:\n\n* Stage 1: Is there a change in the short intracortical inhibition (SICI) of the motor cortex from baseline to week 8?\n* Stage 2: Is there a change from baseline to month 6 in the ALS functional rating scale-revised (ALSFRS-R) total score?\n\nIn stage 2, researchers will compare the group receiving the stimulation vs the group receiving a sham stimulation to see if there is a difference in motor cortex activity and in the ALSFRS-R score\n\nParticipants will receive either:\n\n* the TPS treatment\n* a sham TPS treatment"
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis (ALS)"
+          ],
+          "keywords": [
+            "Transcranial Pulse Stimulation (TPS)",
+            "Amyotrophic Lateral Sclerosis (ALS)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "interventionModelDescription": "randomised, double blind, sham controlled clinical study",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "DOUBLE",
+              "whoMasked": [
+                "PARTICIPANT",
+                "INVESTIGATOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "TPS",
+              "type": "EXPERIMENTAL",
+              "description": "The stimulation will be 20 min duration as indicated in the CE mark approval. Each session involves 6,000 pulses in the hand region of the motor cortex with 3,000 on each side of the brain. The system uses a low energy flux density maximum of 0.25 mJ/mm2 accordingly with EMA and FDA guidelines (high energy is defined as \\> 0.5 mJ/mm2). The standard therapy involves 6 sessions in 2 weeks as indicated in the CE mark.",
+              "interventionNames": [
+                "Device: Transcranial Pulse Stimulation"
+              ]
+            },
+            {
+              "label": "sham",
+              "type": "SHAM_COMPARATOR",
+              "description": "The transcranial pulse stimulation with the same device and the same protocol uses a membrane on the device that blocks the sound waves. Participants' motor cortex is not stimulated.",
+              "interventionNames": [
+                "Device: Transcranial Pulse Stimulation"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DEVICE",
+              "name": "Transcranial Pulse Stimulation",
+              "description": "low intensity shock-waves stimulation of the motor cortex, bilateral",
+              "armGroupLabels": [
+                "TPS",
+                "sham"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Change in the short intracortical inhibition (SICI) of the motor cortex from baseline to week 8.",
+              "timeFrame": "baseline to week 8"
+            },
+            {
+              "measure": "Change from baseline to month 6 in the ALS functional rating scale-revised (ALSFRS-R) total score",
+              "description": "The ALS Functional Rating Scale-Revised Each function is scored from 4 (normal) to 0 (no ability), with a maximum total score of 48 and a minimum total score of 0.\n\nHigher scores mean a better outcome.",
+              "timeFrame": "baseline to week 24"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Change plasma neurofilament light chain (NfL) levels",
+              "timeFrame": "baseline to week 4 and 8"
+            },
+            {
+              "measure": "Changes in muscle strength, assessed by the Medical Research Council (MRC) sum score",
+              "timeFrame": "baseline to week 4 and 8"
+            },
+            {
+              "measure": "Changes in hand-held dynamometry",
+              "timeFrame": "baseline to week 8"
+            },
+            {
+              "measure": "Differences (treated vs sham) and change in the slow vital capacity (SVC)",
+              "timeFrame": "from baseline to month 6"
+            },
+            {
+              "measure": "Differences (treated vs sham) and change in plasma NfL levels",
+              "description": "Candidate biomarkers are: SOD1, Ataxin 2, C90rf72, UNC13A, TDP43, stathmin 2, NfL and NfH levels",
+              "timeFrame": "baseline to month 6"
+            },
+            {
+              "measure": "Change in Motor Evoked Potential (MEP) Amplitudes",
+              "description": "ppTMS will be used to assess changes in motor cortex excitability via MEP amplitude (measured in millivolts)",
+              "timeFrame": "baseline to week 4 and 8"
+            },
+            {
+              "measure": "Change in Resting Motor Threshold",
+              "description": "RMT will be recorded to assess baseline motor cortex excitability (measured as a percentage of maximum stimulator output)",
+              "timeFrame": "baseline to week 4 and 8"
+            },
+            {
+              "measure": "Change in Intra-Cortical Facilitation",
+              "description": "ICF will be measured to assess synaptic excitability",
+              "timeFrame": "baseline to week 4 and 8"
+            }
+          ],
+          "otherOutcomes": [
+            {
+              "measure": "Change in biomarker SOD1 Levels in nEVs from Plasma",
+              "timeFrame": "baseline to week 4 and 8"
+            },
+            {
+              "measure": "Change in biomarker Ataxin 2 Levels in nEVs from Plasma",
+              "timeFrame": "baseline to week 4 and 8"
+            },
+            {
+              "measure": "Change in biomarker C9orf72 Levels in nEVs from Plasma",
+              "timeFrame": "baseline to week 4 and 8"
+            },
+            {
+              "measure": "Change in biomarker UNC13A Levels in nEVs from Plasma",
+              "timeFrame": "baseline to week 4 and 8"
+            },
+            {
+              "measure": "Change in biomarker TDP43 Levels in nEVs from Plasma",
+              "timeFrame": "baseline to week 4 and 8"
+            },
+            {
+              "measure": "Change in biomarker Stathmin 2 Levels in nEVs from Plasma",
+              "timeFrame": "baseline to week 4 and 8"
+            },
+            {
+              "measure": "Change in NfH Levels in nEVs from Plasma",
+              "timeFrame": "baseline to week 4 and 8"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with diagnosis of sporadic ALS (definite or clinically probable) as defined by the World Federation of Neurology revised El Escorial criteria\n* SVC of 50% or greater of estimated measure and presence of measurable motor evoked potential\n* 21 to 80 years old and male or female\n\nExclusion Criteria:\n\n* patients with fALS (based on medical history) that are unable to tolerate TMS and MRI studies or have a contraindication as described below",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "80 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Alba Leon, MD",
+              "role": "CONTACT",
+              "phone": "+34932 48 30 00",
+              "email": "aleonjorba@psmar.cat"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "Hospital del Mar",
+              "status": "RECRUITING",
+              "city": "Barcelona",
+              "state": "Catalonia",
+              "zip": "08003",
+              "country": "Spain",
+              "contacts": [
+                {
+                  "name": "Sergio Vidal, MD",
+                  "role": "CONTACT",
+                  "phone": "+34932 48 30 00",
+                  "email": "sergio.vidal.notari@psmar.cat"
+                },
+                {
+                  "name": "Alba Leon, MD",
+                  "role": "PRINCIPAL_INVESTIGATOR"
+                }
+              ],
+              "geoPoint": {
+                "lat": 41.38879,
+                "lon": 2.15899
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "29396478",
+              "type": "BACKGROUND",
+              "citation": "Voroslakos M, Takeuchi Y, Brinyiczki K, Zombori T, Oliva A, Fernandez-Ruiz A, Kozak G, Kincses ZT, Ivanyi B, Buzsaki G, Berenyi A. Direct effects of transcranial electric stimulation on brain circuits in rats and humans. Nat Commun. 2018 Feb 2;9(1):483. doi: 10.1038/s41467-018-02928-3."
+            },
+            {
+              "pmid": "34588588",
+              "type": "BACKGROUND",
+              "citation": "Kim HC, Lee W, Kunes J, Yoon K, Lee JE, Foley L, Kowsari K, Yoo SS. Transcranial focused ultrasound modulates cortical and thalamic motor activity in awake sheep. Sci Rep. 2021 Sep 29;11(1):19274. doi: 10.1038/s41598-021-98920-x."
+            },
+            {
+              "pmid": "36116464",
+              "type": "BACKGROUND",
+              "citation": "Feldman EL, Goutman SA, Petri S, Mazzini L, Savelieff MG, Shaw PJ, Sobue G. Amyotrophic lateral sclerosis. Lancet. 2022 Oct 15;400(10360):1363-1380. doi: 10.1016/S0140-6736(22)01272-7. Epub 2022 Sep 15."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "YES",
+          "description": "we will provide access to protocol, SAP and ICF",
+          "infoTypes": [
+            "STUDY_PROTOCOL",
+            "SAP",
+            "ICF"
+          ],
+          "accessCriteria": "protocol will be published as supplementary material. SAP and ICF will be provided upon reasonable request"
+        }
+      },
+      "documentSection": {
+        "largeDocumentModule": {
+          "largeDocs": [
+            {
+              "typeAbbrev": "Prot",
+              "hasProtocol": true,
+              "hasSap": false,
+              "hasIcf": false,
+              "label": "Study Protocol",
+              "date": "2024-07-04",
+              "uploadDate": "2024-11-05T05:18",
+              "filename": "Prot_000.pdf",
+              "size": 1197599
+            }
+          ]
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D050781",
+              "term": "Transcranial Magnetic Stimulation"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D055909",
+              "term": "Magnetic Field Therapy"
+            },
+            {
+              "id": "D013812",
+              "term": "Therapeutics"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05193994",
+          "orgStudyIdInfo": {
+            "id": "LIGHTHOUSE II"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "2020-005069-15",
+              "type": "EUDRACT_NUMBER"
+            }
+          ],
+          "organization": {
+            "fullName": "Macquarie University, Australia",
+            "class": "OTHER"
+          },
+          "briefTitle": "Triumeq in Amyotrophic Lateral Sclerosis",
+          "officialTitle": "Randomised Double-Blind Placebo-Controlled Phase 3 Trial of Triumeq in Amyotrophic Lateral Sclerosis",
+          "acronym": "LIGHTHOUSE II"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2025-07",
+          "overallStatus": "TERMINATED",
+          "whyStopped": "A planned interim analysis resulted in the recommendation that the trial be stopped. The results showed no benefit of Triumeq for people with ALS compared with placebo on survival, the primary outcome measure.",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2022-02-24",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ACTUAL"
+          },
+          "studyFirstSubmitDate": "2021-12-06",
+          "studyFirstSubmitQcDate": "2022-01-03",
+          "studyFirstPostDateStruct": {
+            "date": "2022-01-18",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2025-07-08",
+          "lastUpdatePostDateStruct": {
+            "date": "2025-07-11",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "Macquarie University, Australia",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "King's College London",
+              "class": "OTHER"
+            },
+            {
+              "name": "Stichting TRICALS Foundation",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false,
+          "isUsExport": false
+        },
+        "descriptionModule": {
+          "briefSummary": "To determine if Triumeq improves survival in Amyotrophic Lateral Sclerosis (ALS) compared with placebo",
+          "detailedDescription": "This Randomised Double-Blind Placebo Controlled trial seeks to investigate whether the combination medicine Triumeq (dolutegravir 50mg, abacavir 600mg, lamivudine 300mg), already sold in Australia for HIV treatment is effective in delaying progression of theAmyotrophic Lateral Sclerosis (ALS) disease and if it is safe and well tolerated in patients with ALS. This medication is very commonly prescribed for patients with HIV. The secondary aim of this study is to assess patient's health outcomes whilst taking this medication for their ALS."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ],
+          "keywords": [
+            "ALS"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "interventionModelDescription": "Participants will be randomised in a 2:1 ratio to receive either triumeq or placebo",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "DOUBLE",
+              "maskingDescription": "Double-blind",
+              "whoMasked": [
+                "PARTICIPANT",
+                "INVESTIGATOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 419,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Dolutegravir/Abacavir/Lamivudine",
+              "type": "EXPERIMENTAL",
+              "description": "Combination of Dolutegravir, Abacavir and Lamivudine in a single product/capsule.\n\n4 capsules to be taken orally once daily (all 4 at the same time, each capsule is Dolutegravir 12.5mg, Abacavir 150mg and Lamivudine 75mg). Maximum duration is 24months",
+              "interventionNames": [
+                "Drug: Dolutegravir, Abacavir and Lamivudine"
+              ]
+            },
+            {
+              "label": "Placebo",
+              "type": "PLACEBO_COMPARATOR",
+              "description": "4 capsules to be taken orally once daily (all 4 at the same time). Maximum duration is 24months",
+              "interventionNames": [
+                "Drug: Placebo"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Dolutegravir, Abacavir and Lamivudine",
+              "description": "Dolutegravir 50mg, Abacavir 600mg and Lamivudine 300mg.",
+              "armGroupLabels": [
+                "Dolutegravir/Abacavir/Lamivudine"
+              ],
+              "otherNames": [
+                "Triumeq"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Placebo",
+              "description": "Matching placebo.",
+              "armGroupLabels": [
+                "Placebo"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Measure overall survival at 24 months or after a minimum of 212 events",
+              "description": "Overall survival is measured as death from any cause, in participants with ALS at 24 months, or after a minimum of 212 events.",
+              "timeFrame": "24 months"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Measure scoring in the ALS-Functional Rating Scale Revised (ALSFRS-R) at 3 monthly intervals.",
+              "description": "The ALSFRS-R is a 12 item participant self-report measure that monitors ALS disease progression, where a higher score reflects a better outcome.",
+              "timeFrame": "24 months"
+            },
+            {
+              "measure": "Number of participants with abnormal Slow Vital Capacity measured by hand spirometry at 3 monthly intervals",
+              "description": "Slow vital capacity is measured in litres, and as a % of predicted.",
+              "timeFrame": "24 months"
+            },
+            {
+              "measure": "Measure plasma creatinine at 3 monthly intervals",
+              "description": "Plasma creatinine is assessed to monitor kidney function",
+              "timeFrame": "24 months"
+            },
+            {
+              "measure": "Assign a value using the King's Staging Scale to describe degree of disease advancement over time",
+              "description": "The King's Staging Scale is a clinical staging system defining four stages of ALS assessed by way of a semi-structured interview with the participant.",
+              "timeFrame": "24 months"
+            },
+            {
+              "measure": "Evaluate the incidence of treatment-emergent adverse events",
+              "description": "based on physical examinations and patient reported symptoms.",
+              "timeFrame": "24 months"
+            },
+            {
+              "measure": "Measure study medication discontinuation",
+              "description": "the number of participants who discontinue study medication will be assessed to assess tolerability",
+              "timeFrame": "24 months"
+            },
+            {
+              "measure": "Measure the score obtained with the Edinburgh Cognitive and Behavioural Assessment Screen (ECAS)",
+              "description": "ECAS is a multidomain assessment questionnaire used in ALS to assess cognitive and behavioural changes where a higher score relates to a better outcome.",
+              "timeFrame": "24 months"
+            },
+            {
+              "measure": "Measure the responses in the EQ-5D-5L quality of life health questionnaire.",
+              "description": "The EQ-5D-5L questionnaire is a standardised measure of health-related Quality of Life, also incorporating a Visual Analogue Scale. A higher score relates to a better outcome.",
+              "timeFrame": "24 months"
+            },
+            {
+              "measure": "Measurement of several biomarkers from blood and urine samples",
+              "description": "Urinary P75ECD, plasma neurofilament light and heavy chain, HERV-K expression and genotyping (UNC13a / C9orf72) will be measured for post-trial exploratory analyses.",
+              "timeFrame": "24 months"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years at the time of screening\n2. Diagnosis of ALS according to the Gold Coast Criteria\n3. Capable of providing informed consent and complying with trial procedures\n4. TRICALS risk profile \\> -6.0 and \\< -2.0\n5. Those taking Riluzole must be on a stable dose for at least 30 days prior to the baseline visit or must have stopped taking Riluzole at least 30 days prior to the baseline visit\n6. Women must not become pregnant (e.g., post-menopausal, surgically sterile, using highly effective birth control methods or not having potentially reproductive sex) for the duration of the study plus five days. Highly effective methods of birth control are those with a failure rate of \\< 1% per year when employed consistently and correctly, e.g. Combined (oestrogen and progestogen containing) hormonal contraception or progestogen-only hormonal contraception. For more information, please refer to the HMA CTFG Guidelines: https://www.hma.eu/fileadmin/dateien/Human\\_Medicines/01-About\\_HMA/Working\\_Groups/CTFG/2014\\_09\\_HMA\\_CTFG\\_Contraception.pdf?fbclid=IwAR3AY5Ha0ESDyqIBeUaYI9VTFWmx9bbt8NZ-80N-5ME6pkBb1UHvFsTwqlQ\n7. Women of childbearing potential must have a negative serum pregnancy test at screening and be non-lactating. Patients will be advised regarding appropriate contraception. A menstruation history will be taken at each visit. Women of childbearing potential are defined as females who are fertile, following menarche and until becoming post-menopausal unless permanently sterile. Permanent sterilisation methods include hysterectomy, bilateral salpingectomy and bilateral oophorectomy (https://www.hma.eu/fileadmin/dateien/Human\\_Medicines/01-About\\_HMA/Working\\_Groups/CTFG/2014\\_09\\_HMA\\_CTFG\\_Contraception.pdf?fbclid=IwAR3AY5Ha0ESDyqIBeUaYI9VTFWmx9bbt8NZ-80N-5ME6pkBb1UHvFsTwqlQ)\n8. For participants taking antacids (regularly or as required), participant is willing and able to avoid taking antacids for at least 6 hours before and 2 hours after Triumeq\n9. Participant taking taurursodiol supplements (TUDCA) can participate in this trial if the supplement does not contain sodium phenylbutyrate.\n10. Participants taking taurursodiol supplements (TUDCA) that also contain sodium phenylbutyrate must be willing to stop supplementation 30 days prior randomisation.\n\nExclusion Criteria:\n\n1. People who are HLA-B\\*5701 positive\n2. Known hypersensitivity to Dolutegravir, Abacavir or Lamivudine, or to any of the excipients\n3. Safety Laboratory Criteria at screening:\n\n   * ALT ≥ 5 times upper limit of normal (ULN)\n   * AST ≥ 3 times ULN\n   * Bilirubin ≥ 1.5 times ULN with clinical indicators of liver disease\n   * Creatinine clearance \\< 30 mL / min\n   * Platelet concentration of \\< 100 x109 per L\n   * Absolute neutrophil count of \\< 1x109 per L\n   * Haemoglobin \\< 100 g/L\n   * Amylase ≥ 2 times ULN\n   * Lactate ≥ 2 times ULN\n4. Moderate to severe hepatic impairment, as defined by local clinical guidelines\n5. Presence of HIV antibodies at screening\n6. Presence of Hepatitis C antibodies at screening unless participants have had effective treatment for Hepatitis C\n7. Presence of Hepatitis B core or surface antigen at screening\n8. Participation in any other investigational drug trial or using investigational drug within 30 days prior to screening\n9. Use of NIV ≥22 h per day or having a tracheostomy\n10. Edaravone dose within 30 days prior to screening. Edaravone is approved by the FDA and in Japan, but remains an investigational product in Europe and Australia\n11. Clinically significant history of unstable or severe cardiac, oncological, psychiatric, hepatic, or renal disease or other medically significant illness\n12. Taking medication contraindicated with Triumeq: Dofetilideor Fampridine (dalfampridine)\n13. Taking Tofersen within 3 months prior to screening.",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "overallOfficials": [
+            {
+              "name": "Julian Gold, MD, FFPHM",
+              "affiliation": "Macquarie University",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "MQ Health Neurology",
+              "city": "North Ryde",
+              "state": "New South Wales",
+              "zip": "2109",
+              "country": "Australia",
+              "geoPoint": {
+                "lat": -33.79677,
+                "lon": 151.12436
+              }
+            },
+            {
+              "facility": "Neuroscience Research Australia (NeuRA)",
+              "city": "Randwick",
+              "state": "New South Wales",
+              "zip": "2031",
+              "country": "Australia",
+              "geoPoint": {
+                "lat": -33.91439,
+                "lon": 151.24895
+              }
+            },
+            {
+              "facility": "Sunshine Coast University Hospital",
+              "city": "Birtinya",
+              "state": "Queensland",
+              "zip": "4575",
+              "country": "Australia",
+              "geoPoint": {
+                "lat": -26.74322,
+                "lon": 153.11913
+              }
+            },
+            {
+              "facility": "Royal Brisbane and Women's Hospital",
+              "city": "Herston",
+              "state": "Queensland",
+              "zip": "4029",
+              "country": "Australia",
+              "geoPoint": {
+                "lat": -27.44453,
+                "lon": 153.01852
+              }
+            },
+            {
+              "facility": "Flinders Medical Centre",
+              "city": "Bedford Park",
+              "state": "South Australia",
+              "zip": "5042",
+              "country": "Australia",
+              "geoPoint": {
+                "lat": -35.02204,
+                "lon": 138.56815
+              }
+            },
+            {
+              "facility": "Launceston General Hospital",
+              "city": "Launceston",
+              "state": "Tasmania",
+              "zip": "7250",
+              "country": "Australia",
+              "geoPoint": {
+                "lat": -41.43876,
+                "lon": 147.13467
+              }
+            },
+            {
+              "facility": "Calvary Health Care Bethlehem",
+              "city": "Caulfield South",
+              "state": "Victoria",
+              "zip": "3162",
+              "country": "Australia",
+              "geoPoint": {
+                "lat": -37.89562,
+                "lon": 145.02597
+              }
+            },
+            {
+              "facility": "The Perron Institute",
+              "city": "Nedlands",
+              "state": "Western Australia",
+              "zip": "6009",
+              "country": "Australia",
+              "geoPoint": {
+                "lat": -31.98184,
+                "lon": 115.8073
+              }
+            },
+            {
+              "facility": "Beaumont Hospital",
+              "city": "Dublin",
+              "zip": "D09V2N0",
+              "country": "Ireland",
+              "geoPoint": {
+                "lat": 53.33306,
+                "lon": -6.24889
+              }
+            },
+            {
+              "facility": "UMC Utrecht",
+              "city": "Utrecht",
+              "zip": "3584 CX",
+              "country": "Netherlands",
+              "geoPoint": {
+                "lat": 52.09083,
+                "lon": 5.12222
+              }
+            },
+            {
+              "facility": "Christchurch Hospital",
+              "city": "Christchurch",
+              "zip": "8011",
+              "country": "New Zealand",
+              "geoPoint": {
+                "lat": -43.53333,
+                "lon": 172.63333
+              }
+            },
+            {
+              "facility": "Dunedin Hospital",
+              "city": "Dunedin",
+              "zip": "9054",
+              "country": "New Zealand",
+              "geoPoint": {
+                "lat": -45.87416,
+                "lon": 170.50361
+              }
+            },
+            {
+              "facility": "Clinical Trials Unit, Tauranga Hospital",
+              "city": "Tauranga",
+              "zip": "3112",
+              "country": "New Zealand",
+              "geoPoint": {
+                "lat": -37.68611,
+                "lon": 176.16667
+              }
+            },
+            {
+              "facility": "Wellington Regional Hospital",
+              "city": "Wellington",
+              "zip": "6021",
+              "country": "New Zealand",
+              "geoPoint": {
+                "lat": -41.28664,
+                "lon": 174.77557
+              }
+            },
+            {
+              "facility": "Univerzitetni klinični center Ljubljana",
+              "city": "Ljubljana",
+              "zip": "1000",
+              "country": "Slovenia",
+              "geoPoint": {
+                "lat": 46.05108,
+                "lon": 14.50513
+              }
+            },
+            {
+              "facility": "Hospital del Mar",
+              "city": "Barcelona",
+              "zip": "08003",
+              "country": "Spain",
+              "geoPoint": {
+                "lat": 41.38879,
+                "lon": 2.15899
+              }
+            },
+            {
+              "facility": "Hospital Universitario y Politecnico la Fe",
+              "city": "Valencia",
+              "zip": "46026",
+              "country": "Spain",
+              "geoPoint": {
+                "lat": 39.47391,
+                "lon": -0.37966
+              }
+            },
+            {
+              "facility": "Studiecenheten at Akademiskt specialistcentrum",
+              "city": "Stockholm",
+              "zip": "113 61",
+              "country": "Sweden",
+              "geoPoint": {
+                "lat": 59.32938,
+                "lon": 18.06871
+              }
+            },
+            {
+              "facility": "University of Edinburgh, Anne Rowling Regenerative Nuerology Clinic",
+              "city": "Edinburgh",
+              "zip": "EH16 4SB",
+              "country": "United Kingdom",
+              "geoPoint": {
+                "lat": 55.95206,
+                "lon": -3.19648
+              }
+            },
+            {
+              "facility": "The Walton Centre",
+              "city": "Liverpool",
+              "zip": "L9 7LJ",
+              "country": "United Kingdom",
+              "geoPoint": {
+                "lat": 53.41058,
+                "lon": -2.97794
+              }
+            },
+            {
+              "facility": "University College London Hospital",
+              "city": "London",
+              "zip": "NW1 2PG",
+              "country": "United Kingdom",
+              "geoPoint": {
+                "lat": 51.50853,
+                "lon": -0.12574
+              }
+            },
+            {
+              "facility": "King's College Hospital",
+              "city": "London",
+              "zip": "SE5 9RS",
+              "country": "United Kingdom",
+              "geoPoint": {
+                "lat": 51.50853,
+                "lon": -0.12574
+              }
+            },
+            {
+              "facility": "St George's Hospital",
+              "city": "London",
+              "zip": "SW17 0QT",
+              "country": "United Kingdom",
+              "geoPoint": {
+                "lat": 51.50853,
+                "lon": -0.12574
+              }
+            },
+            {
+              "facility": "Oxford University Hospital",
+              "city": "Oxford",
+              "zip": "OX3 9DU",
+              "country": "United Kingdom",
+              "geoPoint": {
+                "lat": 51.75222,
+                "lon": -1.25596
+              }
+            },
+            {
+              "facility": "Plymouth University Hospital",
+              "city": "Plymouth",
+              "zip": "PL8 8DH",
+              "country": "United Kingdom",
+              "geoPoint": {
+                "lat": 50.37153,
+                "lon": -4.14305
+              }
+            },
+            {
+              "facility": "Royal Preston Hospital",
+              "city": "Preston",
+              "zip": "PR2 9HT",
+              "country": "United Kingdom",
+              "geoPoint": {
+                "lat": 53.76282,
+                "lon": -2.70452
+              }
+            },
+            {
+              "facility": "Sheffield Teaching Hospital",
+              "city": "Sheffield",
+              "zip": "S5 7AU",
+              "country": "United Kingdom",
+              "geoPoint": {
+                "lat": 53.38297,
+                "lon": -1.4659
+              }
+            },
+            {
+              "facility": "Royal Stoke Hotel",
+              "city": "Stoke",
+              "zip": "ST4 6QG",
+              "country": "United Kingdom",
+              "geoPoint": {
+                "lat": 53.25,
+                "lon": -2.86667
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "31284774",
+              "type": "BACKGROUND",
+              "citation": "Gold J, Rowe DB, Kiernan MC, Vucic S, Mathers S, van Eijk RPA, Nath A, Garcia Montojo M, Norato G, Santamaria UA, Rogers ML, Malaspina A, Lombardi V, Mehta PR, Westeneng HJ, van den Berg LH, Al-Chalabi A. Safety and tolerability of Triumeq in amyotrophic lateral sclerosis: the Lighthouse trial. Amyotroph Lateral Scler Frontotemporal Degener. 2019 Nov;20(7-8):595-604. doi: 10.1080/21678421.2019.1632899. Epub 2019 Jul 8."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "YES",
+          "description": "It is anticipated participant level data will be available as open access.",
+          "infoTypes": [
+            "STUDY_PROTOCOL"
+          ],
+          "timeFrame": "Contact the Chief Investigators for access information.",
+          "accessCriteria": "Contact the Chief Investigators for access information."
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "C000631408",
+              "term": "abacavir, dolutegravir, and lamivudine drug combination"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ]
+}

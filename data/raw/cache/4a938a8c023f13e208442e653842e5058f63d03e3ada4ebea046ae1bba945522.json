@@ -1,0 +1,518 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03693781",
+          "orgStudyIdInfo": {
+            "id": "Co-ALS"
+          },
+          "organization": {
+            "fullName": "Azienda Ospedaliero-Universitaria di Modena",
+            "class": "OTHER"
+          },
+          "briefTitle": "Colchicine for Amyotrophic Lateral Sclerosis",
+          "officialTitle": "Colchicine for Amyotrophic Lateral Sclerosis: a Phase II, Randomized, Double Blind, Placebo Controlled, Multicenter Clinical Trial",
+          "acronym": "Co-ALS"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2023-02",
+          "overallStatus": "COMPLETED",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2019-04-10",
+            "type": "ACTUAL"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2022-04-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-03",
+            "type": "ACTUAL"
+          },
+          "studyFirstSubmitDate": "2018-09-30",
+          "studyFirstSubmitQcDate": "2018-10-01",
+          "studyFirstPostDateStruct": {
+            "date": "2018-10-03",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2023-02-28",
+          "lastUpdatePostDateStruct": {
+            "date": "2023-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "PRINCIPAL_INVESTIGATOR",
+            "investigatorFullName": "JESSICA MANDRIOLI",
+            "investigatorTitle": "Principal Investigator",
+            "investigatorAffiliation": "Azienda Ospedaliero-Universitaria di Modena"
+          },
+          "leadSponsor": {
+            "name": "Azienda Ospedaliero-Universitaria di Modena",
+            "class": "OTHER"
+          },
+          "collaborators": [
+            {
+              "name": "University of Modena and Reggio Emilia",
+              "class": "OTHER"
+            },
+            {
+              "name": "University of Turin, Italy",
+              "class": "OTHER"
+            },
+            {
+              "name": "Istituto Auxologico Italiano",
+              "class": "OTHER"
+            },
+            {
+              "name": "IRCCS National Neurological Institute \"C. Mondino\" Foundation",
+              "class": "OTHER"
+            },
+            {
+              "name": "University of Bari",
+              "class": "OTHER"
+            },
+            {
+              "name": "IRCCS San Raffaele",
+              "class": "OTHER"
+            },
+            {
+              "name": "University of Padova",
+              "class": "OTHER"
+            },
+            {
+              "name": "University of Milan",
+              "class": "OTHER"
+            },
+            {
+              "name": "Istituto Di Ricerche Farmacologiche Mario Negri",
+              "class": "OTHER"
+            },
+            {
+              "name": "University of Campania Luigi Vanvitelli",
+              "class": "OTHER"
+            },
+            {
+              "name": "Catholic University of the Sacred Heart",
+              "class": "OTHER"
+            }
+          ]
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false,
+          "isUsExport": false
+        },
+        "descriptionModule": {
+          "briefSummary": "The study evaluates the effects of two different Colchicine doses (0.01mg/kg/day or 0.005 mg/kg/day) compared to placebo in Amyotrophic Lateral Sclerosis (ALS) patients. Disease progression as defined by changes in ALSFRS-r is the primary outcome measure. Other measures of clinical progression and survival, together with safety and tolerability of Colchicine in ALS patients will be assessed.",
+          "detailedDescription": "Recent evidence supports the disruption of the ubiquitin-proteasome-system and autophagy as central events in ALS. ALS is characterized by the presence of misfolded proteins prone to oligomerize into aggregates, which exert a toxic effect by affecting several intracellular functions. Heat shock protein B8 (HSPB8) recognizes and promotes the autophagy-mediated removal of misfolded mutant SOD1 and TDP-43 fragments from ALS motor neurons (MNs). Moreover, HSPB8-BAG3-HSP70 maintains the so called \"granulostasis\", a surveillance mechanism that avoids the conversion of dynamic stress granules (SGs) into aggregation-prone assemblies, which are a hallmark of ALS.\n\nColchicine enhances the expression of HSPB8 and of several autophagy players while blocking TDP-43 accumulation in neurons. Moreover, given the cross-talk between infalmmation and autophagy, the well-known antinflammatory action of Cochicine may contribute to cell homeostasis.\n\nBased on these premises, this is a phase II randomized, double-blind, placebo-controlled, multicenter (9 MND Centres in Italy: 2 centres in Milan, Pavia, Turin, Modena, Padua, Rome, Naples, Bari), clinical trial to test efficacy of Colchicine in ALS."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyotrophic Lateral Sclerosis"
+          ],
+          "keywords": [
+            "amyotrophic lateral sclerosis",
+            "stress granules",
+            "HSPB8",
+            "protein quality control",
+            "colchicine",
+            "ALSFRS-r",
+            "survival",
+            "safety"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "interventionModelDescription": "Three arms of 18 patients each; in two arms two colchicine dosages will be tested compared to placebo in the control arm. The three arms will undergo treatment vs placebo in parallel",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "DOUBLE",
+              "maskingDescription": "placebo will be unrecognizable from active treatment (both in tablets)",
+              "whoMasked": [
+                "PARTICIPANT",
+                "INVESTIGATOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Colchicine 0.01mg/kg/day + Riluzole 100 mg",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Oral colchicine will be administered at fast, at specified dose pro kilograms for 30 weeks, while taking Riluzole 100 mg/day",
+              "interventionNames": [
+                "Drug: Colchicine 1 MG Oral Tablet"
+              ]
+            },
+            {
+              "label": "Colchicine 0.005 mg/kg/day + Riluzole 100 mg",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Oral colchicine will be administered at fast, at specified dose pro kilograms for 30 weeks, while taking Riluzole 100 mg/day",
+              "interventionNames": [
+                "Drug: Colchicine 1 MG Oral Tablet"
+              ]
+            },
+            {
+              "label": "Placebo + Riluzole 100 mg",
+              "type": "PLACEBO_COMPARATOR",
+              "description": "Placebo pills will be administered at fast, while taking Riluzole 100 mg/day",
+              "interventionNames": [
+                "Drug: Placebo Oral Tablet"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Colchicine 1 MG Oral Tablet",
+              "description": "Colchicine tablets depending on arm (0.01 mg/kg/day, 0.005 mg/kg/day, placebo) and on weight (\\>70 kg or \\<71 kg) for 30 weeks of duration.",
+              "armGroupLabels": [
+                "Colchicine 0.01mg/kg/day + Riluzole 100 mg"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Colchicine 1 MG Oral Tablet",
+              "description": "Colchicine tablets depending on arm (0.01 mg/kg/day, 0.005 mg/kg/day, placebo) and on weight (\\>70 kg or \\<71 kg) for 30 weeks of duration.",
+              "armGroupLabels": [
+                "Colchicine 0.005 mg/kg/day + Riluzole 100 mg"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Placebo Oral Tablet",
+              "description": "Corresponding tablets for 30 weeks",
+              "armGroupLabels": [
+                "Placebo + Riluzole 100 mg"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Decrease in ALS disease progression as measured by ALS Functional rating Scale Revised (ALSFRS-R)",
+              "description": "ALSFRS-R is a scale that measures disability in ALS; the scores range from 0 (maximum disability, the worst score) to 48 (no disability, the best score). We will measure total score changes from baseline to week 30 in treatment and placebo arms.",
+              "timeFrame": "comparison between baseline and treatment end (week 30)"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Incidence of Treatment-Emergent Adverse Events (safety and tolerability)",
+              "description": "Number of serious adverse events (SAEs) and AEs in placebo and treatment arms",
+              "timeFrame": "week 30 and 54"
+            },
+            {
+              "measure": "Tracheostomy-free survival rate",
+              "description": "Overall survival from randomization to date of death or tracheostomy",
+              "timeFrame": "Up to week 54"
+            },
+            {
+              "measure": "Changes in Forced Vital Capacity (FVC)",
+              "description": "Changes in FVC score from baseline to week 8, 18, 30, 54 in treatment and placebo arms.",
+              "timeFrame": "Up to week 54"
+            },
+            {
+              "measure": "Changes in quality of life",
+              "description": "Changes in Amyotrophic Lateral Sclerosis Assessment Questionnaire (ALSAQ-40) from baseline to week 8, 18, 30 and week 54, in placebo and treatment arms",
+              "timeFrame": "at 8,18,30 and 54 week"
+            },
+            {
+              "measure": "enhancement of autophagy",
+              "description": "assessment of mRNA and protein levels of p62, LC3, TFEB, ATGs, HSPB8, BAG3, BAG1, HSP70, and HSF1, in patients' PBMCs, lymphoblasts and fibroblasts (transcriptome profile);",
+              "timeFrame": "at week 30 and 54, compared to baseline"
+            },
+            {
+              "measure": "changes in stress granules size, number and composition",
+              "description": "identification of changes in stress granules response and composition in patients' fibroblasts and lymphoblasts will be carried out by measuring granules size, number and composition by confocal microscopy using automated systems. The aberrant recruitment or sequestration of specific mRNA inside stress granules will be assessed by FISH using specific probes, followed by densitometric analysis as previously described by Gareau et al. (2011).",
+              "timeFrame": "at week 30 compared to baseline"
+            },
+            {
+              "measure": "quantification of insoluble species",
+              "description": "assessment of overall levels and the relative ratio between soluble and insoluble species of TDP-43, TDP-43 fragments, SQSTM1/p62, UBQLN, OPTN in fibroblasts and lymphoblasts derived from the same patients",
+              "timeFrame": "at week 30 compared to baseline"
+            },
+            {
+              "measure": "modifications on extracellular vesicles secretion in blood and CSF",
+              "description": "assessment of TDP-43, hyperphosphorylated TDP-43, SQSTM1/p62, UBQLN and OPTN in extracellular vesicles by plasma and CSF.",
+              "timeFrame": "at week 30 compared to baseline"
+            },
+            {
+              "measure": "effects on biomarkers of neurodegeneration",
+              "description": "creatinine, albumin, CK, and vitamin D in plasma as markers of disease severity; phosphorylated neurofilaments heavy chain",
+              "timeFrame": "at week 30 compared to baseline"
+            },
+            {
+              "measure": "effects on biomarkers of inflammation",
+              "description": "assessment of plasma/CSF IL18, its endogenous inhibitor IL-18BP, MCP1 and IL17",
+              "timeFrame": "at week 30 compared to baseline"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients diagnosed with a laboratory supported, clinically \"probable\" or \"definite\" amyotrophic lateral sclerosis according to the Revised El Escorial criteria (Brooks, 2000)\n* Sporadic ALS\n* ALS phenotypes: classic or bulbar\n* Female or male patients aged between 18 and 80 years old\n* Disease duration from symptoms onset no longer than 18 months at the screening visit\n* Patients treated with a stable dose of Riluzole (100 mg/day) for at least 30 days prior to screening\n* Patients with a weight \\> 50 kg and a BMI ≥18\n* Patients with a FVC (Forced Vital Capacity) equal or more than 65 % predicted normal value for gender, height, and age at the screening visit Patients able and willing to comply with study procedures as per protocol\n* Patients able to understand, and capable of providing informed consent at screening visit prior to any protocol-specific procedures\n* Use of highly effective contraception\n\nExclusion Criteria:\n\n* Prior use of Colchicine\n* Prior allergy/sensitivity to Colchicine\n* Receiving Colchicine or other anti-inflammatory drugs (such as corticosteroids, methotrexate, anti-neoplastic, Interleukin 1-1b antagonist, Tumor necrosis factor-alpha inhibitor)\n* Receiving food or co-medications such as strong-moderate cytochrome P450 3A4 inhibitors that will result in elevated plasma level of Colchicine\n* Inflammatory disorders (SLE, Rheumatoid arthritis, connective tissue disorder) or chronic infections (HIV, hepatitis B or C infection) or significant history of malignancy\n* Severe renal (eGFR\\< 30ml/min/1.73m2), or liver failure or liver aminotransferase (ALT/AST \\> 2x Upper limit of normal),\n* Existing blood dyscrasia (e.g., myelodysplasia)\n* White blood cells\\<4,000/mm³, platelets count\\<100,000/mm³, hematocrit\\<30%\n* Severe comorbidities (heart, renal, liver failure), autoimmune diseases or any type of interstitial lung disease\n* Patients who underwent non invasive ventilation, tracheotomy and /or gastrostomy\n* Women who are pregnant or breastfeeding\n* Participation in pharmacological studies within the last 30 days before screening\n* Patients with the following ALS phenotypes: flail arm, flail leg, UMN-p, respiratory, PLS, progressive muscular atrophy.\n* Patients with familial ALS defined as presence of at least one first degree family member (parents/son/daughter/brother/sister) affected by ALS.\n* Patients with known pathogenic mutations (SOD1, TARDBP, FUS, C9ORF72).",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "overallOfficials": [
+            {
+              "name": "Jessica Mandrioli",
+              "affiliation": "Azienda Ospedaliero-Universitaria di Modena",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "locations": [
+            {
+              "facility": "Centro Sla, University of Bari",
+              "city": "Bari",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 41.12066,
+                "lon": 16.86982
+              }
+            },
+            {
+              "facility": "Centro Sla, Istituto Auxologico Italiano, University of Milano, Milano",
+              "city": "Milan",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 42.78235,
+                "lon": 12.59836
+              }
+            },
+            {
+              "facility": "Irccs Carlo Besta",
+              "city": "Milan",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 42.78235,
+                "lon": 12.59836
+              }
+            },
+            {
+              "facility": "Irccs St. Raffaele Institute of Milano",
+              "city": "Milan",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 42.78235,
+                "lon": 12.59836
+              }
+            },
+            {
+              "facility": "Centro Sla, Ospedale Civile S. Agostino Estense, A.O.U. Modena",
+              "city": "Modena",
+              "zip": "41126",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 44.64783,
+                "lon": 10.92539
+              }
+            },
+            {
+              "facility": "Università della Campania Gianluigi Vanvitelli",
+              "city": "Naples",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 40.85216,
+                "lon": 14.26811
+              }
+            },
+            {
+              "facility": "Als Centre, \"C. Mondino\" National Neurological Institute, University of Pavia",
+              "city": "Pavia",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 45.19205,
+                "lon": 9.15917
+              }
+            },
+            {
+              "facility": ", Neuromuscular Omnicentre Centre, Rome, Catholic University, Rome",
+              "city": "Roma",
+              "country": "Italy",
+              "geoPoint": {
+                "lat": 44.99364,
+                "lon": 11.10642
+              }
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "23474849",
+              "type": "BACKGROUND",
+              "citation": "Thomas M, Alegre-Abarrategui J, Wade-Martins R. RNA dysfunction and aggrephagy at the centre of an amyotrophic lateral sclerosis/frontotemporal dementia disease continuum. Brain. 2013 May;136(Pt 5):1345-60. doi: 10.1093/brain/awt030. Epub 2013 Mar 9."
+            },
+            {
+              "pmid": "27694913",
+              "type": "BACKGROUND",
+              "citation": "Cadwell K. Crosstalk between autophagy and inflammatory signalling pathways: balancing defence and homeostasis. Nat Rev Immunol. 2016 Nov;16(11):661-675. doi: 10.1038/nri.2016.100. Epub 2016 Oct 3."
+            },
+            {
+              "pmid": "26961006",
+              "type": "BACKGROUND",
+              "citation": "Crippa V, D'Agostino VG, Cristofani R, Rusmini P, Cicardi ME, Messi E, Loffredo R, Pancher M, Piccolella M, Galbiati M, Meroni M, Cereda C, Carra S, Provenzani A, Poletti A. Transcriptional induction of the heat shock protein B8 mediates the clearance of misfolded proteins responsible for motor neuron diseases. Sci Rep. 2016 Mar 10;6:22827. doi: 10.1038/srep22827."
+            },
+            {
+              "pmid": "27466192",
+              "type": "BACKGROUND",
+              "citation": "Crippa V, Cicardi ME, Ramesh N, Seguin SJ, Ganassi M, Bigi I, Diacci C, Zelotti E, Baratashvili M, Gregory JM, Dobson CM, Cereda C, Pandey UB, Poletti A, Carra S. The chaperone HSPB8 reduces the accumulation of truncated TDP-43 species in cells and protects against TDP-43-mediated toxicity. Hum Mol Genet. 2016 Sep 15;25(18):3908-3924. doi: 10.1093/hmg/ddw232. Epub 2016 Jul 27."
+            },
+            {
+              "pmid": "28608264",
+              "type": "BACKGROUND",
+              "citation": "Cristofani R, Crippa V, Vezzoli G, Rusmini P, Galbiati M, Cicardi ME, Meroni M, Ferrari V, Tedesco B, Piccolella M, Messi E, Carra S, Poletti A. The small heat shock protein B8 (HSPB8) efficiently removes aggregating species of dipeptides produced in C9ORF72-related neurodegenerative diseases. Cell Stress Chaperones. 2018 Jan;23(1):1-12. doi: 10.1007/s12192-017-0806-9. Epub 2017 Jun 12."
+            },
+            {
+              "pmid": "28402699",
+              "type": "BACKGROUND",
+              "citation": "Cristofani R, Crippa V, Rusmini P, Cicardi ME, Meroni M, Licata NV, Sala G, Giorgetti E, Grunseich C, Galbiati M, Piccolella M, Messi E, Ferrarese C, Carra S, Poletti A. Inhibition of retrograde transport modulates misfolded protein accumulation and clearance in motoneuron diseases. Autophagy. 2017 Aug 3;13(8):1280-1303. doi: 10.1080/15548627.2017.1308985."
+            },
+            {
+              "pmid": "18094623",
+              "type": "BACKGROUND",
+              "citation": "Carra S, Seguin SJ, Landry J. HspB8 and Bag3: a new chaperone complex targeting misfolded proteins to macroautophagy. Autophagy. 2008 Feb;4(2):237-9. doi: 10.4161/auto.5407. Epub 2007 Dec 11."
+            },
+            {
+              "pmid": "20570967",
+              "type": "BACKGROUND",
+              "citation": "Crippa V, Sau D, Rusmini P, Boncoraglio A, Onesto E, Bolzoni E, Galbiati M, Fontana E, Marino M, Carra S, Bendotti C, De Biasi S, Poletti A. The small heat shock protein B8 (HspB8) promotes autophagic removal of misfolded proteins involved in amyotrophic lateral sclerosis (ALS). Hum Mol Genet. 2010 Sep 1;19(17):3440-56. doi: 10.1093/hmg/ddq257. Epub 2010 Jun 22."
+            },
+            {
+              "pmid": "18973929",
+              "type": "BACKGROUND",
+              "citation": "Terkeltaub RA. Colchicine update: 2008. Semin Arthritis Rheum. 2009 Jun;38(6):411-9. doi: 10.1016/j.semarthrit.2008.08.006. Epub 2008 Oct 29."
+            },
+            {
+              "pmid": "27830784",
+              "type": "BACKGROUND",
+              "citation": "Taylor JP, Brown RH Jr, Cleveland DW. Decoding ALS: from genes to mechanism. Nature. 2016 Nov 10;539(7628):197-206. doi: 10.1038/nature20413."
+            },
+            {
+              "pmid": "22419278",
+              "type": "BACKGROUND",
+              "citation": "Miller RG, Mitchell JD, Moore DH. Riluzole for amyotrophic lateral sclerosis (ALS)/motor neuron disease (MND). Cochrane Database Syst Rev. 2012 Mar 14;2012(3):CD001447. doi: 10.1002/14651858.CD001447.pub3."
+            },
+            {
+              "pmid": "31152038",
+              "type": "DERIVED",
+              "citation": "Mandrioli J, Crippa V, Cereda C, Bonetto V, Zucchi E, Gessani A, Ceroni M, Chio A, D'Amico R, Monsurro MR, Riva N, Sabatelli M, Silani V, Simone IL, Soraru G, Provenzani A, D'Agostino VG, Carra S, Poletti A. Proteostasis and ALS: protocol for a phase II, randomised, double-blind, placebo-controlled, multicentre clinical trial for colchicine in ALS (Co-ALS). BMJ Open. 2019 May 30;9(5):e028486. doi: 10.1136/bmjopen-2018-028486."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "YES",
+          "description": "de-identified individual participant data will be made available after study completion upon specific request",
+          "infoTypes": [
+            "STUDY_PROTOCOL",
+            "SAP",
+            "ICF",
+            "CSR"
+          ],
+          "timeFrame": "The data will become available at study completion (after final data analysis)",
+          "accessCriteria": "specific personal request by the subject"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-06-22"
+        },
+        "conditionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D000690",
+              "term": "Amyotrophic Lateral Sclerosis"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D013118",
+              "term": "Spinal Cord Diseases"
+            },
+            {
+              "id": "D002493",
+              "term": "Central Nervous System Diseases"
+            },
+            {
+              "id": "D009422",
+              "term": "Nervous System Diseases"
+            },
+            {
+              "id": "D016472",
+              "term": "Motor Neuron Disease"
+            },
+            {
+              "id": "D019636",
+              "term": "Neurodegenerative Diseases"
+            },
+            {
+              "id": "D057177",
+              "term": "TDP-43 Proteinopathies"
+            },
+            {
+              "id": "D009468",
+              "term": "Neuromuscular Diseases"
+            },
+            {
+              "id": "D057165",
+              "term": "Proteostasis Deficiencies"
+            },
+            {
+              "id": "D008659",
+              "term": "Metabolic Diseases"
+            },
+            {
+              "id": "D009750",
+              "term": "Nutritional and Metabolic Diseases"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D003078",
+              "term": "Colchicine"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D000470",
+              "term": "Alkaloids"
+            },
+            {
+              "id": "D006571",
+              "term": "Heterocyclic Compounds"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ]
+}
