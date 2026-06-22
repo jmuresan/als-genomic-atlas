@@ -22,7 +22,7 @@ def generate_report(db_path: str, output_path: str):
     with open(output_path, "w", encoding="utf-8") as f:
         # Header
         f.write("# ALS Genomic Atlas\n\n")
-        f.write("A publication-quality molecular and genomic landscape map of Amyotrophic Lateral Sclerosis (ALS) associated genes. Compiled dynamically from DuckDB containing multi-omics data integrated across 8 distinct categories.\n\n")
+        f.write("A publication-quality molecular and genomic landscape map of Amyotrophic Lateral Sclerosis (ALS) associated genes. Compiled dynamically from DuckDB containing multi-omics data integrated across 11 distinct categories.\n\n")
         
         f.write("## Table of Contents\n")
         for row in genes:
