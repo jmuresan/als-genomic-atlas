@@ -1,0 +1,74 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL2304041",
+      "name": "SAGOPILONE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin stabiliser"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "glioblastoma multiforme"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "Central Nervous System Neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "melanoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "small cell lung carcinoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

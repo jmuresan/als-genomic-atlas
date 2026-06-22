@@ -1,0 +1,44 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL96172",
+      "name": "EPOTHILONE D",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin stabiliser"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "colorectal cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

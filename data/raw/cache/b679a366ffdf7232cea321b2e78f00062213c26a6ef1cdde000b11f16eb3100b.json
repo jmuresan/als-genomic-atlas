@@ -1,0 +1,32 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL100116",
+      "name": "PENTAZOCINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Sigma opioid receptor modulator"
+          },
+          {
+            "mechanismOfAction": "Sigma opioid receptor modulator"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "bipolar disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "Pain"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

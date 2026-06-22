@@ -1,0 +1,48 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL3109738",
+      "name": "JNJ-26483327",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Tyrosine-protein kinase Lyn inhibitor"
+          },
+          {
+            "mechanismOfAction": "Tyrosine-protein kinase YES inhibitor"
+          },
+          {
+            "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Tyrosine-protein kinase FYN inhibitor"
+          },
+          {
+            "mechanismOfAction": "Tyrosine-protein kinase LCK inhibitor"
+          },
+          {
+            "mechanismOfAction": "Tyrosine-protein kinase SRC inhibitor"
+          },
+          {
+            "mechanismOfAction": "Vascular endothelial growth factor receptor 3 inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1206232",
+      "name": "FOSBRETABULIN",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin disrupting agent"
+          },
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "rheumatoid arthritis"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "neuroendocrine neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "thyroid cancer"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

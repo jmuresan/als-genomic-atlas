@@ -88,10 +88,11 @@ def create_tables(conn: duckdb.DuckDBPyConnection):
     # 5. Pathways & Domains table
     conn.execute("""
     CREATE TABLE IF NOT EXISTS pathways_and_domains (
-        id VARCHAR PRIMARY KEY, -- pathway_id or domain_id
+        id VARCHAR, -- pathway_id or domain_id
         gene_symbol VARCHAR,
         type VARCHAR, -- pathway, go_term, domain
         name VARCHAR,
+        PRIMARY KEY (id, gene_symbol),
         FOREIGN KEY (gene_symbol) REFERENCES genes(gene_symbol)
     )
     """)
@@ -109,13 +110,14 @@ def create_tables(conn: duckdb.DuckDBPyConnection):
     # 7. Clinical Trials & Drugs table
     conn.execute("""
     CREATE TABLE IF NOT EXISTS clinical_trials_and_drugs (
-        id VARCHAR PRIMARY KEY, -- drug_id or trial_id
+        id VARCHAR, -- drug_id or trial_id
         gene_symbol VARCHAR,
         type VARCHAR, -- drug or trial
         name_or_title VARCHAR,
         max_clinical_phase DOUBLE,
         mechanism_of_action VARCHAR,
         status VARCHAR,
+        PRIMARY KEY (id, gene_symbol),
         FOREIGN KEY (gene_symbol) REFERENCES genes(gene_symbol)
     )
     """)
@@ -123,13 +125,14 @@ def create_tables(conn: duckdb.DuckDBPyConnection):
     # 8. Structures table
     conn.execute("""
     CREATE TABLE IF NOT EXISTS structures (
-        structure_id VARCHAR PRIMARY KEY, -- pdb code or AF id
+        structure_id VARCHAR, -- pdb code or AF id
         gene_symbol VARCHAR,
         uniprot_id VARCHAR,
         type VARCHAR, -- PDB or AlphaFold
         plddt DOUBLE,
         disorder_score DOUBLE,
         method VARCHAR,
+        PRIMARY KEY (structure_id, gene_symbol),
         FOREIGN KEY (gene_symbol) REFERENCES genes(gene_symbol)
     )
     """)

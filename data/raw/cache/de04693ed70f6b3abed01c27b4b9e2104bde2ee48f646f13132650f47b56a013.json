@@ -1,0 +1,97 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL3989512",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3989512",
+    "molecule_chembl_id": "CHEMBL3989512",
+    "parent_chembl_id": "CHEMBL3989512"
+  },
+  "molecule_properties": {
+    "alogp": "3.99",
+    "aromatic_rings": 1,
+    "full_molformula": "C39H67N5O6",
+    "full_mwt": "701.99",
+    "hba": 7,
+    "hbd": 2,
+    "heavy_atoms": 50,
+    "mw_freebase": "701.99",
+    "np_likeness_score": "0.57",
+    "num_ro5_violations": 1,
+    "psa": "120.52",
+    "qed_weighted": "0.21",
+    "ro3_pass": "N",
+    "rtb": 20
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CC[C@H](C)[C@@H]([C@@H](CC(=O)N1CCC[C@H]1[C@H](OC)[C@@H](C)C(=O)NCCc1ccccc1)OC)N(C)C(=O)[C@@H](NC(=O)[C@H](C(C)C)N(C)C)C(C)C",
+    "molfile": "\n     RDKit          2D\n\n 52 53  0  0  0  0  0  0  0  0999 V2000\n   -9.3991    2.3571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.6846    2.7696    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.9702    2.3571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.2557    2.7696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.5412    2.3571    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.8268    2.7696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.1123    2.3571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.3978    2.7696    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6833    2.3571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.9689    2.7696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2544    2.3571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5399    2.7696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.6846    3.5946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.9702    1.5321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.2557    1.1196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.6846    1.1196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.2557    3.5946    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.8268    3.5946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.1123    4.0071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.5412    4.0071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.1123    1.5321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.3978    3.5946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6833    1.5321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.9689    1.1196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.3978    1.1196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.3978    0.2946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.3978    1.9446    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.9689    3.5946    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2544    4.0071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8255    2.3571    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5399    3.5946    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1580    2.8421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.5705    1.5726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2545    1.5726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5094    2.3571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0555    3.6390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8379    3.3094    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n    0.8524    3.8525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.5279    4.2223    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3143    5.0192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0659    4.6494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4358    3.2691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8628    4.8629    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4825    5.2327    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.0763    5.6598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8732    5.8733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.0867    6.6702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.8837    6.8837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0972    7.6806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5138    8.2640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7169    8.0505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5034    7.2536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\n  4  5  1  0\n  5  6  1  0\n  6  7  1  0\n  7  8  1  0\n  8  9  1  0\n  9 10  1  0\n 10 11  1  0\n 11 12  1  0\n  2 13  1  0\n  3 14  1  6\n 14 15  1  0\n 14 16  1  0\n  4 17  2  0\n  6 18  1  1\n 18 19  1  0\n 18 20  1  0\n  7 21  2  0\n  8 22  1  0\n  9 23  1  0\n 23 24  1  1\n 23 25  1  0\n 25 26  1  0\n  9 27  1  1\n 10 28  1  6\n 28 29  1  0\n 12 30  1  0\n 12 31  2  0\n 32 30  1  0\n 30 33  1  0\n 33 34  1  0\n 34 35  1  0\n 32 35  1  0\n 32 36  1  0\n 32 37  1  1\n 36 38  1  0\n 36 39  1  6\n 39 40  1  0\n 38 41  1  0\n 38 42  1  6\n 41 43  1  0\n 41 44  2  0\n 43 45  1  0\n 45 46  1  0\n 46 47  1  0\n 47 48  1  0\n 47 52  2  0\n 48 49  2  0\n 49 50  1  0\n 50 51  2  0\n 51 52  1  0\nM  END\n> <chembl_id>\nCHEMBL3989512\n\n> <chembl_pref_name>\nSOBLIDOTIN",
+    "standard_inchi": "InChI=1S/C39H67N5O6/c1-13-27(6)35(43(10)39(48)33(25(2)3)41-38(47)34(26(4)5)42(8)9)31(49-11)24-32(45)44-23-17-20-30(44)36(50-12)28(7)37(46)40-22-21-29-18-15-14-16-19-29/h14-16,18-19,25-28,30-31,33-36H,13,17,20-24H2,1-12H3,(H,40,46)(H,41,47)/t27-,28+,30-,31+,33-,34-,35-,36+/m0/s1",
+    "standard_inchi_key": "DZMVCVHATYROOS-ZBFGKEHZSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Auristatin pe",
+      "syn_type": "OTHER",
+      "synonyms": "AURISTATIN PE"
+    },
+    {
+      "molecule_synonym": "Soblidotin",
+      "syn_type": "INN",
+      "synonyms": "SOBLIDOTIN"
+    },
+    {
+      "molecule_synonym": "Soblidotin",
+      "syn_type": "JAN",
+      "synonyms": "SOBLIDOTIN"
+    },
+    {
+      "molecule_synonym": "Soblidotin",
+      "syn_type": "OTHER",
+      "synonyms": "SOBLIDOTIN"
+    },
+    {
+      "molecule_synonym": "Soblidotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "SOBLIDOTINA"
+    },
+    {
+      "molecule_synonym": "Soblidotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "SOBLIDOTINE"
+    },
+    {
+      "molecule_synonym": "TZT-1027",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TZT-1027"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "SOBLIDOTIN",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-dotin",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series",
+  "usan_substem": "-dotin",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

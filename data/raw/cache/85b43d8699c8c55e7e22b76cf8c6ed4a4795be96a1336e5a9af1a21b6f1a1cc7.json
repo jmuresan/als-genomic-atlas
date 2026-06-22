@@ -1,0 +1,24 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL248702",
+      "name": "DEXFENFLURAMINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Serotonin (5-HT) receptor agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "obesity"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

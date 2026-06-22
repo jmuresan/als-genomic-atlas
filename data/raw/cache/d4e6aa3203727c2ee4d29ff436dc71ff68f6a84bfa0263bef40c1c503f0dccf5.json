@@ -1,0 +1,94 @@
+{
+  "atc_classifications": [
+    "L01CD03"
+  ],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL2108628",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2108628",
+    "molecule_chembl_id": "CHEMBL2108628",
+    "parent_chembl_id": "CHEMBL2108628"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "CT-2103",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CT-2103"
+    },
+    {
+      "molecule_synonym": "L-polyglutamic paclitaxel",
+      "syn_type": "OTHER",
+      "synonyms": "L-POLYGLUTAMIC PACLITAXEL"
+    },
+    {
+      "molecule_synonym": "Opaxio",
+      "syn_type": "OTHER",
+      "synonyms": "OPAXIO"
+    },
+    {
+      "molecule_synonym": "Paclitaxel conjugate with poly-l-glutamic acid",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "PACLITAXEL CONJUGATE WITH POLY-L-GLUTAMIC ACID"
+    },
+    {
+      "molecule_synonym": "Paclitaxel poliglumex",
+      "syn_type": "ATC",
+      "synonyms": "PACLITAXEL POLIGLUMEX"
+    },
+    {
+      "molecule_synonym": "Paclitaxel poliglumex",
+      "syn_type": "INN",
+      "synonyms": "PACLITAXEL POLIGLUMEX"
+    },
+    {
+      "molecule_synonym": "Paclitaxel poliglumex",
+      "syn_type": "OTHER",
+      "synonyms": "PACLITAXEL POLIGLUMEX"
+    },
+    {
+      "molecule_synonym": "Paclitaxel poliglumex",
+      "syn_type": "USAN",
+      "synonyms": "PACLITAXEL POLIGLUMEX"
+    },
+    {
+      "molecule_synonym": "PG-TXL",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PG-TXL"
+    },
+    {
+      "molecule_synonym": "Xyotax",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "XYOTAX"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 1,
+  "pref_name": "PACLITAXEL POLIGLUMEX",
+  "prodrug": 0,
+  "structure_type": "NONE",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-taxel",
+  "usan_stem_definition": "antineoplastics, taxane derivatives",
+  "usan_substem": "-taxel",
+  "usan_year": 2004,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

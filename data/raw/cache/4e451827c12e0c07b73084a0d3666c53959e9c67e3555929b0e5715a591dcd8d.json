@@ -1,0 +1,34 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL492399",
+      "name": "VERUBULIN",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin disrupting agent"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "brain neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "glioblastoma multiforme"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

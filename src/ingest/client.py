@@ -72,8 +72,12 @@ class BaseClient:
                     time.sleep(backoff_delay)
                     backoff_delay *= 2
                 else:
-                    logger.error(f"Failed to fetch from {url}: {e}. Falling back to mock data.")
-                    return self._get_mock_data(endpoint, query_params)
+                    if self.cache.offline_mode:
+                        logger.error(f"Failed to fetch from {url}: {e}. Falling back to mock data.")
+                        return self._get_mock_data(endpoint, query_params)
+                    else:
+                        logger.error(f"Failed to fetch from {url}: {e}. Returning empty response.")
+                        return "" if is_xml else ([] if self.source_name in ("reactome", "string") else {})
         
         if is_xml:
             data = response.text
@@ -81,8 +85,12 @@ class BaseClient:
             try:
                 data = response.json()
             except ValueError:
-                logger.error(f"Failed to parse JSON response from {url}. Falling back to mock data.")
-                return self._get_mock_data(endpoint, query_params)
+                if self.cache.offline_mode:
+                    logger.error(f"Failed to parse JSON response from {url}. Falling back to mock data.")
+                    return self._get_mock_data(endpoint, query_params)
+                else:
+                    logger.error(f"Failed to parse JSON response from {url}. Returning empty response.")
+                    return {}
 
         # Write to cache
         self.cache.write(self.source_name, endpoint, query_params, data)
@@ -1091,8 +1099,7 @@ class FoldseekClient(BaseClient):
     def __init__(self, cache):
         super().__init__("foldseek", cache)
 
-    def fetch_alignments(self, gene_symbol: str, sequence: str) -> Dict[str, Any]:
-        import tempfile
+    def fetch_alignments(self, gene_symbol: str, pdb_url: Optional[str]) -> Dict[str, Any]:
         endpoint = "alignments"
         query_params = {"gene": gene_symbol}
         
@@ -1105,15 +1112,19 @@ class FoldseekClient(BaseClient):
             logger.warning(f"Offline mode active and no cache found for Foldseek alignments for {gene_symbol}. Returning mock data.")
             return self._get_mock_data(endpoint, query_params)
 
-        logger.info(f"Submitting Foldseek alignment job for {gene_symbol}...")
-        url = "https://search.foldseek.com/api/ticket"
-        
-        # Write sequence to a temp file
-        with tempfile.NamedTemporaryFile(suffix=".fasta", mode="w", delete=False) as temp_fasta:
-            temp_fasta.write(f">{gene_symbol}\n{sequence}\n")
-            temp_fasta_path = temp_fasta.name
-            
+        if not pdb_url:
+            logger.error(f"No PDB URL available for Foldseek alignment of {gene_symbol}.")
+            return {"results": []}
+
         try:
+            logger.info(f"Downloading PDB structure from {pdb_url} for Foldseek query...")
+            pdb_resp = requests.get(pdb_url, timeout=20)
+            pdb_resp.raise_for_status()
+            pdb_content = pdb_resp.text
+
+            logger.info(f"Submitting Foldseek alignment job for {gene_symbol}...")
+            url = "https://search.foldseek.com/api/ticket"
+            
             databases = [
                 "afdb50",
                 "afdb-swissprot",
@@ -1127,26 +1138,25 @@ class FoldseekClient(BaseClient):
             ]
             
             # Post request
-            with open(temp_fasta_path, "rb") as f:
-                files = {"q": f}
-                data = [
-                    ("mode", "3diaa"),
-                ]
-                for db in databases:
-                    data.append(("database[]", db))
+            files = {"q": ("query.pdb", pdb_content)}
+            data = [
+                ("mode", "3diaa"),
+            ]
+            for db in databases:
+                data.append(("database[]", db))
                 
-                logger.info(f"Uploading FASTA to Foldseek ticket API...")
-                response = requests.post(url, files=files, data=data, timeout=30)
-                if response.status_code != 200:
-                    logger.error(f"Foldseek submission failed: HTTP {response.status_code}")
-                    return self._get_mock_data(endpoint, query_params)
+            logger.info(f"Uploading PDB query to Foldseek ticket API...")
+            response = requests.post(url, files=files, data=data, timeout=30)
+            if response.status_code != 200:
+                logger.error(f"Foldseek submission failed: HTTP {response.status_code}")
+                return {"results": []}
                 
-                res_json = response.json()
-                ticket_id = res_json.get("id")
-                if not ticket_id:
-                    logger.error(f"Foldseek submission returned no ticket ID. Response: {res_json}")
-                    return self._get_mock_data(endpoint, query_params)
-                    
+            res_json = response.json()
+            ticket_id = res_json.get("id")
+            if not ticket_id:
+                logger.error(f"Foldseek submission returned no ticket ID. Response: {res_json}")
+                return {"results": []}
+                
             logger.info(f"Foldseek ticket generated: {ticket_id}. Polling for completion...")
             
             # Poll status
@@ -1165,10 +1175,10 @@ class FoldseekClient(BaseClient):
                     break
                 elif status == "ERROR":
                     logger.error(f"Foldseek job failed on server for ticket {ticket_id}")
-                    return self._get_mock_data(endpoint, query_params)
+                    return {"results": []}
             else:
                 logger.error(f"Foldseek job timed out after {max_polls * 5} seconds")
-                return self._get_mock_data(endpoint, query_params)
+                return {"results": []}
                 
             # Fetch results
             logger.info(f"Fetching Foldseek results for ticket {ticket_id}...")
@@ -1176,7 +1186,7 @@ class FoldseekClient(BaseClient):
             res = requests.get(result_url, timeout=60)
             if res.status_code != 200:
                 logger.error(f"Failed to fetch Foldseek results: HTTP {res.status_code}")
-                return self._get_mock_data(endpoint, query_params)
+                return {"results": []}
                 
             results = res.json()
             
@@ -1186,11 +1196,7 @@ class FoldseekClient(BaseClient):
             
         except Exception as e:
             logger.error(f"Exception during Foldseek alignment: {e}")
-            return self._get_mock_data(endpoint, query_params)
-            
-        finally:
-            if os.path.exists(temp_fasta_path):
-                os.remove(temp_fasta_path)
+            return {"results": []}
 
 # --- Consolidated Ingestion Manager ---
 
@@ -1279,16 +1285,23 @@ class IngestionManager:
         prob_threshold = config.foldseek_probability_threshold
         limit_hits = config.foldseek_limit_hits
         
-        # Get sequence from uniprot_data
-        protein_seq = None
-        if isinstance(uniprot_data, dict):
-            protein_seq = uniprot_data.get("sequence", {}).get("value")
-            
-        if not protein_seq:
-            # Fall back to a default mock sequence if none is found
-            protein_seq = "MATKAVCVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGCTSAGPHFNPLSRKHGGPKDEERHVGDLGNVTADKDGVADVSIEDSVISLSGDHCIIGRTLVVHEKADDLGKGGNEESTKTGNAGSRLACGVIGIAQ"
+        # Resolve pdbUrl from AlphaFold structure to pass to Foldseek
+        pdb_url = None
+        if uniprot_id:
+            try:
+                af_data = self.alphafold.fetch_structure(uniprot_id)
+                if isinstance(af_data, list) and af_data:
+                    pdb_url = af_data[0].get("pdbUrl")
+                elif isinstance(af_data, dict):
+                    pdb_url = af_data.get("pdbUrl")
+            except Exception as e:
+                logger.error(f"Error fetching AlphaFold structure info for {uniprot_id}: {e}")
+                
+        # Fallback to standard model v6 naming pattern if not explicitly resolved from API metadata
+        if not pdb_url and uniprot_id:
+            pdb_url = f"https://alphafold.ebi.ac.uk/files/AF-{uniprot_id}-F1-model_v6.pdb"
 
-        foldseek_data = self.foldseek.fetch_alignments(gene_symbol, protein_seq)
+        foldseek_data = self.foldseek.fetch_alignments(gene_symbol, pdb_url)
 
         # Process alignments and look up target drugs
         alignments_list = []

@@ -1,0 +1,39 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL572284",
+      "name": "OMBRABULIN",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "ovarian cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "sarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

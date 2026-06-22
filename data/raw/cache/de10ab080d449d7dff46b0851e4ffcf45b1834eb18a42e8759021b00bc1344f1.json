@@ -1,0 +1,170 @@
+{
+  "atc_classifications": [
+    "L01CD04"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/cabazitaxel-accord",
+      "xref_name": "cabazitaxel-accord",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "human/EPAR/jevtana",
+      "xref_name": "jevtana",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2010,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL1201748",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1201748",
+    "molecule_chembl_id": "CHEMBL1201748",
+    "parent_chembl_id": "CHEMBL1201748"
+  },
+  "molecule_properties": {
+    "alogp": "4.57",
+    "aromatic_rings": 2,
+    "full_molformula": "C45H57NO14",
+    "full_mwt": "835.94",
+    "hba": 14,
+    "hbd": 3,
+    "heavy_atoms": 60,
+    "mw_freebase": "835.94",
+    "np_likeness_score": "1.81",
+    "num_ro5_violations": 2,
+    "psa": "202.45",
+    "qed_weighted": "0.17",
+    "ro3_pass": "N",
+    "rtb": 10
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CO[C@H]1C(=O)[C@]2(C)[C@@H](OC)C[C@H]3OC[C@@]3(OC(C)=O)[C@H]2[C@H](OC(=O)c2ccccc2)[C@]2(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c3ccccc3)C(C)=C1C2(C)C",
+    "molfile": "\n     RDKit          2D\n\n 62 67  0  0  0  0  0  0  0  0999 V2000\n   -4.5080    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.2225    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.2225   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.5080   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7936   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7936    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0791   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6625   -1.4084    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.3646   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.7771    0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.6502   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.6502   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9357   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.2212   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.1913   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0163   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4288   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0163   -0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.1913   -0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3921    0.4728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2298    0.6863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0163    1.4832    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.0548    0.6863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7693    0.2738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4838    0.6864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7693   -0.5512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4838   -0.9637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.1982   -0.5512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.1982    0.2738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8413    1.4832    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7693    1.0988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4838    1.5114    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7816   -1.1345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0671   -1.5470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.9004   -1.5470    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.9004   -2.3720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6149   -2.7845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3170   -2.9554    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8413   -0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.2257   -0.6115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3568   -1.2656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.7734   -1.8490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.8028   -2.3364    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.3609   -2.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8029   -3.1822    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.6465   -2.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0680   -2.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7825   -2.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7825   -3.8010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0680   -4.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.6465   -3.8010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.8760   -2.2053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0510   -2.2053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.4635   -2.9197    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.4635   -3.7447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.1780   -4.1572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.6666   -3.5312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0510   -4.4592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.3088    1.5114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.3018    1.8957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.1221   -0.1685    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n    3.0281   -1.5171    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  1  6  1  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  6  2  0\n  5  7  1  0\n  7  8  1  1\n  7  9  1  0\n  9 10  1  1\n  9 11  1  0\n 11 12  2  0\n 11 13  1  0\n 14 13  1  6\n 14 15  1  0\n 14 19  1  0\n 15 16  1  0\n 16 17  1  0\n 17 18  1  0\n 18 19  2  0\n 19 20  1  0\n 18 21  1  0\n 21 22  1  1\n 21 23  1  0\n 23 24  1  0\n 25 24  1  0\n 24 26  1  0\n 25 29  1  0\n 26 27  1  0\n 27 28  1  0\n 28 29  1  0\n 23 30  2  0\n 24 31  1  1\n 25 32  1  1\n 28 33  1  0\n 27 34  1  0\n 34 33  1  0\n 27 35  1  6\n 35 36  1  0\n 36 37  1  0\n 36 38  2  0\n 17 39  1  0\n 17 40  1  0\n 26 41  1  0\n 16 41  1  0\n 41 42  1  6\n 16 43  1  1\n 42 44  1  0\n 44 45  2  0\n 44 46  1  0\n 51 46  2  0\n 47 46  1  0\n 47 48  2  0\n 48 49  1  0\n 49 50  2  0\n 50 51  1  0\n  8 52  1  0\n 52 53  2  0\n 52 54  1  0\n 54 55  1  0\n 55 56  1  0\n 55 57  1  0\n 55 58  1  0\n 32 59  1  0\n 22 60  1  0\n 28 61  1  6\n 26 62  1  6\nM  END\n> <chembl_id>\nCHEMBL1201748\n\n> <chembl_pref_name>\nCABAZITAXEL",
+    "standard_inchi": "InChI=1S/C45H57NO14/c1-24-28(57-39(51)33(48)32(26-17-13-11-14-18-26)46-40(52)60-41(3,4)5)22-45(53)37(58-38(50)27-19-15-12-16-20-27)35-43(8,36(49)34(55-10)31(24)42(45,6)7)29(54-9)21-30-44(35,23-56-30)59-25(2)47/h11-20,28-30,32-35,37,48,53H,21-23H2,1-10H3,(H,46,52)/t28-,29-,30+,32-,33+,34+,35-,37-,43+,44-,45+/m0/s1",
+    "standard_inchi_key": "BMQGVNUXMIRLCK-OAGWZNDDSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Cabazitaxel",
+      "syn_type": "ATC",
+      "synonyms": "CABAZITAXEL"
+    },
+    {
+      "molecule_synonym": "Cabazitaxel",
+      "syn_type": "EMA",
+      "synonyms": "CABAZITAXEL"
+    },
+    {
+      "molecule_synonym": "Cabazitaxel",
+      "syn_type": "FDA",
+      "synonyms": "CABAZITAXEL"
+    },
+    {
+      "molecule_synonym": "Cabazitaxel",
+      "syn_type": "INN",
+      "synonyms": "CABAZITAXEL"
+    },
+    {
+      "molecule_synonym": "Cabazitaxel",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "CABAZITAXEL"
+    },
+    {
+      "molecule_synonym": "Cabazitaxel",
+      "syn_type": "OTHER",
+      "synonyms": "CABAZITAXEL"
+    },
+    {
+      "molecule_synonym": "Cabazitaxel",
+      "syn_type": "USAN",
+      "synonyms": "CABAZITAXEL"
+    },
+    {
+      "molecule_synonym": "Cabazitaxel accord",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "CABAZITAXEL ACCORD"
+    },
+    {
+      "molecule_synonym": "Cabazitaxel acetonate",
+      "syn_type": "JAN",
+      "synonyms": "CABAZITAXEL ACETONATE"
+    },
+    {
+      "molecule_synonym": "Jevtana",
+      "syn_type": "OTHER",
+      "synonyms": "JEVTANA"
+    },
+    {
+      "molecule_synonym": "Jevtana",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "JEVTANA"
+    },
+    {
+      "molecule_synonym": "Jevtana kit",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "JEVTANA KIT"
+    },
+    {
+      "molecule_synonym": "NSC-761432",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NSC-761432"
+    },
+    {
+      "molecule_synonym": "TXD 258",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TXD 258"
+    },
+    {
+      "molecule_synonym": "TXD-258",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TXD-258"
+    },
+    {
+      "molecule_synonym": "TXD258",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TXD258"
+    },
+    {
+      "molecule_synonym": "XRP 6258",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "XRP 6258"
+    },
+    {
+      "molecule_synonym": "XRP-6258",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "XRP-6258"
+    },
+    {
+      "molecule_synonym": "XRP6258",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "XRP6258"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "CABAZITAXEL",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-taxel",
+  "usan_stem_definition": "antineoplastics, taxane derivatives",
+  "usan_substem": "-taxel",
+  "usan_year": 2010,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

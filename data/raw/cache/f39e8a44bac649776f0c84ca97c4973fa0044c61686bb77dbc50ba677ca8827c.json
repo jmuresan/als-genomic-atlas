@@ -1,0 +1,144 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 28554,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSSLSASVGDRVTITCRSSQSIVHSVGNTFLEWYQQKPGKAPKLLIYKVSNRFSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFQGSQFPYTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 28553,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGYEFSRSWMNWVRQAPGKGLEWVGRIYPGDGDTNYSGKFKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCARDGSSWDWYFDVWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSREEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      }
+    ],
+    "description": "Pinatuzumab vedotin (humanized mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3301585"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL3301585",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3301585",
+    "molecule_chembl_id": "CHEMBL3301585",
+    "parent_chembl_id": "CHEMBL3301585"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "ACD-22-VCMMAE",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ACD-22-VCMMAE"
+    },
+    {
+      "molecule_synonym": "ACD-22VCMMAE",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ACD-22VCMMAE"
+    },
+    {
+      "molecule_synonym": "ACD22-VCMMAE",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ACD22-VCMMAE"
+    },
+    {
+      "molecule_synonym": "DCDT-2980S",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "DCDT-2980S"
+    },
+    {
+      "molecule_synonym": "DCDT2980S",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "DCDT2980S"
+    },
+    {
+      "molecule_synonym": "FCU-2703",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "FCU-2703"
+    },
+    {
+      "molecule_synonym": "FCU2703",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "FCU2703"
+    },
+    {
+      "molecule_synonym": "Pinatuzumab vedotin",
+      "syn_type": "INN",
+      "synonyms": "PINATUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Pinatuzumab vedotin",
+      "syn_type": "OTHER",
+      "synonyms": "PINATUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Pinatuzumab vedotin",
+      "syn_type": "USAN",
+      "synonyms": "PINATUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Pinatuzumab vedotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "PINATUZUMAB VEDOTINA"
+    },
+    {
+      "molecule_synonym": "Pinatuzumab vedotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "PINATUZUMAB VEDOTINE"
+    },
+    {
+      "molecule_synonym": "RG-7593",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RG-7593"
+    },
+    {
+      "molecule_synonym": "RO-5541072-000",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO-5541072-000"
+    },
+    {
+      "molecule_synonym": "RO-5541072000",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO-5541072000"
+    },
+    {
+      "molecule_synonym": "RO5541072-000",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO5541072-000"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "PINATUZUMAB VEDOTIN",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-dotin; -mab; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-dotin; -mab (-umab); -mab (-zumab)",
+  "usan_year": 2013,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

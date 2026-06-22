@@ -1,0 +1,64 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1683590",
+      "name": "ERIBULIN",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "epithelioid hemangioendothelioma"
+            }
+          },
+          {
+            "disease": {
+              "name": "liposarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "solitary fibrous tumor"
+            }
+          },
+          {
+            "disease": {
+              "name": "sarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "triple-negative breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "angiosarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast neoplasm"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

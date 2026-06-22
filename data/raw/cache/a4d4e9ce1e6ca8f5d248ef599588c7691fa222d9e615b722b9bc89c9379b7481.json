@@ -1,0 +1,137 @@
+{
+  "atc_classifications": [],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": true,
+  "first_approval": 1994,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL538943",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL553025",
+    "molecule_chembl_id": "CHEMBL538943",
+    "parent_chembl_id": "CHEMBL553025"
+  },
+  "molecule_properties": {
+    "alogp": "4.75",
+    "aromatic_rings": 3,
+    "full_molformula": "C53H66N4O20",
+    "full_mwt": "1079.12",
+    "hba": 11,
+    "hbd": 2,
+    "heavy_atoms": 57,
+    "mw_freebase": "778.95",
+    "np_likeness_score": "1.55",
+    "num_ro5_violations": 2,
+    "psa": "133.87",
+    "qed_weighted": "0.20",
+    "ro3_pass": "N",
+    "rtb": 7
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CCC1=C[C@@H]2CN(C1)Cc1c([nH]c3ccccc13)[C@@](C(=O)OC)(c1cc3c(cc1OC)N(C)[C@H]1[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]4(CC)C=CCN5CC[C@]31[C@@H]54)C2.O=C(O)C(O)C(O)C(=O)O.O=C(O)C(O)C(O)C(=O)O",
+    "molfile": "\n     RDKit          2D\n\n 80 86  0  0  0  0  0  0  0  0999 V2000\n    2.5909   -9.9272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.2989   -9.5184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0070   -9.9272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7150   -9.5184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8828   -9.5209    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5909  -10.7473    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4262   -9.9266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7182   -8.7003    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.2989   -8.7009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0070  -10.7448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    7.8907  -11.7679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.5987  -11.3591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.3068  -11.7679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.0148  -11.3591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.1826  -11.3616    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    7.8907  -12.5880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   10.7261  -11.7673    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   10.0180  -10.5410    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    8.5987  -10.5416    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    9.3068  -12.5855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    6.7670   -6.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.7869   -7.1156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.7916   -3.9449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.0806   -3.5308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   12.5103   -8.0861    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   10.3644   -4.2921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.0806   -5.1788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.3651   -4.7691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.4155   -8.0861    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   10.0633   -5.0534    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   10.3393   -7.8099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   12.7236   -6.0909    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   11.1759   -4.1666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7341   -4.0788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.0806   -6.8228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.1056   -7.6469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.5710   -5.5051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.8803   -6.2539    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   10.2765   -6.4672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.6237   -8.5755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.7916   -5.5804    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n   12.9370   -7.5088    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   12.1756   -5.3546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.2339   -6.7391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.3651   -3.9449    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    8.7916   -4.7691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.1508   -6.2790    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n    7.3651   -6.4171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.2447   -4.7565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.0806   -6.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.6666   -6.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   12.6483   -8.9101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.3950   -5.5930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.4405   -8.9101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.9806   -6.7601    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.8803   -4.9153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.6863   -4.8192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   12.3848   -4.5557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.6666   -5.1788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.9804   -7.7849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    9.5529   -7.5841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.2763   -7.6385    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n    5.3950   -7.3373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.3893   -5.5804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.5112   -2.7039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.5330   -4.1666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.5777   -5.6935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.3019   -5.4047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.5097   -3.5321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.8418   -8.0358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.5984   -6.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   14.0455   -6.6095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.7665   -6.3794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.5027   -6.7601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.8995   -6.2163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.4525   -6.2163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.7364   -7.8016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.9430   -3.9449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   12.4099   -6.8479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   11.1020   -8.3290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\n  1  5  1  0\n  1  6  2  0\n  4  7  1  0\n  4  8  2  0\n  2  9  1  0\n  3 10  1  0\n 11 12  1  0\n 12 13  1  0\n 13 14  1  0\n 11 15  1  0\n 11 16  2  0\n 14 17  1  0\n 14 18  2  0\n 12 19  1  0\n 13 20  1  0\n 63 55  1  0\n 71 79  1  1\n 31 61  1  0\n 30 67  1  0\n 24 45  1  0\n 27 50  1  0\n 42 44  2  0\n 26 30  1  0\n 38 51  1  0\n 44 32  1  0\n 75 71  1  0\n 27 41  1  6\n 58 43  1  0\n 53 56  1  0\n 67 39  1  0\n 68 76  1  0\n 55 21  1  0\n 37 53  2  0\n 49 34  2  0\n 39 76  1  1\n 40 31  1  0\n 28 27  1  0\n 71 22  1  0\n 23 69  1  0\n 64 67  1  0\n 57 64  1  0\n 74 73  2  0\n 60 21  2  0\n 77 71  1  0\n 69 65  1  0\n 46 27  1  0\n 56 59  1  0\n 75 64  1  0\n 39 74  1  0\n 59 51  2  0\n 33 57  2  0\n 22 31  1  0\n 22 39  1  0\n 68 30  1  0\n 45 28  1  0\n 66 56  2  0\n 61 74  1  0\n 22 62  1  1\n 49 37  1  0\n 64 43  1  6\n 48 21  1  1\n 34 66  1  0\n 25 77  1  0\n 52 25  1  0\n 73 35  1  0\n 23 46  2  0\n 67 47  1  6\n 33 26  1  0\n 35 48  1  0\n 75 32  1  1\n 53 38  1  0\n 24 23  1  0\n 70 36  1  0\n 78 59  1  0\n 54 29  1  0\n 61 70  2  0\n 36 35  2  0\n 29 36  1  0\n 50 48  1  0\n 72 44  1  0\n 51 48  1  0\n 78 45  1  0\n 77 80  2  0\nM  END\n> <chembl_id>\nCHEMBL538943\n\n> <chembl_pref_name>\nVINORELBINE TARTRATE",
+    "standard_inchi": "InChI=1S/C45H54N4O8.2C4H6O6/c1-8-27-19-28-22-44(40(51)55-6,36-30(25-48(23-27)24-28)29-13-10-11-14-33(29)46-36)32-20-31-34(21-35(32)54-5)47(4)38-43(31)16-18-49-17-12-15-42(9-2,37(43)49)39(57-26(3)50)45(38,53)41(52)56-7;2*5-1(3(7)8)2(6)4(9)10/h10-15,19-21,28,37-39,46,53H,8-9,16-18,22-25H2,1-7H3;2*1-2,5-6H,(H,7,8)(H,9,10)/t28-,37-,38+,39+,42+,43+,44-,45-;;/m0../s1",
+    "standard_inchi_key": "CILBMBUYJCWATM-UDRBCWGGSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Liposomal vinorelbine tartrate",
+      "syn_type": "OTHER",
+      "synonyms": "LIPOSOMAL VINORELBINE TARTRATE"
+    },
+    {
+      "molecule_synonym": "Navelbine",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "NAVELBINE"
+    },
+    {
+      "molecule_synonym": "TLC-178",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TLC-178"
+    },
+    {
+      "molecule_synonym": "TLC178",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TLC178"
+    },
+    {
+      "molecule_synonym": "Vinorelbine (as tartrate)",
+      "syn_type": "OTHER",
+      "synonyms": "VINORELBINE (AS TARTRATE)"
+    },
+    {
+      "molecule_synonym": "Vinorelbine ditartarate",
+      "syn_type": "OTHER",
+      "synonyms": "Vinorelbine Ditartarate"
+    },
+    {
+      "molecule_synonym": "Vinorelbine ditartrate",
+      "syn_type": "JAN",
+      "synonyms": "VINORELBINE DITARTRATE"
+    },
+    {
+      "molecule_synonym": "Vinorelbine ditartrate",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "VINORELBINE DITARTRATE"
+    },
+    {
+      "molecule_synonym": "Vinorelbine liposomal",
+      "syn_type": "OTHER",
+      "synonyms": "VINORELBINE LIPOSOMAL"
+    },
+    {
+      "molecule_synonym": "Vinorelbine tartrate",
+      "syn_type": "FDA",
+      "synonyms": "VINORELBINE TARTRATE"
+    },
+    {
+      "molecule_synonym": "Vinorelbine tartrate",
+      "syn_type": "OTHER",
+      "synonyms": "VINORELBINE TARTRATE"
+    },
+    {
+      "molecule_synonym": "Vinorelbine tartrate",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "VINORELBINE TARTRATE"
+    },
+    {
+      "molecule_synonym": "Vinorelbine tartrate",
+      "syn_type": "USAN",
+      "synonyms": "VINORELBINE TARTRATE"
+    },
+    {
+      "molecule_synonym": "Vinorelbine tartrate",
+      "syn_type": "USP",
+      "synonyms": "VINORELBINE TARTRATE"
+    },
+    {
+      "molecule_synonym": "Vinorelbine tartrate (1:2)",
+      "syn_type": "OTHER",
+      "synonyms": "VINORELBINE TARTRATE (1:2)"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "VINORELBINE TARTRATE",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "vin-",
+  "usan_stem_definition": "vinca alkaloids",
+  "usan_substem": "vin-",
+  "usan_year": 1993,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

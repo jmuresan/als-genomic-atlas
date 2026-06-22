@@ -319,9 +319,7 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | --- | --- | --- |
 | `R-HSA-8876198` | pathway | RAB GEFs exchange GTP for GDP on RABs |
 | `R-HSA-9013149` | pathway | RAC1 GTPase cycle |
-| `GO:0007041` | go_term | None |
 | `GO:0051260` | go_term | None |
-| `GO:0031267` | go_term | None |
 | `GO:0042802` | go_term | None |
 | `GO:0042803` | go_term | None |
 | `GO:0043539` | go_term | None |
@@ -551,9 +549,6 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `R-HSA-418990` | pathway | Adherens junctions interactions |
 | `R-HSA-9708296` | pathway | tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis |
 | `GO:0001525` | go_term | None |
-| `GO:0003676` | go_term | None |
-| `GO:0003677` | go_term | None |
-| `GO:0003779` | go_term | None |
 | `GO:0004519` | go_term | None |
 | `GO:0004521` | go_term | None |
 | `GO:0004540` | go_term | None |
@@ -906,7 +901,6 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | ID | Type | Name |
 | --- | --- | --- |
 | `GO:0001786` | go_term | None |
-| `GO:0005509` | go_term | None |
 | `GO:0005544` | go_term | None |
 | `GO:0008429` | go_term | None |
 | `GO:0023026` | go_term | None |
@@ -1294,9 +1288,7 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 ### Category 5: Pathways & Functional Annotation
 | ID | Type | Name |
 | --- | --- | --- |
-| `GO:0003723` | go_term | None |
 | `GO:0003729` | go_term | None |
-| `GO:0005154` | go_term | None |
 | `IPR009604` | domain | LsmAD domain |
 | `IPR009818` | domain | PAM2 motif |
 | `IPR010920` | domain | LSM domain superfamily |
@@ -1326,8 +1318,6 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | Structure ID | Database | pLDDT / Method | Disorder Score |
 | --- | --- | --- | --- |
 | `AF-Q99700` | AlphaFold | pLDDT: 45.78 | Disorder: None |
-| `1HLN` | PDB | Method: X-RAY DIFFRACTION | N/A |
-| `2C9V` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
 ### Category 9: Foldseek Structural Similarity Matches
 | Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
@@ -1538,11 +1528,9 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 ### Category 5: Pathways & Functional Annotation
 | ID | Type | Name |
 | --- | --- | --- |
-| `R-HSA-70326` | pathway | Superoxide radicals degradation |
 | `GO:1990316` | go_term | None |
 | `GO:0005085` | go_term | None |
 | `GO:0005096` | go_term | None |
-| `GO:0005515` | go_term | None |
 | `IPR027819` | domain | Guanine nucleotide exchange factor C9orf72 |
 
 ### Category 6: Network Interactions (STRING)
@@ -1800,7 +1788,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -1923,7 +1917,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -2108,7 +2108,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -2299,7 +2305,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -2579,7 +2591,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -2795,7 +2813,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -3040,7 +3064,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -3317,7 +3347,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -3879,6 +3915,7 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `GO:0004713` | go_term | None |
 | `GO:0004714` | go_term | None |
 | `GO:0005006` | go_term | None |
+| `GO:0005154` | go_term | None |
 | `IPR000494` | domain | Receptor L-domain |
 | `IPR001245` | domain | Serine-threonine/tyrosine-protein kinase, catalytic domain |
 | `IPR006211` | domain | Furin-like cysteine-rich domain |
@@ -3951,7 +3988,50 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `ERBB4` | `CHEMBL4297661` | `CHEMBL4297662` | TARLOXOTINIB BROMIDE | 100.0% | Phase 2.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL180022` | `CHEMBL3989921` | NERATINIB MALEATE | 100.0% | Phase 4.0 | Indicated for: breast neoplasm, breast cancer, breast carcinoma. Mechanism: Receptor protein-tyrosine kinase erbB-4 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor. |
+| `ERBB4` | `CHEMBL24828` | `CHEMBL24828` | VANDETANIB | 100.0% | Phase 4.0 | Indicated for: prostate cancer, breast cancer, medullary thyroid gland carcinoma, low grade glioma, malignant glioma, glioblastoma multiforme, neoplasm, ovarian cancer, hepatocellular carcinoma, gastric cancer, lung cancer, colorectal cancer, non-small cell lung carcinoma, thyroid neoplasm, cancer, metastasis, gastrointestinal stromal tumor, Central Nervous System Neoplasm, pancreatic carcinoma, thyroid carcinoma, kidney cancer, clear cell renal carcinoma, breast neoplasm, thyroid cancer, diffuse intrinsic pontine glioma. Mechanism: Ephrin receptor inhibitor; Tyrosine-protein kinase BRK inhibitor; Tyrosine-protein kinase receptor RET inhibitor; Vascular endothelial growth factor receptor inhibitor; Epidermal growth factor receptor inhibitor; Tyrosine-protein kinase SRC inhibitor; Tyrosine-protein kinase TIE-2 inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL3545154` | `CHEMBL5095402` | POZIOTINIB HYDROCHLORIDE | 100.0% | Phase 1.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL3545154` | `CHEMBL3545154` | POZIOTINIB | 100.0% | Phase 3.0 | Indicated for: HER2 Positive Breast Carcinoma, cancer, breast cancer, neoplasm, non-small cell lung carcinoma, head and neck squamous cell carcinoma, lung adenocarcinoma, esophageal squamous cell carcinoma. Mechanism: Epidermal growth factor receptor inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `ERBB4` | `CHEMBL1645462` | `CHEMBL1645462` | AC-480 | 100.0% | Phase 1.0 | Indicated for: neoplasm, cancer, Paraganglioma. Mechanism: Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Receptor protein-tyrosine kinase erbB-4 inhibitor. |
+| `ERBB4` | `CHEMBL1645462` | `CHEMBL5307497` | CHEMBL5307497 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL3545396` | `CHEMBL3545396` | BMS-690514 | 100.0% | Phase 2.0 | Indicated for: cancer, non-small cell lung carcinoma, Chronic pain. Mechanism: Receptor protein-tyrosine kinase erbB-4 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Vascular endothelial growth factor receptor inhibitor. |
+| `ERBB4` | `CHEMBL3545396` | `CHEMBL5567379` | CHEMBL5567379 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL1173655` | `CHEMBL1173655` | AFATINIB | 100.0% | Phase 4.0 | Indicated for: glioma, squamous cell carcinoma, chordoma, glioblastoma multiforme, cholangiocarcinoma, pemphigus foliaceus, urogenital neoplasm, refractory malignant neoplasm, colorectal neoplasm, liver disease, uterine neoplasm, breast neoplasm, non-small cell squamous lung carcinoma, pancreatic carcinoma, breast cancer, upper aerodigestive tract neoplasm, head and neck squamous cell carcinoma, neoplasm, cancer, esophageal squamous cell carcinoma, brain cancer, lung cancer, lung neoplasm, head and neck malignant neoplasia, metastatic neoplasm, small cell lung carcinoma, Renal insufficiency, non-small cell lung carcinoma, multiple myeloma, endometriosis. Mechanism: Receptor protein-tyrosine kinase erbB-4 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor. |
+| `ERBB4` | `CHEMBL1173655` | `CHEMBL2105712` | AFATINIB DIMALEATE | 100.0% | Phase 4.0 | Indicated for: non-small cell lung carcinoma, squamous cell carcinoma, breast cancer, glioma. Mechanism: Receptor protein-tyrosine kinase erbB-4 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor. |
+| `ERBB4` | `CHEMBL4297661` | `CHEMBL4297661` | TARLOXOTINIB | 100.0% | Phase 2.0 | Indicated for: non-small cell lung carcinoma, head and neck squamous cell carcinoma. Mechanism: Epidermal growth factor receptor inhibitor. |
+| `ERBB4` | `CHEMBL2110732` | `CHEMBL2105719` | DACOMITINIB | 100.0% | Phase 4.0 | Indicated for: lung cancer, Neoplasm of the lung, neoplasm, lung neoplasm, non-small cell lung carcinoma. Mechanism: Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Receptor protein-tyrosine kinase erbB-4 inhibitor. |
+| `ERBB4` | `CHEMBL180022` | `CHEMBL180022` | NERATINIB | 100.0% | Phase 4.0 | Indicated for: breast cancer, colorectal cancer, neoplasm, HER2 Positive Breast Carcinoma, chronic myelogenous leukemia, breast neoplasm, urinary bladder carcinoma, Hepatic failure, non-small cell lung carcinoma. Mechanism: Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Receptor protein-tyrosine kinase erbB-4 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Receptor protein-tyrosine kinase erbB-4 inhibitor. |
+| `ERBB4` | `CHEMBL3109738` | `CHEMBL3109738` | JNJ-26483327 | 100.0% | Phase 1.0 | Indicated for: cancer. Mechanism: Receptor protein-tyrosine kinase erbB-4 inhibitor; Tyrosine-protein kinase Lyn inhibitor; Tyrosine-protein kinase YES inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Tyrosine-protein kinase FYN inhibitor; Tyrosine-protein kinase LCK inhibitor; Tyrosine-protein kinase SRC inhibitor; Vascular endothelial growth factor receptor 3 inhibitor. |
+| `ERBB4` | `CHEMBL2110732` | `CHEMBL3680378` | CHEMBL3680378 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL2110732` | `CHEMBL2139591` | CHEMBL2139591 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL2110732` | `CHEMBL2110732` | DACOMITINIB ANHYDROUS | 100.0% | Phase 4.0 | Indicated for: squamous cell carcinoma, carcinoma, lung cancer, head and neck squamous cell carcinoma, oral cavity cancer, neoplasm, glioblastoma multiforme, liver disease, upper aerodigestive tract neoplasm, non-small cell lung carcinoma, brain cancer, penile neoplasm. Mechanism: Epidermal growth factor receptor erbB1 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Receptor protein-tyrosine kinase erbB-4 inhibitor; Receptor protein-tyrosine kinase erbB-4 inhibitor. |
+| `ERBB4` | `CHEMBL4297661` | `CHEMBL5409143` | CHEMBL5409143 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL545315` | `CHEMBL31965` | CANERTINIB | 98.6% | Phase 3.0 | Mechanism: Receptor protein-tyrosine kinase erbB-4 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor. |
+| `ERBB4` | `CHEMBL545315` | `CHEMBL545315` | CANERTINIB DIHYDROCHLORIDE | 98.6% | Phase 3.0 | Indicated for: breast neoplasm, lung neoplasm, lymphoma. Mechanism: Receptor protein-tyrosine kinase erbB-4 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor. |
+| `ERBB4` | `CHEMBL2105719` | `CHEMBL2105719` | DACOMITINIB | 98.5% | Phase 4.0 | Indicated for: lung cancer, Neoplasm of the lung, neoplasm, lung neoplasm, non-small cell lung carcinoma. Mechanism: Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Receptor protein-tyrosine kinase erbB-4 inhibitor. |
+| `ERBB4` | `CHEMBL2105719` | `CHEMBL2110732` | DACOMITINIB ANHYDROUS | 98.5% | Phase 4.0 | Indicated for: squamous cell carcinoma, carcinoma, lung cancer, head and neck squamous cell carcinoma, oral cavity cancer, neoplasm, glioblastoma multiforme, liver disease, upper aerodigestive tract neoplasm, non-small cell lung carcinoma, brain cancer, penile neoplasm. Mechanism: Epidermal growth factor receptor erbB1 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Receptor protein-tyrosine kinase erbB-4 inhibitor; Receptor protein-tyrosine kinase erbB-4 inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL3989921` | `CHEMBL3989921` | NERATINIB MALEATE | 95.1% | Phase 4.0 | Indicated for: breast neoplasm, breast cancer, breast carcinoma. Mechanism: Receptor protein-tyrosine kinase erbB-4 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor. |
+| `ERBB4` | `CHEMBL3989921` | `CHEMBL180022` | NERATINIB | 95.1% | Phase 4.0 | Indicated for: breast cancer, colorectal cancer, neoplasm, HER2 Positive Breast Carcinoma, chronic myelogenous leukemia, breast neoplasm, urinary bladder carcinoma, Hepatic failure, non-small cell lung carcinoma. Mechanism: Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Receptor protein-tyrosine kinase erbB-4 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Receptor protein-tyrosine kinase erbB-4 inhibitor. |
+| `ERBB4` | `CHEMBL2105712` | `CHEMBL1173655` | AFATINIB | 94.9% | Phase 4.0 | Indicated for: glioma, squamous cell carcinoma, chordoma, glioblastoma multiforme, cholangiocarcinoma, pemphigus foliaceus, urogenital neoplasm, refractory malignant neoplasm, colorectal neoplasm, liver disease, uterine neoplasm, breast neoplasm, non-small cell squamous lung carcinoma, pancreatic carcinoma, breast cancer, upper aerodigestive tract neoplasm, head and neck squamous cell carcinoma, neoplasm, cancer, esophageal squamous cell carcinoma, brain cancer, lung cancer, lung neoplasm, head and neck malignant neoplasia, metastatic neoplasm, small cell lung carcinoma, Renal insufficiency, non-small cell lung carcinoma, multiple myeloma, endometriosis. Mechanism: Receptor protein-tyrosine kinase erbB-4 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor. |
+| `ERBB4` | `CHEMBL2105712` | `CHEMBL2105712` | AFATINIB DIMALEATE | 94.9% | Phase 4.0 | Indicated for: non-small cell lung carcinoma, squamous cell carcinoma, breast cancer, glioma. Mechanism: Receptor protein-tyrosine kinase erbB-4 inhibitor; Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor. |
+| `ERBB4` | `CHEMBL3545154` | `CHEMBL3968784` | CHEMBL3968784 | 91.3% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL3545154` | `CHEMBL5924448` | CHEMBL5924448 | 91.3% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL3545154` | `CHEMBL3970231` | CHEMBL3970231 | 88.4% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL2110732` | `CHEMBL3680377` | CHEMBL3680377 | 87.5% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL3545154` | `CHEMBL3914159` | CHEMBL3914159 | 87.0% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL2110732` | `CHEMBL3622651` | CHEMBL3622651 | 86.5% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL3545154` | `CHEMBL3912945` | CHEMBL3912945 | 85.9% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL3545154` | `CHEMBL3973906` | CHEMBL3973906 | 85.9% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL3545154` | `CHEMBL5280664` | CHEMBL5280664 | 85.9% | Phase 0.0 | No indication/mechanism details available. |
+| `ERBB4` | `CHEMBL3545154` | `CHEMBL5281205` | CHEMBL5281205 | 85.9% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -4644,7 +4724,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -5036,7 +5122,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -5299,7 +5391,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -5594,7 +5692,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -5838,7 +5942,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -6039,7 +6149,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -6313,7 +6429,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -6527,7 +6649,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -6702,7 +6830,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -6986,7 +7120,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -7338,7 +7478,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -7479,6 +7625,7 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `GO:0001784` | go_term | None |
 | `GO:0003785` | go_term | None |
 | `GO:0005546` | go_term | None |
+| `GO:0031267` | go_term | None |
 | `IPR005454` | domain | Profilin1/2/3, vertebrate |
 | `IPR005455` | domain | Profilin, eukaryotic type |
 | `IPR027310` | domain | Profilin conserved site |
@@ -7529,7 +7676,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -7693,7 +7846,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -7978,7 +8137,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -8211,6 +8376,8 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | Structure ID | Database | pLDDT / Method | Disorder Score |
 | --- | --- | --- | --- |
 | `AF-Q7Z333` | AlphaFold | pLDDT: 52.28 | Disorder: None |
+| `1HLN` | PDB | Method: X-RAY DIFFRACTION | N/A |
+| `2C9V` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
 ### Category 9: Foldseek Structural Similarity Matches
 | Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
@@ -8224,7 +8391,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -8453,7 +8626,35 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `SIGMAR1` | `CHEMBL52440` | `CHEMBL1256818` | DEXTROMETHORPHAN HYDROBROMIDE | 100.0% | Phase 4.0 | Indicated for: Alzheimer disease, allergic disease, rheumatoid arthritis, Back pain, sinusitis, diabetic macular edema, depressive disorder, migraine disorder, Nasal congestion, Cough, major depressive disorder, Oral ulcer, pharyngitis, Fever, amyotrophic lateral sclerosis, Headache, seasonal allergic rhinitis, Parkinson disease, common cold. Mechanism: Sigma opioid receptor agonist; Glutamate [NMDA] receptor subunit epsilon 1 antagonist. |
+| `SIGMAR1` | `CHEMBL100116` | `CHEMBL3989510` | PENTAZOCINE HYDROCHLORIDE | 100.0% | Phase 4.0 | Indicated for: Pain. Mechanism: Sigma opioid receptor modulator. |
+| `SIGMAR1` | `CHEMBL52440` | `CHEMBL52440` | DEXTROMETHORPHAN | 100.0% | Phase 4.0 | Indicated for: autism, drug interaction, voice disorders, opioid dependence, prostate cancer, Parkinson disease, schizophrenia, bipolar disorder, diabetic neuropathy, amyotrophic lateral sclerosis, Rett syndrome, Proteinuria, cytomegalovirus infection, melanoma, trypanosomiasis, multiple sclerosis, relapsing-remitting multiple sclerosis, attention deficit hyperactivity disorder, metastasis, type 2 diabetes mellitus, toxic encephalopathy, neuropathic pain, neurodegenerative disease, hypertrophy, peripheral neuropathy, fibromyalgia, Cough, irritable bowel syndrome, Cognitive impairment. Mechanism: Sigma opioid receptor agonist; Glutamate [NMDA] receptor subunit epsilon 1 antagonist; Sigma opioid receptor agonist; Glutamate [NMDA] receptor subunit epsilon 1 antagonist. |
+| `SIGMAR1` | `CHEMBL87493` | `CHEMBL2106217` | FENFLURAMINE HYDROCHLORIDE | 100.0% | Phase 4.0 | Indicated for: epilepsy, photosensitive epilepsy, craniodiaphyseal dysplasia, Dravet syndrome, Seizure. Mechanism: Serotonin 2c (5-HT2c) receptor agonist; Sigma opioid receptor antagonist; Serotonin 1d (5-HT1d) receptor agonist. |
+| `SIGMAR1` | `CHEMBL87493` | `CHEMBL1887891` | DEXFENFLURAMINE HYDROCHLORIDE | 100.0% | Phase 4.0 | Mechanism: Serotonin (5-HT) receptor agonist. |
+| `SIGMAR1` | `CHEMBL87493` | `CHEMBL248702` | DEXFENFLURAMINE | 100.0% | Phase 4.0 | Indicated for: obesity. Mechanism: Serotonin (5-HT) receptor agonist. |
+| `SIGMAR1` | `CHEMBL87493` | `CHEMBL87493` | FENFLURAMINE | 100.0% | Phase 4.0 | Indicated for: obesity, genetic developmental and epileptic encephalopathy, epilepsy, myoclonic epilepsy, cocaine dependence, Lennox-Gastaut syndrome, Dravet syndrome. Mechanism: Serotonin 2c (5-HT2c) receptor agonist; Sigma opioid receptor antagonist; Serotonin 1d (5-HT1d) receptor agonist. |
+| `SIGMAR1` | `CHEMBL52440` | `CHEMBL1201461` | DEXTROMETHORPHAN POLISTIREX | 100.0% | Phase 4.0 | Indicated for: autism spectrum disorder. Mechanism: Sigma opioid receptor agonist; Glutamate [NMDA] receptor subunit epsilon 1 antagonist. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `SIGMAR1` | `CHEMBL73234` | `CHEMBL1256696` | CARBETAPENTANE CITRATE | 100.0% | Phase 4.0 | Indicated for: sinusitis. Mechanism: Sigma opioid receptor agonist. |
+| `SIGMAR1` | `CHEMBL100116` | `CHEMBL100116` | PENTAZOCINE | 100.0% | Phase 4.0 | Indicated for: bipolar disorder, Pain. Mechanism: Sigma opioid receptor modulator; Sigma opioid receptor modulator. |
+| `SIGMAR1` | `CHEMBL100116` | `CHEMBL3989509` | PENTAZOCINE LACTATE | 100.0% | Phase 4.0 | Mechanism: Sigma opioid receptor modulator. |
+| `SIGMAR1` | `CHEMBL73234` | `CHEMBL73234` | CARBETAPENTANE | 100.0% | Phase 4.0 | Indicated for: Cough. Mechanism: Sigma opioid receptor agonist. |
+| `SIGMAR1` | `CHEMBL3989510` | `CHEMBL3989510` | PENTAZOCINE HYDROCHLORIDE | 97.8% | Phase 4.0 | Indicated for: Pain. Mechanism: Sigma opioid receptor modulator. |
+| `SIGMAR1` | `CHEMBL3989510` | `CHEMBL3989509` | PENTAZOCINE LACTATE | 97.8% | Phase 4.0 | Mechanism: Sigma opioid receptor modulator. |
+| `SIGMAR1` | `CHEMBL3989510` | `CHEMBL100116` | PENTAZOCINE | 97.8% | Phase 4.0 | Indicated for: bipolar disorder, Pain. Mechanism: Sigma opioid receptor modulator; Sigma opioid receptor modulator. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
+| `SIGMAR1` | `CHEMBL2106217` | `CHEMBL2106217` | FENFLURAMINE HYDROCHLORIDE | 97.0% | Phase 4.0 | Indicated for: epilepsy, photosensitive epilepsy, craniodiaphyseal dysplasia, Dravet syndrome, Seizure. Mechanism: Serotonin 2c (5-HT2c) receptor agonist; Sigma opioid receptor antagonist; Serotonin 1d (5-HT1d) receptor agonist. |
+| `SIGMAR1` | `CHEMBL2106217` | `CHEMBL1887891` | DEXFENFLURAMINE HYDROCHLORIDE | 97.0% | Phase 4.0 | Mechanism: Serotonin (5-HT) receptor agonist. |
+| `SIGMAR1` | `CHEMBL2106217` | `CHEMBL248702` | DEXFENFLURAMINE | 97.0% | Phase 4.0 | Indicated for: obesity. Mechanism: Serotonin (5-HT) receptor agonist. |
+| `SIGMAR1` | `CHEMBL2106217` | `CHEMBL87493` | FENFLURAMINE | 97.0% | Phase 4.0 | Indicated for: obesity, genetic developmental and epileptic encephalopathy, epilepsy, myoclonic epilepsy, cocaine dependence, Lennox-Gastaut syndrome, Dravet syndrome. Mechanism: Serotonin 2c (5-HT2c) receptor agonist; Sigma opioid receptor antagonist; Serotonin 1d (5-HT1d) receptor agonist. |
+| `SIGMAR1` | `CHEMBL1256818` | `CHEMBL52440` | DEXTROMETHORPHAN | 95.5% | Phase 4.0 | Indicated for: autism, drug interaction, voice disorders, opioid dependence, prostate cancer, Parkinson disease, schizophrenia, bipolar disorder, diabetic neuropathy, amyotrophic lateral sclerosis, Rett syndrome, Proteinuria, cytomegalovirus infection, melanoma, trypanosomiasis, multiple sclerosis, relapsing-remitting multiple sclerosis, attention deficit hyperactivity disorder, metastasis, type 2 diabetes mellitus, toxic encephalopathy, neuropathic pain, neurodegenerative disease, hypertrophy, peripheral neuropathy, fibromyalgia, Cough, irritable bowel syndrome, Cognitive impairment. Mechanism: Sigma opioid receptor agonist; Glutamate [NMDA] receptor subunit epsilon 1 antagonist; Sigma opioid receptor agonist; Glutamate [NMDA] receptor subunit epsilon 1 antagonist. |
+| `SIGMAR1` | `CHEMBL1256818` | `CHEMBL1201461` | DEXTROMETHORPHAN POLISTIREX | 95.5% | Phase 4.0 | Indicated for: autism spectrum disorder. Mechanism: Sigma opioid receptor agonist; Glutamate [NMDA] receptor subunit epsilon 1 antagonist. |
+| `SIGMAR1` | `CHEMBL1256818` | `CHEMBL1256818` | DEXTROMETHORPHAN HYDROBROMIDE | 95.5% | Phase 4.0 | Indicated for: Alzheimer disease, allergic disease, rheumatoid arthritis, Back pain, sinusitis, diabetic macular edema, depressive disorder, migraine disorder, Nasal congestion, Cough, major depressive disorder, Oral ulcer, pharyngitis, Fever, amyotrophic lateral sclerosis, Headache, seasonal allergic rhinitis, Parkinson disease, common cold. Mechanism: Sigma opioid receptor agonist; Glutamate [NMDA] receptor subunit epsilon 1 antagonist. |
 
 
 ---
@@ -8664,7 +8865,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -8931,7 +9138,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -9243,7 +9456,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -9524,7 +9743,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -9761,7 +9986,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -9949,6 +10180,7 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | ID | Type | Name |
 | --- | --- | --- |
 | `GO:0000978` | go_term | None |
+| `GO:0003677` | go_term | None |
 | `GO:0003690` | go_term | None |
 | `IPR041105` | domain | TAR DNA-binding protein 43, N-terminal |
 | `IPR049124` | domain | TAR DNA-binding protein 43, C-terminal |
@@ -10003,7 +10235,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -10290,7 +10528,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -10502,6 +10746,7 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | ID | Type | Name |
 | --- | --- | --- |
 | `R-HSA-6803529` | pathway | FGFR2 alternative splicing |
+| `GO:0003676` | go_term | None |
 | `GO:0003730` | go_term | None |
 | `GO:0008143` | go_term | None |
 | `GO:0035925` | go_term | None |
@@ -10561,7 +10806,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -10704,6 +10955,7 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | --- | --- | --- |
 | `GO:0051117` | go_term | None |
 | `GO:0007040` | go_term | None |
+| `GO:0007041` | go_term | None |
 | `GO:0032418` | go_term | None |
 | `GO:0048813` | go_term | None |
 | `GO:0005764` | go_term | None |
@@ -10754,7 +11006,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -10946,6 +11204,7 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | ID | Type | Name |
 | --- | --- | --- |
 | `R-HSA-3295583` | pathway | TRP channels |
+| `GO:0003779` | go_term | None |
 | `GO:0004672` | go_term | None |
 | `GO:0004674` | go_term | None |
 | `GO:0005262` | go_term | None |
@@ -11013,7 +11272,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -11356,7 +11621,133 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `TUBA4A` | `CHEMBL3989512` | `CHEMBL3989512` | SOBLIDOTIN | 100.0% | Phase 2.0 | Indicated for: lung cancer, sarcoma, neoplasm. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL428647` | `CHEMBL428647` | PACLITAXEL | 100.0% | Phase 4.0 | Indicated for: cancer, gastrointestinal disease, ischemia, urothelial carcinoma, Ocular Melanoma, head and neck malignant neoplasia, rheumatoid arthritis, small cell carcinoma, peritoneum cancer, ovarian carcinoma, germ cell tumor, lung cancer, urogenital neoplasm, multiple myeloma, malignant peritoneal mesothelioma, endometrial neoplasm, Malignant Pancreatic Neoplasm, prostate adenocarcinoma, biliary tract cancer, pancreatic ductal adenocarcinoma, neoplasm, endometrial carcinoma, Transitional Cell Carcinoma, inflammatory breast carcinoma, adenocarcinoma, gastrointestinal stromal tumor, Fallopian Tube Carcinoma, gastroesophageal junction adenocarcinoma, uterine cancer, salivary gland neoplasm, mixed neoplasm, tongue neoplasm, pancreatic carcinoma, salivary gland cancer, cervical carcinoma, liver cancer, fallopian tube cancer, adrenal cortex carcinoma, carcinoma, Paraganglioma, small cell lung carcinoma, hypopharyngeal carcinoma, head and neck squamous cell carcinoma, cutaneous melanoma, colorectal adenocarcinoma, pancreatic adenocarcinoma, prostate cancer, gastric cancer, breast carcinoma, penile cancer, lip and oral cavity carcinoma, gastric adenocarcinoma, actinic keratosis, sarcoma, childhood germ cell tumor, neuroendocrine carcinoma, Kaposi's sarcoma, gastric carcinoma, nasopharyngeal neoplasm, angiosarcoma, allergic disease, female reproductive system neoplasm, metastatic melanoma, esophageal squamous cell carcinoma, uterine neoplasm, squamous cell carcinoma, HIV-1 infection, neoplasm of esophagus, cervical squamous cell carcinoma, stomach neoplasm, kidney cancer, cutaneous squamous cell carcinoma, urinary bladder carcinoma, mouth neoplasm, soft tissue sarcoma, hepatocellular carcinoma, Hereditary breast and ovarian cancer syndrome, peripheral arterial disease, stricture, Coronary Restenosis, colorectal cancer, ovarian cancer, thyroid cancer, cholangiocarcinoma, upper aerodigestive tract neoplasm, central nervous system germ cell tumor, colorectal neoplasm, oropharynx squamous cell carcinoma, esophageal carcinoma, squamous cell lung carcinoma, esophageal cancer, psoriasis, cervical cancer, ovarian neoplasm, cervical adenocarcinoma, triple-negative breast cancer, non-small cell lung carcinoma, pancreatic neoplasm, Central Nervous System Neoplasm, Pancreatic cysts, male breast carcinoma, lymphoma, vulva cancer, breast neoplasm, urinary bladder cancer, cervical intraepithelial neoplasia, metastasis, breast ductal adenocarcinoma, glioma, leukemia, melanoma, skin squamous cell carcinoma, endometrial cancer, peripheral neuropathy, benign prostatic hyperplasia, peripheral vascular disease, breast cancer, lung adenocarcinoma, peritoneal neoplasm, nasopharyngeal carcinoma. Mechanism: Tubulin inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL1201752` | `CHEMBL1201752` | IXABEPILONE | 100.0% | Phase 4.0 | Indicated for: urethra cancer, cancer, gliosarcoma, clear cell renal carcinoma, adult hepatocellular carcinoma, stomach neoplasm, renal cell carcinoma, urinary bladder carcinoma, cholangiocarcinoma, Mantle cell lymphoma, non-small cell lung carcinoma, anaplastic astrocytoma, gallbladder cancer, bile duct carcinoma, breast carcinoma, ovarian cancer, prostate adenocarcinoma, follicular lymphoma, breast cancer, neoplasm, Burkitts lymphoma, leukemia, prostate cancer, peritoneum cancer, pancreatic carcinoma, diffuse large B-cell lymphoma, soft tissue sarcoma, melanoma, anaplastic large cell lymphoma, Uterine Carcinosarcoma, lymphoma, colorectal cancer. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL94657` | `CHEMBL5175478` | CHEMBL5175478 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL94657` | `CHEMBL4303268` | CHEMBL4303268 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL94657` | `CHEMBL2373999` | CHEMBL2373999 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL94657` | `CHEMBL94657` | PATUPILONE | 100.0% | Phase 3.0 | Indicated for: prostate adenocarcinoma, glioblastoma multiforme, neuroendocrine neoplasm, carcinoid tumor, neoplasm, kidney neoplasm, peritoneal neoplasm, melanoma, malignant colon neoplasm, cancer, hepatocellular carcinoma, non-small cell lung carcinoma, breast neoplasm, prostate cancer, ovarian cancer, fallopian tube cancer. Mechanism: Tubulin stabiliser. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL552212` | `CHEMBL552212` | LEXIBULIN | 100.0% | Phase 2.0 | Indicated for: glioblastoma multiforme, multiple myeloma. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL159` | `CHEMBL378544` | VINBLASTINE SULFATE | 100.0% | Phase 4.0 | Indicated for: lymphoma, Hodgkins lymphoma, lung cancer, lymphoid neoplasm, urinary bladder cancer, Desmoid-type fibromatosis, fungal infectious disease. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL492399` | `CHEMBL3910844` | CHEMBL3910844 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL492399` | `CHEMBL492399` | VERUBULIN | 100.0% | Phase 2.0 | Indicated for: neoplasm, brain neoplasm, glioblastoma multiforme. Mechanism: Tubulin disrupting agent. |
+| `TUBA4A` | `CHEMBL1201748` | `CHEMBL1201748` | CABAZITAXEL | 100.0% | Phase 4.0 | Indicated for: infiltrating bladder urothelial carcinoma, glioblastoma multiforme, prostate neoplasm, prostate carcinoma, non-small cell lung carcinoma, colorectal cancer, prostate adenocarcinoma, head and neck malignant neoplasia, breast cancer, metastatic prostate cancer, Transitional Cell Carcinoma, dedifferentiated liposarcoma, adrenal cortex carcinoma, neoplasm, cancer, prostate cancer, head and neck squamous cell carcinoma, Testicular Germ Cell Tumor, testicular carcinoma, penile neoplasm, brain cancer, central nervous system cancer, urothelial carcinoma, ovarian cancer, nongerminomatous germ cell tumor, gastric cancer. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL49642` | `CHEMBL49642` | INDIBULIN | 100.0% | Phase 2.0 | Indicated for: neoplasm, cancer, breast cancer. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL4297296` | `CHEMBL4297296` | KOS-1584 | 100.0% | Phase 2.0 | Indicated for: non-small cell lung carcinoma. Mechanism: Tubulin stabiliser. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL4279455` | LAROTAXEL | 100.0% | Phase 3.0 | Indicated for: breast cancer, pancreatic neoplasm, urinary bladder carcinoma, Malignant Pancreatic Neoplasm, breast neoplasm. Mechanism: Tubulin stabiliser. |
+| `TUBA4A` | `CHEMBL159` | `CHEMBL159` | VINBLASTINE | 100.0% | Phase 4.0 | Indicated for: prostate cancer, classic Hodgkin lymphoma, neoplasm, low grade glioma, urinary bladder carcinoma, urothelial carcinoma, Hodgkins lymphoma, brain neoplasm, lung cancer, Paraganglioma, stricture, Langerhans Cell Histiocytosis, lymphoma, urinary bladder cancer. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL553025` | `CHEMBL553025` | VINORELBINE | 100.0% | Phase 4.0 | Indicated for: multiple myeloma, malignant pleural mesothelioma, HER2 Positive Breast Carcinoma, neoplasm, rhabdomyosarcoma, anaplastic large cell lymphoma, cervical cancer, low grade glioma, cutaneous melanoma, lung neoplasm, diffuse large B-cell lymphoma, Hodgkins lymphoma, cancer, classic Hodgkin lymphoma, breast neoplasm, lung cancer, triple-negative breast cancer, carcinoma, lung carcinoma, non-small cell lung carcinoma, breast cancer, mesothelioma. Mechanism: Tubulin inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `TUBA4A` | `CHEMBL1096380` | `CHEMBL1096380` | PLINABULIN | 100.0% | Phase 3.0 | Indicated for: cancer, neutropenia, non-small cell lung carcinoma, small cell lung carcinoma, multiple myeloma, lung cancer. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL1096380` | `CHEMBL2140972` | CHEMBL2140972 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL1096380` | `CHEMBL4063810` | CHEMBL4063810 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL90555` | `CHEMBL501867` | VINCRISTINE SULFATE | 100.0% | Phase 4.0 | Indicated for: acute lymphoblastic leukemia, neurofibromatosis type 1, Central Nervous System Neoplasm, hemophagocytic syndrome, retinoblastoma, diffuse large B-cell lymphoma, multiple myeloma, neoplasm of mature B-cells, leukemia, follicular lymphoma, cervical cancer, kidney cancer, neoplasm, acute myeloid leukemia, Mantle cell lymphoma, kidney Wilms tumor, melanoma, lymphoma, brain neoplasm, rhabdomyosarcoma, unspecified peripheral T-cell lymphoma, non-Hodgkins lymphoma, sarcoma, neuroblastoma. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL90555` | `CHEMBL90555` | VINCRISTINE | 100.0% | Phase 4.0 | Indicated for: acute lymphoblastic leukemia, Ewing sarcoma, medulloblastoma, leukemia, choroid plexus neoplasm, unspecified peripheral T-cell lymphoma, HIV-1 infection, diffuse large B-cell lymphoma, lymphoblastic lymphoma, adrenal cortex carcinoma, Central Nervous System Neoplasm, neuroblastoma, neoplasm, follicular lymphoma, multiple myeloma, chronic lymphocytic leukemia, Hodgkins lymphoma, non-Hodgkins lymphoma, lymphoma, rhabdomyosarcoma, Mantle cell lymphoma. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL92` | `CHEMBL92` | DOCETAXEL ANHYDROUS | 100.0% | Phase 4.0 | Indicated for: adenocarcinoma, stomach neoplasm, breast neoplasm, head and neck squamous cell carcinoma, head and neck neoplasia, prostate cancer, non-small cell lung carcinoma. Mechanism: Tubulin stabiliser; Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL92` | `CHEMBL3545252` | DOCETAXEL | 100.0% | Phase 4.0 | Indicated for: urinary bladder carcinoma, colorectal cancer, penile cancer, esophageal carcinoma, hypopharyngeal carcinoma, ovarian neoplasm, synovial sarcoma, oropharynx cancer, prostate adenocarcinoma, neoplasm, HER2 Positive Breast Carcinoma, pancreatic carcinoma, Thyroid Gland Undifferentiated (Anaplastic) Carcinoma, ovarian cancer, breast carcinoma, Fatigue, carcinoma, salivary gland carcinoma, inflammatory breast carcinoma, biliary tract cancer, lung neoplasm, head and neck malignant neoplasia, prostate cancer, breast ductal carcinoma in situ, nasopharyngeal carcinoma, gastric cancer, head and neck neoplasia, allergic disease, Uterine Carcinosarcoma, Malignant Pancreatic Neoplasm, breast cancer, metastatic prostate cancer, neutropenia, prostate carcinoma, esophageal cancer, metastasis, breast neoplasm, laryngeal neoplasm, metastatic malignant neoplasm, squamous cell carcinoma, upper aerodigestive tract neoplasm, cervical cancer, cancer, adenocarcinoma, urinary bladder cancer, prostate neoplasm, non-small cell lung carcinoma, oral squamous cell carcinoma, cervical squamous cell carcinoma, triple-negative breast cancer, Cachexia, ovarian carcinoma, Hereditary breast and ovarian cancer syndrome, sarcoma, biliary tract neoplasm, peritoneal neoplasm, endometrial neoplasm, head and neck squamous cell carcinoma, peritoneum cancer, soft tissue sarcoma, esophageal squamous cell carcinoma, endometrial cancer, squamous cell lung carcinoma, cervical adenocarcinoma, osteosarcoma, Transitional Cell Carcinoma, mediastinal cancer, pancreatic neoplasm, melanoma, stomach neoplasm, Anorexia, urogenital neoplasm, fallopian tube cancer, urothelial carcinoma, leiomyosarcoma, small cell lung carcinoma, neoplasm of esophagus, leukemia, gastric adenocarcinoma, salivary gland cancer, lung cancer, nasopharyngeal neoplasm. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL4297268` | `CHEMBL4297268` | BMS-275183 | 100.0% | Phase 2.0 | Indicated for: non-small cell lung carcinoma, neoplasm. Mechanism: Tubulin stabiliser. |
+| `TUBA4A` | `CHEMBL1206232` | `CHEMBL263994` | CHEMBL263994 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL107` | `CHEMBL107` | COLCHICINE | 100.0% | Phase 4.0 | Indicated for: atherosclerosis, essential hypertension, cirrhosis of liver, rhegmatogenous retinal detachment, chronic kidney disease, vascular disease, myocardial infarction, urogenital neoplasm, cholangiocarcinoma, cardiac arrhythmia, heart failure, ischemia reperfusion injury, coronary artery disease, aphthous ulcer, diabetic nephropathy, proliferative vitreoretinopathy, gout, lung disease, Non-ST Elevation Myocardial Infarction, prostate cancer, acute coronary syndrome, atrial fibrillation, chronic hepatitis C virus infection, Behcet's syndrome, acute myocarditis, primary biliary cirrhosis, obesity, hypertension, intracranial hemorrhage, peripheral arterial disease, pericarditis, viral pneumonia, multiple myeloma, ST Elevation Myocardial Infarction, amyotrophic lateral sclerosis, Postpericardiotomy Syndrome, coronavirus infectious disease, venous thromboembolism, vasculitis, familial Mediterranean fever, COVID-19, neoplasm, osteoarthritis, knee, stroke, asthma. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL2304041` | `CHEMBL2304041` | SAGOPILONE | 100.0% | Phase 2.0 | Indicated for: neoplasm, glioblastoma multiforme, ovarian cancer, breast cancer, Central Nervous System Neoplasm, breast neoplasm, melanoma, non-small cell lung carcinoma, ovarian neoplasm, prostate cancer, small cell lung carcinoma. Mechanism: Tubulin stabiliser. |
+| `TUBA4A` | `CHEMBL1206232` | `CHEMBL289351` | FOSBRETABULIN DISODIUM | 100.0% | Phase 2.0 | Indicated for: neoplasm, head and neck malignant neoplasia, neuroendocrine carcinoma, cancer, ovarian cancer. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL1206232` | `CHEMBL1206232` | FOSBRETABULIN | 100.0% | Phase 3.0 | Indicated for: rheumatoid arthritis, neoplasm, neuroendocrine neoplasm, thyroid cancer. Mechanism: Tubulin disrupting agent; Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL4297440` | `CHEMBL4297440` | T-900607 | 100.0% | Phase 2.0 | Indicated for: non-Hodgkins lymphoma, ovarian neoplasm, gastric cancer, liver cancer, hepatocellular carcinoma. Mechanism: Tubulin disrupting agent. |
+| `TUBA4A` | `CHEMBL2103826` | `CHEMBL2103826` | DAVUNETIDE | 100.0% | Phase 2.0 | Indicated for: Cognitive impairment, schizophrenia, Alzheimer disease, progressive supranuclear palsy. Mechanism: Tubulin stabiliser. |
+| `TUBA4A` | `CHEMBL1206232` | `CHEMBL1972559` | CHEMBL1972559 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL1206232` | `CHEMBL2105643` | FOSBRETABULIN TROMETHAMINE | 100.0% | Phase 2.0 | Indicated for: neuroendocrine neoplasm, ovarian cancer. Mechanism: Tubulin disrupting agent. |
+| `TUBA4A` | `CHEMBL4297441` | `CHEMBL4297441` | PACLITAXEL DOCOSAHEXAENOIC ACID | 100.0% | Phase 3.0 | Indicated for: non-small cell lung carcinoma, hepatocellular carcinoma, metastatic melanoma. Mechanism: Tubulin stabiliser. |
+| `TUBA4A` | `CHEMBL4297441` | `CHEMBL263499` | DHA PACLITAXEL | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL2107759` | `CHEMBL2107759` | MILATAXEL | 100.0% | Phase 2.0 | Indicated for: mesothelioma. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL2110725` | `CHEMBL2105629` | VINFLUNINE DITARTRATE | 100.0% | Phase 4.0 | Indicated for: benign urinary system neoplasm, Transitional Cell Carcinoma. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL2110725` | `CHEMBL2110725` | VINFLUNINE | 100.0% | Phase 4.0 | Indicated for: head and neck carcinoma, urinary bladder cancer, urinary bladder carcinoma, penile neoplasm, cancer, breast neoplasm, prostate cancer, breast cancer, urogenital neoplasm, gastric cancer, Transitional Cell Carcinoma, neoplasm, non-small cell lung carcinoma. Mechanism: Tubulin inhibitor; Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL4297636` | `CHEMBL4297636` | PLOCABULIN | 100.0% | Phase 2.0 | Indicated for: neoplasm, colorectal cancer. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL4297636` | `CHEMBL5077952` | CHEMBL5077952 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL1089636` | `CHEMBL1089636` | ANG1005 | 100.0% | Phase 3.0 | Indicated for: breast cancer, malignant glioma, glioblastoma multiforme, neoplasm. Mechanism: Tubulin inhibitor; Prolow-density lipoprotein receptor-related protein 1 binding agent. |
+| `TUBA4A` | `CHEMBL2103852` | `CHEMBL364477` | CHEMBL364477 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL2103852` | `CHEMBL2103852` | CROLIBULIN | 100.0% | Phase 2.0 | Indicated for: cancer. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL3989512` | `CHEMBL1986580` | CHEMBL1986580 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL1683590` | `CHEMBL1683590` | ERIBULIN | 100.0% | Phase 4.0 | Indicated for: breast cancer, neoplasm, epithelioid hemangioendothelioma, liposarcoma, solitary fibrous tumor, sarcoma, triple-negative breast cancer, angiosarcoma, breast neoplasm. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL1683590` | `CHEMBL1683544` | ERIBULIN MESYLATE | 100.0% | Phase 4.0 | Indicated for: urinary bladder carcinoma, osteosarcoma, cancer, salivary gland cancer, triple-negative breast cancer, prostate cancer, breast cancer, soft tissue sarcoma, cervical cancer, primary brain neoplasm, breast carcinoma, breast neoplasm, non-small cell lung carcinoma, neoplasm, head and neck malignant neoplasia. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL106850` | CHEMBL106850 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL322390` | CHEMBL322390 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL108116` | CHEMBL108116 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL104543` | CHEMBL104543 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL432610` | CHEMBL432610 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL325114` | CHEMBL325114 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL321425` | CHEMBL321425 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL319657` | CHEMBL319657 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL321271` | CHEMBL321271 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL96172` | `CHEMBL96172` | EPOTHILONE D | 100.0% | Phase 2.0 | Indicated for: prostate cancer, lung cancer, colorectal cancer, breast cancer, neoplasm. Mechanism: Tubulin stabiliser. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL321911` | CHEMBL321911 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL320475` | CHEMBL320475 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL431233` | CHEMBL431233 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL1713020` | CHEMBL1713020 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL1980788` | CHEMBL1980788 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL2111674` | CHEMBL2111674 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL2111675` | CHEMBL2111675 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL2111676` | CHEMBL2111676 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL2111677` | CHEMBL2111677 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL2111678` | CHEMBL2111678 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL572284` | `CHEMBL3348931` | CHEMBL3348931 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL572284` | `CHEMBL572284` | OMBRABULIN | 100.0% | Phase 3.0 | Indicated for: ovarian cancer, sarcoma, non-small cell lung carcinoma, neoplasm. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL572284` | `CHEMBL585539` | CHEMBL585539 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL39541` | `CHEMBL321910` | CHEMBL321910 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL96172` | `CHEMBL601144` | CHEMBL601144 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL553025` | `CHEMBL538943` | VINORELBINE TARTRATE | 100.0% | Phase 4.0 | Indicated for: lung cancer, neoplasm, prostate cancer, cancer, carcinoma, Hodgkins lymphoma, non-small cell lung carcinoma, breast cancer, malignant colon neoplasm, breast neoplasm, sarcoma. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL3545252` | `CHEMBL3545252` | DOCETAXEL | 98.9% | Phase 4.0 | Indicated for: urinary bladder carcinoma, colorectal cancer, penile cancer, esophageal carcinoma, hypopharyngeal carcinoma, ovarian neoplasm, synovial sarcoma, oropharynx cancer, prostate adenocarcinoma, neoplasm, HER2 Positive Breast Carcinoma, pancreatic carcinoma, Thyroid Gland Undifferentiated (Anaplastic) Carcinoma, ovarian cancer, breast carcinoma, Fatigue, carcinoma, salivary gland carcinoma, inflammatory breast carcinoma, biliary tract cancer, lung neoplasm, head and neck malignant neoplasia, prostate cancer, breast ductal carcinoma in situ, nasopharyngeal carcinoma, gastric cancer, head and neck neoplasia, allergic disease, Uterine Carcinosarcoma, Malignant Pancreatic Neoplasm, breast cancer, metastatic prostate cancer, neutropenia, prostate carcinoma, esophageal cancer, metastasis, breast neoplasm, laryngeal neoplasm, metastatic malignant neoplasm, squamous cell carcinoma, upper aerodigestive tract neoplasm, cervical cancer, cancer, adenocarcinoma, urinary bladder cancer, prostate neoplasm, non-small cell lung carcinoma, oral squamous cell carcinoma, cervical squamous cell carcinoma, triple-negative breast cancer, Cachexia, ovarian carcinoma, Hereditary breast and ovarian cancer syndrome, sarcoma, biliary tract neoplasm, peritoneal neoplasm, endometrial neoplasm, head and neck squamous cell carcinoma, peritoneum cancer, soft tissue sarcoma, esophageal squamous cell carcinoma, endometrial cancer, squamous cell lung carcinoma, cervical adenocarcinoma, osteosarcoma, Transitional Cell Carcinoma, mediastinal cancer, pancreatic neoplasm, melanoma, stomach neoplasm, Anorexia, urogenital neoplasm, fallopian tube cancer, urothelial carcinoma, leiomyosarcoma, small cell lung carcinoma, neoplasm of esophagus, leukemia, gastric adenocarcinoma, salivary gland cancer, lung cancer, nasopharyngeal neoplasm. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL3545252` | `CHEMBL92` | DOCETAXEL ANHYDROUS | 98.9% | Phase 4.0 | Indicated for: adenocarcinoma, stomach neoplasm, breast neoplasm, head and neck squamous cell carcinoma, head and neck neoplasia, prostate cancer, non-small cell lung carcinoma. Mechanism: Tubulin stabiliser; Tubulin inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL501867` | `CHEMBL90555` | VINCRISTINE | 97.0% | Phase 4.0 | Indicated for: acute lymphoblastic leukemia, Ewing sarcoma, medulloblastoma, leukemia, choroid plexus neoplasm, unspecified peripheral T-cell lymphoma, HIV-1 infection, diffuse large B-cell lymphoma, lymphoblastic lymphoma, adrenal cortex carcinoma, Central Nervous System Neoplasm, neuroblastoma, neoplasm, follicular lymphoma, multiple myeloma, chronic lymphocytic leukemia, Hodgkins lymphoma, non-Hodgkins lymphoma, lymphoma, rhabdomyosarcoma, Mantle cell lymphoma. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL501867` | `CHEMBL501867` | VINCRISTINE SULFATE | 97.0% | Phase 4.0 | Indicated for: acute lymphoblastic leukemia, neurofibromatosis type 1, Central Nervous System Neoplasm, hemophagocytic syndrome, retinoblastoma, diffuse large B-cell lymphoma, multiple myeloma, neoplasm of mature B-cells, leukemia, follicular lymphoma, cervical cancer, kidney cancer, neoplasm, acute myeloid leukemia, Mantle cell lymphoma, kidney Wilms tumor, melanoma, lymphoma, brain neoplasm, rhabdomyosarcoma, unspecified peripheral T-cell lymphoma, non-Hodgkins lymphoma, sarcoma, neuroblastoma. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL378544` | `CHEMBL159` | VINBLASTINE | 96.0% | Phase 4.0 | Indicated for: prostate cancer, classic Hodgkin lymphoma, neoplasm, low grade glioma, urinary bladder carcinoma, urothelial carcinoma, Hodgkins lymphoma, brain neoplasm, lung cancer, Paraganglioma, stricture, Langerhans Cell Histiocytosis, lymphoma, urinary bladder cancer. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL378544` | `CHEMBL378544` | VINBLASTINE SULFATE | 96.0% | Phase 4.0 | Indicated for: lymphoma, Hodgkins lymphoma, lung cancer, lymphoid neoplasm, urinary bladder cancer, Desmoid-type fibromatosis, fungal infectious disease. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL1683544` | `CHEMBL1683544` | ERIBULIN MESYLATE | 94.1% | Phase 4.0 | Indicated for: urinary bladder carcinoma, osteosarcoma, cancer, salivary gland cancer, triple-negative breast cancer, prostate cancer, breast cancer, soft tissue sarcoma, cervical cancer, primary brain neoplasm, breast carcinoma, breast neoplasm, non-small cell lung carcinoma, neoplasm, head and neck malignant neoplasia. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL1683544` | `CHEMBL1683590` | ERIBULIN | 94.1% | Phase 4.0 | Indicated for: breast cancer, neoplasm, epithelioid hemangioendothelioma, liposarcoma, solitary fibrous tumor, sarcoma, triple-negative breast cancer, angiosarcoma, breast neoplasm. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL2105629` | `CHEMBL2110725` | VINFLUNINE | 93.4% | Phase 4.0 | Indicated for: head and neck carcinoma, urinary bladder cancer, urinary bladder carcinoma, penile neoplasm, cancer, breast neoplasm, prostate cancer, breast cancer, urogenital neoplasm, gastric cancer, Transitional Cell Carcinoma, neoplasm, non-small cell lung carcinoma. Mechanism: Tubulin inhibitor; Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL2105629` | `CHEMBL2105629` | VINFLUNINE DITARTRATE | 93.4% | Phase 4.0 | Indicated for: benign urinary system neoplasm, Transitional Cell Carcinoma. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL538943` | `CHEMBL553025` | VINORELBINE | 93.3% | Phase 4.0 | Indicated for: multiple myeloma, malignant pleural mesothelioma, HER2 Positive Breast Carcinoma, neoplasm, rhabdomyosarcoma, anaplastic large cell lymphoma, cervical cancer, low grade glioma, cutaneous melanoma, lung neoplasm, diffuse large B-cell lymphoma, Hodgkins lymphoma, cancer, classic Hodgkin lymphoma, breast neoplasm, lung cancer, triple-negative breast cancer, carcinoma, lung carcinoma, non-small cell lung carcinoma, breast cancer, mesothelioma. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL538943` | `CHEMBL538943` | VINORELBINE TARTRATE | 93.3% | Phase 4.0 | Indicated for: lung cancer, neoplasm, prostate cancer, cancer, carcinoma, Hodgkins lymphoma, non-small cell lung carcinoma, breast cancer, malignant colon neoplasm, breast neoplasm, sarcoma. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL1614667` | CHEMBL1614667 | 92.7% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL4285147` | CHEMBL4285147 | 92.6% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL4283653` | CHEMBL4283653 | 91.8% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL4288110` | CHEMBL4288110 | 90.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL4280202` | CHEMBL4280202 | 90.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL2103826` | `CHEMBL254662` | CHEMBL254662 | 89.6% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL3989512` | `CHEMBL1784326` | CHEMBL1784326 | 89.2% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL4294917` | CHEMBL4294917 | 89.1% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL94657` | `CHEMBL1983958` | CHEMBL1983958 | 89.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL4292977` | CHEMBL4292977 | 88.5% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL96172` | `CHEMBL461280` | EPOTHILONE I3 | 88.4% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL90555` | `CHEMBL378544` | VINBLASTINE SULFATE | 88.3% | Phase 4.0 | Indicated for: lymphoma, Hodgkins lymphoma, lung cancer, lymphoid neoplasm, urinary bladder cancer, Desmoid-type fibromatosis, fungal infectious disease. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL552212` | `CHEMBL3933664` | CHEMBL3933664 | 88.2% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL4287005` | CHEMBL4287005 | 88.2% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL2103826` | `CHEMBL415089` | CHEMBL415089 | 88.2% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297268` | `CHEMBL286044` | CHEMBL286044 | 87.8% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL4279763` | CHEMBL4279763 | 87.4% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL4290416` | CHEMBL4290416 | 87.4% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL3989512` | `CHEMBL4167955` | CHEMBL4167955 | 87.4% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297636` | `CHEMBL5272831` | CHEMBL5272831 | 86.6% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL432137` | CHEMBL432137 | 86.3% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297268` | `CHEMBL283021` | CHEMBL283021 | 86.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL501867` | `CHEMBL159` | VINBLASTINE | 85.8% | Phase 4.0 | Indicated for: prostate cancer, classic Hodgkin lymphoma, neoplasm, low grade glioma, urinary bladder carcinoma, urothelial carcinoma, Hodgkins lymphoma, brain neoplasm, lung cancer, Paraganglioma, stricture, Langerhans Cell Histiocytosis, lymphoma, urinary bladder cancer. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL501867` | `CHEMBL378544` | VINBLASTINE SULFATE | 85.8% | Phase 4.0 | Indicated for: lymphoma, Hodgkins lymphoma, lung cancer, lymphoid neoplasm, urinary bladder cancer, Desmoid-type fibromatosis, fungal infectious disease. Mechanism: Tubulin inhibitor. |
+| `TUBA4A` | `CHEMBL4279455` | `CHEMBL4291520` | CHEMBL4291520 | 85.7% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297441` | `CHEMBL2067952` | CHEMBL2067952 | 85.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297441` | `CHEMBL384393` | CHEMBL384393 | 85.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297441` | `CHEMBL2375134` | CHEMBL2375134 | 85.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297441` | `CHEMBL2374867` | CHEMBL2374867 | 85.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297441` | `CHEMBL1187208` | CHEMBL1187208 | 85.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297441` | `CHEMBL493534` | CHEMBL493534 | 85.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297441` | `CHEMBL231831` | CHEMBL231831 | 85.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297441` | `CHEMBL386264` | CHEMBL386264 | 85.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297441` | `CHEMBL405540` | CHEMBL405540 | 85.0% | Phase 0.0 | No indication/mechanism details available. |
+| `TUBA4A` | `CHEMBL4297268` | `CHEMBL449544` | CHEMBL449544 | 85.0% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -11516,7 +11907,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -11690,7 +12087,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -11863,6 +12266,8 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 ### Category 5: Pathways & Functional Annotation
 | ID | Type | Name |
 | --- | --- | --- |
+| `R-HSA-70326` | pathway | Superoxide radicals degradation |
+| `GO:0005509` | go_term | None |
 | `GO:0005516` | go_term | None |
 | `GO:0005543` | go_term | None |
 | `GO:0017075` | go_term | None |
@@ -11935,7 +12340,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -12207,7 +12618,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -12421,6 +12838,8 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `R-HSA-9918487` | pathway | Dengue Virus Genome Translation and Replication |
 | `R-HSA-9931269` | pathway | AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274) |
 | `R-HSA-9954709` | pathway | Ribosome Quality Control (RQC) complex extracts and degrades nascent peptide |
+| `GO:0003723` | go_term | None |
+| `GO:0005515` | go_term | None |
 | `IPR003338` | domain | CDC48, N-terminal subdomain |
 | `IPR003593` | domain | AAA+ ATPase domain |
 | `IPR003959` | domain | ATPase, AAA-type, core |
@@ -12477,7 +12896,13 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
 
 ### Category 11: Similar Compounds & Repurposing Candidates
-*No similar compounds with qualifying max clinical phase found.*
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---

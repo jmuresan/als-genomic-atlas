@@ -1,0 +1,149 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1201748",
+      "name": "CABAZITAXEL",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "infiltrating bladder urothelial carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "glioblastoma multiforme"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "colorectal cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "head and neck malignant neoplasia"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "metastatic prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "Transitional Cell Carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "dedifferentiated liposarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "adrenal cortex carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "head and neck squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Testicular Germ Cell Tumor"
+            }
+          },
+          {
+            "disease": {
+              "name": "testicular carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "penile neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "brain cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "central nervous system cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "urothelial carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "nongerminomatous germ cell tumor"
+            }
+          },
+          {
+            "disease": {
+              "name": "gastric cancer"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

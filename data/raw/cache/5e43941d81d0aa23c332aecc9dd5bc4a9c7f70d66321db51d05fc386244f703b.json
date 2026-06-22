@@ -1,0 +1,173 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL52440",
+      "name": "DEXTROMETHORPHAN",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Sigma opioid receptor agonist"
+          },
+          {
+            "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+          },
+          {
+            "mechanismOfAction": "Sigma opioid receptor agonist"
+          },
+          {
+            "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "autism"
+            }
+          },
+          {
+            "disease": {
+              "name": "drug interaction"
+            }
+          },
+          {
+            "disease": {
+              "name": "voice disorders"
+            }
+          },
+          {
+            "disease": {
+              "name": "opioid dependence"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "schizophrenia"
+            }
+          },
+          {
+            "disease": {
+              "name": "bipolar disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "diabetic neuropathy"
+            }
+          },
+          {
+            "disease": {
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Rett syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "Proteinuria"
+            }
+          },
+          {
+            "disease": {
+              "name": "cytomegalovirus infection"
+            }
+          },
+          {
+            "disease": {
+              "name": "melanoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "trypanosomiasis"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple sclerosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "relapsing-remitting multiple sclerosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "attention deficit hyperactivity disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "metastasis"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "toxic encephalopathy"
+            }
+          },
+          {
+            "disease": {
+              "name": "neuropathic pain"
+            }
+          },
+          {
+            "disease": {
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "hypertrophy"
+            }
+          },
+          {
+            "disease": {
+              "name": "peripheral neuropathy"
+            }
+          },
+          {
+            "disease": {
+              "name": "fibromyalgia"
+            }
+          },
+          {
+            "disease": {
+              "name": "Cough"
+            }
+          },
+          {
+            "disease": {
+              "name": "irritable bowel syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "Cognitive impairment"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

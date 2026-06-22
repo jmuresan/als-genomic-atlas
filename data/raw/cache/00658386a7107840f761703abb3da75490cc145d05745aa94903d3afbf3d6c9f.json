@@ -1,0 +1,77 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL4297661",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4802235",
+    "molecule_chembl_id": "CHEMBL4297661",
+    "parent_chembl_id": "CHEMBL4297661"
+  },
+  "molecule_properties": {
+    "alogp": "4.60",
+    "aromatic_rings": 4,
+    "full_molformula": "C24H24BrClN9O3+",
+    "full_mwt": "601.87",
+    "hba": 9,
+    "hbd": 2,
+    "heavy_atoms": 38,
+    "mw_freebase": "601.87",
+    "np_likeness_score": "-1.08",
+    "num_ro5_violations": 1,
+    "psa": "140.76",
+    "qed_weighted": "0.12",
+    "ro3_pass": "N",
+    "rtb": 9
+  },
+  "molecule_structures": {
+    "canonical_smiles": "Cn1cnc([N+](=O)[O-])c1C[N+](C)(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(Cl)c(Br)c3)ncnc2cn1",
+    "molfile": "\n     RDKit          2D\n\n 38 41  0  0  0  0  0  0  0  0999 V2000\n   13.0715   -9.0651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   14.0946   -8.4748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.1138   -9.0646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.1138  -10.2460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   14.0972  -10.8356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.0715  -10.2513    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   16.1342   -8.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   17.1578   -9.0669    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   17.1604  -10.2424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   16.1415  -10.8389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   16.1342   -7.2952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   17.2676   -6.6422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   17.2690   -5.4610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   18.2898   -4.8740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   19.3125   -5.4657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   19.3137   -6.6409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   18.2944   -7.2361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   20.3353   -4.8751    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n   20.3366   -7.2315    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0\n   12.0486   -8.4746    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   11.0258   -9.0651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.0029   -8.4746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.9800   -9.0651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.9572   -8.4746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.9343   -9.0651    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   11.0258  -10.2462    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.9115   -8.4746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.9343  -10.2462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.9115   -9.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7240   -8.8993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.6518   -7.7210    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5088   -7.4255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8746   -8.4212    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6257   -9.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4870   -6.8859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3200  -10.4729    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1791  -10.7786    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.1551  -11.3081    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  2  0\n  3  2  1  0\n  4  3  2  0\n  5  4  1  0\n  1  6  1  0\n  6  5  2  0\n  3  7  1  0\n  8  7  2  0\n  9  8  1  0\n 10  9  2  0\n  4 10  1  0\n  7 11  1  0\n 11 12  1  0\n 13 12  2  0\n 14 13  1  0\n 15 14  2  0\n 16 15  1  0\n 17 16  2  0\n 12 17  1  0\n 15 18  1  0\n 16 19  1  0\n  1 20  1  0\n 20 21  1  0\n 21 22  1  0\n 22 23  2  0\n 23 24  1  0\n 24 25  1  0\n 21 26  2  0\n 25 27  1  0\n 25 28  1  0\n 25 29  1  0\n 29 30  1  0\n 31 30  1  0\n 31 32  1  0\n 32 33  2  0\n 33 34  1  0\n 34 30  2  0\n 31 35  1  0\n 34 36  1  0\n 36 37  1  0\n 36 38  2  0\nM  CHG  3  25   1  36   1  37  -1\nM  END\n> <chembl_id>\nCHEMBL4297661\n\n> <chembl_pref_name>\nTARLOXOTINIB",
+    "standard_inchi": "InChI=1S/C24H23BrClN9O3/c1-33-14-30-24(34(37)38)20(33)12-35(2,3)8-4-5-22(36)32-21-10-16-19(11-27-21)28-13-29-23(16)31-15-6-7-18(26)17(25)9-15/h4-7,9-11,13-14H,8,12H2,1-3H3,(H-,27,28,29,31,32,36)/p+1/b5-4+",
+    "standard_inchi_key": "MUJMYVFVAWFUJL-SNAWJCMRSA-O"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Tarloxotinib",
+      "syn_type": "OTHER",
+      "synonyms": "TARLOXOTINIB"
+    },
+    {
+      "molecule_synonym": "Tarloxotinib cation",
+      "syn_type": "OTHER",
+      "synonyms": "TARLOXOTINIB CATION"
+    },
+    {
+      "molecule_synonym": "Tarloxotinib ion",
+      "syn_type": "OTHER",
+      "synonyms": "TARLOXOTINIB ION"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "TARLOXOTINIB",
+  "prodrug": 1,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-tinib",
+  "usan_stem_definition": "tyrosine kinase inhibitors",
+  "usan_substem": "-tinib",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

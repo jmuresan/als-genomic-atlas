@@ -1,0 +1,152 @@
+{
+  "atc_classifications": [
+    "L01FX13"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29653,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": "Homo sapiens",
+        "sequence": "DIQMTQSPSSVSASVGDRVTITCRASQGISGWLAWYQQKPGKAPKFLIYAASTLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQANSFPPTFGGGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": 9606
+      },
+      {
+        "component_id": 29652,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": "Homo sapiens",
+        "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYNMNWVRQAPGKGLEWVSYISSSSSTIYYADSVKGRFTISRDNAKNSLSLQMNSLRDEDTAVYYCARAYYYGMDVWGQGTTVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKRVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSREEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPG",
+        "tax_id": 9606
+      }
+    ],
+    "description": "Enfortumab vedotin (human mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3301589"
+  },
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/padcev",
+      "xref_name": "padcev",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2019,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL3301589",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3301589",
+    "molecule_chembl_id": "CHEMBL3301589",
+    "parent_chembl_id": "CHEMBL3301589"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "AGS-22CE",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AGS-22CE"
+    },
+    {
+      "molecule_synonym": "AGS-22M6E",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AGS-22M6E"
+    },
+    {
+      "molecule_synonym": "AGS-22ME",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AGS-22ME"
+    },
+    {
+      "molecule_synonym": "AGS-22MSE",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AGS-22MSE"
+    },
+    {
+      "molecule_synonym": "Asg-22ce",
+      "syn_type": "OTHER",
+      "synonyms": "ASG-22CE"
+    },
+    {
+      "molecule_synonym": "ASG-22ME",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ASG-22ME"
+    },
+    {
+      "molecule_synonym": "Enfortumab vedotin",
+      "syn_type": "ATC",
+      "synonyms": "ENFORTUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Enfortumab vedotin",
+      "syn_type": "EMA",
+      "synonyms": "ENFORTUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Enfortumab vedotin",
+      "syn_type": "INN",
+      "synonyms": "ENFORTUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Enfortumab vedotin",
+      "syn_type": "OTHER",
+      "synonyms": "ENFORTUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Enfortumab vedotin",
+      "syn_type": "USAN",
+      "synonyms": "ENFORTUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Enfortumab vedotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "ENFORTUMAB VEDOTINA"
+    },
+    {
+      "molecule_synonym": "Enfortumab vedotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "ENFORTUMAB VEDOTINE"
+    },
+    {
+      "molecule_synonym": "Enfortumab vedotin ejfv",
+      "syn_type": "OTHER",
+      "synonyms": "ENFORTUMAB VEDOTIN EJFV"
+    },
+    {
+      "molecule_synonym": "Enfortumab vedotin-ejfv",
+      "syn_type": "FDA",
+      "synonyms": "ENFORTUMAB VEDOTIN-EJFV"
+    },
+    {
+      "molecule_synonym": "Padcev",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "Padcev"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "ENFORTUMAB VEDOTIN",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-dotin; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: fully human",
+  "usan_substem": "-dotin; -mab (-umab)",
+  "usan_year": 2014,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

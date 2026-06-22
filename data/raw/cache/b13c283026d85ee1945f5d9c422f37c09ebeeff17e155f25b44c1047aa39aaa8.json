@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL2105629",
+      "name": "VINFLUNINE DITARTRATE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "benign urinary system neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "Transitional Cell Carcinoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

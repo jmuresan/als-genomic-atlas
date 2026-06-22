@@ -1,0 +1,131 @@
+{
+  "atc_classifications": [
+    "L01FX26"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 28527,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLVQSGAEVVKPGASVKISCKASGYTFTGYFMNWVKQSPGQSLEWIGRIHPYDGDTFYNQKFQGKATLTVDKSSNTAHMELLSLTSEDFAVYYCTRYDGSRAMDYWGQGTTVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPG",
+        "tax_id": null
+      },
+      {
+        "component_id": 28528,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIVLTQSPLSLAVSLGQPAIISCKASQSVSFAGTSLMHWYHQKPGQQPRLLIYRASNLEAGVPDRFSGSGSKTDFTLTISPVEAEDAATYYCQQSREYPYTFGGGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3545132"
+  },
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": true,
+  "first_approval": 2022,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL3545132",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3545132",
+    "molecule_chembl_id": "CHEMBL3545132",
+    "parent_chembl_id": "CHEMBL3545132"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Elahere",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "Elahere"
+    },
+    {
+      "molecule_synonym": "Elahere",
+      "syn_type": "OTHER",
+      "synonyms": "ELAHERE"
+    },
+    {
+      "molecule_synonym": "IMGN-853",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "IMGN-853"
+    },
+    {
+      "molecule_synonym": "IMGN853",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "IMGN853"
+    },
+    {
+      "molecule_synonym": "Mirvetuximab soravtansina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "MIRVETUXIMAB SORAVTANSINA"
+    },
+    {
+      "molecule_synonym": "Mirvetuximab soravtansine",
+      "syn_type": "ATC",
+      "synonyms": "MIRVETUXIMAB SORAVTANSINE"
+    },
+    {
+      "molecule_synonym": "Mirvetuximab soravtansine",
+      "syn_type": "FDA",
+      "synonyms": "MIRVETUXIMAB SORAVTANSINE"
+    },
+    {
+      "molecule_synonym": "Mirvetuximab soravtansine",
+      "syn_type": "INN",
+      "synonyms": "MIRVETUXIMAB SORAVTANSINE"
+    },
+    {
+      "molecule_synonym": "Mirvetuximab soravtansine",
+      "syn_type": "OTHER",
+      "synonyms": "MIRVETUXIMAB SORAVTANSINE"
+    },
+    {
+      "molecule_synonym": "Mirvetuximab soravtansine",
+      "syn_type": "USAN",
+      "synonyms": "MIRVETUXIMAB SORAVTANSINE"
+    },
+    {
+      "molecule_synonym": "Mirvetuximab soravtansine gynx",
+      "syn_type": "OTHER",
+      "synonyms": "MIRVETUXIMAB SORAVTANSINE GYNX"
+    },
+    {
+      "molecule_synonym": "Mirvetuximab soravtansine-gynx",
+      "syn_type": "FDA",
+      "synonyms": "MIRVETUXIMAB SORAVTANSINE-GYNX"
+    },
+    {
+      "molecule_synonym": "Mirvetuximab soravtansine-gynx",
+      "syn_type": "OTHER",
+      "synonyms": "MIRVETUXIMAB SORAVTANSINE-GYNX"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "MIRVETUXIMAB SORAVTANSINE",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab; -tansine",
+  "usan_stem_definition": "monoclonal antibodies: chimeric; maytansinoid derivatives",
+  "usan_substem": "-mab (-ximab); -tansine",
+  "usan_year": 2015,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

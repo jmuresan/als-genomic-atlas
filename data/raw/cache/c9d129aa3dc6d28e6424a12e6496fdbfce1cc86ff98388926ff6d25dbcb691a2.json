@@ -1,0 +1,74 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL538943",
+      "name": "VINORELBINE TARTRATE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "lung cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "malignant colon neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "sarcoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

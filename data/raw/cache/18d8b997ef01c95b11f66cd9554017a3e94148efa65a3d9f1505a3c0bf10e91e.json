@@ -1,0 +1,619 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL428647",
+      "name": "PACLITAXEL",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "gastrointestinal disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "ischemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "urothelial carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Ocular Melanoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "head and neck malignant neoplasia"
+            }
+          },
+          {
+            "disease": {
+              "name": "rheumatoid arthritis"
+            }
+          },
+          {
+            "disease": {
+              "name": "small cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "peritoneum cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "germ cell tumor"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "urogenital neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "malignant peritoneal mesothelioma"
+            }
+          },
+          {
+            "disease": {
+              "name": "endometrial neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "Malignant Pancreatic Neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "biliary tract cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "pancreatic ductal adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "endometrial carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Transitional Cell Carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "inflammatory breast carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "gastrointestinal stromal tumor"
+            }
+          },
+          {
+            "disease": {
+              "name": "Fallopian Tube Carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "gastroesophageal junction adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "uterine cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "salivary gland neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "mixed neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "tongue neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "pancreatic carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "salivary gland cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "cervical carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "liver cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "fallopian tube cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "adrenal cortex carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Paraganglioma"
+            }
+          },
+          {
+            "disease": {
+              "name": "small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "hypopharyngeal carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "head and neck squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cutaneous melanoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "colorectal adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "pancreatic adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "gastric cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "penile cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "lip and oral cavity carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "gastric adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "actinic keratosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "sarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "childhood germ cell tumor"
+            }
+          },
+          {
+            "disease": {
+              "name": "neuroendocrine carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Kaposi's sarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "gastric carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "nasopharyngeal neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "angiosarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "allergic disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "female reproductive system neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "metastatic melanoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "esophageal squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "uterine neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "HIV-1 infection"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm of esophagus"
+            }
+          },
+          {
+            "disease": {
+              "name": "cervical squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "stomach neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "kidney cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "cutaneous squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "urinary bladder carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "mouth neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "soft tissue sarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "hepatocellular carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hereditary breast and ovarian cancer syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "peripheral arterial disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "stricture"
+            }
+          },
+          {
+            "disease": {
+              "name": "Coronary Restenosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "colorectal cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "thyroid cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "cholangiocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "upper aerodigestive tract neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "central nervous system germ cell tumor"
+            }
+          },
+          {
+            "disease": {
+              "name": "colorectal neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "oropharynx squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "esophageal carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "squamous cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "esophageal cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "psoriasis"
+            }
+          },
+          {
+            "disease": {
+              "name": "cervical cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "cervical adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "triple-negative breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "pancreatic neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "Central Nervous System Neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "Pancreatic cysts"
+            }
+          },
+          {
+            "disease": {
+              "name": "male breast carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "vulva cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "urinary bladder cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "cervical intraepithelial neoplasia"
+            }
+          },
+          {
+            "disease": {
+              "name": "metastasis"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast ductal adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "glioma"
+            }
+          },
+          {
+            "disease": {
+              "name": "leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "melanoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "skin squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "endometrial cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "peripheral neuropathy"
+            }
+          },
+          {
+            "disease": {
+              "name": "benign prostatic hyperplasia"
+            }
+          },
+          {
+            "disease": {
+              "name": "peripheral vascular disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "peritoneal neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "nasopharyngeal carcinoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

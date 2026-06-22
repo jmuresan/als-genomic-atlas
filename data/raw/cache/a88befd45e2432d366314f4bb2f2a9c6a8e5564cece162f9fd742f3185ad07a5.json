@@ -1,0 +1,42 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1089636",
+      "name": "ANG1005",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          },
+          {
+            "mechanismOfAction": "Prolow-density lipoprotein receptor-related protein 1 binding agent"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "malignant glioma"
+            }
+          },
+          {
+            "disease": {
+              "name": "glioblastoma multiforme"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

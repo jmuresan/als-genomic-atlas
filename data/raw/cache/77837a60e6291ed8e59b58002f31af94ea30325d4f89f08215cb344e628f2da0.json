@@ -1,0 +1,147 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29414,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "EVQLQESGPGLVKPGGSLSLSCAASGFVFSSYDMSWVRQTPERGLEWVAYISSGGGITYAPSTVKGRFTVSRDNAKNTLYLQMNSLTSEDTAVYYCAAHYFGSSGPFAYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPG",
+        "tax_id": null
+      },
+      {
+        "component_id": 30655,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22-96 $ 22''-96'' $ 23'-88' $ 23'''-88''' $ 134'-194' $ 134'''-194''' $ 147-203 $ 147''-203'' $ 214'-223 $ 214'''-223'' $ 229-229'' $ 232-232'' $ 264-324 $ 264''-324'' $ 370-428 $ 370''-428''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29415,
+        "component_type": null,
+        "description": "Modified residues",
+        "organism": null,
+        "sequence": "Lysine substitute (SMILES):CN[C@@H](CCCCNC(=O)CCCSSC(C)(C)CCC(=O)N(C)[C@@H](C)C(=O)O[C@H]1CC(=O)N(C)c2cc(cc(OC)c2Cl)C/C(C)=C/C=C/[C@@H](OC)[C@@]2(O)C[C@H](OC(=O)N2)[C@@H](C)[C@@H]2O[C@@]12C)C(C)=O",
+        "tax_id": null
+      },
+      {
+        "component_id": 31335,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "300 $ 300''",
+        "tax_id": null
+      },
+      {
+        "component_id": 29479,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPASLSASVGDRVTITCRASENIFSYLAWYQQKPGKSPKLLVYNTRTLAEGVPSRFSGSGSGTDFSLTISSLQPEDFATYYCQHHYGTPFTFGSGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 29847,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "300 $ 300''''",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4298098"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/TUSAMITAMAB%20RAVTANSINE/relevant/1/",
+      "xref_name": "TUSAMITAMAB RAVTANSINE",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL4298098",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4298098",
+    "molecule_chembl_id": "CHEMBL4298098",
+    "parent_chembl_id": "CHEMBL4298098"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Maytansin-loaded anti-ceacam5 mab",
+      "syn_type": "OTHER",
+      "synonyms": "MAYTANSIN-LOADED ANTI-CEACAM5 MAB"
+    },
+    {
+      "molecule_synonym": "Sar 408701",
+      "syn_type": "OTHER",
+      "synonyms": "SAR 408701"
+    },
+    {
+      "molecule_synonym": "Sar-408701",
+      "syn_type": "OTHER",
+      "synonyms": "SAR-408701"
+    },
+    {
+      "molecule_synonym": "SAR-408701",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SAR-408701"
+    },
+    {
+      "molecule_synonym": "Sar408701",
+      "syn_type": "OTHER",
+      "synonyms": "SAR408701"
+    },
+    {
+      "molecule_synonym": "SAR408701",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SAR408701"
+    },
+    {
+      "molecule_synonym": "Tusamitamab ravtansine",
+      "syn_type": "INN",
+      "synonyms": "TUSAMITAMAB RAVTANSINE"
+    },
+    {
+      "molecule_synonym": "Tusamitamab ravtansine",
+      "syn_type": "OTHER",
+      "synonyms": "TUSAMITAMAB RAVTANSINE"
+    },
+    {
+      "molecule_synonym": "Tusamitamab ravtansine",
+      "syn_type": "USAN",
+      "synonyms": "TUSAMITAMAB RAVTANSINE"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "TUSAMITAMAB RAVTANSINE",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab; -tansine",
+  "usan_stem_definition": "monoclonal antibodies; maytansinoid derivatives",
+  "usan_substem": "-mab; -tansine",
+  "usan_year": 2021,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

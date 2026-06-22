@@ -1,0 +1,130 @@
+{
+  "atc_classifications": [
+    "L01EB07"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [
+    {
+      "xref_id": "dacomitinib",
+      "xref_name": "dacomitinib",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/vizimpro",
+      "xref_name": "vizimpro",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2018,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL2105719",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2110732",
+    "molecule_chembl_id": "CHEMBL2105719",
+    "parent_chembl_id": "CHEMBL2110732"
+  },
+  "molecule_properties": {
+    "alogp": "5.16",
+    "aromatic_rings": 3,
+    "full_molformula": "C24H27ClFN5O3",
+    "full_mwt": "487.96",
+    "hba": 6,
+    "hbd": 2,
+    "heavy_atoms": 33,
+    "mw_freebase": "469.95",
+    "np_likeness_score": "-1.61",
+    "num_ro5_violations": 1,
+    "psa": "79.38",
+    "qed_weighted": "0.47",
+    "ro3_pass": "N",
+    "rtb": 7
+  },
+  "molecule_structures": {
+    "canonical_smiles": "COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN1CCCCC1.O",
+    "molfile": "\n     RDKit          2D\n\n 34 36  0  0  0  0  0  0  0  0999 V2000\n    5.8333    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.9796    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.9796    1.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.2652    1.4875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.5507    1.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.5507    0.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.2652   -0.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8362   -0.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1218    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.4073   -0.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.6928    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.6928    1.0750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0217   -0.1625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7361    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4506    1.4875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7361    1.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4506   -0.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1651    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1651    1.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0217    1.4875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8795    1.4875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8795   -0.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5940    0.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5940    1.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8795   -0.9875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1651   -1.4000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1651   -2.2250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4506   -2.6375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7361   -2.2250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7361   -1.4000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4506   -0.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0217   -0.9875    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0217   -2.6375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0217    2.3125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  3  1  0\n  3  4  1  0\n  4  5  1  0\n  5  6  1  0\n  6  7  1  0\n  2  7  1  0\n  6  8  1  0\n  8  9  1  0\n  9 10  2  0\n 10 11  1  0\n 11 12  2  0\n 11 13  1  0\n 13 14  1  0\n 16 14  1  0\n 14 17  2  0\n 15 16  2  0\n 17 18  1  0\n 15 19  1  0\n 16 20  1  0\n 21 19  1  0\n 18 19  2  0\n 18 22  1  0\n 22 23  2  0\n 23 24  1  0\n 21 24  2  0\n 22 25  1  0\n 25 26  1  0\n 26 27  1  0\n 26 31  2  0\n 27 28  2  0\n 28 29  1  0\n 29 30  2  0\n 30 31  1  0\n 30 32  1  0\n 29 33  1  0\n 20 34  1  0\nM  END\n> <chembl_id>\nCHEMBL2105719\n\n> <chembl_pref_name>\nDACOMITINIB",
+    "standard_inchi": "InChI=1S/C24H25ClFN5O2.H2O/c1-33-22-14-20-17(24(28-15-27-20)29-16-7-8-19(26)18(25)12-16)13-21(22)30-23(32)6-5-11-31-9-3-2-4-10-31;/h5-8,12-15H,2-4,9-11H2,1H3,(H,30,32)(H,27,28,29);1H2/b6-5+;",
+    "standard_inchi_key": "BSPLGGCPNTZPIH-IPZCTEOASA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Dacomitinib",
+      "syn_type": "INN",
+      "synonyms": "Dacomitinib"
+    },
+    {
+      "molecule_synonym": "Dacomitinib",
+      "syn_type": "USAN",
+      "synonyms": "Dacomitinib"
+    },
+    {
+      "molecule_synonym": "Dacomitinib",
+      "syn_type": "ATC",
+      "synonyms": "DACOMITINIB"
+    },
+    {
+      "molecule_synonym": "Dacomitinib",
+      "syn_type": "EMA",
+      "synonyms": "DACOMITINIB"
+    },
+    {
+      "molecule_synonym": "Dacomitinib",
+      "syn_type": "FDA",
+      "synonyms": "DACOMITINIB"
+    },
+    {
+      "molecule_synonym": "Dacomitinib",
+      "syn_type": "OTHER",
+      "synonyms": "DACOMITINIB"
+    },
+    {
+      "molecule_synonym": "Dacomitinib hydrate",
+      "syn_type": "JAN",
+      "synonyms": "DACOMITINIB HYDRATE"
+    },
+    {
+      "molecule_synonym": "Dacomitinib monohydrate",
+      "syn_type": "EMA",
+      "synonyms": "DACOMITINIB MONOHYDRATE"
+    },
+    {
+      "molecule_synonym": "Dacomitinib monohydrate",
+      "syn_type": "OTHER",
+      "synonyms": "DACOMITINIB MONOHYDRATE"
+    },
+    {
+      "molecule_synonym": "PF-00299804-03",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PF-00299804-03"
+    },
+    {
+      "molecule_synonym": "Vizimpro",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "VIZIMPRO"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "DACOMITINIB",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-tinib",
+  "usan_stem_definition": "tyrosine kinase inhibitors",
+  "usan_substem": "-tinib",
+  "usan_year": 2010,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

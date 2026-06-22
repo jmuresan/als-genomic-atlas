@@ -1,0 +1,235 @@
+{
+  "atc_classifications": [
+    "L01CD02"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/taxespira-previously-docetaxel-hospira-uk-limited",
+      "xref_name": "taxespira-previously-docetaxel-hospira-uk-limited",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "human/EPAR/docetaxel-zentiva-previously-docetaxel-winthrop",
+      "xref_name": "docetaxel-zentiva-previously-docetaxel-winthrop",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "human/EPAR/docetaxel-teva",
+      "xref_name": "docetaxel-teva",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "human/EPAR/taxotere",
+      "xref_name": "taxotere",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "docetaxel",
+      "xref_name": "docetaxel",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/docetaxel-accord",
+      "xref_name": "docetaxel-accord",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 1995,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL3545252",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL92",
+    "molecule_chembl_id": "CHEMBL3545252",
+    "parent_chembl_id": "CHEMBL92"
+  },
+  "molecule_properties": {
+    "alogp": "3.26",
+    "aromatic_rings": 2,
+    "full_molformula": "C43H59NO17",
+    "full_mwt": "861.94",
+    "hba": 14,
+    "hbd": 5,
+    "heavy_atoms": 58,
+    "mw_freebase": "807.89",
+    "np_likeness_score": "1.89",
+    "num_ro5_violations": 2,
+    "psa": "224.45",
+    "qed_weighted": "0.15",
+    "ro3_pass": "N",
+    "rtb": 8
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@@]1(C)C(=O)[C@H](O)C3=C(C)[C@@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c4ccccc4)C[C@@](O)([C@@H](OC(=O)c4ccccc4)[C@H]21)C3(C)C.O.O.O",
+    "molfile": "\n     RDKit          2D\n\n 63 65  0  0  0  0  0  0  0  0999 V2000\n    6.2411   -2.4025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0016    0.0177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8410   -0.2327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7093   -0.0728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1379   -0.7778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.9627   -0.7591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.3589   -0.0354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.9303    0.6695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1055    0.6508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3935    0.7841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4451    0.8351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.8282    0.4936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0655    0.6853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.5304    0.1749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2816   -0.2665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0137    1.2144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1837    2.0217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5658    1.9072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3175    1.4708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1724    1.4731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1566   -1.6026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0371   -0.8066    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.7966   -1.0565    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3461   -1.0093    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.9814   -1.5838    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.3265    1.3932    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4918    1.6032    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2603    1.6391    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.3439    0.0377    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.8695    0.6736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5815    1.4467    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.6830    0.5364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.9709   -0.2367    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.2085    1.1724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.9206    1.9455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.4461    2.5814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1582    3.3545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.3447    3.4917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.8191    2.8558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1071    2.0827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.0221    1.0352    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.3100    0.2621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7845   -0.3738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.1235    0.1249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.6491    0.7608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.1746    1.3968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.2850    0.2353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.0132    1.2864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0609   -1.4300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.3697   -0.9796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0165   -2.2538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.7077   -2.7041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6632   -3.5279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9276   -3.9014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2364   -3.4510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2808   -2.6272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1507   -1.8108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7471   -2.3808    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.3588   -2.0424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7642   -0.9544    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1348   -0.6650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7775   -3.9214    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.3298   -3.1758    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  2  3  1  0\n  2 15  1  0\n  2 16  1  0\n  2 22  1  1\n  3  4  1  0\n  3 23  1  6\n  4  5  1  0\n  4  9  1  0\n  5  6  1  0\n 21  5  1  0\n  5 24  1  6\n  6  7  1  0\n  6 25  1  0\n  7  8  1  0\n  8  9  1  0\n  8 26  1  1\n  9 10  1  0\n  9 20  1  1\n 11 10  1  0\n 10 27  2  0\n 11 12  1  0\n 11 28  1  1\n 12 13  2  0\n 12 16  1  0\n 13 14  1  0\n 13 19  1  0\n 14 15  1  0\n 14 29  1  6\n 16 17  1  0\n 16 18  1  0\n 21 25  1  0\n 49 23  1  0\n 57 24  1  0\n 30 29  1  0\n 30 31  2  0\n 30 32  1  0\n 32 33  1  6\n 32 34  1  0\n 34 35  1  0\n 34 41  1  1\n 35 36  1  0\n 35 40  2  0\n 36 37  2  0\n 37 38  1  0\n 38 39  2  0\n 39 40  1  0\n 42 41  1  0\n 42 43  2  0\n 42 44  1  0\n 45 44  1  0\n 45 46  1  0\n 45 47  1  0\n 45 48  1  0\n 49 50  2  0\n 49 51  1  0\n 51 52  2  0\n 51 56  1  0\n 52 53  1  0\n 53 54  2  0\n 54 55  1  0\n 55 56  2  0\n 57 58  2  0\n 57 59  1  0\n  6 60  1  6\n  4 61  1  6\nM  END\n> <chembl_id>\nCHEMBL3545252\n\n> <chembl_pref_name>\nDOCETAXEL",
+    "standard_inchi": "InChI=1S/C43H53NO14.3H2O/c1-22-26(55-37(51)32(48)30(24-15-11-9-12-16-24)44-38(52)58-39(3,4)5)20-43(53)35(56-36(50)25-17-13-10-14-18-25)33-41(8,34(49)31(47)29(22)40(43,6)7)27(46)19-28-42(33,21-54-28)57-23(2)45;;;/h9-18,26-28,30-33,35,46-48,53H,19-21H2,1-8H3,(H,44,52);3*1H2/t26-,27-,28+,30-,31+,32+,33-,35-,41+,42-,43+;;;/m0.../s1",
+    "standard_inchi_key": "XCDIRYDKECHIPE-QHEQPUDQSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Beizray",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "BEIZRAY"
+    },
+    {
+      "molecule_synonym": "Docetaxel",
+      "syn_type": "ATC",
+      "synonyms": "DOCETAXEL"
+    },
+    {
+      "molecule_synonym": "Docetaxel",
+      "syn_type": "BAN",
+      "synonyms": "DOCETAXEL"
+    },
+    {
+      "molecule_synonym": "Docetaxel",
+      "syn_type": "BNF",
+      "synonyms": "DOCETAXEL"
+    },
+    {
+      "molecule_synonym": "Docetaxel",
+      "syn_type": "EMA",
+      "synonyms": "DOCETAXEL"
+    },
+    {
+      "molecule_synonym": "Docetaxel",
+      "syn_type": "FDA",
+      "synonyms": "DOCETAXEL"
+    },
+    {
+      "molecule_synonym": "Docetaxel",
+      "syn_type": "INN",
+      "synonyms": "DOCETAXEL"
+    },
+    {
+      "molecule_synonym": "Docetaxel",
+      "syn_type": "JAN",
+      "synonyms": "DOCETAXEL"
+    },
+    {
+      "molecule_synonym": "Docetaxel",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "DOCETAXEL"
+    },
+    {
+      "molecule_synonym": "Docetaxel",
+      "syn_type": "OTHER",
+      "synonyms": "DOCETAXEL"
+    },
+    {
+      "molecule_synonym": "Docetaxel",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "DOCETAXEL"
+    },
+    {
+      "molecule_synonym": "Docetaxel",
+      "syn_type": "USAN",
+      "synonyms": "DOCETAXEL"
+    },
+    {
+      "molecule_synonym": "Docetaxel",
+      "syn_type": "USP",
+      "synonyms": "DOCETAXEL"
+    },
+    {
+      "molecule_synonym": "Docetaxel accord",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "DOCETAXEL ACCORD"
+    },
+    {
+      "molecule_synonym": "Docetaxel (as trihydrate)",
+      "syn_type": "OTHER",
+      "synonyms": "DOCETAXEL (AS TRIHYDRATE)"
+    },
+    {
+      "molecule_synonym": "Docetaxel hydrate",
+      "syn_type": "JAN",
+      "synonyms": "DOCETAXEL HYDRATE"
+    },
+    {
+      "molecule_synonym": "Docetaxel hydrate",
+      "syn_type": "OTHER",
+      "synonyms": "DOCETAXEL HYDRATE"
+    },
+    {
+      "molecule_synonym": "Docetaxel teva",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "DOCETAXEL TEVA"
+    },
+    {
+      "molecule_synonym": "Docetaxel trihydrate",
+      "syn_type": "EMA",
+      "synonyms": "DOCETAXEL TRIHYDRATE"
+    },
+    {
+      "molecule_synonym": "Docetaxel trihydrate",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "DOCETAXEL TRIHYDRATE"
+    },
+    {
+      "molecule_synonym": "Docetaxel zentiva (previously docetaxel winthrop)",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "DOCETAXEL ZENTIVA (PREVIOUSLY DOCETAXEL WINTHROP)"
+    },
+    {
+      "molecule_synonym": "Docivyx",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "DOCIVYX"
+    },
+    {
+      "molecule_synonym": "RP 56976",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RP 56976"
+    },
+    {
+      "molecule_synonym": "RP-56976",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RP-56976"
+    },
+    {
+      "molecule_synonym": "Taxceus",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "TAXCEUS"
+    },
+    {
+      "molecule_synonym": "Taxespira (previously docetaxel hospira uk limited )",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "TAXESPIRA (PREVIOUSLY DOCETAXEL HOSPIRA UK LIMITED )"
+    },
+    {
+      "molecule_synonym": "Taxotere",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "TAXOTERE"
+    },
+    {
+      "molecule_synonym": "XRP6976",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "XRP6976"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "DOCETAXEL",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-taxel",
+  "usan_stem_definition": "antineoplastics, taxane derivatives",
+  "usan_substem": "-taxel",
+  "usan_year": 1994,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL31965",
+      "name": "CANERTINIB",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": []
+      }
+    }
+  }
+}

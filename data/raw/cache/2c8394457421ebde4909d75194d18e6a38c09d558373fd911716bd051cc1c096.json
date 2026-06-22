@@ -1,0 +1,27 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1201461",
+      "name": "DEXTROMETHORPHAN POLISTIREX",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Sigma opioid receptor agonist"
+          },
+          {
+            "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "autism spectrum disorder"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

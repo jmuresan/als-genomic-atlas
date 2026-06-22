@@ -1,0 +1,175 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1173655",
+      "name": "AFATINIB",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "glioma"
+            }
+          },
+          {
+            "disease": {
+              "name": "squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "chordoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "glioblastoma multiforme"
+            }
+          },
+          {
+            "disease": {
+              "name": "cholangiocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "pemphigus foliaceus"
+            }
+          },
+          {
+            "disease": {
+              "name": "urogenital neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "refractory malignant neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "colorectal neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "liver disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "uterine neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell squamous lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "pancreatic carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "upper aerodigestive tract neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "head and neck squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "esophageal squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "brain cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "head and neck malignant neoplasia"
+            }
+          },
+          {
+            "disease": {
+              "name": "metastatic neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Renal insufficiency"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "endometriosis"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

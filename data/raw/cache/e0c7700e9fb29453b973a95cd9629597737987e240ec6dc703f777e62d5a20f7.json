@@ -1,0 +1,94 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL2110732",
+      "name": "DACOMITINIB ANHYDROUS",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "head and neck squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "oral cavity cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "glioblastoma multiforme"
+            }
+          },
+          {
+            "disease": {
+              "name": "liver disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "upper aerodigestive tract neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "brain cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "penile neoplasm"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

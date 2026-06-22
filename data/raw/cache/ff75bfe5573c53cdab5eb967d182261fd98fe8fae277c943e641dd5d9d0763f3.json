@@ -1,0 +1,24 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1256696",
+      "name": "CARBETAPENTANE CITRATE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Sigma opioid receptor agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "sinusitis"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "molecules": [
+    {
+      "atc_classifications": [],
+      "availability_type": null,
+      "biotherapeutic": null,
+      "black_box_warning": 0,
+      "chemical_probe": 0,
+      "chirality": 2,
+      "cross_references": [],
+      "dosed_ingredient": false,
+      "first_approval": null,
+      "first_in_class": 0,
+      "helm_notation": null,
+      "inorganic_flag": 0,
+      "max_phase": "2.0",
+      "molecule_chembl_id": "CHEMBL49642",
+      "molecule_hierarchy": {
+        "active_chembl_id": "CHEMBL49642",
+        "molecule_chembl_id": "CHEMBL49642",
+        "parent_chembl_id": "CHEMBL49642"
+      },
+      "molecule_properties": {
+        "alogp": "4.56",
+        "aromatic_rings": 4,
+        "full_molformula": "C22H16ClN3O2",
+        "full_mwt": "389.84",
+        "hba": 4,
+        "hbd": 1,
+        "heavy_atoms": 28,
+        "mw_freebase": "389.84",
+        "np_likeness_score": "-1.64",
+        "num_ro5_violations": 0,
+        "psa": "63.99",
+        "qed_weighted": "0.40",
+        "ro3_pass": "N",
+        "rtb": 5
+      },
+      "molecule_structures": {
+        "canonical_smiles": "O=C(Nc1ccncc1)C(=O)c1cn(Cc2ccc(Cl)cc2)c2ccccc12",
+        "molfile": "\n     RDKit          2D\n\n 28 31  0  0  0  0  0  0  0  0999 V2000\n    2.0333   -2.4958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.0333   -3.8333    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5500   -3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.7792   -1.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8167   -2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9708   -1.5417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8167   -3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7167   -0.7542    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.7792   -4.6167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4208   -2.1542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3292   -1.1000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7042   -0.2417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0917   -0.5833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3292   -5.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4333   -6.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.9875   -7.0708    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    3.5333   -2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3458    0.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.6417   -1.1958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.0750   -6.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1375   -5.0583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6292   -6.6292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6917   -5.6708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5333   -3.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.1500    0.3708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.4500   -1.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.2458   -2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.2458   -3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  3  1  0\n  3  1  2  0\n  4  1  1  0\n  5  1  1  0\n  6  4  1  0\n  7  5  1  0\n  8  6  1  0\n  9  2  1  0\n 10  6  2  0\n 11  4  2  0\n 12 26  2  0\n 13  8  1  0\n 14  9  1  0\n 15 23  1  0\n 16 15  1  0\n 17  5  2  0\n 18 13  1  0\n 19 13  2  0\n 20 14  2  0\n 21 14  1  0\n 22 20  1  0\n 23 21  2  0\n 24  7  2  0\n 25 18  2  0\n 26 19  1  0\n 27 17  1  0\n 28 24  1  0\n  7  2  1  0\n 28 27  2  0\n 25 12  1  0\n 15 22  2  0\nM  END\n> <chembl_id>\nCHEMBL49642\n\n> <chembl_pref_name>\nINDIBULIN",
+        "standard_inchi": "InChI=1S/C22H16ClN3O2/c23-16-7-5-15(6-8-16)13-26-14-19(18-3-1-2-4-20(18)26)21(27)22(28)25-17-9-11-24-12-10-17/h1-12,14H,13H2,(H,24,25,28)",
+        "standard_inchi_key": "SOLIIYNRSAWTSQ-UHFFFAOYSA-N"
+      },
+      "molecule_type": "Small molecule",
+      "natural_product": 1,
+      "oral": false,
+      "orphan": 0,
+      "parenteral": false,
+      "polymer_flag": 0,
+      "pref_name": "INDIBULIN",
+      "prodrug": 0,
+      "similarity": "100",
+      "structure_type": "MOL",
+      "therapeutic_flag": false,
+      "topical": false,
+      "usan_stem": "-bulin",
+      "usan_stem_definition": "antineoplastics (mitotic inhibitors; tubulin binders)",
+      "usan_substem": "-bulin",
+      "usan_year": 2007,
+      "veterinary": 0,
+      "withdrawn_flag": false
+    }
+  ],
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

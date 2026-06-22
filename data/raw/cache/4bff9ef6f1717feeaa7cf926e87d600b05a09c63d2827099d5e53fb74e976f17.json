@@ -1,0 +1,124 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL90555",
+      "name": "VINCRISTINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "acute lymphoblastic leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "Ewing sarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "medulloblastoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "choroid plexus neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "unspecified peripheral T-cell lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "HIV-1 infection"
+            }
+          },
+          {
+            "disease": {
+              "name": "diffuse large B-cell lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoblastic lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "adrenal cortex carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Central Nervous System Neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "neuroblastoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "follicular lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "chronic lymphocytic leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "rhabdomyosarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Mantle cell lymphoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

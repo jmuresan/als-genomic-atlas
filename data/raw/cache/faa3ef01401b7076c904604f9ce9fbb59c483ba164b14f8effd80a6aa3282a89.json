@@ -1,0 +1,77 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL4298101",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4298101",
+    "molecule_chembl_id": "CHEMBL4298101",
+    "parent_chembl_id": "CHEMBL4298101"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Ladiratuzumab vedotin",
+      "syn_type": "INN",
+      "synonyms": "LADIRATUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Ladiratuzumab vedotin",
+      "syn_type": "OTHER",
+      "synonyms": "LADIRATUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Ladiratuzumab vedotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "LADIRATUZUMAB VEDOTINA"
+    },
+    {
+      "molecule_synonym": "Ladiratuzumab vedotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "LADIRATUZUMAB VEDOTINE"
+    },
+    {
+      "molecule_synonym": "Sgn-liv1a",
+      "syn_type": "OTHER",
+      "synonyms": "SGN-LIV1A"
+    },
+    {
+      "molecule_synonym": "SGN-LIV1A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SGN-LIV1A"
+    },
+    {
+      "molecule_synonym": "SGNLIV1A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SGNLIV1A"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "LADIRATUZUMAB VEDOTIN",
+  "prodrug": 0,
+  "structure_type": "NONE",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-dotin; -mab; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-dotin; -mab (-umab); -mab (-zumab)",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

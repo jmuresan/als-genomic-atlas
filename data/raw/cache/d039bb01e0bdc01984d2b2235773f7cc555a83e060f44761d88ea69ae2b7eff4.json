@@ -1,0 +1,82 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL2105643",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL67",
+    "molecule_chembl_id": "CHEMBL2105643",
+    "parent_chembl_id": "CHEMBL1206232"
+  },
+  "molecule_properties": {
+    "alogp": "3.36",
+    "aromatic_rings": 2,
+    "full_molformula": "C22H32NO11P",
+    "full_mwt": "517.47",
+    "hba": 6,
+    "hbd": 2,
+    "heavy_atoms": 27,
+    "mw_freebase": "396.33",
+    "np_likeness_score": "0.65",
+    "num_ro5_violations": 0,
+    "psa": "103.68",
+    "qed_weighted": "0.52",
+    "ro3_pass": "N",
+    "rtb": 8
+  },
+  "molecule_structures": {
+    "canonical_smiles": "COc1ccc(/C=C\\c2cc(OC)c(OC)c(OC)c2)cc1OP(=O)(O)O.NC(CO)(CO)CO",
+    "molfile": "\n     RDKit          2D\n\n 35 35  0  0  0  0  0  0  0  0999 V2000\n    8.4583   -2.9667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.1728   -2.5542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.7439   -2.5542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    9.1728   -1.7292    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    9.8873   -2.9667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.6017   -2.5542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    8.3759   -2.3406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.1624   -1.5438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3244   -0.7958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3244   -1.6208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0388   -2.0333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7533   -1.6208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7533   -0.7958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0388   -0.3833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0388    0.4417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7533    0.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4678    0.4417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4678   -0.3833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.1822   -0.7958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.8967   -0.3833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.8967    0.4417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.1822    0.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.6112    0.8542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    8.3256    0.4417    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6099   -2.0333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8955   -1.6208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0388   -2.8583    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3243   -3.2708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4678   -2.0333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4678   -2.8583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.6112   -0.7958    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    7.6112   -1.6208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.0401    0.8541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    8.3256   -0.3833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    8.1121    1.2386    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  1  3  1  0\n  2  4  1  0\n  2  5  1  0\n  5  6  1  0\n  2  7  1  0\n  7  8  1  0\n 10 25  1  0\n 25 26  1  0\n  9 10  2  0\n 11 27  1  0\n 10 11  1  0\n 27 28  1  0\n 11 12  2  0\n 12 29  1  0\n 12 13  1  0\n 29 30  1  0\n 13 14  2  0\n 20 31  1  0\n 14  9  1  0\n 31 32  1  0\n 14 15  1  0\n 24 33  1  0\n 15 16  2  0\n 24 34  1  0\n 16 17  1  0\n 24 35  2  0\n 17 18  1  0\n 18 19  2  0\n 19 20  1  0\n 20 21  2  0\n 21 22  1  0\n 22 17  2  0\n 21 23  1  0\n 23 24  1  0\nM  END\n> <chembl_id>\nCHEMBL2105643\n\n> <chembl_pref_name>\nFOSBRETABULIN TROMETHAMINE",
+    "standard_inchi": "InChI=1S/C18H21O8P.C4H11NO3/c1-22-14-8-7-12(9-15(14)26-27(19,20)21)5-6-13-10-16(23-2)18(25-4)17(11-13)24-3;5-4(1-6,2-7)3-8/h5-11H,1-4H3,(H2,19,20,21);6-8H,1-3,5H2/b6-5-;",
+    "standard_inchi_key": "FIDMEHCRMLKKPZ-YSMBQZINSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Fosbretabulin tromethamine",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "FOSBRETABULIN TROMETHAMINE"
+    },
+    {
+      "molecule_synonym": "Fosbretabulin tromethamine",
+      "syn_type": "OTHER",
+      "synonyms": "FOSBRETABULIN TROMETHAMINE"
+    },
+    {
+      "molecule_synonym": "Fosbretabulin tromethamine",
+      "syn_type": "USAN",
+      "synonyms": "FOSBRETABULIN TROMETHAMINE"
+    },
+    {
+      "molecule_synonym": "Zybrestat",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "ZYBRESTAT"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "FOSBRETABULIN TROMETHAMINE",
+  "prodrug": 1,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-bulin; fos-",
+  "usan_stem_definition": "antineoplastics (mitotic inhibitors; tubulin binders); phosphoro-derivatives",
+  "usan_substem": "-bulin; fos-",
+  "usan_year": 2008,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

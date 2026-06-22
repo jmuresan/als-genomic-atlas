@@ -1,0 +1,43 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL3545396",
+      "name": "BMS-690514",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Vascular endothelial growth factor receptor inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Chronic pain"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29143,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYTFTNYGMNWVRQAPGQGLKWMGWINTYTGEPTYADAFKGRVTMTRDTSISTAYMELSRLRSDDTAVYYCARDYGDYGMDYWGQGTTVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 29144,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIVMTQSPDSLAVSLGERATINCRASKSVSTSGYSFMHWYQQKPGQPPKLLIYLASNLESGVPDRFSGSGSGTDFTLTISSLQAEDVAVYYCQHSREVPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      }
+    ],
+    "description": "Vorsetuzumab mafodotin (humanized mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2108672"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL2108672",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2108672",
+    "molecule_chembl_id": "CHEMBL2108672",
+    "parent_chembl_id": "CHEMBL2108672"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "SGN-75",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SGN-75"
+    },
+    {
+      "molecule_synonym": "Sgn-75",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "SGN-75"
+    },
+    {
+      "molecule_synonym": "Vorsetuzumab mafodotin",
+      "syn_type": "INN",
+      "synonyms": "VORSETUZUMAB MAFODOTIN"
+    },
+    {
+      "molecule_synonym": "Vorsetuzumab mafodotin",
+      "syn_type": "OTHER",
+      "synonyms": "VORSETUZUMAB MAFODOTIN"
+    },
+    {
+      "molecule_synonym": "Vorsetuzumab mafodotin",
+      "syn_type": "USAN",
+      "synonyms": "VORSETUZUMAB MAFODOTIN"
+    },
+    {
+      "molecule_synonym": "Vorsetuzumab mafodotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "VORSETUZUMAB MAFODOTINA"
+    },
+    {
+      "molecule_synonym": "Vorsetuzumab mafodotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "VORSETUZUMAB MAFODOTINE"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "VORSETUZUMAB MAFODOTIN",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-dotin; -mab; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-dotin; -mab (-umab); -mab (-zumab)",
+  "usan_year": 2012,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

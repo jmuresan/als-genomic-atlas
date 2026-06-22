@@ -1,0 +1,107 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL545315",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL31965",
+    "molecule_chembl_id": "CHEMBL545315",
+    "parent_chembl_id": "CHEMBL31965"
+  },
+  "molecule_properties": {
+    "alogp": "4.39",
+    "aromatic_rings": 3,
+    "full_molformula": "C24H27Cl3FN5O3",
+    "full_mwt": "558.87",
+    "hba": 7,
+    "hbd": 2,
+    "heavy_atoms": 34,
+    "mw_freebase": "485.95",
+    "np_likeness_score": "-1.82",
+    "num_ro5_violations": 0,
+    "psa": "88.61",
+    "qed_weighted": "0.34",
+    "ro3_pass": "N",
+    "rtb": 9
+  },
+  "molecule_structures": {
+    "canonical_smiles": "C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1.Cl.Cl",
+    "molfile": "\n     RDKit          2D\n\n 36 37  0  0  0  0  0  0  0  0999 V2000\n    9.0059   -0.3837    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.7486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2964    1.4973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.2964    1.4973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000   -0.7486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.6111    0.7486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5929    0.7486    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.2964   -1.4973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2995    2.9981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.9091    1.5019    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.6111   -0.7486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.9067    3.0027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.9072    5.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2964   -1.4973    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6056    5.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.5006   -6.0101    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5929   -0.7486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6003    3.7467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.2037    5.2377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.2049    3.7560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8664    3.6008    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.0986   -7.5105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.1985    3.7377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.2030    4.9560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.9114    7.1922    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    3.8969    2.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.2450    5.8341    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.9091   -1.5019    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.2025   -5.2568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.2049   -3.7560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.5005   -7.5101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.7999   -5.2603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.7994   -8.2603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.0988   -6.0105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.9067   -3.0027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.5059   -0.3837    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n  2  3  2  0\n  2  4  1  0\n  2  5  1  0\n  4  6  2  0\n  3  7  1  0\n  5  8  1  0\n  3  9  1  0\n  6 10  1  0\n  6 11  1  0\n  8 11  2  0\n 10 12  1  0\n  5 14  2  0\n 13 15  1  0\n  7 17  2  0\n 14 17  1  0\n  9 18  1  0\n 15 18  2  0\n 13 19  2  0\n 12 20  1  0\n 12 21  2  0\n 19 23  1  0\n 20 24  2  0\n 13 25  1  0\n 18 26  1  0\n 23 26  2  0\n 19 27  1  0\n 11 28  1  0\n 16 29  1  0\n 29 30  1  0\n 16 31  1  0\n 16 32  1  0\n 22 33  1  0\n 31 33  1  0\n 22 34  1  0\n 32 34  1  0\n 28 35  1  0\n 30 35  1  0\nM  END\n> <chembl_id>\nCHEMBL545315\n\n> <chembl_pref_name>\nCANERTINIB DIHYDROCHLORIDE",
+    "standard_inchi": "InChI=1S/C24H25ClFN5O3.2ClH/c1-2-23(32)30-21-13-17-20(14-22(21)34-9-3-6-31-7-10-33-11-8-31)27-15-28-24(17)29-16-4-5-19(26)18(25)12-16;;/h2,4-5,12-15H,1,3,6-11H2,(H,30,32)(H,27,28,29);2*1H",
+    "standard_inchi_key": "JZZFDCXSFTVOJY-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Canertinib dihydrochloride",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "CANERTINIB DIHYDROCHLORIDE"
+    },
+    {
+      "molecule_synonym": "Canertinib dihydrochloride",
+      "syn_type": "OTHER",
+      "synonyms": "CANERTINIB DIHYDROCHLORIDE"
+    },
+    {
+      "molecule_synonym": "Canertinib dihydrochloride",
+      "syn_type": "USAN",
+      "synonyms": "CANERTINIB DIHYDROCHLORIDE"
+    },
+    {
+      "molecule_synonym": "Canertinib hydrochloride",
+      "syn_type": "OTHER",
+      "synonyms": "CANERTINIB HYDROCHLORIDE"
+    },
+    {
+      "molecule_synonym": "CI-1033",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CI-1033"
+    },
+    {
+      "molecule_synonym": "PD-0183805",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PD-0183805"
+    },
+    {
+      "molecule_synonym": "PD-0183805-002B",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PD-0183805-002B"
+    },
+    {
+      "molecule_synonym": "PD-183805",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PD-183805"
+    },
+    {
+      "molecule_synonym": "SN-26606",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SN-26606"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "CANERTINIB DIHYDROCHLORIDE",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-tinib",
+  "usan_stem_definition": "tyrosine kinase inhibitors: epidermal growth factor receptor (EGFR) inhibitors",
+  "usan_substem": "-tinib (-ertinib)",
+  "usan_year": 2002,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

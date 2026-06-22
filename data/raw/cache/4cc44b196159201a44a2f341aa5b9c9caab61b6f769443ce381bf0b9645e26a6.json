@@ -1,0 +1,99 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 28182,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLVQSGAEVKKPGETVKISCKASDYTFTYYGMNWVKQAPGQGLKWMGWIDTTTGEPTYAQKFQGRIAFSLETSASTAYLQIKSLKSEDTATYFCARRGPYNWYFDVWGQGTTVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 28181,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIVMTQSPLSVPVTPGEPVSISCRSSKSLLHSNGNTYLYWFLQRPGQSPQLLIYRMSNLVSGVPDRFSGSGSGTAFTLRISRVEAEDVGVYYCLQHLEYPFTFGPGTKLELKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      }
+    ],
+    "description": "Cantuzumab Ravtansine (humanized mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL1742998"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL1742998",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1742998",
+    "molecule_chembl_id": "CHEMBL1742998",
+    "parent_chembl_id": "CHEMBL1742998"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Cantuzumab ravtansina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "CANTUZUMAB RAVTANSINA"
+    },
+    {
+      "molecule_synonym": "Cantuzumab ravtansine",
+      "syn_type": "INN",
+      "synonyms": "CANTUZUMAB RAVTANSINE"
+    },
+    {
+      "molecule_synonym": "Cantuzumab ravtansine",
+      "syn_type": "OTHER",
+      "synonyms": "CANTUZUMAB RAVTANSINE"
+    },
+    {
+      "molecule_synonym": "Cantuzumab ravtansine",
+      "syn_type": "USAN",
+      "synonyms": "CANTUZUMAB RAVTANSINE"
+    },
+    {
+      "molecule_synonym": "HUC242-DM4",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HUC242-DM4"
+    },
+    {
+      "molecule_synonym": "IMGN-242",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "IMGN-242"
+    },
+    {
+      "molecule_synonym": "IMGN242",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "IMGN242"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "CANTUZUMAB RAVTANSINE",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab; -mab; -tansine",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized; maytansinoid derivatives",
+  "usan_substem": "-mab (-umab); -mab (-zumab); -tansine",
+  "usan_year": 2010,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

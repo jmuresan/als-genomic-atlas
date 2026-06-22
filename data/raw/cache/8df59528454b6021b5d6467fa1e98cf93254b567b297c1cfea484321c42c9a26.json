@@ -1,0 +1,107 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29397,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSSMSVSVGDRVTITCHSSQDINSNIGWLQQKPGKSFKGLIYHGTNLDDGVPSRFSGSGSGTDYTLTISSLQPEDFATYYCVQYAQFPWTFGGGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 28570,
+        "component_type": null,
+        "description": "Disulfide bridges location",
+        "organism": null,
+        "sequence": "22-96 | 22''-96'' | 23'-88' | 23'''-88''' | 134'-194' | 134'''-194''' | 143-199 | 143''-199'' | 214'-219* | 214'''-219''* | 225-225''* | 228-228''* | 260-320 | 260''-320'' | 366-424 | 366''-424'' | * Partly reduced",
+        "tax_id": null
+      },
+      {
+        "component_id": 28572,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLQESGPGLVKPSQTLSLTCTVSGYSISSDFAWNWIRQPPGKGLEWMGYISYSGNTRYQPSLKSRITISRDTSKNQFFLKLNSVTAADTATYYCVTAGRGFPYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3707277"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL3707277",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3707277",
+    "molecule_chembl_id": "CHEMBL3707277",
+    "parent_chembl_id": "CHEMBL3707277"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Abt-414",
+      "syn_type": "OTHER",
+      "synonyms": "ABT-414"
+    },
+    {
+      "molecule_synonym": "ABT-414",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ABT-414"
+    },
+    {
+      "molecule_synonym": "Depatuxizumab mafodotin",
+      "syn_type": "INN",
+      "synonyms": "DEPATUXIZUMAB MAFODOTIN"
+    },
+    {
+      "molecule_synonym": "Depatuxizumab mafodotin",
+      "syn_type": "OTHER",
+      "synonyms": "DEPATUXIZUMAB MAFODOTIN"
+    },
+    {
+      "molecule_synonym": "Depatuxizumab mafodotin",
+      "syn_type": "USAN",
+      "synonyms": "DEPATUXIZUMAB MAFODOTIN"
+    },
+    {
+      "molecule_synonym": "Depatuxizumab mafodotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "DEPATUXIZUMAB MAFODOTINA"
+    },
+    {
+      "molecule_synonym": "Depatuxizumab mafodotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "DEPATUXIZUMAB MAFODOTINE"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "DEPATUXIZUMAB MAFODOTIN",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-dotin; -mab; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-dotin; -mab (-umab); -mab (-zumab)",
+  "usan_year": 2015,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

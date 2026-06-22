@@ -1,0 +1,139 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL501867",
+      "name": "VINCRISTINE SULFATE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "acute lymphoblastic leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "neurofibromatosis type 1"
+            }
+          },
+          {
+            "disease": {
+              "name": "Central Nervous System Neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "hemophagocytic syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "retinoblastoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "diffuse large B-cell lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm of mature B-cells"
+            }
+          },
+          {
+            "disease": {
+              "name": "leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "follicular lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cervical cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "kidney cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute myeloid leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "Mantle cell lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "kidney Wilms tumor"
+            }
+          },
+          {
+            "disease": {
+              "name": "melanoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "brain neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "rhabdomyosarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "unspecified peripheral T-cell lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "sarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neuroblastoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

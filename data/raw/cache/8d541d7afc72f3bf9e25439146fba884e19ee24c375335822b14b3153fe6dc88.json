@@ -1,0 +1,122 @@
+{
+  "atc_classifications": [
+    "N07XX22"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 28877,
+        "component_type": null,
+        "description": "Legend",
+        "organism": null,
+        "sequence": "X:2'-O-(2-methoxyethyl)$dX:2'-deoxy$mX:5-methyl$-bond(SMILES):CP(C)(O)=O$=bond(SMILES):CP(C)(S)=O",
+        "tax_id": null
+      },
+      {
+        "component_id": 28875,
+        "component_type": "Nucleic Acid",
+        "description": "Sequence",
+        "organism": null,
+        "sequence": "(3'-5)-mC=A-G=G-A=dT=dA=dmC=dA=dT=dT=dT=dmC=dT=dA=mC-A=G-mC=mU",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3833346"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/qalsody",
+      "xref_name": "qalsody",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2023,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL3833346",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3833346",
+    "molecule_chembl_id": "CHEMBL3833346",
+    "parent_chembl_id": "CHEMBL3833346"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "BIIB-067",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BIIB-067"
+    },
+    {
+      "molecule_synonym": "BIIB067",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BIIB067"
+    },
+    {
+      "molecule_synonym": "ISIS-SOD1Rx",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ISIS-SOD1Rx"
+    },
+    {
+      "molecule_synonym": "Qalsody",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "QALSODY"
+    },
+    {
+      "molecule_synonym": "Tofersen",
+      "syn_type": "ATC",
+      "synonyms": "TOFERSEN"
+    },
+    {
+      "molecule_synonym": "Tofersen",
+      "syn_type": "EMA",
+      "synonyms": "TOFERSEN"
+    },
+    {
+      "molecule_synonym": "Tofersen",
+      "syn_type": "FDA",
+      "synonyms": "TOFERSEN"
+    },
+    {
+      "molecule_synonym": "Tofersen",
+      "syn_type": "INN",
+      "synonyms": "TOFERSEN"
+    },
+    {
+      "molecule_synonym": "Tofersen",
+      "syn_type": "OTHER",
+      "synonyms": "TOFERSEN"
+    },
+    {
+      "molecule_synonym": "Tofersen",
+      "syn_type": "USAN",
+      "synonyms": "TOFERSEN"
+    }
+  ],
+  "molecule_type": "Oligonucleotide",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "TOFERSEN",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-rsen",
+  "usan_stem_definition": "antisense oligonucleotides",
+  "usan_substem": "-rsen",
+  "usan_year": 2017,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

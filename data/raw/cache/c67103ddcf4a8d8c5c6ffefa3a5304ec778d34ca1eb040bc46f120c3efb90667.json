@@ -1,0 +1,117 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1256818",
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Sigma opioid receptor agonist"
+          },
+          {
+            "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "allergic disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "rheumatoid arthritis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Back pain"
+            }
+          },
+          {
+            "disease": {
+              "name": "sinusitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "diabetic macular edema"
+            }
+          },
+          {
+            "disease": {
+              "name": "depressive disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "migraine disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "Nasal congestion"
+            }
+          },
+          {
+            "disease": {
+              "name": "Cough"
+            }
+          },
+          {
+            "disease": {
+              "name": "major depressive disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "Oral ulcer"
+            }
+          },
+          {
+            "disease": {
+              "name": "pharyngitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Fever"
+            }
+          },
+          {
+            "disease": {
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Headache"
+            }
+          },
+          {
+            "disease": {
+              "name": "seasonal allergic rhinitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "common cold"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

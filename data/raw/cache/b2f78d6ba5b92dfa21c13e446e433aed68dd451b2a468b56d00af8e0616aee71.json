@@ -1,0 +1,107 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL4297636",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297636",
+    "molecule_chembl_id": "CHEMBL4297636",
+    "parent_chembl_id": "CHEMBL4297636"
+  },
+  "molecule_properties": {
+    "alogp": "4.51",
+    "aromatic_rings": 0,
+    "full_molformula": "C31H45N3O7",
+    "full_mwt": "571.72",
+    "hba": 7,
+    "hbd": 3,
+    "heavy_atoms": 41,
+    "mw_freebase": "571.72",
+    "np_likeness_score": "1.71",
+    "num_ro5_violations": 1,
+    "psa": "146.05",
+    "qed_weighted": "0.12",
+    "ro3_pass": "N",
+    "rtb": 14
+  },
+  "molecule_structures": {
+    "canonical_smiles": "C/C=C\\C[C@@H](C/C=C\\NC(=O)[C@@H](NC(=O)/C=C\\C=C/C(C)=C/[C@H](C)[C@@H]1CC=C(OC)C(=O)O1)C(C)(C)C)OC(N)=O",
+    "molfile": "\n     RDKit          2D\n\n 41 41  0  0  1  0  0  0  0  0999 V2000\n    3.1512   -3.0820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5076   -2.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.7659   -2.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1223   -3.0820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.3807   -3.0820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.2630   -2.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9067   -3.0820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5503   -2.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5503   -1.9695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1939   -3.0820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1939   -3.8236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8308   -4.1945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.4771   -3.8236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.4771   -3.0820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8308   -2.7111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.1206   -2.7111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.1206   -4.1945    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.7643   -3.8236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.2630   -1.9695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1512   -3.8236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.7949   -2.7111    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    4.4385   -3.0820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.4385   -3.8236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.0821   -4.1945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.4385   -4.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.7949   -4.1945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.0821   -2.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.0821   -1.9695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.7258   -3.0820    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    6.3653   -2.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.1111   -2.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.7505   -3.0820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.3942   -2.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.0379   -3.0820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.6814   -2.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.4231   -2.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.0668   -3.0820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.3942   -1.9695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    9.0379   -1.5986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.0379   -0.8528    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    9.6814   -1.9695    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  3  4  1  0\n  4  5  2  0\n  5  6  1  0\n  6  7  2  0\n  7  8  1  0\n  8  9  1  1\n  8 10  1  0\n 10 11  1  0\n 11 12  1  0\n 12 13  2  0\n 13 14  1  0\n 14 15  1  0\n 10 15  1  6\n 14 16  2  0\n 13 17  1  0\n 17 18  1  0\n  6 19  1  0\n  1 20  2  0\n  1 21  1  0\n 21 22  1  0\n 22 23  1  6\n 23 24  1  0\n 23 25  1  0\n 23 26  1  0\n 22 27  1  0\n 27 28  2  0\n 27 29  1  0\n 29 30  1  0\n 30 31  2  0\n 31 32  1  0\n 32 33  1  0\n 33 34  1  0\n 34 35  1  0\n 35 36  2  0\n 36 37  1  0\n 33 38  1  1\n 38 39  1  0\n 39 40  2  0\n 39 41  1  0\nM  END\n> <chembl_id>\nCHEMBL4297636\n\n> <chembl_pref_name>\nPLOCABULIN",
+    "standard_inchi": "InChI=1S/C31H45N3O7/c1-8-9-14-23(40-30(32)38)15-12-19-33-28(36)27(31(4,5)6)34-26(35)16-11-10-13-21(2)20-22(3)24-17-18-25(39-7)29(37)41-24/h8-13,16,18-20,22-24,27H,14-15,17H2,1-7H3,(H2,32,38)(H,33,36)(H,34,35)/b9-8-,13-10-,16-11-,19-12-,21-20+/t22-,23-,24-,27+/m0/s1",
+    "standard_inchi_key": "IEKGSKLKBICCHQ-BDOJOPHNSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "J3.348.355D",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "J3.348.355D"
+    },
+    {
+      "molecule_synonym": "Plocabulin",
+      "syn_type": "INN",
+      "synonyms": "PLOCABULIN"
+    },
+    {
+      "molecule_synonym": "Plocabulin",
+      "syn_type": "OTHER",
+      "synonyms": "PLOCABULIN"
+    },
+    {
+      "molecule_synonym": "Plocabulina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "PLOCABULINA"
+    },
+    {
+      "molecule_synonym": "Plocabuline",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "PLOCABULINE"
+    },
+    {
+      "molecule_synonym": "Pm 060184",
+      "syn_type": "OTHER",
+      "synonyms": "PM 060184"
+    },
+    {
+      "molecule_synonym": "PM-060184",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PM-060184"
+    },
+    {
+      "molecule_synonym": "Pm060184",
+      "syn_type": "OTHER",
+      "synonyms": "PM060184"
+    },
+    {
+      "molecule_synonym": "PM060184",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PM060184"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "PLOCABULIN",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-bulin",
+  "usan_stem_definition": "antineoplastics (mitotic inhibitors; tubulin binders)",
+  "usan_substem": "-bulin",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

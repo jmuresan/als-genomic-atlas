@@ -1,0 +1,82 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL4298045",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4298045",
+    "molecule_chembl_id": "CHEMBL4298045",
+    "parent_chembl_id": "CHEMBL4298045"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Indusatumab vedotin",
+      "syn_type": "INN",
+      "synonyms": "INDUSATUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Indusatumab vedotin",
+      "syn_type": "OTHER",
+      "synonyms": "INDUSATUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Indusatumab vedotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "INDUSATUMAB VEDOTINA"
+    },
+    {
+      "molecule_synonym": "Indusatumab vedotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "INDUSATUMAB VEDOTINE"
+    },
+    {
+      "molecule_synonym": "MLN-0264",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "MLN-0264"
+    },
+    {
+      "molecule_synonym": "Mln0264",
+      "syn_type": "OTHER",
+      "synonyms": "MLN0264"
+    },
+    {
+      "molecule_synonym": "MLN0264",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "MLN0264"
+    },
+    {
+      "molecule_synonym": "TAK-264",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TAK-264"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "INDUSATUMAB VEDOTIN",
+  "prodrug": 0,
+  "structure_type": "NONE",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-dotin; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: fully human",
+  "usan_substem": "-dotin; -mab (-umab)",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,109 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 28532,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSSLSASVGDRVTITCKASDLIHNWLAWYQQKPGKAPKLLIYGATSLETGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQYWTTPFTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 28531,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGYSITNDYAWNWVRQAPGKGLEWVGYISYSGYTTYNPSLKSRFTISRDTSKNTLYLQMNSLRAEDTAVYYCARWTSGLDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSREEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3545372"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL3545372",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3545372",
+    "molecule_chembl_id": "CHEMBL3545372",
+    "parent_chembl_id": "CHEMBL3545372"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Anti-MUC16 ADC",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "Anti-MUC16 ADC"
+    },
+    {
+      "molecule_synonym": "DMUC-5754A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "DMUC-5754A"
+    },
+    {
+      "molecule_synonym": "DMUC5754A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "DMUC5754A"
+    },
+    {
+      "molecule_synonym": "RG-7458",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RG-7458"
+    },
+    {
+      "molecule_synonym": "Sofituzumab vedotin",
+      "syn_type": "INN",
+      "synonyms": "SOFITUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Sofituzumab vedotin",
+      "syn_type": "OTHER",
+      "synonyms": "SOFITUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Sofituzumab vedotin",
+      "syn_type": "USAN",
+      "synonyms": "SOFITUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Sofituzumab vedotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "SOFITUZUMAB VEDOTINA"
+    },
+    {
+      "molecule_synonym": "Sofituzumab vedotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "SOFITUZUMAB VEDOTINE"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "SOFITUZUMAB VEDOTIN",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-dotin; -mab; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-dotin; -mab (-umab); -mab (-zumab)",
+  "usan_year": 2014,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

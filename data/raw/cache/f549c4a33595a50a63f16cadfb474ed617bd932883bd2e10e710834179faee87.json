@@ -1,0 +1,34 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL4297441",
+      "name": "PACLITAXEL DOCOSAHEXAENOIC ACID",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin stabiliser"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "hepatocellular carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "metastatic melanoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL49642",
+      "name": "INDIBULIN",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

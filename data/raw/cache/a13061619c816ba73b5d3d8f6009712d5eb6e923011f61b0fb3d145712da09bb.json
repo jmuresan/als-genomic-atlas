@@ -1,0 +1,97 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL1206232",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL67",
+    "molecule_chembl_id": "CHEMBL1206232",
+    "parent_chembl_id": "CHEMBL1206232"
+  },
+  "molecule_properties": {
+    "alogp": "3.36",
+    "aromatic_rings": 2,
+    "full_molformula": "C18H21O8P",
+    "full_mwt": "396.33",
+    "hba": 6,
+    "hbd": 2,
+    "heavy_atoms": 27,
+    "mw_freebase": "396.33",
+    "np_likeness_score": "0.65",
+    "num_ro5_violations": 0,
+    "psa": "103.68",
+    "qed_weighted": "0.52",
+    "ro3_pass": "N",
+    "rtb": 8
+  },
+  "molecule_structures": {
+    "canonical_smiles": "COc1ccc(/C=C\\c2cc(OC)c(OC)c(OC)c2)cc1OP(=O)(O)O",
+    "molfile": "\n     RDKit          2D\n\n 27 28  0  0  0  0  0  0  0  0999 V2000\n    3.1542   -6.5667    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0\n    4.5833   -6.5667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.4417   -4.0917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.8667   -6.9792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    6.7250   -4.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.1542   -4.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.4417   -6.5667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.5833   -5.7417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.7250   -6.9792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.4417   -5.7417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4375   -6.1542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.2958   -6.9792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.7250   -5.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.1542   -5.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0125   -6.5667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7417   -7.2833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5667   -5.8542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.2958   -5.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.4417   -3.2667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    8.8708   -4.0917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0125   -4.0917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0125   -5.7417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.8667   -5.3292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    6.7250   -2.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.2958   -4.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.5833   -4.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.8667   -4.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  4  1  0\n  3  5  1  0\n  4  1  1  0\n  5 13  2  0\n  6 14  1  0\n  7  9  2  0\n  8  2  1  0\n  9 15  1  0\n 10  7  1  0\n 11  1  2  0\n 12  2  2  0\n 13 10  1  0\n 14 10  2  0\n 15 12  1  0\n 16  1  1  0\n 17  1  1  0\n 18  8  2  0\n 19  3  1  0\n 20  6  1  0\n 21  5  1  0\n 22 15  2  0\n 23  8  1  0\n 24 19  1  0\n 25 21  1  0\n 26 20  1  0\n 27 23  1  0\n 22 18  1  0\n  6  3  2  0\nM  END\n> <chembl_id>\nCHEMBL1206232\n\n> <chembl_pref_name>\nFOSBRETABULIN",
+    "standard_inchi": "InChI=1S/C18H21O8P/c1-22-14-8-7-12(9-15(14)26-27(19,20)21)5-6-13-10-16(23-2)18(25-4)17(11-13)24-3/h5-11H,1-4H3,(H2,19,20,21)/b6-5-",
+    "standard_inchi_key": "WDOGQTQEKVLZIJ-WAYWQWQTSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Combretastatin a-4 phosphate",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "COMBRETASTATIN A-4 PHOSPHATE"
+    },
+    {
+      "molecule_synonym": "Combretastatin a4 phosphate",
+      "syn_type": "OTHER",
+      "synonyms": "COMBRETASTATIN A4 PHOSPHATE"
+    },
+    {
+      "molecule_synonym": "Fosbretabulin",
+      "syn_type": "INN",
+      "synonyms": "FOSBRETABULIN"
+    },
+    {
+      "molecule_synonym": "Fosbretabulin",
+      "syn_type": "OTHER",
+      "synonyms": "FOSBRETABULIN"
+    },
+    {
+      "molecule_synonym": "Fosbretabulina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "FOSBRETABULINA"
+    },
+    {
+      "molecule_synonym": "Fosbretabuline",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "FOSBRETABULINE"
+    },
+    {
+      "molecule_synonym": "Phosbretabulin",
+      "syn_type": "OTHER",
+      "synonyms": "PHOSBRETABULIN"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "FOSBRETABULIN",
+  "prodrug": 1,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-bulin; fos-",
+  "usan_stem_definition": "antineoplastics (mitotic inhibitors; tubulin binders); phosphoro-derivatives",
+  "usan_substem": "-bulin; fos-",
+  "usan_year": 2008,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

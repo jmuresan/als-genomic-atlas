@@ -1,0 +1,98 @@
+{
+  "atc_classifications": [],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [
+    {
+      "xref_id": "neratinib%20maleate",
+      "xref_name": "neratinib maleate",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/nerlynx",
+      "xref_name": "nerlynx",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2017,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL3989921",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL180022",
+    "molecule_chembl_id": "CHEMBL3989921",
+    "parent_chembl_id": "CHEMBL180022"
+  },
+  "molecule_properties": {
+    "alogp": "5.93",
+    "aromatic_rings": 4,
+    "full_molformula": "C34H33ClN6O7",
+    "full_mwt": "673.13",
+    "hba": 8,
+    "hbd": 2,
+    "heavy_atoms": 40,
+    "mw_freebase": "557.05",
+    "np_likeness_score": "-1.65",
+    "num_ro5_violations": 2,
+    "psa": "112.40",
+    "qed_weighted": "0.22",
+    "ro3_pass": "N",
+    "rtb": 11
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)/C=C/CN(C)C.O=C(O)/C=C\\C(=O)O",
+    "molfile": "\n     RDKit          2D\n\n 48 50  0  0  0  0  0  0  0  0999 V2000\n   20.1752  -19.7376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   20.1656  -21.3896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   19.4610  -20.1457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   19.4514  -20.9766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   20.1801  -18.9118    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   20.1607  -22.2154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   20.8894  -20.1505    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   20.8798  -20.9813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   11.7731  -18.5490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.7719  -19.3765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   12.4848  -19.7895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   12.4828  -18.1361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.2010  -18.5449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.2021  -19.3723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.9180  -19.7833    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   14.6334  -19.3680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   14.6283  -18.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.9119  -18.1303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.9071  -17.3053    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   14.6193  -16.8887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.3315  -17.3008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   16.0433  -16.8850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   16.0391  -16.0591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.3172  -15.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   14.6085  -16.0690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   16.7598  -17.2939    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n   16.7506  -15.6416    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   17.4680  -16.0492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   18.1796  -15.6316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   18.8938  -16.0425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   19.6049  -15.6257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   19.5996  -14.7999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   18.8772  -14.3926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   18.1690  -14.8117    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   15.3354  -18.1205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   16.0472  -17.7035    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   11.0583  -18.1370    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   11.0568  -19.7880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   11.0556  -20.6130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.3406  -21.0246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.3442  -18.5502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.6294  -18.1382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.3449  -19.3752    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    8.9153  -18.5513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.2004  -18.1394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.4862  -18.5525    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    6.7715  -18.1406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.4870  -19.3775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  4  1  0\n  3  1  1  0\n  4  3  2  0\n  5  1  2  0\n  6  2  2  0\n  7  1  1  0\n  8  2  1  0\n 23 27  1  0\n 12  9  1  0\n 27 28  1  0\n 17 18  2  0\n 28 29  1  0\n 18 13  1  0\n 29 30  2  0\n 30 31  1  0\n 18 19  1  0\n 31 32  2  0\n 10 11  1  0\n 32 33  1  0\n 19 20  1  0\n 33 34  2  0\n 34 29  1  0\n 13 14  1  0\n 20 21  2  0\n 35 36  3  0\n 17 35  1  0\n 11 14  2  0\n  9 37  1  0\n 21 22  1  0\n 10 38  1  0\n 14 15  1  0\n 38 39  1  0\n 22 23  2  0\n 39 40  1  0\n  9 10  2  0\n 37 41  1  0\n 23 24  1  0\n 41 42  1  0\n 15 16  2  0\n 41 43  2  0\n 24 25  2  0\n 42 44  2  0\n 25 20  1  0\n 44 45  1  0\n 13 12  2  0\n 45 46  1  0\n 22 26  1  0\n 46 47  1  0\n 16 17  1  0\n 46 48  1  0\nM  END\n> <chembl_id>\nCHEMBL3989921\n\n> <chembl_pref_name>\nNERATINIB MALEATE",
+    "standard_inchi": "InChI=1S/C30H29ClN6O3.C4H4O4/c1-4-39-28-16-25-23(15-26(28)36-29(38)9-7-13-37(2)3)30(20(17-32)18-34-25)35-21-10-11-27(24(31)14-21)40-19-22-8-5-6-12-33-22;5-3(6)1-2-4(7)8/h5-12,14-16,18H,4,13,19H2,1-3H3,(H,34,35)(H,36,38);1-2H,(H,5,6)(H,7,8)/b9-7+;2-1-",
+    "standard_inchi_key": "VXZCUHNJXSIJIM-MEBGWEOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Neratinib maleate",
+      "syn_type": "EMA",
+      "synonyms": "NERATINIB MALEATE"
+    },
+    {
+      "molecule_synonym": "Neratinib maleate",
+      "syn_type": "FDA",
+      "synonyms": "NERATINIB MALEATE"
+    },
+    {
+      "molecule_synonym": "Neratinib maleate",
+      "syn_type": "OTHER",
+      "synonyms": "NERATINIB MALEATE"
+    },
+    {
+      "molecule_synonym": "Neratinib maleate anhydrous",
+      "syn_type": "OTHER",
+      "synonyms": "NERATINIB MALEATE ANHYDROUS"
+    },
+    {
+      "molecule_synonym": "Nerlynx",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "NERLYNX"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "NERATINIB MALEATE",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-tinib",
+  "usan_stem_definition": "tyrosine kinase inhibitors",
+  "usan_substem": "-tinib",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,119 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 28189,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DVVMTQSPLSLPVTLGQPASISCRSSQIIIHSDGNTYLEWFQQRPGQSPRRLIYKVSNRFSGVPDRFSGSGSGTDFTLKISRVEAEDVGVYYCFQGSHVPHTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 28190,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLVESGGGVVQPGRSLRLSCAASGFTFSSFGMHWVRQAPGKGLEWVAYISSGSFTIYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARMRKGYAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      }
+    ],
+    "description": "Lorvotuzumab Mertansine (humanized mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL1743037"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL1743037",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1743037",
+    "molecule_chembl_id": "CHEMBL1743037",
+    "parent_chembl_id": "CHEMBL1743037"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Bb-10901",
+      "syn_type": "OTHER",
+      "synonyms": "BB-10901"
+    },
+    {
+      "molecule_synonym": "BB-10901",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BB-10901"
+    },
+    {
+      "molecule_synonym": "HUN-901-DM1",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HUN-901-DM1"
+    },
+    {
+      "molecule_synonym": "HUN-901DM1",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HUN-901DM1"
+    },
+    {
+      "molecule_synonym": "HUN901-DM1",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HUN901-DM1"
+    },
+    {
+      "molecule_synonym": "IMGN-901",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "IMGN-901"
+    },
+    {
+      "molecule_synonym": "IMGN901",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "IMGN901"
+    },
+    {
+      "molecule_synonym": "Lorvotuzumab mertansina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "LORVOTUZUMAB MERTANSINA"
+    },
+    {
+      "molecule_synonym": "Lorvotuzumab mertansine",
+      "syn_type": "INN",
+      "synonyms": "LORVOTUZUMAB MERTANSINE"
+    },
+    {
+      "molecule_synonym": "Lorvotuzumab mertansine",
+      "syn_type": "OTHER",
+      "synonyms": "LORVOTUZUMAB MERTANSINE"
+    },
+    {
+      "molecule_synonym": "Lorvotuzumab mertansine",
+      "syn_type": "USAN",
+      "synonyms": "LORVOTUZUMAB MERTANSINE"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "LORVOTUZUMAB MERTANSINE",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab; -mab; -tansine",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized; maytansinoid derivatives",
+  "usan_substem": "-mab (-umab); -mab (-zumab); -tansine",
+  "usan_year": 2009,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,87 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL2110725",
+      "name": "VINFLUNINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          },
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "head and neck carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "urinary bladder cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "urinary bladder carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "penile neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "urogenital neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "gastric cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "Transitional Cell Carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

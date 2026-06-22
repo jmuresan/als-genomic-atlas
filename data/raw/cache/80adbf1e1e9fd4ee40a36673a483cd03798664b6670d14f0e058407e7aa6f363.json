@@ -1,0 +1,139 @@
+{
+  "atc_classifications": [
+    "N02AD01"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 0,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": 1967,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL100116",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL100116",
+    "molecule_chembl_id": "CHEMBL100116",
+    "parent_chembl_id": "CHEMBL100116"
+  },
+  "molecule_properties": {
+    "alogp": "3.88",
+    "aromatic_rings": 1,
+    "full_molformula": "C19H27NO",
+    "full_mwt": "285.43",
+    "hba": 2,
+    "hbd": 1,
+    "heavy_atoms": 21,
+    "mw_freebase": "285.43",
+    "np_likeness_score": "1.75",
+    "num_ro5_violations": 0,
+    "psa": "23.47",
+    "qed_weighted": "0.83",
+    "ro3_pass": "N",
+    "rtb": 2
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CC(C)=CCN1CCC2(C)c3cc(O)ccc3CC1C2C",
+    "molfile": "\n     RDKit          2D\n\n 21 23  0  0  1  0  0  0  0  0999 V2000\n   -9.0275   -0.5426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.7420   -0.1301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -10.4565   -0.5426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -10.4565   -1.3676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.7420   -1.7801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.0275   -1.3676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.3130   -0.1301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.5986   -0.5426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.5986   -1.3676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.3131   -1.7801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.0884   -0.4837    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.3518   -1.7507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.5009   -2.7524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.8841   -1.7801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.7144   -2.5009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.6910    0.2393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.8660    0.2393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.4535    0.9538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6285    0.9538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.8660    1.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -11.1710   -1.7801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  3  4  1  0\n  4  5  2  0\n  5  6  1  0\n 10  6  1  0\n  6  1  2  0\n  1  7  1  0\n  7  8  1  0\n  8  9  1  0\n  9 10  1  0\n 10 13  1  0\n 13 12  1  0\n 12 11  1  0\n  8 11  1  0\n  9 14  1  0\n 10 15  1  0\n 11 16  1  0\n 16 17  1  0\n 17 18  2  0\n 18 19  1  0\n 18 20  1  0\n  4 21  1  0\nM  END\n> <chembl_id>\nCHEMBL100116\n\n> <chembl_pref_name>\nPENTAZOCINE",
+    "standard_inchi": "InChI=1S/C19H27NO/c1-13(2)7-9-20-10-8-19(4)14(3)18(20)11-15-5-6-16(21)12-17(15)19/h5-7,12,14,18,21H,8-11H2,1-4H3",
+    "standard_inchi_key": "VOKSWYLNZZRQPF-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Dl-pentazocine",
+      "syn_type": "OTHER",
+      "synonyms": "DL-PENTAZOCINE"
+    },
+    {
+      "molecule_synonym": "NIH-7958",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NIH-7958"
+    },
+    {
+      "molecule_synonym": "NSC-107430",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NSC-107430"
+    },
+    {
+      "molecule_synonym": "Pentazocina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "PENTAZOCINA"
+    },
+    {
+      "molecule_synonym": "Pentazocine",
+      "syn_type": "ATC",
+      "synonyms": "PENTAZOCINE"
+    },
+    {
+      "molecule_synonym": "Pentazocine",
+      "syn_type": "BAN",
+      "synonyms": "PENTAZOCINE"
+    },
+    {
+      "molecule_synonym": "Pentazocine",
+      "syn_type": "INN",
+      "synonyms": "PENTAZOCINE"
+    },
+    {
+      "molecule_synonym": "Pentazocine",
+      "syn_type": "JAN",
+      "synonyms": "PENTAZOCINE"
+    },
+    {
+      "molecule_synonym": "Pentazocine",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "PENTAZOCINE"
+    },
+    {
+      "molecule_synonym": "Pentazocine",
+      "syn_type": "OTHER",
+      "synonyms": "PENTAZOCINE"
+    },
+    {
+      "molecule_synonym": "Pentazocine",
+      "syn_type": "USAN",
+      "synonyms": "PENTAZOCINE"
+    },
+    {
+      "molecule_synonym": "Pentazocine",
+      "syn_type": "USP",
+      "synonyms": "PENTAZOCINE"
+    },
+    {
+      "molecule_synonym": "Pentazocine civ",
+      "syn_type": "USP",
+      "synonyms": "PENTAZOCINE CIV"
+    },
+    {
+      "molecule_synonym": "WIN 20,228",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "WIN 20,228"
+    },
+    {
+      "molecule_synonym": "WIN-20228",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "WIN-20228"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "PENTAZOCINE",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-azocine",
+  "usan_stem_definition": "narcotic antagonists/agonists (6,7-benzomorphan derivatives)",
+  "usan_substem": "-azocine",
+  "usan_year": 1963,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

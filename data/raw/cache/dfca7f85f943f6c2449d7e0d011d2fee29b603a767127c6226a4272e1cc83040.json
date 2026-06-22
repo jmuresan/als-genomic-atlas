@@ -1,0 +1,78 @@
+{
+  "atc_classifications": [],
+  "availability_type": 2,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "dextromethorphan%20polistirex",
+      "xref_name": "dextromethorphan polistirex",
+      "xref_src": "DailyMed"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 1982,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL1201461",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL52440",
+    "molecule_chembl_id": "CHEMBL1201461",
+    "parent_chembl_id": "CHEMBL52440"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Delsym",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "DELSYM"
+    },
+    {
+      "molecule_synonym": "Dextromethorphan polistirex",
+      "syn_type": "FDA",
+      "synonyms": "DEXTROMETHORPHAN POLISTIREX"
+    },
+    {
+      "molecule_synonym": "Dextromethorphan polistirex",
+      "syn_type": "OTHER",
+      "synonyms": "DEXTROMETHORPHAN POLISTIREX"
+    },
+    {
+      "molecule_synonym": "Dextromethorphan polistirex",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "DEXTROMETHORPHAN POLISTIREX"
+    },
+    {
+      "molecule_synonym": "Dextromethorphan polistirex",
+      "syn_type": "USAN",
+      "synonyms": "DEXTROMETHORPHAN POLISTIREX"
+    },
+    {
+      "molecule_synonym": "NSC-751452",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NSC-751452"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 1,
+  "pref_name": "DEXTROMETHORPHAN POLISTIREX",
+  "prodrug": 0,
+  "structure_type": "NONE",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-orphan",
+  "usan_stem_definition": "narcotic antagonists/agonists (morphinan derivatives)",
+  "usan_substem": "-orphan",
+  "usan_year": 1987,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL3545154",
+      "name": "POZIOTINIB",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Epidermal growth factor receptor inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "HER2 Positive Breast Carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "head and neck squamous cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "esophageal squamous cell carcinoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

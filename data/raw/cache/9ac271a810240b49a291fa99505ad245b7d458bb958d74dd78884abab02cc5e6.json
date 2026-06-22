@@ -1,0 +1,99 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL94657",
+      "name": "PATUPILONE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin stabiliser"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "prostate adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "glioblastoma multiforme"
+            }
+          },
+          {
+            "disease": {
+              "name": "neuroendocrine neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "carcinoid tumor"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "kidney neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "peritoneal neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "melanoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "malignant colon neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "hepatocellular carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "fallopian tube cancer"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

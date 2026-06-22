@@ -1,0 +1,57 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [],
+    "description": "RG-7600 (mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2109281"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "1.0",
+  "molecule_chembl_id": "CHEMBL2109281",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2109281",
+    "molecule_chembl_id": "CHEMBL2109281",
+    "parent_chembl_id": "CHEMBL2109281"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "DMOT4039A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "DMOT4039A"
+    },
+    {
+      "molecule_synonym": "RG-7600",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RG-7600"
+    }
+  ],
+  "molecule_type": "Unknown",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "RG-7600",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": null,
+  "usan_stem_definition": null,
+  "usan_substem": null,
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

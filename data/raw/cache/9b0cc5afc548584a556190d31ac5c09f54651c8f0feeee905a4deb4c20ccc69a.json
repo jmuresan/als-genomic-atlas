@@ -1,0 +1,44 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL4297440",
+      "name": "T-900607",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin disrupting agent"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "non-Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "gastric cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "liver cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "hepatocellular carcinoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

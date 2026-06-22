@@ -1,0 +1,130 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 28737,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIVMTQSPDSLAVSLGERATINCKSSESVDSYANSFLHWYQQKPGQPPKLLIYRASTRESGVPDRFSGSGSGTDFTLTISSLQAEDVAVYYCQQSKEDPLTFGGGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC1",
+        "tax_id": null
+      },
+      {
+        "component_id": 28736,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYIFTAYTMHWVRQAPGQGLEWMGWIKPNNGLANYAQKFQGRVTMTRDTSISTAYMELSRLRSDDTAVYYCARSEITTEFDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKRVEPKSC1DC1HC1PPC1PAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSREEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPG",
+        "tax_id": null
+      },
+      {
+        "component_id": 28738,
+        "component_type": null,
+        "description": "Disulfide bridges location",
+        "organism": null,
+        "sequence": "22-96$22''-96''$23'-92'$23'''-92'''$138'-198'$138'''-198'''$145-201$145''-201''$218'-221$218'''-221''$223-223''$225-225''$228-228''$260-320$260''-320''$366-424$366''-424''",
+        "tax_id": null
+      },
+      {
+        "component_id": 28739,
+        "component_type": null,
+        "description": "Modified residues",
+        "organism": null,
+        "sequence": "C1(SMILES):[H][C@]([C@@H](C)CC)([C@@H](CC(=O)N1CCC[C@@]1([H])[C@H](OC)[C@@H](C)C(=O)N[C@H](C)[C@@H](O)C1=CC=CC=C1)OC)N(C)C(=O)[C@@H](NC(=O)[C@H](C(C)C)N(C)C(=O)OCC1=CC=C(NC(=O)[C@H](CCCNC(N)=O)NC(=O)[C@@H](NC(=O)CCCCCN2C(=O)CC([H])(SC[C@H](N)C(O)=O)C2=O)C(C)C)C=C1)C(C)C |r,c:31,33,102,t:29,56,58|",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3990032"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL3990032",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3990032",
+    "molecule_chembl_id": "CHEMBL3990032",
+    "parent_chembl_id": "CHEMBL3990032"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Abbv 399",
+      "syn_type": "OTHER",
+      "synonyms": "ABBV 399"
+    },
+    {
+      "molecule_synonym": "ABBV-399",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ABBV-399"
+    },
+    {
+      "molecule_synonym": "ABT-399",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ABT-399"
+    },
+    {
+      "molecule_synonym": "Abt-700-vcmmae",
+      "syn_type": "OTHER",
+      "synonyms": "ABT-700-VCMMAE"
+    },
+    {
+      "molecule_synonym": "PR-1420682",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PR-1420682"
+    },
+    {
+      "molecule_synonym": "Telisotuzumab vedotin",
+      "syn_type": "INN",
+      "synonyms": "TELISOTUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Telisotuzumab vedotin",
+      "syn_type": "OTHER",
+      "synonyms": "TELISOTUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Telisotuzumab vedotin",
+      "syn_type": "USAN",
+      "synonyms": "TELISOTUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Telisotuzumab vedotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "TELISOTUZUMAB VEDOTINA"
+    },
+    {
+      "molecule_synonym": "Telisotuzumab vedotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "TELISOTUZUMAB VEDOTINE"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "TELISOTUZUMAB VEDOTIN",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-dotin; -mab; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-dotin; -mab (-umab); -mab (-zumab)",
+  "usan_year": 2017,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

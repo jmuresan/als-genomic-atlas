@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL2105643",
+      "name": "FOSBRETABULIN TROMETHAMINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin disrupting agent"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "neuroendocrine neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian cancer"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

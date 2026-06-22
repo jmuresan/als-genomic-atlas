@@ -1,0 +1,89 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL159",
+      "name": "VINBLASTINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "classic Hodgkin lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "low grade glioma"
+            }
+          },
+          {
+            "disease": {
+              "name": "urinary bladder carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "urothelial carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "brain neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "Paraganglioma"
+            }
+          },
+          {
+            "disease": {
+              "name": "stricture"
+            }
+          },
+          {
+            "disease": {
+              "name": "Langerhans Cell Histiocytosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "urinary bladder cancer"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

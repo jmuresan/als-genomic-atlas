@@ -1,0 +1,54 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL378544",
+      "name": "VINBLASTINE SULFATE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoid neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "urinary bladder cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "Desmoid-type fibromatosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "fungal infectious disease"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

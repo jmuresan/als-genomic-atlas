@@ -1,0 +1,202 @@
+{
+  "atc_classifications": [
+    "L01FX14"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 30040,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQLTQSPSSLSASVGDRVTITCKASQSVDYEGDSFLNWYQQKPGKAPKLLIYAASNLESGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSNEDPLTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 30041,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGYTFSSYWIEWVRQAPGKGLEWIGEILPGGGDTNYNEIFKGRATFSADTSKNTAYLQMNSLRAEDTAVYYCTRRVPIRLDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSREEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      }
+    ],
+    "description": "Polatuzumab vedotin (humanized mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3301582"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "polatuzumab%20vedotin-piiq",
+      "xref_name": "polatuzumab vedotin-piiq",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/polivy",
+      "xref_name": "polivy",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2019,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL3301582",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3301582",
+    "molecule_chembl_id": "CHEMBL3301582",
+    "parent_chembl_id": "CHEMBL3301582"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "ACD-79B-VCMMAE",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ACD-79B-VCMMAE"
+    },
+    {
+      "molecule_synonym": "ACD-79BVCMMAE",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ACD-79BVCMMAE"
+    },
+    {
+      "molecule_synonym": "ACD79B-VCMMAE",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ACD79B-VCMMAE"
+    },
+    {
+      "molecule_synonym": "Anti-cd79b adc",
+      "syn_type": "OTHER",
+      "synonyms": "ANTI-CD79B ADC"
+    },
+    {
+      "molecule_synonym": "DCDS-4501A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "DCDS-4501A"
+    },
+    {
+      "molecule_synonym": "DCDS4501A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "DCDS4501A"
+    },
+    {
+      "molecule_synonym": "FCU-2711",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "FCU-2711"
+    },
+    {
+      "molecule_synonym": "FCU2711",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "FCU2711"
+    },
+    {
+      "molecule_synonym": "Polatuzumab vedotin",
+      "syn_type": "ATC",
+      "synonyms": "POLATUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Polatuzumab vedotin",
+      "syn_type": "EMA",
+      "synonyms": "POLATUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Polatuzumab vedotin",
+      "syn_type": "INN",
+      "synonyms": "POLATUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Polatuzumab vedotin",
+      "syn_type": "JAN",
+      "synonyms": "POLATUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Polatuzumab vedotin",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "POLATUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Polatuzumab vedotin",
+      "syn_type": "OTHER",
+      "synonyms": "POLATUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Polatuzumab vedotin",
+      "syn_type": "USAN",
+      "synonyms": "POLATUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Polatuzumab vedotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "POLATUZUMAB VEDOTINA"
+    },
+    {
+      "molecule_synonym": "Polatuzumab vedotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "POLATUZUMAB VEDOTINE"
+    },
+    {
+      "molecule_synonym": "Polatuzumab vedotin piiq",
+      "syn_type": "OTHER",
+      "synonyms": "POLATUZUMAB VEDOTIN PIIQ"
+    },
+    {
+      "molecule_synonym": "Polatuzumab vedotin-piiq",
+      "syn_type": "FDA",
+      "synonyms": "POLATUZUMAB VEDOTIN-PIIQ"
+    },
+    {
+      "molecule_synonym": "Polivy",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "Polivy"
+    },
+    {
+      "molecule_synonym": "RG-7596",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RG-7596"
+    },
+    {
+      "molecule_synonym": "RG7596",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RG7596"
+    },
+    {
+      "molecule_synonym": "RO-5541077-000",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO-5541077-000"
+    },
+    {
+      "molecule_synonym": "RO-5541077000",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO-5541077000"
+    },
+    {
+      "molecule_synonym": "RO5541077-000",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO5541077-000"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 1,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "POLATUZUMAB VEDOTIN",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-dotin; -mab; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-dotin; -mab (-umab); -mab (-zumab)",
+  "usan_year": 2013,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1683544",
+      "name": "ERIBULIN MESYLATE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "urinary bladder carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "osteosarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "salivary gland cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "triple-negative breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "soft tissue sarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cervical cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "primary brain neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "head and neck malignant neoplasia"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

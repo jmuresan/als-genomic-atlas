@@ -1,0 +1,104 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 28488,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "EIVLTQSPATLSLSPGERATLSCSASSSVSYMHWYQQKPGQAPRLLIYDTSKLASGIPARFSGSGSGTDFTLTISSLEPEDVAVYYCFQGSVYPFTFGQGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 28487,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLQESGPGLVKPSQTLSLTCTVSGGSISTSGMGVGWIRQHPGKGLEWIGHIWWDDDKRYNPALKSRVTISVDTSKNQFSLKLSSVTAADTAVYYCARMELWSYYFDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3545371"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL3545371",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3545371",
+    "molecule_chembl_id": "CHEMBL3545371",
+    "parent_chembl_id": "CHEMBL3545371"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Denintuzumab mafodotin",
+      "syn_type": "INN",
+      "synonyms": "DENINTUZUMAB MAFODOTIN"
+    },
+    {
+      "molecule_synonym": "Denintuzumab mafodotin",
+      "syn_type": "OTHER",
+      "synonyms": "DENINTUZUMAB MAFODOTIN"
+    },
+    {
+      "molecule_synonym": "Denintuzumab mafodotin",
+      "syn_type": "USAN",
+      "synonyms": "DENINTUZUMAB MAFODOTIN"
+    },
+    {
+      "molecule_synonym": "Denintuzumab mafodotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "DENINTUZUMAB MAFODOTINA"
+    },
+    {
+      "molecule_synonym": "Denintuzumab mafodotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "DENINTUZUMAB MAFODOTINE"
+    },
+    {
+      "molecule_synonym": "SGN-19A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SGN-19A"
+    },
+    {
+      "molecule_synonym": "SGN-CD19A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SGN-CD19A"
+    },
+    {
+      "molecule_synonym": "SGNCD19A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SGNCD19A"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "DENINTUZUMAB MAFODOTIN",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-dotin; -mab; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-dotin; -mab (-umab); -mab (-zumab)",
+  "usan_year": 2015,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

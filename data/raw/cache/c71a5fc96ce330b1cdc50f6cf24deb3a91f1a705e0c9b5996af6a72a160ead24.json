@@ -1,0 +1,116 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 31335,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "300 $ 300''",
+        "tax_id": null
+      },
+      {
+        "component_id": 31030,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSSLSASVGDRVTITCRASQDVNTAVAWYQQKPGKAPKLLIYSASFLYSGVPSRFSGSRSGTDFTLTISSLQPEDFATYYCQQHYTTPPTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 30446,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFNIKDTYIHWVRQAPGKGLEWVARIYPTNGYTRYADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCSRWGGDGFYAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSREEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 31447,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22-96 $ 22''-96'' $ 23'-88' $ 23'''-88''' $ 134'-194' $ 134'''-194''' $ 147-203 $ 147''-203'' $ 223-214' $ 223''-214''' $ 229-229'' $ 232-232'' $ 264-324 $ 264''-324'' $ 370-428 $ 370''-428''",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL5314782"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "128",
+      "xref_name": "TRASTUZUMAB BOTIDOTIN",
+      "xref_src": "INN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL5314782",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL5314782",
+    "molecule_chembl_id": "CHEMBL5314782",
+    "parent_chembl_id": "CHEMBL5314782"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "A 166",
+      "syn_type": "OTHER",
+      "synonyms": "A 166"
+    },
+    {
+      "molecule_synonym": "A-166",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "A-166"
+    },
+    {
+      "molecule_synonym": "A166",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "A166"
+    },
+    {
+      "molecule_synonym": "Trastuzumab botidotin",
+      "syn_type": "INN",
+      "synonyms": "TRASTUZUMAB BOTIDOTIN"
+    },
+    {
+      "molecule_synonym": "Trastuzumab botidotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "TRASTUZUMAB BOTIDOTINA"
+    },
+    {
+      "molecule_synonym": "Trastuzumab botidotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "TRASTUZUMAB BOTIDOTINE"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "TRASTUZUMAB BOTIDOTIN",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-dotin; -mab; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-dotin; -mab (-umab); -mab (-zumab)",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

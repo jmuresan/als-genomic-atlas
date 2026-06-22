@@ -1,0 +1,44 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL289351",
+      "name": "FOSBRETABULIN DISODIUM",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "head and neck malignant neoplasia"
+            }
+          },
+          {
+            "disease": {
+              "name": "neuroendocrine carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian cancer"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

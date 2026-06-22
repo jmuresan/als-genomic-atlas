@@ -1,0 +1,167 @@
+{
+  "atc_classifications": [
+    "L01FX05"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29433,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QIQLQQSGPEVVKPGASVKISCKASGYTFTDYYITWVKQKPGQGLEWIGWIYPGSGNTKYNEKFKGKATLTVDTSSSTAFMQLSSLTSEDTAVYFCANYGNYWFAYWGQGTQVTVSAASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPG",
+        "tax_id": null
+      },
+      {
+        "component_id": 29432,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIVLTQSPASLAVSLGQRATISCKASQSVDFDGDSYMNWYQQKPGQPPKVLIYAASNLESGIPARFSGSGSGTDFTLNIHPVEEEDAATYYCQQSNEDPWTFGGGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      }
+    ],
+    "description": "Brentuximab Vedotin (chimeric mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL1742994"
+  },
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "brentuximab%20vedotin",
+      "xref_name": "brentuximab vedotin",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/adcetris",
+      "xref_name": "adcetris",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2011,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL1742994",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1742994",
+    "molecule_chembl_id": "CHEMBL1742994",
+    "parent_chembl_id": "CHEMBL1742994"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Adcetris",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "ADCETRIS"
+    },
+    {
+      "molecule_synonym": "Brentuximab vedotin",
+      "syn_type": "ATC",
+      "synonyms": "BRENTUXIMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Brentuximab vedotin",
+      "syn_type": "EMA",
+      "synonyms": "BRENTUXIMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Brentuximab vedotin",
+      "syn_type": "FDA",
+      "synonyms": "BRENTUXIMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Brentuximab vedotin",
+      "syn_type": "INN",
+      "synonyms": "BRENTUXIMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Brentuximab vedotin",
+      "syn_type": "OTHER",
+      "synonyms": "BRENTUXIMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Brentuximab vedotin",
+      "syn_type": "USAN",
+      "synonyms": "BRENTUXIMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Brentuximab vedotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "BRENTUXIMAB VEDOTINA"
+    },
+    {
+      "molecule_synonym": "Brentuximab vedotin brentuximab",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "BRENTUXIMAB VEDOTIN BRENTUXIMAB"
+    },
+    {
+      "molecule_synonym": "Brentuximab vedotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "BRENTUXIMAB VEDOTINE"
+    },
+    {
+      "molecule_synonym": "CAC-10",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CAC-10"
+    },
+    {
+      "molecule_synonym": "CAC10",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CAC10"
+    },
+    {
+      "molecule_synonym": "Cac10-1006(4)",
+      "syn_type": "OTHER",
+      "synonyms": "CAC10-1006(4)"
+    },
+    {
+      "molecule_synonym": "CAC10-VCMMAE",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CAC10-VCMMAE"
+    },
+    {
+      "molecule_synonym": "Cac10-vcmmae(4)",
+      "syn_type": "OTHER",
+      "synonyms": "CAC10-VCMMAE(4)"
+    },
+    {
+      "molecule_synonym": "Monoclonal antibody sgn-30",
+      "syn_type": "OTHER",
+      "synonyms": "MONOCLONAL ANTIBODY SGN-30"
+    },
+    {
+      "molecule_synonym": "Sgn 30",
+      "syn_type": "OTHER",
+      "synonyms": "SGN 30"
+    },
+    {
+      "molecule_synonym": "SGN-35",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SGN-35"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 1,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "BRENTUXIMAB VEDOTIN",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-dotin; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: chimeric",
+  "usan_substem": "-dotin; -mab (-ximab)",
+  "usan_year": 2009,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

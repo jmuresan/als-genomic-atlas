@@ -1,0 +1,129 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL553025",
+      "name": "VINORELBINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "malignant pleural mesothelioma"
+            }
+          },
+          {
+            "disease": {
+              "name": "HER2 Positive Breast Carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "rhabdomyosarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "anaplastic large cell lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cervical cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "low grade glioma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cutaneous melanoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "diffuse large B-cell lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "classic Hodgkin lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "triple-negative breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "mesothelioma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

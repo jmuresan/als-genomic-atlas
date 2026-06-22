@@ -1,0 +1,123 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/POZIOTINIB/relevant/1/",
+      "xref_name": "POZIOTINIB",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL3545154",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3545154",
+    "molecule_chembl_id": "CHEMBL3545154",
+    "parent_chembl_id": "CHEMBL3545154"
+  },
+  "molecule_properties": {
+    "alogp": "5.38",
+    "aromatic_rings": 3,
+    "full_molformula": "C23H21Cl2FN4O3",
+    "full_mwt": "491.35",
+    "hba": 6,
+    "hbd": 1,
+    "heavy_atoms": 33,
+    "mw_freebase": "491.35",
+    "np_likeness_score": "-0.82",
+    "num_ro5_violations": 1,
+    "psa": "76.58",
+    "qed_weighted": "0.37",
+    "ro3_pass": "N",
+    "rtb": 6
+  },
+  "molecule_structures": {
+    "canonical_smiles": "C=CC(=O)N1CCC(Oc2cc3c(Nc4ccc(Cl)c(Cl)c4F)ncnc3cc2OC)CC1",
+    "molfile": "\n     RDKit          2D\n\n 33 36  0  0  0  0  0  0  0  0999 V2000\n   -4.4820   -0.1401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.1965   -0.5526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7675   -1.3776    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7675   -0.5526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.3386   -0.5526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0531   -0.1401    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0530    0.6849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.3386    1.0974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.6241    0.6849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.6241   -0.1401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9096   -0.5526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1951   -0.1402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1951    0.6848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9096    1.0974    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5193    1.0974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5193   -0.5527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2338   -0.1402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2338    0.6849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9482    1.0974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9482   -0.5527    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6627   -0.1402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6627    0.6849    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6627    2.3349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9482    1.9224    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3772    1.9224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3772    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6627    3.1599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0916    2.3349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0916    3.1599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.8061    3.5724    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    3.3772    4.3974    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    1.9482    3.5724    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9097   -1.3776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  3  4  2  0\n  1  4  1  0\n  5  6  1  0\n  4  6  1  0\n  7  8  1  0\n  8  9  1  0\n  9 10  1  0\n  5 10  1  0\n  6  7  1  0\n 11 12  1  0\n 12 13  1  0\n 13 14  1  0\n  9 14  1  0\n 16 17  1  0\n 17 18  1  0\n 15 18  1  0\n 12 16  2  0\n 15 13  2  0\n 20 21  1  0\n 21 22  2  0\n 19 22  1  0\n 17 20  2  0\n 19 18  2  0\n 23 24  1  0\n 23 25  2  0\n 24 19  1  0\n 26 27  2  0\n 28 29  2  0\n 26 29  1  0\n 27 23  1  0\n 25 28  1  0\n 29 30  1  0\n 26 31  1  0\n 27 32  1  0\n 11 33  1  0\nM  END\n> <chembl_id>\nCHEMBL3545154\n\n> <chembl_pref_name>\nPOZIOTINIB",
+    "standard_inchi": "InChI=1S/C23H21Cl2FN4O3/c1-3-20(31)30-8-6-13(7-9-30)33-19-10-14-17(11-18(19)32-2)27-12-28-23(14)29-16-5-4-15(24)21(25)22(16)26/h3-5,10-13H,1,6-9H2,2H3,(H,27,28,29)",
+    "standard_inchi_key": "LPFWVDIFUFFKJU-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "HM 781-36",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HM 781-36"
+    },
+    {
+      "molecule_synonym": "HM-781-36",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HM-781-36"
+    },
+    {
+      "molecule_synonym": "HM 781-36B",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HM 781-36B"
+    },
+    {
+      "molecule_synonym": "Hm-781-36b",
+      "syn_type": "OTHER",
+      "synonyms": "HM-781-36B"
+    },
+    {
+      "molecule_synonym": "HM-781-36B",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HM-781-36B"
+    },
+    {
+      "molecule_synonym": "HM781-36B",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HM781-36B"
+    },
+    {
+      "molecule_synonym": "NOV-1201",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NOV-1201"
+    },
+    {
+      "molecule_synonym": "NOV-120101",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NOV-120101"
+    },
+    {
+      "molecule_synonym": "Poziotinib",
+      "syn_type": "INN",
+      "synonyms": "Poziotinib"
+    },
+    {
+      "molecule_synonym": "Poziotinib",
+      "syn_type": "OTHER",
+      "synonyms": "POZIOTINIB"
+    },
+    {
+      "molecule_synonym": "Poziotinib",
+      "syn_type": "USAN",
+      "synonyms": "POZIOTINIB"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "POZIOTINIB",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-tinib",
+  "usan_stem_definition": "tyrosine kinase inhibitors",
+  "usan_substem": "-tinib",
+  "usan_year": 2020,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,97 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL1096380",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1096380",
+    "molecule_chembl_id": "CHEMBL1096380",
+    "parent_chembl_id": "CHEMBL1096380"
+  },
+  "molecule_properties": {
+    "alogp": "0.74",
+    "aromatic_rings": 3,
+    "full_molformula": "C19H20N4O2",
+    "full_mwt": "336.40",
+    "hba": 3,
+    "hbd": 3,
+    "heavy_atoms": 25,
+    "mw_freebase": "336.40",
+    "np_likeness_score": "0.24",
+    "num_ro5_violations": 0,
+    "psa": "94.40",
+    "qed_weighted": "0.64",
+    "ro3_pass": "N",
+    "rtb": 2
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CC(C)(C)c1[nH]cnc1/C=c1\\[nH]c(=O)/c(=C/c2ccccc2)[nH]c1=O",
+    "molfile": "\n     RDKit          2D\n\n 25 27  0  0  0  0  0  0  0  0999 V2000\n    0.5708    0.0583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8583   -0.7667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.0000    0.0583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5708   -0.7667    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8583    0.0583    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2875    0.4708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1417    0.4708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1417   -1.1792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7542    0.3958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.0875   -0.7625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5708   -1.1792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3083   -0.2208    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8958   -0.9333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.9250    1.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1417    1.2958    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1417   -2.0042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2875   -0.7667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3125    1.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.7125    1.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.0958    2.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2875    0.0583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0000   -1.1792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0000    0.4708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7167   -0.7667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7167    0.0583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  5  1  0\n  3  6  1  0\n  4  1  1  0\n  5  7  1  0\n  6  1  2  0\n  7  1  1  0\n  8  4  1  0\n  9  3  2  0\n 10  3  1  0\n 11  2  2  0\n 12  9  1  0\n 13 10  2  0\n 14  9  1  0\n 15  7  2  0\n 16  8  2  0\n 17 11  1  0\n 18 14  1  0\n 19 14  1  0\n 20 14  1  0\n 21 17  1  0\n 22 17  2  0\n 23 21  2  0\n 24 22  1  0\n 25 23  1  0\n  8  2  1  0\n 12 13  1  0\n 24 25  2  0\nM  END\n> <chembl_id>\nCHEMBL1096380\n\n> <chembl_pref_name>\nPLINABULIN",
+    "standard_inchi": "InChI=1S/C19H20N4O2/c1-19(2,3)16-13(20-11-21-16)10-15-18(25)22-14(17(24)23-15)9-12-7-5-4-6-8-12/h4-11H,1-3H3,(H,20,21)(H,22,25)(H,23,24)/b14-9-,15-10-",
+    "standard_inchi_key": "UNRCMCRRFYFGFX-TYPNBTCFSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "NPI-2358",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NPI-2358"
+    },
+    {
+      "molecule_synonym": "Plinabulin",
+      "syn_type": "INN",
+      "synonyms": "PLINABULIN"
+    },
+    {
+      "molecule_synonym": "Plinabulin",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "PLINABULIN"
+    },
+    {
+      "molecule_synonym": "Plinabulin",
+      "syn_type": "OTHER",
+      "synonyms": "PLINABULIN"
+    },
+    {
+      "molecule_synonym": "Plinabulin",
+      "syn_type": "USAN",
+      "synonyms": "PLINABULIN"
+    },
+    {
+      "molecule_synonym": "Plinabulina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "PLINABULINA"
+    },
+    {
+      "molecule_synonym": "Plinabuline",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "PLINABULINE"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "PLINABULIN",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-bulin; -nab-",
+  "usan_stem_definition": "antineoplastics (mitotic inhibitors; tubulin binders); cannabinol derivatives",
+  "usan_substem": "-bulin; -nab-",
+  "usan_year": 2009,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

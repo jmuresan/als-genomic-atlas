@@ -1,0 +1,244 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL107",
+      "name": "COLCHICINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "atherosclerosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "essential hypertension"
+            }
+          },
+          {
+            "disease": {
+              "name": "cirrhosis of liver"
+            }
+          },
+          {
+            "disease": {
+              "name": "rhegmatogenous retinal detachment"
+            }
+          },
+          {
+            "disease": {
+              "name": "chronic kidney disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "vascular disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "myocardial infarction"
+            }
+          },
+          {
+            "disease": {
+              "name": "urogenital neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "cholangiocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cardiac arrhythmia"
+            }
+          },
+          {
+            "disease": {
+              "name": "heart failure"
+            }
+          },
+          {
+            "disease": {
+              "name": "ischemia reperfusion injury"
+            }
+          },
+          {
+            "disease": {
+              "name": "coronary artery disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "aphthous ulcer"
+            }
+          },
+          {
+            "disease": {
+              "name": "diabetic nephropathy"
+            }
+          },
+          {
+            "disease": {
+              "name": "proliferative vitreoretinopathy"
+            }
+          },
+          {
+            "disease": {
+              "name": "gout"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "Non-ST Elevation Myocardial Infarction"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute coronary syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "atrial fibrillation"
+            }
+          },
+          {
+            "disease": {
+              "name": "chronic hepatitis C virus infection"
+            }
+          },
+          {
+            "disease": {
+              "name": "Behcet's syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute myocarditis"
+            }
+          },
+          {
+            "disease": {
+              "name": "primary biliary cirrhosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "obesity"
+            }
+          },
+          {
+            "disease": {
+              "name": "hypertension"
+            }
+          },
+          {
+            "disease": {
+              "name": "intracranial hemorrhage"
+            }
+          },
+          {
+            "disease": {
+              "name": "peripheral arterial disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "pericarditis"
+            }
+          },
+          {
+            "disease": {
+              "name": "viral pneumonia"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "ST Elevation Myocardial Infarction"
+            }
+          },
+          {
+            "disease": {
+              "name": "amyotrophic lateral sclerosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Postpericardiotomy Syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "coronavirus infectious disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "venous thromboembolism"
+            }
+          },
+          {
+            "disease": {
+              "name": "vasculitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "familial Mediterranean fever"
+            }
+          },
+          {
+            "disease": {
+              "name": "COVID-19"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "osteoarthritis, knee"
+            }
+          },
+          {
+            "disease": {
+              "name": "stroke"
+            }
+          },
+          {
+            "disease": {
+              "name": "asthma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

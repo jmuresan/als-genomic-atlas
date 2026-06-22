@@ -1,0 +1,39 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL2103826",
+      "name": "DAVUNETIDE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Tubulin stabiliser"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "Cognitive impairment"
+            }
+          },
+          {
+            "disease": {
+              "name": "schizophrenia"
+            }
+          },
+          {
+            "disease": {
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "progressive supranuclear palsy"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

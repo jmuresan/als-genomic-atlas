@@ -1,0 +1,147 @@
+{
+  "atc_classifications": [
+    "L01FD03"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 31030,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSSLSASVGDRVTITCRASQDVNTAVAWYQQKPGKAPKLLIYSASFLYSGVPSRFSGSRSGTDFTLTISSLQPEDFATYYCQQHYTTPPTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 30443,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFNIKDTYIHWVRQAPGKGLEWVARIYPTNGYTRYADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCSRWGGDGFYAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSREEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPG",
+        "tax_id": null
+      }
+    ],
+    "description": "Trastuzumab Emtansine (humanized mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL1743082"
+  },
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "ado-trastuzumab%20emtansine",
+      "xref_name": "ado-trastuzumab emtansine",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/kadcyla",
+      "xref_name": "kadcyla",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2013,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL1743082",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1743082",
+    "molecule_chembl_id": "CHEMBL1743082",
+    "parent_chembl_id": "CHEMBL1743082"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Ado-trastuzumab emtansine",
+      "syn_type": "FDA",
+      "synonyms": "ADO-TRASTUZUMAB EMTANSINE"
+    },
+    {
+      "molecule_synonym": "Kadcyla",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "KADCYLA"
+    },
+    {
+      "molecule_synonym": "PRO-132365",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PRO-132365"
+    },
+    {
+      "molecule_synonym": "RG-3502",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RG-3502"
+    },
+    {
+      "molecule_synonym": "T-dm1",
+      "syn_type": "OTHER",
+      "synonyms": "T-DM1"
+    },
+    {
+      "molecule_synonym": "TDM-1",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TDM-1"
+    },
+    {
+      "molecule_synonym": "TDM1",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TDM1"
+    },
+    {
+      "molecule_synonym": "Trastuzumab emtansina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "TRASTUZUMAB EMTANSINA"
+    },
+    {
+      "molecule_synonym": "Trastuzumab emtansine",
+      "syn_type": "ATC",
+      "synonyms": "TRASTUZUMAB EMTANSINE"
+    },
+    {
+      "molecule_synonym": "Trastuzumab emtansine",
+      "syn_type": "EMA",
+      "synonyms": "TRASTUZUMAB EMTANSINE"
+    },
+    {
+      "molecule_synonym": "Trastuzumab emtansine",
+      "syn_type": "INN",
+      "synonyms": "TRASTUZUMAB EMTANSINE"
+    },
+    {
+      "molecule_synonym": "Trastuzumab emtansine",
+      "syn_type": "OTHER",
+      "synonyms": "TRASTUZUMAB EMTANSINE"
+    },
+    {
+      "molecule_synonym": "Trastuzumab emtansine",
+      "syn_type": "USAN",
+      "synonyms": "TRASTUZUMAB EMTANSINE"
+    },
+    {
+      "molecule_synonym": "TRASTUZUMAB-MCC-DM1 T-DM1",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TRASTUZUMAB-MCC-DM1 T-DM1"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "TRASTUZUMAB EMTANSINE",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab; -mab; -tansine",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized; maytansinoid derivatives",
+  "usan_substem": "-mab (-umab); -mab (-zumab); -tansine",
+  "usan_year": 2009,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

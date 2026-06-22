@@ -1,0 +1,60 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL87493",
+      "name": "FENFLURAMINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Serotonin 2c (5-HT2c) receptor agonist"
+          },
+          {
+            "mechanismOfAction": "Sigma opioid receptor antagonist"
+          },
+          {
+            "mechanismOfAction": "Serotonin 1d (5-HT1d) receptor agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "obesity"
+            }
+          },
+          {
+            "disease": {
+              "name": "genetic developmental and epileptic encephalopathy"
+            }
+          },
+          {
+            "disease": {
+              "name": "epilepsy"
+            }
+          },
+          {
+            "disease": {
+              "name": "myoclonic epilepsy"
+            }
+          },
+          {
+            "disease": {
+              "name": "cocaine dependence"
+            }
+          },
+          {
+            "disease": {
+              "name": "Lennox-Gastaut syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "Dravet syndrome"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

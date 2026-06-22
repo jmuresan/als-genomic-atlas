@@ -1,0 +1,92 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL4297938",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297938",
+    "molecule_chembl_id": "CHEMBL4297938",
+    "parent_chembl_id": "CHEMBL4297938"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "DNIB-0600A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "DNIB-0600A"
+    },
+    {
+      "molecule_synonym": "Dnib0600a",
+      "syn_type": "OTHER",
+      "synonyms": "DNIB0600A"
+    },
+    {
+      "molecule_synonym": "DNIB0600A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "DNIB0600A"
+    },
+    {
+      "molecule_synonym": "Lifastuzumab vedotin",
+      "syn_type": "INN",
+      "synonyms": "LIFASTUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Lifastuzumab vedotin",
+      "syn_type": "OTHER",
+      "synonyms": "LIFASTUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Lifastuzumab vedotin",
+      "syn_type": "USAN",
+      "synonyms": "LIFASTUZUMAB VEDOTIN"
+    },
+    {
+      "molecule_synonym": "Lifastuzumab vedotina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "LIFASTUZUMAB VEDOTINA"
+    },
+    {
+      "molecule_synonym": "Lifastuzumab vedotine",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "LIFASTUZUMAB VEDOTINE"
+    },
+    {
+      "molecule_synonym": "NAPI3B",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NAPI3B"
+    },
+    {
+      "molecule_synonym": "RG-7599",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RG-7599"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "LIFASTUZUMAB VEDOTIN",
+  "prodrug": 0,
+  "structure_type": "NONE",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-dotin; -mab; -mab",
+  "usan_stem_definition": "synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-dotin; -mab (-umab); -mab (-zumab)",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}
