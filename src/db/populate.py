@@ -110,20 +110,12 @@ def populate_variants(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
         ])
         variant_found = True
 
-    # If no ClinVar variants, insert a mock genomic variant to tie annotations
-    if not variant_found:
-        mock_var_id = f"VAR_{gene_symbol}_MOCK"
-        conn.execute("""
-        INSERT OR REPLACE INTO variants (
-            variant_id, gene_symbol, clinical_significance, disease_name, 
-            rsid, chromosome, position, hgvs, gnomad_pli, gnomad_loeuf, 
-            gnomad_allele_freq, alphagenome_consequence, alphagenome_pathogenicity
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        """, [
-            mock_var_id, gene_symbol, "Benign/Likely Benign", "Amyotrophic lateral sclerosis",
-            rsid, chromosome, position, hgvs, pli, loeuf,
-            allele_freq, consequence, pathogenicity
-        ])
+    # De-mocked: the original inserted a fabricated "VAR_<gene>_MOCK"
+    # Benign/Likely Benign row whenever a gene had no real ClinVar hit. That
+    # invented data, so it has been removed. Genes with no ClinVar variants
+    # simply contribute no variant rows (their gnomAD/dbSNP signal still lands
+    # via genes/other tables).
+    _ = variant_found
 
 def populate_regulatory_elements(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
     gene_symbol = data.get("gene")
