@@ -62,8 +62,8 @@ api_settings:
   pubmed:
     limit_per_gene: 10
   foldseek:
-    probability_threshold: 0.7
-    limit_hits: 5
+    probability_threshold: 0.85
+    limit_hits: 100
 
 
 # Scoring weights configured for the genomic mapping ranking/priority

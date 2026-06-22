@@ -209,6 +209,17 @@ class BaseClient:
                         }
                     ]
                 }
+            elif endpoint == "drug_details":
+                return {
+                    "data": {
+                        "drug": {
+                            "id": query_params.get("_post_body", {}).get("variables", {}).get("chemblId", "CHEMBL744"),
+                            "name": "MockSimilarDrug",
+                            "mechanismsOfAction": {"rows": [{"mechanismOfAction": "Inhibitor of target protein"}]},
+                            "indications": {"rows": [{"disease": {"name": "Amyotrophic Lateral Sclerosis"}}]}
+                        }
+                    }
+                }
             return {
                 "approvedSymbol": gene,
                 "associatedDiseases": {
@@ -232,6 +243,31 @@ class BaseClient:
                 ]
             }
         elif "chembl" in self.source_name:
+            if endpoint.startswith("molecule_"):
+                cid = endpoint.split("_", 1)[1]
+                if cid == "CHEMBL744":
+                    smiles = "Nc1nc2ccc(OC(F)(F)F)cc2s1"
+                else:
+                    smiles = "CC1=C(C=C(C=C1)F)N=C(S)N"
+                return {
+                    "molecule_structures": {
+                        "canonical_smiles": smiles
+                    },
+                    "molecule_hierarchy": {
+                        "parent_chembl_id": cid
+                    }
+                }
+            elif endpoint.startswith("similarity_"):
+                return {
+                    "molecules": [
+                        {
+                            "molecule_chembl_id": "CHEMBL99999",
+                            "pref_name": "MockSimilarDrug",
+                            "similarity": "87.5",
+                            "max_phase": 4.0
+                        }
+                    ]
+                }
             return {
                 "compound_id": "CHEMBL1201484",
                 "pref_name": "RILUZOLE",
@@ -877,7 +913,6 @@ class OpenTargetsClient(BaseClient):
               count
               rows {
                 maxClinicalStage
-                status
                 drug {
                   id
                   name
@@ -926,7 +961,6 @@ class OpenTargetsClient(BaseClient):
                 
             drug_rows.append({
                 "maxClinicalStage": r.get("maxClinicalStage"),
-                "status": r.get("status"),
                 "drug": {
                   "id": drug_info.get("id"),
                   "name": drug_info.get("name"),
@@ -942,6 +976,42 @@ class OpenTargetsClient(BaseClient):
         self.cache.write(self.source_name, endpoint, query_params, result)
         return result
 
+    def fetch_drug_details(self, chembl_id: str) -> Dict[str, Any]:
+        """Queries Open Targets for a drug's indications and mechanisms of action."""
+        endpoint = "drug_details"
+        query_params = {"chemblId": chembl_id}
+        
+        # Check cache
+        cached = self.cache.read(self.source_name, endpoint, query_params)
+        if cached is not None:
+            return cached
+            
+        if self.cache.offline_mode:
+            return self._get_mock_data(endpoint, query_params)
+            
+        query = """
+        query drugDetails($chemblId: String!) {
+          drug(chemblId: $chemblId) {
+            id
+            name
+            mechanismsOfAction {
+              rows {
+                mechanismOfAction
+              }
+            }
+            indications {
+              rows {
+                disease {
+                  name
+                }
+              }
+            }
+          }
+        }
+        """
+        raw = self._request("POST", self.graphql_url, endpoint, json_data={"query": query, "variables": {"chemblId": chembl_id}})
+        return raw
+
 class ChemblClient(BaseClient):
     def __init__(self, cache):
         super().__init__("chembl", cache)
@@ -950,6 +1020,19 @@ class ChemblClient(BaseClient):
         url = "https://www.ebi.ac.uk/chembl/api/data/mechanism"
         headers = {"Accept": "application/json"}
         return self._request("GET", url, "mechanism", params={"target_chembl_id": gene_symbol, "_format": "json"}, headers=headers)
+
+    def fetch_molecule_structures(self, chembl_id: str) -> Dict[str, Any]:
+        """Fetches molecule structures and hierarchy from ChEMBL."""
+        url = f"https://www.ebi.ac.uk/chembl/api/data/molecule/{chembl_id}.json"
+        headers = {"Accept": "application/json"}
+        return self._request("GET", url, f"molecule_{chembl_id}", headers=headers)
+
+    def fetch_similar_compounds(self, smiles: str, threshold: int = 85) -> Dict[str, Any]:
+        """Runs a similarity search on ChEMBL with the given SMILES and threshold."""
+        quoted_smiles = urllib.parse.quote(smiles)
+        url = f"https://www.ebi.ac.uk/chembl/api/data/similarity/{quoted_smiles}/{threshold}.json"
+        headers = {"Accept": "application/json"}
+        return self._request("GET", url, f"similarity_{threshold}", params={"smiles": smiles}, headers=headers)
 
 class ClinicalTrialsClient(BaseClient):
     def __init__(self, cache):
@@ -998,7 +1081,6 @@ class PdbClient(BaseClient):
             return self._get_mock_data("query_by_gene", {"gene": gene_symbol})
             
         pdb_ids = [item["identifier"] for item in raw.get("result_set", [])]
-        pdb_ids = pdb_ids[:10]
         
         return {
             "pdb_ids": pdb_ids,
@@ -1300,9 +1382,129 @@ class IngestionManager:
                         "name_or_title": d.get("drug", {}).get("name"),
                         "max_clinical_phase": phase_val,
                         "mechanism_of_action": "; ".join(moa_list) if moa_list else None,
-                        "status": d.get("status"),
+                        "status": None,
                         "purpose": purpose
                     })
+
+        # Category 11: Similar Compounds & Repurposing Candidates
+        cat7_drugs = []
+        if ot_data and isinstance(ot_data, dict):
+            for row in ot_data.get("drugs", []):
+                drug = row.get("drug", {}) or {}
+                drug_id = drug.get("id")
+                drug_name = drug.get("name")
+                stage = drug.get("maximumClinicalStage") or row.get("maxClinicalStage")
+                phase = STAGE_TO_PHASE.get(str(stage).strip().upper()) if stage else 0.0
+                if phase is None:
+                    phase = 0.0
+                if drug_id:
+                    cat7_drugs.append({
+                        "drug_id": drug_id,
+                        "name": drug_name,
+                        "max_clinical_phase": phase,
+                        "target_id": gene_symbol
+                    })
+                    
+        cat10_drugs = []
+        for fd in foldseek_drugs:
+            if fd.get("type") == "drug":
+                drug_id = fd.get("drug_id")
+                drug_name = fd.get("name_or_title")
+                phase = fd.get("max_clinical_phase")
+                if phase is None:
+                    phase = 0.0
+                if drug_id:
+                    cat10_drugs.append({
+                        "drug_id": drug_id,
+                        "name": drug_name,
+                        "max_clinical_phase": phase,
+                        "target_id": fd.get("target_id")
+                    })
+                    
+        # Unique candidates by (drug_id, target_id)
+        unique_candidates = {}
+        for d in cat7_drugs + cat10_drugs:
+            key = (d["drug_id"], d["target_id"])
+            if key not in unique_candidates:
+                unique_candidates[key] = d
+            else:
+                if d["max_clinical_phase"] > unique_candidates[key]["max_clinical_phase"]:
+                    unique_candidates[key] = d
+                    
+        similar_compounds = []
+        for candidate in unique_candidates.values():
+            chembl_id = candidate["drug_id"]
+            smiles = None
+            try:
+                mol_res = self.chembl.fetch_molecule_structures(chembl_id)
+                if isinstance(mol_res, dict):
+                    smiles = mol_res.get("molecule_structures", {}).get("canonical_smiles")
+                    if not smiles:
+                        h = mol_res.get("molecule_hierarchy", {}) or {}
+                        parent = h.get("parent_chembl_id")
+                        if parent and parent != chembl_id:
+                            parent_res = self.chembl.fetch_molecule_structures(parent)
+                            if isinstance(parent_res, dict):
+                                smiles = parent_res.get("molecule_structures", {}).get("canonical_smiles")
+            except Exception as e:
+                logger.error(f"Error fetching SMILES for {chembl_id}: {e}")
+                
+            if smiles:
+                try:
+                    sim_res = self.chembl.fetch_similar_compounds(smiles, threshold=85)
+                    if isinstance(sim_res, dict) and "molecules" in sim_res:
+                        for mol in sim_res["molecules"]:
+                            sim_id = mol.get("molecule_chembl_id")
+                            sim_name = mol.get("pref_name")
+                            similarity_val = None
+                            similarity_str = mol.get("similarity")
+                            if similarity_str is not None:
+                                try:
+                                    similarity_val = float(similarity_str)
+                                except ValueError:
+                                    pass
+                                    
+                            sim_phase_val = mol.get("max_phase")
+                            try:
+                                sim_phase_val = float(sim_phase_val) if sim_phase_val is not None else 0.0
+                            except ValueError:
+                                sim_phase_val = 0.0
+                                
+                            orig_phase = candidate["max_clinical_phase"]
+                            if sim_phase_val >= orig_phase:
+                                purpose = ""
+                                try:
+                                    drug_det = self.open_targets.fetch_drug_details(sim_id)
+                                    if isinstance(drug_det, dict) and "data" in drug_det:
+                                        drug_info = drug_det.get("data", {}).get("drug", {}) or {}
+                                        
+                                        moa_list = [row.get("mechanismOfAction", "") for row in drug_info.get("mechanismsOfAction", {}).get("rows", []) or []]
+                                        moa_list = [m for m in moa_list if m]
+                                        
+                                        ind_list = [row.get("disease", {}).get("name", "") for row in drug_info.get("indications", {}).get("rows", []) or []]
+                                        ind_list = [i for i in ind_list if i]
+                                        
+                                        if ind_list:
+                                            purpose += f"Indicated for: {', '.join(ind_list)}. "
+                                        if moa_list:
+                                            purpose += f"Mechanism: {'; '.join(moa_list)}."
+                                except Exception as e:
+                                    logger.error(f"Error fetching Open Targets drug details for {sim_id}: {e}")
+                                    
+                                if not purpose:
+                                    purpose = "No indication/mechanism details available."
+                                    
+                                similar_compounds.append({
+                                    "target_id": candidate["target_id"],
+                                    "original_drug_id": chembl_id,
+                                    "similar_drug_id": sim_id,
+                                    "name": sim_name or sim_id,
+                                    "similarity": similarity_val,
+                                    "max_clinical_phase": sim_phase_val,
+                                    "purpose": purpose
+                                })
+                except Exception as e:
+                    logger.error(f"Error fetching similar compounds for SMILES {smiles}: {e}")
 
         return {
             "gene": gene_symbol,
@@ -1330,5 +1532,6 @@ class IngestionManager:
             "alphafold": alphafold_data,
             "pdb": pdb_data,
             "foldseek_matches": filtered_matches,
-            "foldseek_drugs": foldseek_drugs
+            "foldseek_drugs": foldseek_drugs,
+            "similar_compounds": similar_compounds
         }

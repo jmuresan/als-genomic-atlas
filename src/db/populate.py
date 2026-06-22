@@ -307,8 +307,22 @@ def populate_foldseek_matched_drugs_trials(conn: duckdb.DuckDBPyConnection, data
             d.get("max_clinical_phase"), d.get("mechanism_of_action"), d.get("status"), d.get("purpose")
         ])
 
+def populate_foldseek_similar_compounds(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
+    gene_symbol = data.get("gene")
+    compounds = data.get("similar_compounds", []) or []
+    for c in compounds:
+        conn.execute("""
+        INSERT OR REPLACE INTO foldseek_similar_compounds (
+            query_gene_symbol, target_id, original_drug_id, similar_drug_id, name,
+            similarity, max_clinical_phase, purpose
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+        """, [
+            gene_symbol, c.get("target_id"), c.get("original_drug_id"), c.get("similar_drug_id"),
+            c.get("name"), c.get("similarity"), c.get("max_clinical_phase"), c.get("purpose")
+        ])
+
 def populate_all(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
-    """Populates all 10 categories of biological information into DuckDB."""
+    """Populates all 11 categories of biological information into DuckDB."""
     populate_gene(conn, data)
     populate_variants(conn, data)
     populate_regulatory_elements(conn, data)
@@ -319,3 +333,4 @@ def populate_all(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
     populate_structures(conn, data)
     populate_foldseek_matches(conn, data)
     populate_foldseek_matched_drugs_trials(conn, data)
+    populate_foldseek_similar_compounds(conn, data)

@@ -1,0 +1,39 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL23293",
+      "name": "SALIRASIB",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "RAS inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "lung cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "pancreatic neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "Malignant Pancreatic Neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

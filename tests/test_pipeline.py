@@ -84,6 +84,7 @@ def test_database_population():
     assert "expression" in tables
     assert "pathways_and_domains" in tables
     assert "structures" in tables
+    assert "foldseek_similar_compounds" in tables
     
     # Mock data package
     mock_data = {
@@ -157,6 +158,17 @@ def test_database_population():
                 "status": "Active",
                 "purpose": "Indicated for: Neurodegenerative Disease"
             }
+        ],
+        "similar_compounds": [
+            {
+                "target_id": "AF-P02144-F1",
+                "original_drug_id": "CHEMBL12345",
+                "similar_drug_id": "CHEMBL99999",
+                "name": "MockSimilarDrug",
+                "similarity": 87.5,
+                "max_clinical_phase": 4.0,
+                "purpose": "Indicated for: Amyotrophic Lateral Sclerosis"
+            }
         ]
     }
     
@@ -177,6 +189,9 @@ def test_database_population():
     
     nfs_drugs = conn.execute("SELECT COUNT(*) FROM foldseek_matched_drugs_trials").fetchone()[0]
     assert nfs_drugs == 1
+
+    nsim = conn.execute("SELECT COUNT(*) FROM foldseek_similar_compounds").fetchone()[0]
+    assert nsim == 1
     
     conn.close()
 

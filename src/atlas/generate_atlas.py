@@ -227,6 +227,26 @@ def generate_report(db_path: str, output_path: str):
             else:
                 f.write("*No drugs or clinical trials associated with matched target proteins.*\n\n")
                 
+            # Category 11: Similar Compounds & Repurposing Candidates
+            similar_compounds = conn.execute("""
+                SELECT target_id, original_drug_id, similar_drug_id, name, similarity, max_clinical_phase, purpose 
+                FROM foldseek_similar_compounds 
+                WHERE query_gene_symbol = ?
+                ORDER BY similarity DESC
+            """, [symbol]).fetchall()
+            
+            f.write("### Category 11: Similar Compounds & Repurposing Candidates\n")
+            if similar_compounds:
+                f.write("| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |\n")
+                f.write("| --- | --- | --- | --- | --- | --- | --- |\n")
+                for sc in similar_compounds:
+                    target_id, orig_id, sim_id, sim_name, similarity, max_phase, purpose = sc
+                    sim_pct = f"{similarity:.1f}%" if similarity is not None else "N/A"
+                    f.write(f"| `{target_id}` | `{orig_id}` | `{sim_id}` | {sim_name or 'N/A'} | {sim_pct} | Phase {max_phase} | {purpose or 'N/A'} |\n")
+                f.write("\n")
+            else:
+                f.write("*No similar compounds with qualifying max clinical phase found.*\n\n")
+                
             f.write("\n---\n\n")
             
     conn.close()
