@@ -119,6 +119,16 @@ def verify_db(db_path: str):
             raise ValueError("Verification failed: structures table is empty.")
         logger.info(f"Structures check passed: {nstruct} records.")
 
+        # Check foldseek_matches
+        nfs = conn.execute("SELECT COUNT(*) FROM foldseek_matches").fetchone()[0]
+        if nfs == 0:
+            raise ValueError("Verification failed: foldseek_matches table is empty.")
+        logger.info(f"Foldseek matches check passed: {nfs} records.")
+
+        # Check foldseek_matched_drugs_trials
+        nfs_drugs = conn.execute("SELECT COUNT(*) FROM foldseek_matched_drugs_trials").fetchone()[0]
+        logger.info(f"Foldseek matched drugs check passed: {nfs_drugs} records.")
+
     finally:
         conn.close()
 

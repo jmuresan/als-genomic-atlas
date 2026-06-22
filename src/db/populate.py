@@ -280,8 +280,35 @@ def populate_structures(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
         VALUES (?, ?, ?, 'PDB', ?)
         """, [pdb_id, gene_symbol, uniprot_id, method])
 
+def populate_foldseek_matches(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
+    gene_symbol = data.get("gene")
+    matches = data.get("foldseek_matches", []) or []
+    for m in matches:
+        conn.execute("""
+        INSERT OR REPLACE INTO foldseek_matches (
+            query_gene_symbol, target_id, db, probability, query_coverage, evalue, seq_identity, alignment_length
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+        """, [
+            gene_symbol, m.get("target_id"), m.get("db"), m.get("probability"),
+            m.get("query_coverage"), m.get("eval"), m.get("seqId"), m.get("alnLength")
+        ])
+
+def populate_foldseek_matched_drugs_trials(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
+    gene_symbol = data.get("gene")
+    drugs = data.get("foldseek_drugs", []) or []
+    for d in drugs:
+        conn.execute("""
+        INSERT OR REPLACE INTO foldseek_matched_drugs_trials (
+            query_gene_symbol, target_id, drug_or_trial_id, type, name_or_title, 
+            max_clinical_phase, mechanism_of_action, status, purpose
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, [
+            gene_symbol, d.get("target_id"), d.get("drug_id"), d.get("type"), d.get("name_or_title"),
+            d.get("max_clinical_phase"), d.get("mechanism_of_action"), d.get("status"), d.get("purpose")
+        ])
+
 def populate_all(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
-    """Populates all 8 categories of biological information into DuckDB."""
+    """Populates all 10 categories of biological information into DuckDB."""
     populate_gene(conn, data)
     populate_variants(conn, data)
     populate_regulatory_elements(conn, data)
@@ -290,3 +317,5 @@ def populate_all(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
     populate_interactions(conn, data)
     populate_clinical_trials_and_drugs(conn, data)
     populate_structures(conn, data)
+    populate_foldseek_matches(conn, data)
+    populate_foldseek_matched_drugs_trials(conn, data)
