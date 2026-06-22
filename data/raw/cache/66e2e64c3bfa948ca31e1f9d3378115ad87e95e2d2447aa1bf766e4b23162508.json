@@ -1,0 +1,92 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1750",
+      "name": "CLOFARABINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "DNA polymerase (alpha/delta/epsilon) inhibitor"
+          },
+          {
+            "mechanismOfAction": "Ribonucleoside-diphosphate reductase RR1 inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "acute lymphoblastic leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "Langerhans Cell Histiocytosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "osteopetrosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "chronic myelomonocytic leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm of mature B-cells"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute myeloid leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "chronic lymphocytic leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "myelodysplastic syndrome"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

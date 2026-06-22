@@ -1,0 +1,142 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1096882",
+      "name": "FLUDARABINE PHOSPHATE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "DNA polymerase (alpha/delta/epsilon) inhibitor"
+          },
+          {
+            "mechanismOfAction": "Ribonucleoside-diphosphate reductase RR1 inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "diffuse large B-cell lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple sclerosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "head and neck malignant neoplasia"
+            }
+          },
+          {
+            "disease": {
+              "name": "chronic lymphocytic leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "neuroblastoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute lymphoblastic leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "kidney cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "renal cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cutaneous melanoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "systemic scleroderma"
+            }
+          },
+          {
+            "disease": {
+              "name": "graft versus host disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "sickle cell disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "bone marrow failure syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "Histiocytosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoid leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute myeloid leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "myelodysplastic syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL803",
+      "name": "CYTARABINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "DNA polymerase (alpha/delta/epsilon) inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "Central Nervous System Lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute promyelocytic leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "myelodysplastic syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "myeloproliferative disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoid leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "unspecified peripheral T-cell lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm of mature B-cells"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "thrombotic disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "chronic myelogenous leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "meningeal neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "malaria"
+            }
+          },
+          {
+            "disease": {
+              "name": "Mantle cell lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute lymphoblastic leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "hematopoietic and lymphoid cell neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "systemic lupus erythematosus"
+            }
+          },
+          {
+            "disease": {
+              "name": "leptomeningeal metastasis"
+            }
+          },
+          {
+            "disease": {
+              "name": "classic Hodgkin lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "diffuse large B-cell lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "B-cell acute lymphoblastic leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "sarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "relapsing-remitting multiple sclerosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute myeloid leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "aseptic meningitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "myeloid leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "Langerhans Cell Histiocytosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "melanoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

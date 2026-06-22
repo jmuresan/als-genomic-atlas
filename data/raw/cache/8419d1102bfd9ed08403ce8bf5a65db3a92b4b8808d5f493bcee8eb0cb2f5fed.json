@@ -1,0 +1,102 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 30941,
+        "component_type": "Protein",
+        "description": "Sequence",
+        "organism": null,
+        "sequence": "HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSFAPPPSC",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4650495"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": -1,
+  "cross_references": [
+    {
+      "xref_id": "127",
+      "xref_name": "PEGSEBRENATIDE",
+      "xref_src": "INN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL4650495",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4650495",
+    "molecule_chembl_id": "CHEMBL4650495",
+    "parent_chembl_id": "CHEMBL4650495"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Nly-01",
+      "syn_type": "OTHER",
+      "synonyms": "NLY-01"
+    },
+    {
+      "molecule_synonym": "NLY-01",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NLY-01"
+    },
+    {
+      "molecule_synonym": "Nly01",
+      "syn_type": "OTHER",
+      "synonyms": "NLY01"
+    },
+    {
+      "molecule_synonym": "NLY01",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NLY01"
+    },
+    {
+      "molecule_synonym": "Pegsebrenatida",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "PEGSEBRENATIDA"
+    },
+    {
+      "molecule_synonym": "Pegsebrenatide",
+      "syn_type": "INN",
+      "synonyms": "PEGSEBRENATIDE"
+    },
+    {
+      "molecule_synonym": "Pegsebrenatide",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "PEGSEBRENATIDE"
+    },
+    {
+      "molecule_synonym": "Pegsebrenatide",
+      "syn_type": "OTHER",
+      "synonyms": "PEGSEBRENATIDE"
+    }
+  ],
+  "molecule_type": "Protein",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "PEGSEBRENATIDE",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "peg-; -tide",
+  "usan_stem_definition": "PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer; peptides: exendin-4-derivatives",
+  "usan_substem": "peg-; -tide (-enatide)",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

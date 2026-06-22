@@ -1,0 +1,139 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL414357",
+      "name": "EXENATIDE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "alcohol dependence"
+            }
+          },
+          {
+            "disease": {
+              "name": "cardiovascular disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "Ischemic stroke"
+            }
+          },
+          {
+            "disease": {
+              "name": "Weight loss"
+            }
+          },
+          {
+            "disease": {
+              "name": "smoking cessation"
+            }
+          },
+          {
+            "disease": {
+              "name": "coronary artery disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "hyperinsulinemic hypoglycemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "hyperlipidemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "cocaine use disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "obesity"
+            }
+          },
+          {
+            "disease": {
+              "name": "polycystic ovary syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple system atrophy"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-alcoholic fatty liver disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "prediabetes syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "myocardial infarction"
+            }
+          },
+          {
+            "disease": {
+              "name": "morbid obesity"
+            }
+          },
+          {
+            "disease": {
+              "name": "Renal insufficiency"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 1 diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute myocardial infarction"
+            }
+          },
+          {
+            "disease": {
+              "name": "Prader-Willi syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "cerebral small vessel disease"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

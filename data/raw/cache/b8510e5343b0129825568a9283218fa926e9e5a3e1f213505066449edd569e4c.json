@@ -1,0 +1,120 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29163,
+        "component_type": "Protein",
+        "description": "Sequence",
+        "organism": null,
+        "sequence": "DLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS1",
+        "tax_id": null
+      },
+      {
+        "component_id": 28886,
+        "component_type": null,
+        "description": "Modified residues",
+        "organism": null,
+        "sequence": "S1(SMILES):N[C@@H](CO)C(N)=O |r|",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4297949"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/AVEXITIDE/relevant/1/",
+      "xref_name": "AVEXITIDE",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL4297949",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297949",
+    "molecule_chembl_id": "CHEMBL4297949",
+    "parent_chembl_id": "CHEMBL4297949"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Avexitida",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "AVEXITIDA"
+    },
+    {
+      "molecule_synonym": "Avexitide",
+      "syn_type": "INN",
+      "synonyms": "AVEXITIDE"
+    },
+    {
+      "molecule_synonym": "Avexitide",
+      "syn_type": "OTHER",
+      "synonyms": "AVEXITIDE"
+    },
+    {
+      "molecule_synonym": "Avexitide",
+      "syn_type": "USAN",
+      "synonyms": "AVEXITIDE"
+    },
+    {
+      "molecule_synonym": "Exendin-3 (9-39) amide",
+      "syn_type": "OTHER",
+      "synonyms": "EXENDIN-3 (9-39) AMIDE"
+    },
+    {
+      "molecule_synonym": "Exendin 9-39",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "Exendin 9-39"
+    },
+    {
+      "molecule_synonym": "Exendin (9-39)",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "EXENDIN (9-39)"
+    },
+    {
+      "molecule_synonym": "Exendin (9-39)",
+      "syn_type": "OTHER",
+      "synonyms": "EXENDIN (9-39)"
+    },
+    {
+      "molecule_synonym": "Exendin(9-39)amide",
+      "syn_type": "OTHER",
+      "synonyms": "EXENDIN(9-39)AMIDE"
+    },
+    {
+      "molecule_synonym": "Exendin (9-39) amide",
+      "syn_type": "OTHER",
+      "synonyms": "EXENDIN (9-39) AMIDE"
+    }
+  ],
+  "molecule_type": "Protein",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "AVEXITIDE",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-tide",
+  "usan_stem_definition": "peptides",
+  "usan_substem": "-tide",
+  "usan_year": 2018,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

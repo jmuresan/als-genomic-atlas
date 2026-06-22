@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL359164",
+      "name": "TROXACITABINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "DNA polymerase (alpha/delta/epsilon) inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "acute myeloid leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "leukemia"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

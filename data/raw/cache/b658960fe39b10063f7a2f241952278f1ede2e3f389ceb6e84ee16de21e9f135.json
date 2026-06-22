@@ -1,0 +1,1093 @@
+{
+  "approvedSymbol": "POLE",
+  "drugs": [
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL803",
+        "name": "CYTARABINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "DNA polymerase (alpha/delta/epsilon) inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Central Nervous System Lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute promyelocytic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "myelodysplastic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "myeloproliferative disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoid leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "unspecified peripheral T-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm of mature B-cells"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "thrombotic disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "chronic myelogenous leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "meningeal neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "malaria"
+              }
+            },
+            {
+              "disease": {
+                "name": "Mantle cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute lymphoblastic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "hematopoietic and lymphoid cell neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "systemic lupus erythematosus"
+              }
+            },
+            {
+              "disease": {
+                "name": "leptomeningeal metastasis"
+              }
+            },
+            {
+              "disease": {
+                "name": "classic Hodgkin lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "B-cell acute lymphoblastic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "relapsing-remitting multiple sclerosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute myeloid leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "aseptic meningitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "myeloid leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "Langerhans Cell Histiocytosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "melanoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL359164",
+        "name": "TROXACITABINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "DNA polymerase (alpha/delta/epsilon) inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "acute myeloid leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "leukemia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL888",
+        "name": "GEMCITABINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "DNA polymerase (alpha/delta/epsilon) inhibitor"
+            },
+            {
+              "mechanismOfAction": "Ribonucleoside-diphosphate reductase RR1 inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "squamous cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "central nervous system germ cell tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "biliary tract neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "bladder tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "metastasis"
+              }
+            },
+            {
+              "disease": {
+                "name": "osteosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "urothelial carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "peritoneum cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "fallopian tube cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "gallbladder cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "soft tissue sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "hepatocellular carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "gallbladder neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "renal cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "nasopharyngeal carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic ductal adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "metastatic colorectal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "liver cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "malignant colon neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "biliary tract cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "unspecified peripheral T-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "biliary tract disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck malignant neoplasia"
+              }
+            },
+            {
+              "disease": {
+                "name": "small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "bile duct cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "synovial sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Olfactory Neuroblastoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cholangiocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "germ cell tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm of mature B-cells"
+              }
+            },
+            {
+              "disease": {
+                "name": "Transitional Cell Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "peritoneal neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "nasopharyngeal neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "mesothelioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "urogenital neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "leiomyosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "thyroid cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck squamous cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "extranodal nasal NK/T cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "malignant tumor of nasopharynx"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "gastric cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "classic Hodgkin lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "mature T-cell and NK-cell non-Hodgkin lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse intrinsic pontine glioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Malignant Pancreatic Neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "triple-negative breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "malignant pleural mesothelioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "gallbladder carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "angioimmunoblastic T-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "intrahepatic cholangiocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1637",
+        "name": "GEMCITABINE HYDROCHLORIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "DNA polymerase (alpha/delta/epsilon) inhibitor"
+            },
+            {
+              "mechanismOfAction": "Ribonucleoside-diphosphate reductase RR1 inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "nasopharyngeal neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "urethra cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Thromboembolism"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "colorectal cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "pancreatic ductal adenocarcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cervical cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "liver cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "triple-negative breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "male breast carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "urinary bladder carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck malignant neoplasia"
+              }
+            },
+            {
+              "disease": {
+                "name": "gallbladder cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "mesothelioma"
+              }
+            },
+            {
+              "disease": {
+                "name": "kidney cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "Malignant Pancreatic Neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Uterine Carcinosarcoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1750",
+        "name": "CLOFARABINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "DNA polymerase (alpha/delta/epsilon) inhibitor"
+            },
+            {
+              "mechanismOfAction": "Ribonucleoside-diphosphate reductase RR1 inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "acute lymphoblastic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "Langerhans Cell Histiocytosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "osteopetrosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "chronic myelomonocytic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm of mature B-cells"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute myeloid leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "chronic lymphocytic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "myelodysplastic syndrome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1096882",
+        "name": "FLUDARABINE PHOSPHATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "DNA polymerase (alpha/delta/epsilon) inhibitor"
+            },
+            {
+              "mechanismOfAction": "Ribonucleoside-diphosphate reductase RR1 inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse large B-cell lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple sclerosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "head and neck malignant neoplasia"
+              }
+            },
+            {
+              "disease": {
+                "name": "chronic lymphocytic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "neuroblastoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute lymphoblastic leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "kidney cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "renal cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cutaneous melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "systemic scleroderma"
+              }
+            },
+            {
+              "disease": {
+                "name": "graft versus host disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-Hodgkins lymphoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "sickle cell disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "bone marrow failure syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Histiocytosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoid leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute myeloid leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "myelodysplastic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "leukemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "lymphoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4297599",
+        "name": "ASPACYTARABINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "DNA polymerase (alpha/delta/epsilon) inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "acute myeloid leukemia by FAB classification"
+              }
+            },
+            {
+              "disease": {
+                "name": "myelodysplastic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute myeloid leukemia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

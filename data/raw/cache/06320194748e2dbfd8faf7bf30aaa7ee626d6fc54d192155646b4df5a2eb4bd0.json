@@ -1,0 +1,1119 @@
+{
+  "approvedSymbol": "GLP1R",
+  "drugs": [
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4518483",
+        "name": "DANUGLIPRON",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic fatty liver disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL414357",
+        "name": "EXENATIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "alcohol dependence"
+              }
+            },
+            {
+              "disease": {
+                "name": "cardiovascular disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Parkinson disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Ischemic stroke"
+              }
+            },
+            {
+              "disease": {
+                "name": "Weight loss"
+              }
+            },
+            {
+              "disease": {
+                "name": "smoking cessation"
+              }
+            },
+            {
+              "disease": {
+                "name": "coronary artery disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "hyperinsulinemic hypoglycemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "hyperlipidemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "cocaine use disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "polycystic ovary syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple system atrophy"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic fatty liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "prediabetes syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "myocardial infarction"
+              }
+            },
+            {
+              "disease": {
+                "name": "morbid obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "Renal insufficiency"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 1 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute myocardial infarction"
+              }
+            },
+            {
+              "disease": {
+                "name": "Prader-Willi syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "cerebral small vessel disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4297630",
+        "name": "COTADUTIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon receptor agonist"
+            },
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Renal insufficiency"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic fatty liver disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL4084119",
+        "name": "LIRAGLUTIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "eating disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "ischemic cardiomyopathy"
+              }
+            },
+            {
+              "disease": {
+                "name": "psoriasis"
+              }
+            },
+            {
+              "disease": {
+                "name": "heart failure"
+              }
+            },
+            {
+              "disease": {
+                "name": "maturity-onset diabetes of the young"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hyperglycemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "bipolar disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic steatohepatitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "sleep apnea"
+              }
+            },
+            {
+              "disease": {
+                "name": "metabolic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "nutritional disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 1 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "prediabetes syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "gestational diabetes"
+              }
+            },
+            {
+              "disease": {
+                "name": "morbid obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "opioid dependence"
+              }
+            },
+            {
+              "disease": {
+                "name": "Weight loss"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetic nephropathy"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "Overweight"
+              }
+            },
+            {
+              "disease": {
+                "name": "MODY"
+              }
+            },
+            {
+              "disease": {
+                "name": "delirium"
+              }
+            },
+            {
+              "disease": {
+                "name": "Alzheimer disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "short bowel syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "Parkinson disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "pouchitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "major depressive disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "abnormal glucose tolerance"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4650495",
+        "name": "PEGSEBRENATIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Parkinson disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Alzheimer disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL2108724",
+        "name": "SEMAGLUTIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "major depressive disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Osteopenia"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "Other metabolic disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "pseudotumor cerebri"
+              }
+            },
+            {
+              "disease": {
+                "name": "cirrhosis of liver"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetic nephropathy"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "polycystic ovary syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "nutritional disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "inherited obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "Parkinson disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Alzheimer disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "alcohol dependence"
+              }
+            },
+            {
+              "disease": {
+                "name": "metabolic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic steatohepatitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "hyperlipidemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "alcohol abuse"
+              }
+            },
+            {
+              "disease": {
+                "name": "pulmonary embolism"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic fatty liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "overweight body mass index status"
+              }
+            },
+            {
+              "disease": {
+                "name": "cocaine use disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "Klinefelter's syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "drug dependence"
+              }
+            },
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "Ischemic stroke"
+              }
+            },
+            {
+              "disease": {
+                "name": "opioid use disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "metabolic disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 1 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "asthma"
+              }
+            },
+            {
+              "disease": {
+                "name": "cardiovascular disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "coronary artery disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "nicotine dependence"
+              }
+            },
+            {
+              "disease": {
+                "name": "hypertension"
+              }
+            },
+            {
+              "disease": {
+                "name": "methamphetamine dependence"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL5095485",
+        "name": "RETATRUTIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Gastric inhibitory polypeptide receptor agonist"
+            },
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            },
+            {
+              "mechanismOfAction": "Glucagon receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hepatic failure"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "Renal insufficiency"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL2107860",
+        "name": "TASPOGLUTIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 1 diabetes mellitus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL3990012",
+        "name": "PEGAPAMODUTIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL2108336",
+        "name": "LIXISENATIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "Parkinson disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 1 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "acute coronary syndrome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL2107841",
+        "name": "ALBIGLUTIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "congestive heart failure"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4297576",
+        "name": "EFINOPEGDUTIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon receptor agonist"
+            },
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "non-alcoholic steatohepatitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic fatty liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "chronic renal failure syndrome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL4297839",
+        "name": "TIRZEPATIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            },
+            {
+              "mechanismOfAction": "Gastric inhibitory polypeptide receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "chronic kidney disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic steatohepatitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hepatic failure"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "hypertension"
+              }
+            },
+            {
+              "disease": {
+                "name": "hyperlipidemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 1 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "endometrial cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "overweight body mass index status"
+              }
+            },
+            {
+              "disease": {
+                "name": "Wolfram syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "morbid obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "hidradenitis suppurativa"
+              }
+            },
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL5314776",
+        "name": "SURVODUTIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            },
+            {
+              "mechanismOfAction": "Glucagon receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "chronic kidney disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic fatty liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic steatohepatitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL4650470",
+        "name": "EFPEGLENATIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL2108027",
+        "name": "DULAGLUTIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "chronic kidney disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Polydipsia"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 1 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes nephropathy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL4297949",
+        "name": "AVEXITIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Glucagon-like peptide 1 receptor antagonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "nutritional disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "familial hyperinsulinism"
+              }
+            },
+            {
+              "disease": {
+                "name": "hyperinsulinemic hypoglycemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "congenital isolated hyperinsulinism"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hypoglycemia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL4084119",
+      "name": "LIRAGLUTIDE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Glucagon-like peptide 1 receptor agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "eating disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "ischemic cardiomyopathy"
+            }
+          },
+          {
+            "disease": {
+              "name": "psoriasis"
+            }
+          },
+          {
+            "disease": {
+              "name": "heart failure"
+            }
+          },
+          {
+            "disease": {
+              "name": "maturity-onset diabetes of the young"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hyperglycemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "bipolar disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-alcoholic steatohepatitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "sleep apnea"
+            }
+          },
+          {
+            "disease": {
+              "name": "metabolic syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "nutritional disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 1 diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "prediabetes syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "obesity"
+            }
+          },
+          {
+            "disease": {
+              "name": "gestational diabetes"
+            }
+          },
+          {
+            "disease": {
+              "name": "morbid obesity"
+            }
+          },
+          {
+            "disease": {
+              "name": "opioid dependence"
+            }
+          },
+          {
+            "disease": {
+              "name": "Weight loss"
+            }
+          },
+          {
+            "disease": {
+              "name": "diabetic nephropathy"
+            }
+          },
+          {
+            "disease": {
+              "name": "diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "Overweight"
+            }
+          },
+          {
+            "disease": {
+              "name": "MODY"
+            }
+          },
+          {
+            "disease": {
+              "name": "delirium"
+            }
+          },
+          {
+            "disease": {
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "short bowel syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "pouchitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "major depressive disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "abnormal glucose tolerance"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

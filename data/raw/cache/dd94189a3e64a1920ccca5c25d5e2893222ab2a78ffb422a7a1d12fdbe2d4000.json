@@ -1,0 +1,28 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL4650218",
+      "name": "DANUGLIPRON TROMETHAMINE",
+      "mechanismsOfAction": null,
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "obesity"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-alcoholic fatty liver disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

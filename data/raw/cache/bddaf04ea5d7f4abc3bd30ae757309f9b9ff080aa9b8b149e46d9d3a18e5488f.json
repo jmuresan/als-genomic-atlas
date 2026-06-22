@@ -1,0 +1,139 @@
+{
+  "atc_classifications": [
+    "A10BJ05"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29586,
+        "component_type": "Protein",
+        "description": "Sequence",
+        "organism": null,
+        "sequence": "HGEGTFTSDVSSYLEEQAAKEFIAWLVKGGGGGGGSGGGGSGGGGSAESKYGPPCPPCPAPEAAGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLG",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2108027"
+  },
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "dulaglutide",
+      "xref_name": "dulaglutide",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/trulicity",
+      "xref_name": "trulicity",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2014,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL2108027",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2108027",
+    "molecule_chembl_id": "CHEMBL2108027",
+    "parent_chembl_id": "CHEMBL2108027"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Dulaglutida",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "DULAGLUTIDA"
+    },
+    {
+      "molecule_synonym": "Dulaglutide",
+      "syn_type": "ATC",
+      "synonyms": "DULAGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Dulaglutide",
+      "syn_type": "BNF",
+      "synonyms": "DULAGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Dulaglutide",
+      "syn_type": "EMA",
+      "synonyms": "DULAGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Dulaglutide",
+      "syn_type": "FDA",
+      "synonyms": "DULAGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Dulaglutide",
+      "syn_type": "INN",
+      "synonyms": "DULAGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Dulaglutide",
+      "syn_type": "JAN",
+      "synonyms": "DULAGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Dulaglutide",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "DULAGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Dulaglutide",
+      "syn_type": "OTHER",
+      "synonyms": "DULAGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Dulaglutide",
+      "syn_type": "USAN",
+      "synonyms": "DULAGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Dulaglutide component of trulicity",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "DULAGLUTIDE COMPONENT OF TRULICITY"
+    },
+    {
+      "molecule_synonym": "LY-2189265",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LY-2189265"
+    },
+    {
+      "molecule_synonym": "LY2189265",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LY2189265"
+    },
+    {
+      "molecule_synonym": "Trulicity",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "TRULICITY"
+    }
+  ],
+  "molecule_type": "Protein",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "DULAGLUTIDE",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-tide",
+  "usan_stem_definition": "peptides: glucagon-like peptide (GLP) analogs",
+  "usan_substem": "-tide (-glutide)",
+  "usan_year": 2009,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

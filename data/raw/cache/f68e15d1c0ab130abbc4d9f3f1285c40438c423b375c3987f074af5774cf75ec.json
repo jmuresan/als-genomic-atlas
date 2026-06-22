@@ -1,0 +1,97 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL2107860",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2107860",
+    "molecule_chembl_id": "CHEMBL2107860",
+    "parent_chembl_id": "CHEMBL2107860"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "BIM-51077",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BIM-51077"
+    },
+    {
+      "molecule_synonym": "BIM51077",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BIM51077"
+    },
+    {
+      "molecule_synonym": "R-1583",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "R-1583"
+    },
+    {
+      "molecule_synonym": "R1583",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "R1583"
+    },
+    {
+      "molecule_synonym": "RO-5073031",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO-5073031"
+    },
+    {
+      "molecule_synonym": "RO5073031",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO5073031"
+    },
+    {
+      "molecule_synonym": "Taspoglutida",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "TASPOGLUTIDA"
+    },
+    {
+      "molecule_synonym": "Taspoglutide",
+      "syn_type": "USAN",
+      "synonyms": "Taspoglutide"
+    },
+    {
+      "molecule_synonym": "Taspoglutide",
+      "syn_type": "INN",
+      "synonyms": "TASPOGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Taspoglutide",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "TASPOGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Taspoglutide",
+      "syn_type": "OTHER",
+      "synonyms": "TASPOGLUTIDE"
+    }
+  ],
+  "molecule_type": "Protein",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "TASPOGLUTIDE",
+  "prodrug": 0,
+  "structure_type": "NONE",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-tide",
+  "usan_stem_definition": "peptides: glucagon-like peptide (GLP) analogs",
+  "usan_substem": "-tide (-glutide)",
+  "usan_year": 2008,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

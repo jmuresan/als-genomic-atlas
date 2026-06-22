@@ -1,0 +1,23 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL4802250",
+      "name": "ASPACYTARABINE HYDROCHLORIDE",
+      "mechanismsOfAction": null,
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "myelodysplastic syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute myeloid leukemia"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

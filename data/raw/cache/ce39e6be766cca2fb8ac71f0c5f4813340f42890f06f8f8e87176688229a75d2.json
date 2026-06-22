@@ -1,0 +1,157 @@
+{
+  "atc_classifications": [
+    "A10BX16"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 30773,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "YX1EGTFTSDYSIX1LDKIAQK1AFVQWLIAGGPSSGAPPPS1",
+        "tax_id": null
+      },
+      {
+        "component_id": 28873,
+        "component_type": null,
+        "description": "Modified residues",
+        "organism": null,
+        "sequence": "X1(SMILES):CC(C)(N)C(O)=O$S1(SMILES):N[C@@H](CO)C(N)=O$K1(SMILES):N[C@@H](CCCNC(=O)COCNOCCNC(=O)COCCOCCNC(=O)CC[C@H](NC(=O)CCCCCCCCCCCCCCCCCCC(O)=O)C(O)=O)C(O)=O",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4297839"
+  },
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/mounjaro",
+      "xref_name": "mounjaro",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2022,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL4297839",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297839",
+    "molecule_chembl_id": "CHEMBL4297839",
+    "parent_chembl_id": "CHEMBL4297839"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "BG-121",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BG-121"
+    },
+    {
+      "molecule_synonym": "LY-3298176",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LY-3298176"
+    },
+    {
+      "molecule_synonym": "Ly3298176",
+      "syn_type": "OTHER",
+      "synonyms": "LY3298176"
+    },
+    {
+      "molecule_synonym": "LY3298176",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LY3298176"
+    },
+    {
+      "molecule_synonym": "Mounjaro",
+      "syn_type": "OTHER",
+      "synonyms": "MOUNJARO"
+    },
+    {
+      "molecule_synonym": "Mounjaro",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "MOUNJARO"
+    },
+    {
+      "molecule_synonym": "Mounjaro (autoinjector)",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "MOUNJARO (AUTOINJECTOR)"
+    },
+    {
+      "molecule_synonym": "Tirzepatida",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "TIRZEPATIDA"
+    },
+    {
+      "molecule_synonym": "Tirzepatide",
+      "syn_type": "ATC",
+      "synonyms": "TIRZEPATIDE"
+    },
+    {
+      "molecule_synonym": "Tirzepatide",
+      "syn_type": "EMA",
+      "synonyms": "TIRZEPATIDE"
+    },
+    {
+      "molecule_synonym": "Tirzepatide",
+      "syn_type": "FDA",
+      "synonyms": "TIRZEPATIDE"
+    },
+    {
+      "molecule_synonym": "Tirzepatide",
+      "syn_type": "INN",
+      "synonyms": "TIRZEPATIDE"
+    },
+    {
+      "molecule_synonym": "Tirzepatide",
+      "syn_type": "OTHER",
+      "synonyms": "TIRZEPATIDE"
+    },
+    {
+      "molecule_synonym": "Tirzepatide",
+      "syn_type": "USAN",
+      "synonyms": "TIRZEPATIDE"
+    },
+    {
+      "molecule_synonym": "Zepbound",
+      "syn_type": "OTHER",
+      "synonyms": "ZEPBOUND"
+    },
+    {
+      "molecule_synonym": "Zepbound",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "ZEPBOUND"
+    },
+    {
+      "molecule_synonym": "Zepbound (autoinjector)",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "ZEPBOUND (AUTOINJECTOR)"
+    }
+  ],
+  "molecule_type": "Protein",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "TIRZEPATIDE",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-tide",
+  "usan_stem_definition": "peptides: glucose-dependent insulinotropic polypeptide (GIP) receptor agonists",
+  "usan_substem": "-tide (-patide)",
+  "usan_year": 2017,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,110 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 30918,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "11-11' $ 43-103 $ 43'-103' $ 149-207 $ 149'-207'",
+        "tax_id": null
+      },
+      {
+        "component_id": 31133,
+        "component_type": "Protein",
+        "description": "Sequence: monomer",
+        "organism": null,
+        "sequence": "PSCPAPEFLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLGK",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4297576"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/EFINOPEGDUTIDE/relevant/1/",
+      "xref_name": "EFINOPEGDUTIDE",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL4297576",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297576",
+    "molecule_chembl_id": "CHEMBL4297576",
+    "parent_chembl_id": "CHEMBL4297576"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Efinopegdutida",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "EFINOPEGDUTIDA"
+    },
+    {
+      "molecule_synonym": "Efinopegdutide",
+      "syn_type": "INN",
+      "synonyms": "EFINOPEGDUTIDE"
+    },
+    {
+      "molecule_synonym": "Efinopegdutide",
+      "syn_type": "OTHER",
+      "synonyms": "EFINOPEGDUTIDE"
+    },
+    {
+      "molecule_synonym": "Efinopegdutide",
+      "syn_type": "USAN",
+      "synonyms": "EFINOPEGDUTIDE"
+    },
+    {
+      "molecule_synonym": "HM-12525A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HM-12525A"
+    },
+    {
+      "molecule_synonym": "HM12525A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HM12525A"
+    },
+    {
+      "molecule_synonym": "Jnj-64565111",
+      "syn_type": "OTHER",
+      "synonyms": "JNJ-64565111"
+    },
+    {
+      "molecule_synonym": "JNJ-64565111",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "JNJ-64565111"
+    }
+  ],
+  "molecule_type": "Protein",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "EFINOPEGDUTIDE",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "ef-; -peg-; -tide",
+  "usan_stem_definition": "Fc fusion protein; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer; peptides: oxyntomodulin analogs",
+  "usan_substem": "ef-; -peg-; -tide (-dutide)",
+  "usan_year": 2019,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

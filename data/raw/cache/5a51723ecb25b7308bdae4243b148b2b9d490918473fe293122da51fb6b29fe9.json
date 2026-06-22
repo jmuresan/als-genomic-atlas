@@ -1,0 +1,155 @@
+{
+  "atc_classifications": [
+    "L01BB06"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/evoltra",
+      "xref_name": "evoltra",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "clofarabine",
+      "xref_name": "clofarabine",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/ivozall",
+      "xref_name": "ivozall",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2004,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL1750",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1201370",
+    "molecule_chembl_id": "CHEMBL1750",
+    "parent_chembl_id": "CHEMBL1750"
+  },
+  "molecule_properties": {
+    "alogp": "-0.35",
+    "aromatic_rings": 2,
+    "full_molformula": "C10H11ClFN5O3",
+    "full_mwt": "303.68",
+    "hba": 8,
+    "hbd": 3,
+    "heavy_atoms": 20,
+    "mw_freebase": "303.68",
+    "np_likeness_score": "0.63",
+    "num_ro5_violations": 0,
+    "psa": "119.31",
+    "qed_weighted": "0.65",
+    "ro3_pass": "N",
+    "rtb": 2
+  },
+  "molecule_structures": {
+    "canonical_smiles": "Nc1nc(Cl)nc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1F",
+    "molfile": "\n     RDKit          2D\n\n 20 22  0  0  0  0  0  0  0  0999 V2000\n   -2.1223   -2.6190    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2085   -1.7985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5411   -1.3136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5411   -0.4886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7564   -1.5686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.5015   -2.3532    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.2715   -0.9011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5535   -0.9011    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7564   -0.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.5015    0.5509    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9864    1.2184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.5015    1.8858    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2831    1.6309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2831    0.8059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9976    0.3934    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.7121    0.8059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4265    0.3934    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    1.7121    1.6309    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9976    2.0434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9976    2.8684    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  1  0\n  3  2  1  1\n  3  4  1  0\n  5  3  1  0\n  9  4  1  0\n  5  6  1  6\n  7  5  1  0\n  7  8  1  1\n  9  7  1  0\n  9 10  1  1\n 11 10  1  0\n 14 10  1  0\n 11 12  2  0\n 13 12  1  0\n 14 13  2  0\n 13 19  1  0\n 14 15  1  0\n 16 15  2  0\n 16 17  1  0\n 16 18  1  0\n 19 18  2  0\n 19 20  1  0\nM  END\n> <chembl_id>\nCHEMBL1750\n\n> <chembl_pref_name>\nCLOFARABINE",
+    "standard_inchi": "InChI=1S/C10H11ClFN5O3/c11-10-15-7(13)5-8(16-10)17(2-14-5)9-4(12)6(19)3(1-18)20-9/h2-4,6,9,18-19H,1H2,(H2,13,15,16)/t3-,4+,6-,9-/m1/s1",
+    "standard_inchi_key": "WDDPHFBMKLOVOX-AYQXTPAHSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Clofarabina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "CLOFARABINA"
+    },
+    {
+      "molecule_synonym": "Clofarabine",
+      "syn_type": "ATC",
+      "synonyms": "CLOFARABINE"
+    },
+    {
+      "molecule_synonym": "Clofarabine",
+      "syn_type": "BAN",
+      "synonyms": "CLOFARABINE"
+    },
+    {
+      "molecule_synonym": "Clofarabine",
+      "syn_type": "BNF",
+      "synonyms": "CLOFARABINE"
+    },
+    {
+      "molecule_synonym": "Clofarabine",
+      "syn_type": "EMA",
+      "synonyms": "CLOFARABINE"
+    },
+    {
+      "molecule_synonym": "Clofarabine",
+      "syn_type": "FDA",
+      "synonyms": "CLOFARABINE"
+    },
+    {
+      "molecule_synonym": "Clofarabine",
+      "syn_type": "INN",
+      "synonyms": "CLOFARABINE"
+    },
+    {
+      "molecule_synonym": "Clofarabine",
+      "syn_type": "JAN",
+      "synonyms": "CLOFARABINE"
+    },
+    {
+      "molecule_synonym": "Clofarabine",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "CLOFARABINE"
+    },
+    {
+      "molecule_synonym": "Clofarabine",
+      "syn_type": "OTHER",
+      "synonyms": "CLOFARABINE"
+    },
+    {
+      "molecule_synonym": "Clofarabine",
+      "syn_type": "USAN",
+      "synonyms": "CLOFARABINE"
+    },
+    {
+      "molecule_synonym": "Clolar",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "CLOLAR"
+    },
+    {
+      "molecule_synonym": "Evoltra",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "EVOLTRA"
+    },
+    {
+      "molecule_synonym": "Ivozall",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "IVOZALL"
+    },
+    {
+      "molecule_synonym": "NSC-759857",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NSC-759857"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "CLOFARABINE",
+  "prodrug": 1,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-arabine",
+  "usan_stem_definition": "antineoplastics (arabinofuranosyl derivatives)",
+  "usan_substem": "-arabine",
+  "usan_year": 2003,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

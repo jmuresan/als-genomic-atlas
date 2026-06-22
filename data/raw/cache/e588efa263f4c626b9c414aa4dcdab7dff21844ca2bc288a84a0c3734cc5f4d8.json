@@ -1,0 +1,133 @@
+{
+  "atc_classifications": [],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "gemcitabine%20hydrochloride",
+      "xref_name": "gemcitabine hydrochloride",
+      "xref_src": "DailyMed"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 1996,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL1637",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL888",
+    "molecule_chembl_id": "CHEMBL1637",
+    "parent_chembl_id": "CHEMBL888"
+  },
+  "molecule_properties": {
+    "alogp": "-1.29",
+    "aromatic_rings": 1,
+    "full_molformula": "C9H12ClF2N3O4",
+    "full_mwt": "299.66",
+    "hba": 7,
+    "hbd": 3,
+    "heavy_atoms": 18,
+    "mw_freebase": "263.20",
+    "np_likeness_score": "1.30",
+    "num_ro5_violations": 0,
+    "psa": "110.60",
+    "qed_weighted": "0.61",
+    "ro3_pass": "N",
+    "rtb": 2
+  },
+  "molecule_structures": {
+    "canonical_smiles": "Cl.Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)C2(F)F)c(=O)n1",
+    "molfile": "\n     RDKit          2D\n\n 19 19  0  0  0  0  0  0  0  0999 V2000\n    7.6417   -4.6250    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    6.0667   -2.4792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    5.8542   -4.0958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0750   -3.4208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4583   -2.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4583   -1.4167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    5.1500   -4.0958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.5000   -3.0042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    6.6792   -2.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.9292   -3.4208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.6792   -1.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0667   -1.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.8417   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    6.2042   -4.7042    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    6.5625   -4.0917    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7333   -4.6667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0667   -0.3542    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    4.3125   -3.0667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6958   -3.4167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  3  4  1  0\n  4  2  1  1\n  5  2  1  0\n  6  5  1  0\n  7  3  1  0\n  8  4  1  0\n  9  2  1  0\n 10  8  1  0\n 11  9  2  0\n 12 11  1  0\n 13  5  2  0\n 14  3  1  0\n 15  3  1  0\n  7 16  1  6\n 17 12  1  0\n 10 18  1  1\n 19 18  1  0\n  7 10  1  0\n 12  6  2  0\nM  END\n> <chembl_id>\nCHEMBL1637\n\n> <chembl_pref_name>\nGEMCITABINE HYDROCHLORIDE",
+    "standard_inchi": "InChI=1S/C9H11F2N3O4.ClH/c10-9(11)6(16)4(3-15)18-7(9)14-2-1-5(12)13-8(14)17;/h1-2,4,6-7,15-16H,3H2,(H2,12,13,17);1H/t4-,6-,7-;/m1./s1",
+    "standard_inchi_key": "OKKDEIYWILRZIA-OSZBKLCCSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Gemcitabine (as hydrochloride)",
+      "syn_type": "OTHER",
+      "synonyms": "GEMCITABINE (AS HYDROCHLORIDE)"
+    },
+    {
+      "molecule_synonym": "Gemcitabine hcl",
+      "syn_type": "OTHER",
+      "synonyms": "GEMCITABINE HCL"
+    },
+    {
+      "molecule_synonym": "Gemcitabine hydrochloride",
+      "syn_type": "FDA",
+      "synonyms": "GEMCITABINE HYDROCHLORIDE"
+    },
+    {
+      "molecule_synonym": "Gemcitabine hydrochloride",
+      "syn_type": "JAN",
+      "synonyms": "GEMCITABINE HYDROCHLORIDE"
+    },
+    {
+      "molecule_synonym": "Gemcitabine hydrochloride",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "GEMCITABINE HYDROCHLORIDE"
+    },
+    {
+      "molecule_synonym": "Gemcitabine hydrochloride",
+      "syn_type": "OTHER",
+      "synonyms": "GEMCITABINE HYDROCHLORIDE"
+    },
+    {
+      "molecule_synonym": "Gemcitabine hydrochloride",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "GEMCITABINE HYDROCHLORIDE"
+    },
+    {
+      "molecule_synonym": "Gemcitabine hydrochloride",
+      "syn_type": "USAN",
+      "synonyms": "GEMCITABINE HYDROCHLORIDE"
+    },
+    {
+      "molecule_synonym": "Gemcitabine hydrochloride",
+      "syn_type": "USP",
+      "synonyms": "GEMCITABINE HYDROCHLORIDE"
+    },
+    {
+      "molecule_synonym": "Gemzar",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "GEMZAR"
+    },
+    {
+      "molecule_synonym": "Infugem",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "INFUGEM"
+    },
+    {
+      "molecule_synonym": "LY-188011 HYDROCHLORIDE",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LY-188011 HYDROCHLORIDE"
+    },
+    {
+      "molecule_synonym": "LY188011 HYDROCHLORIDE",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LY188011 HYDROCHLORIDE"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "GEMCITABINE HYDROCHLORIDE",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-citabine",
+  "usan_stem_definition": "nucleoside antiviral or antineoplastic agents, cytarabine or azarabine derivatives",
+  "usan_substem": "-citabine",
+  "usan_year": 1990,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

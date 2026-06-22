@@ -1,0 +1,94 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 28700,
+        "component_type": null,
+        "description": "Modified residues",
+        "organism": null,
+        "sequence": "B1(SMILES):CC(C)(N)C(O)=O$C1C2(SMILES):[H][C@@](N)(CSC1CC(=O)N(CCC(=O)NCCCOCCOC)C1=O)C(=O)N[C@]([H])(CSC1CC(=O)N(CCC(=O)NCCCOCCOC)C1=O)C(N)=O |r,Sg:n:18,19,20::ht,Sg:n:45,46,47::ht|",
+        "tax_id": null
+      },
+      {
+        "component_id": 28699,
+        "component_type": "Protein",
+        "description": "Sequence",
+        "organism": null,
+        "sequence": "HB1QGTFTSDYSKYLDSKKAQEFVQWLLNB1GRNRNNIAC1C2",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3990012"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL3990012",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3990012",
+    "molecule_chembl_id": "CHEMBL3990012",
+    "parent_chembl_id": "CHEMBL3990012"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "LY-2944876",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LY-2944876"
+    },
+    {
+      "molecule_synonym": "LY2944876",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LY2944876"
+    },
+    {
+      "molecule_synonym": "Pegapamodutida",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "PEGAPAMODUTIDA"
+    },
+    {
+      "molecule_synonym": "Pegapamodutide",
+      "syn_type": "INN",
+      "synonyms": "PEGAPAMODUTIDE"
+    },
+    {
+      "molecule_synonym": "Pegapamodutide",
+      "syn_type": "OTHER",
+      "synonyms": "PEGAPAMODUTIDE"
+    },
+    {
+      "molecule_synonym": "Pegapamodutide",
+      "syn_type": "USAN",
+      "synonyms": "PEGAPAMODUTIDE"
+    }
+  ],
+  "molecule_type": "Protein",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "PEGAPAMODUTIDE",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "peg-; -tide",
+  "usan_stem_definition": "PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer; peptides: oxyntomodulin analogs",
+  "usan_substem": "peg-; -tide (-dutide)",
+  "usan_year": 2016,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

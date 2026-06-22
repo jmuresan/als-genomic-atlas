@@ -1,0 +1,154 @@
+{
+  "atc_classifications": [
+    "A10BJ03"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29886,
+        "component_type": "Protein",
+        "description": "Sequence",
+        "organism": null,
+        "sequence": "HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPSKKKKKK",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2108336"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "lixisenatide",
+      "xref_name": "lixisenatide",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/lyxumia",
+      "xref_name": "lyxumia",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2013,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL2108336",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2108336",
+    "molecule_chembl_id": "CHEMBL2108336",
+    "parent_chembl_id": "CHEMBL2108336"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "AVE-0010",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AVE-0010"
+    },
+    {
+      "molecule_synonym": "AVE0010",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AVE0010"
+    },
+    {
+      "molecule_synonym": "AVE 010",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AVE 010"
+    },
+    {
+      "molecule_synonym": "AVE-010",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AVE-010"
+    },
+    {
+      "molecule_synonym": "Lixisenatida",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "LIXISENATIDA"
+    },
+    {
+      "molecule_synonym": "Lixisenatide",
+      "syn_type": "ATC",
+      "synonyms": "LIXISENATIDE"
+    },
+    {
+      "molecule_synonym": "Lixisenatide",
+      "syn_type": "BNF",
+      "synonyms": "LIXISENATIDE"
+    },
+    {
+      "molecule_synonym": "Lixisenatide",
+      "syn_type": "EMA",
+      "synonyms": "LIXISENATIDE"
+    },
+    {
+      "molecule_synonym": "Lixisenatide",
+      "syn_type": "INN",
+      "synonyms": "LIXISENATIDE"
+    },
+    {
+      "molecule_synonym": "Lixisenatide",
+      "syn_type": "JAN",
+      "synonyms": "LIXISENATIDE"
+    },
+    {
+      "molecule_synonym": "Lixisenatide",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "LIXISENATIDE"
+    },
+    {
+      "molecule_synonym": "Lixisenatide",
+      "syn_type": "OTHER",
+      "synonyms": "LIXISENATIDE"
+    },
+    {
+      "molecule_synonym": "Lixisenatide",
+      "syn_type": "USAN",
+      "synonyms": "LIXISENATIDE"
+    },
+    {
+      "molecule_synonym": "Lixisenatide component of soliqua 100/33",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "LIXISENATIDE COMPONENT OF SOLIQUA 100/33"
+    },
+    {
+      "molecule_synonym": "Lyxumia",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "LYXUMIA"
+    },
+    {
+      "molecule_synonym": "ZP 10",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ZP 10"
+    },
+    {
+      "molecule_synonym": "ZP-10",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ZP-10"
+    }
+  ],
+  "molecule_type": "Protein",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "LIXISENATIDE",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-tide",
+  "usan_stem_definition": "peptides: exendin-4-derivatives",
+  "usan_substem": "-tide (-enatide)",
+  "usan_year": 2013,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

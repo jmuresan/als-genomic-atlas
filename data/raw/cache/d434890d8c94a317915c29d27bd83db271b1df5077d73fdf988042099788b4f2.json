@@ -1,0 +1,187 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1637",
+      "name": "GEMCITABINE HYDROCHLORIDE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "DNA polymerase (alpha/delta/epsilon) inhibitor"
+          },
+          {
+            "mechanismOfAction": "Ribonucleoside-diphosphate reductase RR1 inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "diffuse large B-cell lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "nasopharyngeal neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "pancreatic adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "sarcoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "lung cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "urethra cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "Thromboembolism"
+            }
+          },
+          {
+            "disease": {
+              "name": "urinary bladder cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "pancreatic carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "colorectal cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "pancreatic ductal adenocarcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cervical cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "liver cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "triple-negative breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "male breast carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "urinary bladder carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "head and neck malignant neoplasia"
+            }
+          },
+          {
+            "disease": {
+              "name": "gallbladder cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hodgkins lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "mesothelioma"
+            }
+          },
+          {
+            "disease": {
+              "name": "kidney cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "Malignant Pancreatic Neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Uterine Carcinosarcoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "atc_classifications": [
+    "A10BJ04"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/eperzan",
+      "xref_name": "eperzan",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2014,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL2107841",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2107841",
+    "molecule_chembl_id": "CHEMBL2107841",
+    "parent_chembl_id": "CHEMBL2107841"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Albiglutida",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "ALBIGLUTIDA"
+    },
+    {
+      "molecule_synonym": "Albiglutide",
+      "syn_type": "ATC",
+      "synonyms": "ALBIGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Albiglutide",
+      "syn_type": "BNF",
+      "synonyms": "ALBIGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Albiglutide",
+      "syn_type": "EMA",
+      "synonyms": "ALBIGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Albiglutide",
+      "syn_type": "FDA",
+      "synonyms": "ALBIGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Albiglutide",
+      "syn_type": "INN",
+      "synonyms": "ALBIGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Albiglutide",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "ALBIGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Albiglutide",
+      "syn_type": "OTHER",
+      "synonyms": "ALBIGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Albiglutide",
+      "syn_type": "USAN",
+      "synonyms": "ALBIGLUTIDE"
+    },
+    {
+      "molecule_synonym": "Albiglutide (genetical recombination)",
+      "syn_type": "JAN",
+      "synonyms": "ALBIGLUTIDE (GENETICAL RECOMBINATION)"
+    },
+    {
+      "molecule_synonym": "Eperzan",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "EPERZAN"
+    },
+    {
+      "molecule_synonym": "GSK-716155",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "GSK-716155"
+    },
+    {
+      "molecule_synonym": "GSK716155",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "GSK716155"
+    },
+    {
+      "molecule_synonym": "Tanzeum",
+      "syn_type": "OTHER",
+      "synonyms": "TANZEUM"
+    }
+  ],
+  "molecule_type": "Protein",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "ALBIGLUTIDE",
+  "prodrug": 0,
+  "structure_type": "NONE",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-tide",
+  "usan_stem_definition": "peptides: glucagon-like peptide (GLP) analogs",
+  "usan_substem": "-tide (-glutide)",
+  "usan_year": 2007,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}
