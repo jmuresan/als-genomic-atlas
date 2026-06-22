@@ -1,6 +1,6 @@
 # ALS Genomic Atlas
 
-A publication-quality molecular and genomic landscape map of Amyotrophic Lateral Sclerosis (ALS) associated genes. Compiled dynamically from DuckDB containing multi-omics data integrated across 11 distinct categories.
+A reference compilation of molecular and genomic data for genes associated with Amyotrophic Lateral Sclerosis (ALS), generated from a DuckDB database and organized into 11 data categories.
 
 ## Table of Contents
 - [ALS2](#als2)
