@@ -185,12 +185,14 @@ def generate_report(db_path: str, output_path: str):
             else:
                 f.write("*No 3D structure mappings.*\n\n")
                 
-            # Category 9: Foldseek Structural Similarity Matches
+            # Category 9: Foldseek Structural Similarity Matches.
+            # Ordered by E-value ascending (most statistically significant
+            # alignments first); missing E-values sort last.
             foldseek = conn.execute("""
-                SELECT target_id, db, probability, query_coverage, evalue, seq_identity, alignment_length 
-                FROM foldseek_matches 
+                SELECT target_id, db, probability, query_coverage, evalue, seq_identity, alignment_length
+                FROM foldseek_matches
                 WHERE query_gene_symbol = ?
-                ORDER BY probability DESC
+                ORDER BY evalue ASC NULLS LAST
             """, [symbol]).fetchall()
             
             f.write("### Category 9: Foldseek Structural Similarity Matches\n")
@@ -208,17 +210,13 @@ def generate_report(db_path: str, output_path: str):
                 f.write("*No Foldseek structural similarity matches found.*\n\n")
                 
             # Category 10: Matched Target Drugs & Clinical Trials
-            # Ordered by structural similarity of the matched target (Foldseek
-            # match probability), highest on top — so drugs for the closest
-            # structural homologs surface first.
+            # Ordered by clinical phase (then status), highest on top, so the
+            # most advanced drugs/trials for matched targets surface first.
             matched_drugs = conn.execute("""
-                SELECT d.target_id, d.drug_or_trial_id, d.name_or_title, d.type, d.max_clinical_phase, d.mechanism_of_action, d.status, d.purpose
-                FROM foldseek_matched_drugs_trials d
-                WHERE d.query_gene_symbol = ?
-                ORDER BY (
-                    SELECT MAX(m.probability) FROM foldseek_matches m
-                    WHERE m.query_gene_symbol = d.query_gene_symbol AND m.target_id = d.target_id
-                ) DESC NULLS LAST
+                SELECT target_id, drug_or_trial_id, name_or_title, type, max_clinical_phase, mechanism_of_action, status, purpose
+                FROM foldseek_matched_drugs_trials
+                WHERE query_gene_symbol = ?
+                ORDER BY max_clinical_phase DESC NULLS LAST, status DESC NULLS LAST
             """, [symbol]).fetchall()
             
             f.write("### Category 10: Matched Target Drugs & Clinical Trials\n")
