@@ -1,0 +1,250 @@
+{
+  "atc_classifications": [
+    "M05BX04"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [],
+    "description": "Immunoglobulin G2, anti-(human tumor necrosis factor ligand superfamily member 11 (human osteoclast differentiation factor))(human monoclonal AMG162 heavy chain), disulfide with human monoclonal AMG162 light chain, dimer",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL1237023"
+  },
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "denosumab",
+      "xref_name": "denosumab",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/jubbonti",
+      "xref_name": "jubbonti",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "human/EPAR/prolia",
+      "xref_name": "prolia",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "human/EPAR/wyost",
+      "xref_name": "wyost",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "human/EPAR/xgeva",
+      "xref_name": "xgeva",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2010,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL1237023",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1237023",
+    "molecule_chembl_id": "CHEMBL1237023",
+    "parent_chembl_id": "CHEMBL1237023"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "AMG 162",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AMG 162"
+    },
+    {
+      "molecule_synonym": "AMG-162",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AMG-162"
+    },
+    {
+      "molecule_synonym": "AMG162",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AMG162"
+    },
+    {
+      "molecule_synonym": "Ct-p41",
+      "syn_type": "OTHER",
+      "synonyms": "CT-P41"
+    },
+    {
+      "molecule_synonym": "CTP-41",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CTP-41"
+    },
+    {
+      "molecule_synonym": "CTP41",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CTP41"
+    },
+    {
+      "molecule_synonym": "Denosumab",
+      "syn_type": "ATC",
+      "synonyms": "DENOSUMAB"
+    },
+    {
+      "molecule_synonym": "Denosumab",
+      "syn_type": "BNF",
+      "synonyms": "DENOSUMAB"
+    },
+    {
+      "molecule_synonym": "Denosumab",
+      "syn_type": "EMA",
+      "synonyms": "DENOSUMAB"
+    },
+    {
+      "molecule_synonym": "Denosumab",
+      "syn_type": "FDA",
+      "synonyms": "DENOSUMAB"
+    },
+    {
+      "molecule_synonym": "Denosumab",
+      "syn_type": "INN",
+      "synonyms": "DENOSUMAB"
+    },
+    {
+      "molecule_synonym": "Denosumab",
+      "syn_type": "JAN",
+      "synonyms": "DENOSUMAB"
+    },
+    {
+      "molecule_synonym": "Denosumab",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "DENOSUMAB"
+    },
+    {
+      "molecule_synonym": "Denosumab",
+      "syn_type": "OTHER",
+      "synonyms": "DENOSUMAB"
+    },
+    {
+      "molecule_synonym": "Denosumab",
+      "syn_type": "USAN",
+      "synonyms": "DENOSUMAB"
+    },
+    {
+      "molecule_synonym": "Denosumab-bbdz",
+      "syn_type": "OTHER",
+      "synonyms": "DENOSUMAB-BBDZ"
+    },
+    {
+      "molecule_synonym": "Denosumab biosimilar (ct-p41)",
+      "syn_type": "OTHER",
+      "synonyms": "DENOSUMAB BIOSIMILAR (CT-P41)"
+    },
+    {
+      "molecule_synonym": "Denosumab biosimilar (hlx-14)",
+      "syn_type": "OTHER",
+      "synonyms": "DENOSUMAB BIOSIMILAR (HLX-14)"
+    },
+    {
+      "molecule_synonym": "Denosumab biosimilar (ql-1206)",
+      "syn_type": "OTHER",
+      "synonyms": "DENOSUMAB BIOSIMILAR (QL-1206)"
+    },
+    {
+      "molecule_synonym": "Denosumab biosimilar tk-006",
+      "syn_type": "OTHER",
+      "synonyms": "DENOSUMAB BIOSIMILAR TK-006"
+    },
+    {
+      "molecule_synonym": "HLX-14",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HLX-14"
+    },
+    {
+      "molecule_synonym": "Hlx14",
+      "syn_type": "OTHER",
+      "synonyms": "HLX14"
+    },
+    {
+      "molecule_synonym": "Jubbonti",
+      "syn_type": "OTHER",
+      "synonyms": "JUBBONTI"
+    },
+    {
+      "molecule_synonym": "Jubbonti",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "JUBBONTI"
+    },
+    {
+      "molecule_synonym": "Prolia",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "PROLIA"
+    },
+    {
+      "molecule_synonym": "Prolia, ranmark xgeva",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "Prolia, Ranmark XGEVA"
+    },
+    {
+      "molecule_synonym": "Prolia, xgeva",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "PROLIA, XGEVA"
+    },
+    {
+      "molecule_synonym": "QL-1206",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "QL-1206"
+    },
+    {
+      "molecule_synonym": "Ql1206",
+      "syn_type": "OTHER",
+      "synonyms": "QL1206"
+    },
+    {
+      "molecule_synonym": "QL1206",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "QL1206"
+    },
+    {
+      "molecule_synonym": "TK-006",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TK-006"
+    },
+    {
+      "molecule_synonym": "TK006",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TK006"
+    },
+    {
+      "molecule_synonym": "Wyost",
+      "syn_type": "OTHER",
+      "synonyms": "WYOST"
+    },
+    {
+      "molecule_synonym": "Wyost",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "WYOST"
+    },
+    {
+      "molecule_synonym": "Xgeva",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "XGEVA"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "DENOSUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human",
+  "usan_substem": "-mab (-umab)",
+  "usan_year": 2005,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

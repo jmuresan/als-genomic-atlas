@@ -1,0 +1,98 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "PROC",
+      "drugAndClinicalCandidates": {
+        "count": 2,
+        "rows": [
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL5315087",
+              "name": "PROTEIN C CONCENTRATE (HUMAN)",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Vitamin K-dependent protein C exogenous protein"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "Purpura Fulminans"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "protein c deficiency"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "venous thromboembolism"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thrombophilia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Recurrent thrombophlebitis"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL6068614",
+              "name": "PROTHROMBIN COMPLEX CONCENTRATE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Coagulation factor VII exogenous protein"
+                  },
+                  {
+                    "mechanismOfAction": "Vitamin K-dependent protein S exogenous protein"
+                  },
+                  {
+                    "mechanismOfAction": "Coagulation factor IX exogenous protein"
+                  },
+                  {
+                    "mechanismOfAction": "Coagulation factor X exogenous protein"
+                  },
+                  {
+                    "mechanismOfAction": "Thrombin exogenous protein"
+                  },
+                  {
+                    "mechanismOfAction": "Vitamin K-dependent protein C exogenous protein"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "acquired coagulation factor deficiency"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thrombotic disease"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

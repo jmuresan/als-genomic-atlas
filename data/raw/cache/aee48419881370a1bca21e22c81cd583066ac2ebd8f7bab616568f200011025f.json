@@ -1,0 +1,27 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL181954",
+      "name": "NAVEGLITAZAR",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor gamma agonist"
+          },
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

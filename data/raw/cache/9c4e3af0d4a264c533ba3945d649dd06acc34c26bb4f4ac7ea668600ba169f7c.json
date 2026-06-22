@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL2104984",
+      "name": "SODELGLITAZAR",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "familial hyperlipidemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "metabolic syndrome"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "NRP1",
+      "drugAndClinicalCandidates": {
+        "count": 1,
+        "rows": [
+          {
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL1743089",
+              "name": "VESENCUMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Neuropilin-1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "molecules": [
+    {
+      "atc_classifications": [],
+      "availability_type": null,
+      "biotherapeutic": null,
+      "black_box_warning": 0,
+      "chemical_probe": 0,
+      "chirality": 2,
+      "cross_references": [],
+      "dosed_ingredient": false,
+      "first_approval": null,
+      "first_in_class": 0,
+      "helm_notation": null,
+      "inorganic_flag": 0,
+      "max_phase": "2.0",
+      "molecule_chembl_id": "CHEMBL424133",
+      "molecule_hierarchy": {
+        "active_chembl_id": "CHEMBL424133",
+        "molecule_chembl_id": "CHEMBL424133",
+        "parent_chembl_id": "CHEMBL424133"
+      },
+      "molecule_properties": {
+        "alogp": "3.76",
+        "aromatic_rings": 3,
+        "full_molformula": "C23H27N3O4",
+        "full_mwt": "409.49",
+        "hba": 6,
+        "hbd": 2,
+        "heavy_atoms": 30,
+        "mw_freebase": "409.49",
+        "np_likeness_score": "-0.77",
+        "num_ro5_violations": 0,
+        "psa": "97.47",
+        "qed_weighted": "0.56",
+        "ro3_pass": "N",
+        "rtb": 9
+      },
+      "molecule_structures": {
+        "canonical_smiles": "Cc1ccc(Cn2nc(CCCc3ccc(OC(C)(C)C(=O)O)cc3)nc2O)cc1",
+        "molfile": "\n     RDKit          2D\n\n 30 32  0  0  0  0  0  0  0  0999 V2000\n    1.5917    2.2083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1000    2.8708    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3750    2.4583    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5792    3.5458    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3667    3.2958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.1042    2.4958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.5250    1.7875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2750    2.8708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.3917    2.0833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.3417    1.4083    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    9.3542    1.7958    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    6.6667    2.4958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1375    2.1583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.1167    1.0708    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.2292    3.3208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9708    0.7208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.0792    3.7083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.6667    3.3208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.9542    2.0833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2750    1.4375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9708    2.1583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.3833    1.4458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1375    0.7208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.9542    3.7208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.2375    2.4875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.8250    2.9125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.7000    3.2125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.8042    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.5167    3.7208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.3833    0.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  1  0\n  3  1  2  0\n  4  2  1  0\n  5  3  1  0\n  6  9  1  0\n  7  6  1  0\n  8  2  1  0\n  9 12  1  0\n 10  1  1  0\n 11  7  2  0\n 12 19  1  0\n 13  8  1  0\n 14  7  1  0\n 15 29  1  0\n 16 22  2  0\n 17  5  1  0\n 18 24  1  0\n 19 25  2  0\n 20 13  1  0\n 21 13  2  0\n 22 21  1  0\n 23 20  2  0\n 24 15  2  0\n 25 15  1  0\n 26  6  1  0\n 27  6  1  0\n 28 17  1  0\n 29 28  1  0\n 30 16  1  0\n  4  5  2  0\n 16 23  1  0\n 18 12  2  0\nM  END\n> <chembl_id>\nCHEMBL424133\n\n> <chembl_pref_name>\nLY-518674",
+        "standard_inchi": "InChI=1S/C23H27N3O4/c1-16-7-9-18(10-8-16)15-26-22(29)24-20(25-26)6-4-5-17-11-13-19(14-12-17)30-23(2,3)21(27)28/h7-14H,4-6,15H2,1-3H3,(H,27,28)(H,24,25,29)",
+        "standard_inchi_key": "PNHFDVSKDSLUFH-UHFFFAOYSA-N"
+      },
+      "molecule_type": "Small molecule",
+      "natural_product": 1,
+      "oral": false,
+      "orphan": 0,
+      "parenteral": false,
+      "polymer_flag": 0,
+      "pref_name": "LY-518674",
+      "prodrug": 0,
+      "similarity": "100",
+      "structure_type": "MOL",
+      "therapeutic_flag": false,
+      "topical": false,
+      "usan_stem": null,
+      "usan_stem_definition": null,
+      "usan_substem": null,
+      "usan_year": null,
+      "veterinary": 0,
+      "withdrawn_flag": false
+    }
+  ],
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

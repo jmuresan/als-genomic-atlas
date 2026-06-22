@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1232583",
+      "name": "INDEGLITAZAR",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "diabetes mellitus"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1090771",
+      "name": "AVAGACESTAT",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Gamma-secretase inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "Alzheimer disease"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

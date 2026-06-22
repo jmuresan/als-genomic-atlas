@@ -1,0 +1,52 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1770916",
+      "name": "NIROGACESTAT",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Gamma-secretase inhibitor"
+          },
+          {
+            "mechanismOfAction": "Gamma-secretase inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "Desmoid-type fibromatosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "Alzheimer disease"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

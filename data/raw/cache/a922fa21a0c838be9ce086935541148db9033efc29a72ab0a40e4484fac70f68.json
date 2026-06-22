@@ -1,0 +1,24 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL4298153",
+      "name": "NIROGACESTAT HYDROBROMIDE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Gamma-secretase inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

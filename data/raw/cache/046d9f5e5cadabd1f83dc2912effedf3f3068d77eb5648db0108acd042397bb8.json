@@ -1,0 +1,87 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL563",
+      "name": "FLURBIPROFEN",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Cyclooxygenase inhibitor"
+          },
+          {
+            "mechanismOfAction": "Cyclooxygenase inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "anemia (phenotype)"
+            }
+          },
+          {
+            "disease": {
+              "name": "Pain"
+            }
+          },
+          {
+            "disease": {
+              "name": "Myalgia"
+            }
+          },
+          {
+            "disease": {
+              "name": "periodontitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Low back pain"
+            }
+          },
+          {
+            "disease": {
+              "name": "rheumatoid arthritis"
+            }
+          },
+          {
+            "disease": {
+              "name": "eye inflammation"
+            }
+          },
+          {
+            "disease": {
+              "name": "Miosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "osteoarthritis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Arthralgia"
+            }
+          },
+          {
+            "disease": {
+              "name": "sickle cell disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "pharyngitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "rheumatic disease"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL6068005",
+      "name": "CARFLOGLITAZAR",
+      "mechanismsOfAction": null,
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "diabetes mellitus"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

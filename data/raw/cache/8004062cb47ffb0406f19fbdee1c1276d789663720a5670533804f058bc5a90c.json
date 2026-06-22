@@ -1,0 +1,82 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL463981",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL463981",
+    "molecule_chembl_id": "CHEMBL463981",
+    "parent_chembl_id": "CHEMBL463981"
+  },
+  "molecule_properties": {
+    "alogp": "2.78",
+    "aromatic_rings": 1,
+    "full_molformula": "C9H8ClF6NO3S2",
+    "full_mwt": "391.74",
+    "hba": 4,
+    "hbd": 2,
+    "heavy_atoms": 22,
+    "mw_freebase": "391.74",
+    "np_likeness_score": "-1.27",
+    "num_ro5_violations": 0,
+    "psa": "66.40",
+    "qed_weighted": "0.76",
+    "ro3_pass": "N",
+    "rtb": 5
+  },
+  "molecule_structures": {
+    "canonical_smiles": "O=S(=O)(N[C@H](CO)C(C(F)(F)F)C(F)(F)F)c1ccc(Cl)s1",
+    "molfile": "\n     RDKit          2D\n\n 22 22  0  0  0  0  0  0  0  0999 V2000\n   -3.5063    0.3777    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.1737   -0.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.9188   -0.8918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0937   -0.8918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8388   -0.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.9583    0.1477    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n   -2.0542    0.1477    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.4708   -0.4357    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4667    0.8621    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.3397    0.5602    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.6739   -0.2222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0906   -0.8055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4604    0.5747    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.3365    0.7882    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7063   -0.5920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3041   -1.6024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2897   -1.1754    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5313   -0.5920    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1188    0.1225    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2793   -2.1858    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.1010   -1.8159    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.5176   -2.3993    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  1  5  1  0\n  2  3  2  0\n  3  4  1  0\n  4  5  2  0\n  2  6  1  0\n  5  7  1  0\n  7  8  1  0\n  7  9  2  0\n  7 10  2  0\n  8 11  1  0\n 11 12  1  0\n 11 13  1  6\n 13 14  1  0\n 12 15  1  0\n 12 16  1  0\n 15 17  1  0\n 15 18  1  0\n 15 19  1  0\n 16 20  1  0\n 16 21  1  0\n 16 22  1  0\nM  END\n> <chembl_id>\nCHEMBL463981\n\n> <chembl_pref_name>\nBEGACESTAT",
+    "standard_inchi": "InChI=1S/C9H8ClF6NO3S2/c10-5-1-2-6(21-5)22(19,20)17-4(3-18)7(8(11,12)13)9(14,15)16/h1-2,4,7,17-18H,3H2/t4-/m1/s1",
+    "standard_inchi_key": "PSXOKXJMVRSARX-SCSAIBSYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Begacestat",
+      "syn_type": "INN",
+      "synonyms": "BEGACESTAT"
+    },
+    {
+      "molecule_synonym": "Begacestat",
+      "syn_type": "OTHER",
+      "synonyms": "BEGACESTAT"
+    },
+    {
+      "molecule_synonym": "Begacestat",
+      "syn_type": "USAN",
+      "synonyms": "BEGACESTAT"
+    },
+    {
+      "molecule_synonym": "GSI-953",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "GSI-953"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "BEGACESTAT",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-stat",
+  "usan_stem_definition": "enzyme inhibitors: gamma secretase inhibitors",
+  "usan_substem": "-stat (-gacestat)",
+  "usan_year": 2005,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

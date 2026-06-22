@@ -1,0 +1,59 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL3301611",
+      "name": "AMIFAMPRIDINE PHOSPHATE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Voltage-gated potassium channel blocker"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "congenital myasthenic syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "spinal muscular atrophy"
+            }
+          },
+          {
+            "disease": {
+              "name": "Congenital myasthenic syndromes"
+            }
+          },
+          {
+            "disease": {
+              "name": "Lambert-Eaton myasthenic syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "Myasthenia gravis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Brugada syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "Muscle weakness"
+            }
+          },
+          {
+            "disease": {
+              "name": "spinal muscular atrophy, type III"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

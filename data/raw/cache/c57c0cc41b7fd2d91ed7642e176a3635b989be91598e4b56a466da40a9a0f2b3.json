@@ -1,0 +1,150 @@
+{
+  "atc_classifications": [
+    "C10AB04"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [
+    {
+      "xref_id": "gemfibrozil",
+      "xref_name": "gemfibrozil",
+      "xref_src": "DailyMed"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 1981,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL457",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL457",
+    "molecule_chembl_id": "CHEMBL457",
+    "parent_chembl_id": "CHEMBL457"
+  },
+  "molecule_properties": {
+    "alogp": "3.57",
+    "aromatic_rings": 1,
+    "full_molformula": "C15H22O3",
+    "full_mwt": "250.34",
+    "hba": 2,
+    "hbd": 1,
+    "heavy_atoms": 18,
+    "mw_freebase": "250.34",
+    "np_likeness_score": "-0.36",
+    "num_ro5_violations": 0,
+    "psa": "46.53",
+    "qed_weighted": "0.78",
+    "ro3_pass": "N",
+    "rtb": 6
+  },
+  "molecule_structures": {
+    "canonical_smiles": "Cc1ccc(C)c(OCCCC(C)(C)C(=O)O)c1",
+    "molfile": "\n     RDKit          2D\n\n 18 18  0  0  0  0  0  0  0  0999 V2000\n    6.8042   -5.3958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1250   -5.4083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.1917   -5.0417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5125   -5.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1250   -6.1208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.8083   -6.1042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9000   -5.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.4167   -5.0375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5125   -6.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9000   -6.1208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.7375   -5.0500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.5792   -5.4000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.5417   -4.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.8292   -4.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5125   -4.3458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.3500   -5.4042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5167   -7.1833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.9625   -5.0458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2 11  1  0\n  3  1  1  0\n  4  2  2  0\n  5  2  1  0\n  6  1  2  0\n  7  4  1  0\n  8  1  1  0\n  9  5  2  0\n 10  7  2  0\n 11 16  1  0\n 12  3  1  0\n 13  3  1  0\n 14  3  1  0\n 15  4  1  0\n 16 18  1  0\n 17  9  1  0\n 18 12  1  0\n  9 10  1  0\nM  END\n> <chembl_id>\nCHEMBL457\n\n> <chembl_pref_name>\nGEMFIBROZIL",
+    "standard_inchi": "InChI=1S/C15H22O3/c1-11-6-7-12(2)13(10-11)18-9-5-8-15(3,4)14(16)17/h6-7,10H,5,8-9H2,1-4H3,(H,16,17)",
+    "standard_inchi_key": "HEMJJKBWTPKOJG-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "CI-719",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CI-719"
+    },
+    {
+      "molecule_synonym": "Emfib",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "EMFIB"
+    },
+    {
+      "molecule_synonym": "Gemfibrozil",
+      "syn_type": "ATC",
+      "synonyms": "GEMFIBROZIL"
+    },
+    {
+      "molecule_synonym": "Gemfibrozil",
+      "syn_type": "BAN",
+      "synonyms": "GEMFIBROZIL"
+    },
+    {
+      "molecule_synonym": "Gemfibrozil",
+      "syn_type": "BNF",
+      "synonyms": "GEMFIBROZIL"
+    },
+    {
+      "molecule_synonym": "Gemfibrozil",
+      "syn_type": "FDA",
+      "synonyms": "GEMFIBROZIL"
+    },
+    {
+      "molecule_synonym": "Gemfibrozil",
+      "syn_type": "INN",
+      "synonyms": "GEMFIBROZIL"
+    },
+    {
+      "molecule_synonym": "Gemfibrozil",
+      "syn_type": "JAN",
+      "synonyms": "GEMFIBROZIL"
+    },
+    {
+      "molecule_synonym": "Gemfibrozil",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "GEMFIBROZIL"
+    },
+    {
+      "molecule_synonym": "Gemfibrozil",
+      "syn_type": "OTHER",
+      "synonyms": "GEMFIBROZIL"
+    },
+    {
+      "molecule_synonym": "Gemfibrozil",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "GEMFIBROZIL"
+    },
+    {
+      "molecule_synonym": "Gemfibrozil",
+      "syn_type": "USAN",
+      "synonyms": "GEMFIBROZIL"
+    },
+    {
+      "molecule_synonym": "Gemfibrozil",
+      "syn_type": "USP",
+      "synonyms": "GEMFIBROZIL"
+    },
+    {
+      "molecule_synonym": "Gemfibrozilo",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "GEMFIBROZILO"
+    },
+    {
+      "molecule_synonym": "Lopid",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "LOPID"
+    },
+    {
+      "molecule_synonym": "NSC-757024",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NSC-757024"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "GEMFIBROZIL",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": null,
+  "usan_stem_definition": null,
+  "usan_substem": null,
+  "usan_year": 1980,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

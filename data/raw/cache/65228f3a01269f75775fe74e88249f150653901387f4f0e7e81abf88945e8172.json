@@ -1,0 +1,32 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL2107762",
+      "name": "NERISPIRDINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Voltage-gated potassium channel blocker"
+          },
+          {
+            "mechanismOfAction": "Sodium channel alpha subunit blocker"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "spinal cord injury"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple sclerosis"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

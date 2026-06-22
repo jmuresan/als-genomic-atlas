@@ -1,0 +1,89 @@
+{
+  "atc_classifications": [
+    "C01BD06"
+  ],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL113461",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL113461",
+    "molecule_chembl_id": "CHEMBL113461",
+    "parent_chembl_id": "CHEMBL113461"
+  },
+  "molecule_properties": {
+    "alogp": "3.23",
+    "aromatic_rings": 0,
+    "full_molformula": "C19H32N2",
+    "full_mwt": "288.48",
+    "hba": 2,
+    "hbd": 0,
+    "heavy_atoms": 21,
+    "mw_freebase": "288.48",
+    "np_likeness_score": "0.02",
+    "num_ro5_violations": 0,
+    "psa": "6.48",
+    "qed_weighted": "0.78",
+    "ro3_pass": "N",
+    "rtb": 4
+  },
+  "molecule_structures": {
+    "canonical_smiles": "C1CCC2(C1)C1CN(CC3CC3)CC2CN(CC2CC2)C1",
+    "molfile": "\n     RDKit          2D\n\n 21 25  0  0  0  0  0  0  0  0999 V2000\n    3.3361   -6.0315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4983   -6.4932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6872   -6.7178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7919   -6.1147    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0474   -4.9833    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0432   -6.2936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4941   -5.6446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.2470   -6.7927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3319   -5.2453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7545   -3.7437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0190   -5.3951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.5698   -3.7437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.1580   -3.0241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.7303   -4.9916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0148   -4.5715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.6155   -6.1147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0474   -4.1597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8885   -6.5015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7329   -7.5414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9592   -7.8409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4393   -7.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  3  1  0\n  3  1  1  0\n  4  6  1  0\n  5  9  1  0\n  6  1  1  0\n  7  5  1  0\n  8  4  1  0\n  9  1  1  0\n 10 17  1  0\n 11 16  1  0\n 12 10  1  0\n 13 10  1  0\n 14 11  1  0\n 15 11  1  0\n 16  4  1  0\n 17  5  1  0\n 18  3  1  0\n 19  3  1  0\n 20 19  1  0\n 21 18  1  0\n  2  7  1  0\n  2  8  1  0\n 21 20  1  0\n 12 13  1  0\n 14 15  1  0\nM  END\n> <chembl_id>\nCHEMBL113461\n\n> <chembl_pref_name>\nTEDISAMIL",
+    "standard_inchi": "InChI=1S/C19H32N2/c1-2-8-19(7-1)17-11-20(9-15-3-4-15)12-18(19)14-21(13-17)10-16-5-6-16/h15-18H,1-14H2",
+    "standard_inchi_key": "CTIRHWCPXYGDGF-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "KC-8857",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "KC-8857"
+    },
+    {
+      "molecule_synonym": "KC8857",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "KC8857"
+    },
+    {
+      "molecule_synonym": "Tedisamil",
+      "syn_type": "ATC",
+      "synonyms": "TEDISAMIL"
+    },
+    {
+      "molecule_synonym": "Tedisamil",
+      "syn_type": "INN",
+      "synonyms": "TEDISAMIL"
+    },
+    {
+      "molecule_synonym": "Tedisamil",
+      "syn_type": "USAN",
+      "synonyms": "TEDISAMIL"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "TEDISAMIL",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": null,
+  "usan_stem_definition": null,
+  "usan_substem": null,
+  "usan_year": 2005,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "EPHA6",
+      "drugAndClinicalCandidates": {
+        "count": 1,
+        "rows": [
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL24828",
+              "name": "VANDETANIB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Ephrin receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase BRK inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase receptor RET inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase SRC inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase TIE-2 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "prostate cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "medullary thyroid gland carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "low grade glioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant glioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hepatocellular carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastric cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thyroid neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastasis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastrointestinal stromal tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Central Nervous System Neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thyroid carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "kidney cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "clear cell renal carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "thyroid cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diffuse intrinsic pontine glioma"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

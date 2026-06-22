@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL5314385",
+      "name": "CP-778875",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "Disorder of lipid metabolism"
+            }
+          },
+          {
+            "disease": {
+              "name": "inherited lipid metabolism disorder"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

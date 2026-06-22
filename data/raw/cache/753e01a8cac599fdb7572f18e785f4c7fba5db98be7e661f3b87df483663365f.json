@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL520733",
+      "name": "SEMAGACESTAT",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Gamma-secretase inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "Parkinson disease"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

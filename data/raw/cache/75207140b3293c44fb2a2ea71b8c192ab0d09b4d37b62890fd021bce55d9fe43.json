@@ -1,0 +1,254 @@
+{
+  "approvedSymbol": "PSEN1",
+  "drugs": [
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL520733",
+        "name": "SEMAGACESTAT",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Gamma-secretase inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Alzheimer disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Parkinson disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL1090771",
+        "name": "AVAGACESTAT",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Gamma-secretase inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Alzheimer disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL190083",
+        "name": "TARENFLURBIL",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Gamma-secretase modulator"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Alzheimer disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL4297422",
+        "name": "RG-4733",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Gamma-secretase inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "renal cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "rectum cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "clear cell renal carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Fallopian Tube Carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "malignant colon neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "melanoma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1770916",
+        "name": "NIROGACESTAT",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Gamma-secretase inhibitor"
+            },
+            {
+              "mechanismOfAction": "Gamma-secretase inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "Desmoid-type fibromatosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Alzheimer disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL4298153",
+        "name": "NIROGACESTAT HYDROBROMIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Gamma-secretase inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL463981",
+        "name": "BEGACESTAT",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Gamma-secretase inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Alzheimer disease"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1140 @@
+{
+  "approvedSymbol": "PPARA",
+  "drugs": [
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1201745",
+        "name": "CHOLINE FENOFIBRATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Disorder of lipid metabolism"
+              }
+            },
+            {
+              "disease": {
+                "name": "inherited lipid metabolism disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "coronary artery disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "cardiovascular disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetic macular edema"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL247951",
+        "name": "PEMAFIBRATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "inherited lipid metabolism disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "Disorder of lipid metabolism"
+              }
+            },
+            {
+              "disease": {
+                "name": "familial hyperlipidemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "cardiovascular disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "hyperlipidemia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL4650349",
+        "name": "CHIGLITAZAR",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "non-alcoholic steatohepatitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "kidney disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "liver disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL3707395",
+        "name": "ELAFIBRANOR",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            },
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor delta agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "biliary liver cirrhosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic fatty liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "cholangitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "primary biliary cirrhosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "sclerosing cholangitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic fatty liver"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic steatohepatitis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL282686",
+        "name": "TESAGLITAZAR",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            },
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor gamma agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "type 1 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL557555",
+        "name": "CIPROFIBRATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "hyperlipoproteinemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "cardiovascular disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL3545412",
+        "name": "K-877",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Disorder of lipid metabolism"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic fatty liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic steatohepatitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hypercholesterolemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hypertriglyceridemia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL981",
+        "name": "FENOFIBRIC ACID",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            },
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hypercholesterolemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "alcohol dependence"
+              }
+            },
+            {
+              "disease": {
+                "name": "cholestasis"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hypertriglyceridemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "cardiovascular disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL565",
+        "name": "CLOFIBRATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "cardiovascular disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "hyperlipoproteinemia type 3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL4091374",
+        "name": "LANIFIBRANOR",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "non-alcoholic fatty liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic steatohepatitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "diffuse scleroderma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL457",
+        "name": "GEMFIBROZIL",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "alcohol dependence"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hypertriglyceridemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "familial hyperlipidemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "Alzheimer disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Parkinson disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "smoking cessation"
+              }
+            },
+            {
+              "disease": {
+                "name": "coronary artery disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Abdominal pain"
+              }
+            },
+            {
+              "disease": {
+                "name": "cardiovascular disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "nicotine dependence"
+              }
+            },
+            {
+              "disease": {
+                "name": "anemia (phenotype)"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL264374",
+        "name": "BEZAFIBRATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "primary biliary cirrhosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hypertriglyceridemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "mitochondrial disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Combined hyperlipidemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "myelodysplastic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "carnitine palmitoyltransferase II deficiency"
+              }
+            },
+            {
+              "disease": {
+                "name": "cardiovascular disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "familial hyperlipidemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "bipolar disorder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL3545334",
+        "name": "AVE8134",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "heart failure"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL519504",
+        "name": "ALEGLITAZAR",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            },
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor gamma agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL4297404",
+        "name": "MK-0767",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            },
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor gamma agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "metabolic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL186179",
+        "name": "MURAGLITAZAR",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor gamma agonist"
+            },
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Disorder of lipid metabolism"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL424133",
+        "name": "LY-518674",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "hypertension"
+              }
+            },
+            {
+              "disease": {
+                "name": "metabolic syndrome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL3545394",
+        "name": "DRF-10945",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "familial hyperlipidemia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL4297530",
+        "name": "SAROGLITAZAR",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            },
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor gamma agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "inherited lipid metabolism disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic fatty liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "kidney disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "liver disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "primary biliary cirrhosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic steatohepatitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "cirrhosis of liver"
+              }
+            },
+            {
+              "disease": {
+                "name": "Disorder of lipid metabolism"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL181954",
+        "name": "NAVEGLITAZAR",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor gamma agonist"
+            },
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL592054",
+        "name": "IMIGLITAZAR",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            },
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor gamma agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL1232583",
+        "name": "INDEGLITAZAR",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL3545093",
+        "name": "ZYH7",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Disorder of lipid metabolism"
+              }
+            },
+            {
+              "disease": {
+                "name": "inherited lipid metabolism disorder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL2104984",
+        "name": "SODELGLITAZAR",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "familial hyperlipidemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "metabolic syndrome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL672",
+        "name": "FENOFIBRATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "diabetic retinopathy"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "liver transplant"
+              }
+            },
+            {
+              "disease": {
+                "name": "hyperlipoproteinemia type 3"
+              }
+            },
+            {
+              "disease": {
+                "name": "inherited lipid metabolism disorder"
+              }
+            },
+            {
+              "disease": {
+                "name": "HIV-1 infection"
+              }
+            },
+            {
+              "disease": {
+                "name": "metabolic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hypertriglyceridemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "Disorder of lipid metabolism"
+              }
+            },
+            {
+              "disease": {
+                "name": "cardiovascular disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "neonatal jaundice"
+              }
+            },
+            {
+              "disease": {
+                "name": "burn"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 2 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "familial hyperlipidemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "hypothyroidism"
+              }
+            },
+            {
+              "disease": {
+                "name": "Abnormal circulating lipid concentration"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetic nephropathy"
+              }
+            },
+            {
+              "disease": {
+                "name": "hyperlipidemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "Combined hyperlipidemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-alcoholic steatohepatitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "obesity"
+              }
+            },
+            {
+              "disease": {
+                "name": "Huntington disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "COVID-19"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hypercholesterolemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "alcohol dependence"
+              }
+            },
+            {
+              "disease": {
+                "name": "sclerosing cholangitis"
+              }
+            },
+            {
+              "disease": {
+                "name": "metabolic disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "macular telangiectasia type 2"
+              }
+            },
+            {
+              "disease": {
+                "name": "polycystic ovary syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "primary biliary cirrhosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "inflammatory bowel disease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL5314385",
+        "name": "CP-778875",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Disorder of lipid metabolism"
+              }
+            },
+            {
+              "disease": {
+                "name": "inherited lipid metabolism disorder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

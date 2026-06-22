@@ -1,0 +1,107 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL519504",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL519504",
+    "molecule_chembl_id": "CHEMBL519504",
+    "parent_chembl_id": "CHEMBL519504"
+  },
+  "molecule_properties": {
+    "alogp": "5.13",
+    "aromatic_rings": 4,
+    "full_molformula": "C24H23NO5S",
+    "full_mwt": "437.52",
+    "hba": 6,
+    "hbd": 1,
+    "heavy_atoms": 31,
+    "mw_freebase": "437.52",
+    "np_likeness_score": "-0.83",
+    "num_ro5_violations": 1,
+    "psa": "81.79",
+    "qed_weighted": "0.39",
+    "ro3_pass": "N",
+    "rtb": 9
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CO[C@@H](Cc1ccc(OCCc2nc(-c3ccccc3)oc2C)c2ccsc12)C(=O)O",
+    "molfile": "\n     RDKit          2D\n\n 31 34  0  0  0  0  0  0  0  0999 V2000\n    4.3221    2.4801    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    4.8737    3.0940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.4612    3.8136    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5738    2.8206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4391   -0.0720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4391   -0.9018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6601    3.6409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1491   -1.3144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.6524   -1.1561    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5738   -2.1394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1491   -2.1394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.1727   -0.4845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1491    0.3405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8638   -2.5520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.6524    0.1822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.6892    3.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8638   -0.9018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.2836   -2.5520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8638   -0.0720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8638    2.4033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5738   -1.3144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1491    1.1657    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8638    1.5782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8638   -3.3819    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.0509    4.1926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0249    2.2545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.1785    3.6792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5738   -3.7944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.9940    3.5929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.8452    2.1682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.3250    2.8350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  2  0\n  3  2  1  0\n  4  1  1  0\n  5 13  1  0\n  6  5  2  0\n  7  4  2  0\n  8 17  2  0\n  9  6  1  0\n 10 14  1  0\n 11  8  1  0\n 12 15  2  0\n 13 22  1  0\n 14 11  1  1\n 15  5  1  0\n 16  2  1  0\n 17 19  1  0\n 18 10  2  0\n 19 13  2  0\n 20  4  1  0\n 21 10  1  0\n 22 23  1  0\n 23 20  1  0\n 14 24  1  0\n 25  7  1  0\n 26 16  2  0\n 27 16  1  0\n 28 24  1  0\n 29 27  2  0\n 30 26  1  0\n 31 29  1  0\n  7  3  1  0\n 30 31  2  0\n  8  6  1  0\n  9 12  1  0\nM  END\n> <chembl_id>\nCHEMBL519504\n\n> <chembl_pref_name>\nALEGLITAZAR",
+    "standard_inchi": "InChI=1S/C24H23NO5S/c1-15-19(25-23(30-15)16-6-4-3-5-7-16)10-12-29-20-9-8-17(14-21(28-2)24(26)27)22-18(20)11-13-31-22/h3-9,11,13,21H,10,12,14H2,1-2H3,(H,26,27)/t21-/m0/s1",
+    "standard_inchi_key": "DAYKLWSKQJBGCS-NRFANRHFSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Aleglitazar",
+      "syn_type": "USAN",
+      "synonyms": "Aleglitazar"
+    },
+    {
+      "molecule_synonym": "Aleglitazar",
+      "syn_type": "INN",
+      "synonyms": "ALEGLITAZAR"
+    },
+    {
+      "molecule_synonym": "Aleglitazar",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "ALEGLITAZAR"
+    },
+    {
+      "molecule_synonym": "Aleglitazar",
+      "syn_type": "OTHER",
+      "synonyms": "ALEGLITAZAR"
+    },
+    {
+      "molecule_synonym": "R-1439",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "R-1439"
+    },
+    {
+      "molecule_synonym": "R1439",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "R1439"
+    },
+    {
+      "molecule_synonym": "Ro-0728804",
+      "syn_type": "OTHER",
+      "synonyms": "Ro-0728804"
+    },
+    {
+      "molecule_synonym": "RO-0728804",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO-0728804"
+    },
+    {
+      "molecule_synonym": "RO0728804",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO0728804"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "ALEGLITAZAR",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-glitazar",
+  "usan_stem_definition": "peroxisome proliferator activating receptor (PPAR) agonists (not thiazolidene derivatives)",
+  "usan_substem": "-glitazar",
+  "usan_year": 2007,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,82 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL4650349",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4650349",
+    "molecule_chembl_id": "CHEMBL4650349",
+    "parent_chembl_id": "CHEMBL4650349"
+  },
+  "molecule_properties": {
+    "alogp": "7.35",
+    "aromatic_rings": 6,
+    "full_molformula": "C36H29FN2O4",
+    "full_mwt": "572.64",
+    "hba": 5,
+    "hbd": 2,
+    "heavy_atoms": 43,
+    "mw_freebase": "572.64",
+    "np_likeness_score": "-0.80",
+    "num_ro5_violations": 2,
+    "psa": "80.56",
+    "qed_weighted": "0.16",
+    "ro3_pass": "N",
+    "rtb": 11
+  },
+  "molecule_structures": {
+    "canonical_smiles": "O=C(c1ccc(F)cc1)c1ccccc1N[C@@H](Cc1ccc(OCCn2c3ccccc3c3ccccc32)cc1)C(=O)O",
+    "molfile": "\n     RDKit          2D\n\n 43 48  0  0  1  0  0  0  0  0999 V2000\n    7.3935   -5.8995    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    8.1081   -5.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.8153   -5.9038    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    8.1081   -4.6703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.3984   -4.2577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.6863   -4.6659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.9742   -4.2491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.2619   -4.6659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.2619   -5.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.9741   -5.8995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.6863   -5.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.5516   -5.9025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.5516   -6.7234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.8435   -7.1348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.8435   -7.9557    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    4.5141   -8.4434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.2511   -9.2290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4302   -9.2290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1786   -8.4420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3757   -8.2674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8187   -8.8768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.0703   -9.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8790   -9.8413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7994   -9.8505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.6136   -9.6864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.8768   -8.8980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.3255   -8.2735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.8228   -4.2620    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    8.8228   -3.4411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.1180   -3.0285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.1180   -2.2035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.8351   -1.7951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.5398   -2.2119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.5398   -3.0328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.2488   -3.4464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.9617   -3.0392    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   10.2488   -4.2673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.9481   -4.6810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.9481   -5.5061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.2303   -5.9133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.5275   -5.4955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.5275   -4.6746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.2303   -6.7341    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  4  2  1  6\n  4  5  1  0\n  5  6  1  0\n  6  7  1  0\n  8  7  2  0\n  9  8  1  0\n 10  9  2  0\n  6 11  2  0\n 11 10  1  0\n  9 12  1  0\n 12 13  1  0\n 13 14  1  0\n 14 15  1  0\n 15 16  1  0\n 17 16  2  0\n 18 17  1  0\n 15 19  1  0\n 19 18  2  0\n 19 20  1  0\n 21 20  2  0\n 22 21  1  0\n 18 23  1  0\n 23 22  2  0\n 17 24  1  0\n 25 24  2  0\n 26 25  1  0\n 16 27  1  0\n 27 26  2  0\n  4 28  1  0\n 28 29  1  0\n 29 30  1  0\n 31 30  2  0\n 32 31  1  0\n 33 32  2  0\n 29 34  2  0\n 34 33  1  0\n 34 35  1  0\n 35 36  2  0\n 35 37  1  0\n 37 38  1  0\n 39 38  2  0\n 40 39  1  0\n 41 40  2  0\n 37 42  2  0\n 42 41  1  0\n 40 43  1  0\nM  END\n> <chembl_id>\nCHEMBL4650349\n\n> <chembl_pref_name>\nCHIGLITAZAR",
+    "standard_inchi": "InChI=1S/C36H29FN2O4/c37-26-17-15-25(16-18-26)35(40)30-9-1-4-10-31(30)38-32(36(41)42)23-24-13-19-27(20-14-24)43-22-21-39-33-11-5-2-7-28(33)29-8-3-6-12-34(29)39/h1-20,32,38H,21-23H2,(H,41,42)/t32-/m0/s1",
+    "standard_inchi_key": "QNLWMPLUWMWDMQ-YTTGMZPUSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Carfloglitazar, (s)-",
+      "syn_type": "OTHER",
+      "synonyms": "CARFLOGLITAZAR, (S)-"
+    },
+    {
+      "molecule_synonym": "Chiglitazar",
+      "syn_type": "OTHER",
+      "synonyms": "CHIGLITAZAR"
+    },
+    {
+      "molecule_synonym": "CS 038",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CS 038"
+    },
+    {
+      "molecule_synonym": "CS-038",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CS-038"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "CHIGLITAZAR",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-glitazar",
+  "usan_stem_definition": "peroxisome proliferator activating receptor (PPAR) agonists (not thiazolidene derivatives)",
+  "usan_substem": "-glitazar",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

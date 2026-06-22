@@ -1,0 +1,44 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL247951",
+      "name": "PEMAFIBRATE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "inherited lipid metabolism disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "Disorder of lipid metabolism"
+            }
+          },
+          {
+            "disease": {
+              "name": "familial hyperlipidemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "cardiovascular disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "hyperlipidemia"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

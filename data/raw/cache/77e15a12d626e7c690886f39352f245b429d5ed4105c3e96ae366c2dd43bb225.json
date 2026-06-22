@@ -1,0 +1,28 @@
+{
+  "approvedSymbol": "SOD1",
+  "drugs": [
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL3833346",
+        "name": "TOFERSEN",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "SOD1 mRNA antisense inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "amyotrophic lateral sclerosis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

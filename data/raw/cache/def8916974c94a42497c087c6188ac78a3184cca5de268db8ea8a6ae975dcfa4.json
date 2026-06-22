@@ -1,0 +1,37 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL4297404",
+      "name": "MK-0767",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          },
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor gamma agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "metabolic syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "atc_classifications": [],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/NIROGACESTAT%20HYDROBROMIDE/relevant/1/",
+      "xref_name": "NIROGACESTAT HYDROBROMIDE",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2023,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL4298153",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1770916",
+    "molecule_chembl_id": "CHEMBL4298153",
+    "parent_chembl_id": "CHEMBL1770916"
+  },
+  "molecule_properties": {
+    "alogp": "4.79",
+    "aromatic_rings": 2,
+    "full_molformula": "C27H43Br2F2N5O",
+    "full_mwt": "651.48",
+    "hba": 5,
+    "hbd": 3,
+    "heavy_atoms": 35,
+    "mw_freebase": "489.66",
+    "np_likeness_score": "-0.89",
+    "num_ro5_violations": 0,
+    "psa": "70.98",
+    "qed_weighted": "0.45",
+    "ro3_pass": "N",
+    "rtb": 10
+  },
+  "molecule_structures": {
+    "canonical_smiles": "Br.Br.CCC[C@H](N[C@H]1CCc2cc(F)cc(F)c2C1)C(=O)Nc1cn(C(C)(C)CNCC(C)(C)C)cn1",
+    "molfile": "\n     RDKit          2D\n\n 37 37  0  0  0  0  0  0  0  0999 V2000\n    3.4675    1.0266    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0\n   -5.7219    1.7825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.4364    1.3700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.4364    0.5449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.7219    0.1324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.0074    0.5449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.0074    1.3700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.7219   -0.6926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.0074   -1.1051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.2930   -0.6926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.2930    0.1324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.5785   -1.1051    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8640   -0.6926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8640    0.1324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1496    0.5449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1496   -1.1051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.4351   -0.6926    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1496   -1.9301    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7206   -1.9301    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7206   -1.1051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.1038    1.8549    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.2929    1.7825    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1496    1.3699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0639   -2.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5489   -1.5176    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0640   -0.8502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2634   -1.1051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9778   -1.5176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6923   -1.1051    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4068   -1.5176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.1212   -1.1051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.8357   -1.5176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.8140   -0.4132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.7127   -0.4132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.7467   -0.3700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.4958   -0.3700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.7928    1.6811    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0\n  2  3  2  0\n  3  4  1  0\n  4  5  2  0\n  5  6  1  0\n  6  7  2  0\n  2  7  1  0\n  8  9  1  0\n  9 10  1  0\n 10 11  1  0\n  5  8  1  0\n  6 11  1  0\n 12 13  1  0\n 13 14  1  1\n 10 12  1  1\n 16 17  1  0\n 13 16  1  0\n 15 14  1  0\n 19 20  1  0\n 16 18  2  0\n 17 20  1  0\n  3 21  1  0\n  7 22  1  0\n 15 23  1  0\n 24 25  1  0\n 25 26  1  0\n 19 24  2  0\n 20 26  2  0\n 27 28  1  0\n 28 29  1  0\n 29 30  1  0\n 30 31  1  0\n 31 32  1  0\n 25 27  1  0\n 27 33  1  0\n 27 34  1  0\n 31 35  1  0\n 31 36  1  0\nM  END\n> <chembl_id>\nCHEMBL4298153\n\n> <chembl_pref_name>\nNIROGACESTAT HYDROBROMIDE",
+    "standard_inchi": "InChI=1S/C27H41F2N5O.2BrH/c1-7-8-23(32-20-10-9-18-11-19(28)12-22(29)21(18)13-20)25(35)33-24-14-34(17-31-24)27(5,6)16-30-15-26(2,3)4;;/h11-12,14,17,20,23,30,32H,7-10,13,15-16H2,1-6H3,(H,33,35);2*1H/t20-,23-;;/m0../s1",
+    "standard_inchi_key": "LXEYYZYDWLAIPW-KBVFCZPLSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Nirogacestat dihydrobromide",
+      "syn_type": "OTHER",
+      "synonyms": "NIROGACESTAT DIHYDROBROMIDE"
+    },
+    {
+      "molecule_synonym": "Nirogacestat hydrobromide",
+      "syn_type": "FDA",
+      "synonyms": "NIROGACESTAT HYDROBROMIDE"
+    },
+    {
+      "molecule_synonym": "Nirogacestat hydrobromide",
+      "syn_type": "USAN",
+      "synonyms": "NIROGACESTAT HYDROBROMIDE"
+    },
+    {
+      "molecule_synonym": "Ogsiveo",
+      "syn_type": "OTHER",
+      "synonyms": "OGSIVEO"
+    },
+    {
+      "molecule_synonym": "Ogsiveo",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "OGSIVEO"
+    },
+    {
+      "molecule_synonym": "PF-03084014-04",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PF-03084014-04"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "NIROGACESTAT HYDROBROMIDE",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-stat",
+  "usan_stem_definition": "enzyme inhibitors: gamma secretase inhibitors",
+  "usan_substem": "-stat (-gacestat)",
+  "usan_year": 2018,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

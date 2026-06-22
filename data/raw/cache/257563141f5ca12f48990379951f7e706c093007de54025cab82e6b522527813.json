@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL190083",
+      "name": "TARENFLURBIL",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Gamma-secretase modulator"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "prostate cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "Alzheimer disease"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

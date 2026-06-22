@@ -1,0 +1,37 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL186179",
+      "name": "MURAGLITAZAR",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor gamma agonist"
+          },
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "Disorder of lipid metabolism"
+            }
+          },
+          {
+            "disease": {
+              "name": "diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

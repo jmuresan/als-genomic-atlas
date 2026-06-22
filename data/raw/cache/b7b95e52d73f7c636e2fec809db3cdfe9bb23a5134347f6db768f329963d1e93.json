@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL557555",
+      "name": "CIPROFIBRATE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "hyperlipoproteinemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "cardiovascular disease"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

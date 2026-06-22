@@ -1,0 +1,49 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL435298",
+      "name": "ESFLURBIPROFEN",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Cyclooxygenase inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "Myalgia"
+            }
+          },
+          {
+            "disease": {
+              "name": "Arthralgia"
+            }
+          },
+          {
+            "disease": {
+              "name": "osteoarthritis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Pain"
+            }
+          },
+          {
+            "disease": {
+              "name": "sprain"
+            }
+          },
+          {
+            "disease": {
+              "name": "inflammation"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL3707395",
+      "name": "ELAFIBRANOR",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          },
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor delta agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "biliary liver cirrhosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "liver disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-alcoholic fatty liver disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "cholangitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "primary biliary cirrhosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "sclerosing cholangitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-alcoholic fatty liver"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-alcoholic steatohepatitis"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

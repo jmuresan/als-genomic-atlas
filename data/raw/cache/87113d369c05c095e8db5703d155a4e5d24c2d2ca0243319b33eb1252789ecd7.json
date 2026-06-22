@@ -1,0 +1,92 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL2107762",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2107762",
+    "molecule_chembl_id": "CHEMBL2107762",
+    "parent_chembl_id": "CHEMBL2107762"
+  },
+  "molecule_properties": {
+    "alogp": "4.16",
+    "aromatic_rings": 3,
+    "full_molformula": "C17H18FN3",
+    "full_mwt": "283.35",
+    "hba": 3,
+    "hbd": 0,
+    "heavy_atoms": 21,
+    "mw_freebase": "283.35",
+    "np_likeness_score": "-1.02",
+    "num_ro5_violations": 0,
+    "psa": "21.06",
+    "qed_weighted": "0.72",
+    "ro3_pass": "N",
+    "rtb": 4
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CCCN(c1ccncc1F)n1cc(C)c2ccccc21",
+    "molfile": "\n     RDKit          2D\n\n 21 23  0  0  0  0  0  0  0  0999 V2000\n   -8.6036    5.8929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.3181    5.4804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.3181    4.6554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.6036    4.2429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.8891    4.6554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.8891    5.4804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.1045    4.4004    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.6196    5.0678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.1044    5.7353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.8496    3.6158    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.0426    3.4442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.4016    3.0027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.4592    4.0276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.6624    3.8141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.2086    3.1743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.7607    2.5612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.5057    1.7765    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.6987    1.6050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.1467    2.2181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.3397    2.0465    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.8495    6.5199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  1  6  1  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  6  9  1  0\n  6  5  2  0\n  5  7  1  0\n  7  8  1  0\n  8  9  2  0\n  7 10  1  0\n 10 11  1  0\n 10 12  1  0\n 11 13  1  0\n 13 14  1  0\n 12 15  1  0\n 12 19  2  0\n 15 16  2  0\n 16 17  1  0\n 17 18  2  0\n 18 19  1  0\n 19 20  1  0\n  9 21  1  0\nM  END\n> <chembl_id>\nCHEMBL2107762\n\n> <chembl_pref_name>\nNERISPIRDINE",
+    "standard_inchi": "InChI=1S/C17H18FN3/c1-3-10-20(17-8-9-19-11-15(17)18)21-12-13(2)14-6-4-5-7-16(14)21/h4-9,11-12H,3,10H2,1-2H3",
+    "standard_inchi_key": "BTDHTARYCBHHPJ-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "HP-184",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HP-184"
+    },
+    {
+      "molecule_synonym": "HP184",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HP184"
+    },
+    {
+      "molecule_synonym": "Nerispirdina",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "NERISPIRDINA"
+    },
+    {
+      "molecule_synonym": "Nerispirdine",
+      "syn_type": "INN",
+      "synonyms": "Nerispirdine"
+    },
+    {
+      "molecule_synonym": "Nerispirdine",
+      "syn_type": "OTHER",
+      "synonyms": "NERISPIRDINE"
+    },
+    {
+      "molecule_synonym": "Nerispirdine hydrochloride",
+      "syn_type": "OTHER",
+      "synonyms": "NERISPIRDINE HYDROCHLORIDE"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "NERISPIRDINE",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-pirdine",
+  "usan_stem_definition": "serotonin 5-HT6 receptor inhibitors",
+  "usan_substem": "-pirdine",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

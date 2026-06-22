@@ -1,0 +1,52 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL981",
+      "name": "FENOFIBRIC ACID",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          },
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hypercholesterolemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "alcohol dependence"
+            }
+          },
+          {
+            "disease": {
+              "name": "cholestasis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hypertriglyceridemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "cardiovascular disease"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

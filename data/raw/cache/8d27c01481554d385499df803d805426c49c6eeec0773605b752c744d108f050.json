@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL565",
+      "name": "CLOFIBRATE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "cardiovascular disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "hyperlipoproteinemia type 3"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

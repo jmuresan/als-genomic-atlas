@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL821",
+      "name": "GUANIDINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Voltage-gated potassium channel blocker"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "neuroendocrine neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "metastasis"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

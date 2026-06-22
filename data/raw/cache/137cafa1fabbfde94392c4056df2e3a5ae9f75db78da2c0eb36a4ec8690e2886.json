@@ -1,0 +1,74 @@
+{
+  "molecules": [
+    {
+      "atc_classifications": [
+        "C10AB02"
+      ],
+      "availability_type": null,
+      "biotherapeutic": null,
+      "black_box_warning": 0,
+      "chemical_probe": 0,
+      "chirality": 2,
+      "cross_references": [],
+      "dosed_ingredient": false,
+      "first_approval": null,
+      "first_in_class": 0,
+      "helm_notation": null,
+      "inorganic_flag": 0,
+      "max_phase": "3.0",
+      "molecule_chembl_id": "CHEMBL264374",
+      "molecule_hierarchy": {
+        "active_chembl_id": "CHEMBL264374",
+        "molecule_chembl_id": "CHEMBL264374",
+        "parent_chembl_id": "CHEMBL264374"
+      },
+      "molecule_properties": {
+        "alogp": "3.55",
+        "aromatic_rings": 2,
+        "full_molformula": "C19H20ClNO4",
+        "full_mwt": "361.83",
+        "hba": 3,
+        "hbd": 2,
+        "heavy_atoms": 25,
+        "mw_freebase": "361.83",
+        "np_likeness_score": "-0.78",
+        "num_ro5_violations": 0,
+        "psa": "75.63",
+        "qed_weighted": "0.79",
+        "ro3_pass": "N",
+        "rtb": 7
+      },
+      "molecule_structures": {
+        "canonical_smiles": "CC(C)(Oc1ccc(CCNC(=O)c2ccc(Cl)cc2)cc1)C(=O)O",
+        "molfile": "\n     RDKit          2D\n\n 25 26  0  0  0  0  0  0  0  0999 V2000\n    3.0667    0.5708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6917    0.9000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.8208   -0.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4667    0.9458    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4333   -0.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.7167    1.6083    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.8083    0.5583    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.2083   -0.4792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0208   -0.1667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4333   -1.2250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8375    0.6208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.2917    0.5333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6458   -1.2042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0208   -1.5792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6458   -0.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.6167   -0.1042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.2583   -1.5542    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    1.8417   -0.0917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2042    0.9708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2375   -0.4625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.6167    0.5833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.6000   -0.1292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8000   -0.0792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4167   -0.0292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0167   -0.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  1  0\n  3  8  1  0\n  4  1  1  0\n  5  3  1  0\n  6  2  2  0\n  7  3  2  0\n  8 22  1  0\n  9  5  2  0\n 10  5  1  0\n 11  4  1  0\n 12  2  1  0\n 13 14  1  0\n 14 10  2  0\n 15  9  1  0\n 16 21  2  0\n 17 13  1  0\n 18 11  1  0\n 19 11  2  0\n 20 18  2  0\n 21 19  1  0\n 22 25  1  0\n 23  1  1  0\n 24  1  1  0\n 25 16  1  0\n 16 20  1  0\n 15 13  2  0\nM  END\n> <chembl_id>\nCHEMBL264374\n\n> <chembl_pref_name>\nBEZAFIBRATE",
+        "standard_inchi": "InChI=1S/C19H20ClNO4/c1-19(2,18(23)24)25-16-9-3-13(4-10-16)11-12-21-17(22)14-5-7-15(20)8-6-14/h3-10H,11-12H2,1-2H3,(H,21,22)(H,23,24)",
+        "standard_inchi_key": "IIBYAHWJQTYFKB-UHFFFAOYSA-N"
+      },
+      "molecule_type": "Small molecule",
+      "natural_product": 1,
+      "oral": false,
+      "orphan": 0,
+      "parenteral": false,
+      "polymer_flag": 0,
+      "pref_name": "BEZAFIBRATE",
+      "prodrug": 0,
+      "similarity": "100",
+      "structure_type": "MOL",
+      "therapeutic_flag": true,
+      "topical": false,
+      "usan_stem": "-fibrate",
+      "usan_stem_definition": "antihyperlipidemics (clofibrate type)",
+      "usan_substem": "-fibrate",
+      "usan_year": 1978,
+      "veterinary": 0,
+      "withdrawn_flag": false
+    }
+  ],
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

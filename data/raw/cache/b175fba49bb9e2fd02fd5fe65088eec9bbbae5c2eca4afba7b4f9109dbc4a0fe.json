@@ -1,0 +1,164 @@
+{
+  "atc_classifications": [
+    "C10AB01"
+  ],
+  "availability_type": -2,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": true,
+  "first_approval": 1967,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL565",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL683",
+    "molecule_chembl_id": "CHEMBL565",
+    "parent_chembl_id": "CHEMBL565"
+  },
+  "molecule_properties": {
+    "alogp": "3.06",
+    "aromatic_rings": 1,
+    "full_molformula": "C12H15ClO3",
+    "full_mwt": "242.70",
+    "hba": 3,
+    "hbd": 0,
+    "heavy_atoms": 16,
+    "mw_freebase": "242.70",
+    "np_likeness_score": "-0.79",
+    "num_ro5_violations": 0,
+    "psa": "35.53",
+    "qed_weighted": "0.76",
+    "ro3_pass": "N",
+    "rtb": 4
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CCOC(=O)C(C)(C)Oc1ccc(Cl)cc1",
+    "molfile": "\n     RDKit          2D\n\n 16 16  0  0  0  0  0  0  0  0999 V2000\n    1.6667   -1.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.2792   -1.4042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0542   -1.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.2875   -2.1167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4417   -1.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7833   -0.3500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8917   -1.0500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.3958    0.0083    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1708   -1.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4417   -0.3417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7833   -1.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1708    0.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.0167   -0.4375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.3125   -0.4375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5125   -1.4042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.1250   -1.0417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  1  0\n  3  1  1  0\n  4  2  2  0\n  5  3  1  0\n  6 12  1  0\n  7  2  1  0\n  8  6  1  0\n  9  5  2  0\n 10  5  1  0\n 11  9  1  0\n 12 10  2  0\n 13  1  1  0\n 14  1  1  0\n 15  7  1  0\n 16 15  1  0\n  6 11  2  0\nM  END\n> <chembl_id>\nCHEMBL565\n\n> <chembl_pref_name>\nCLOFIBRATE",
+    "standard_inchi": "InChI=1S/C12H15ClO3/c1-4-15-11(14)12(2,3)16-10-7-5-9(13)6-8-10/h5-8H,4H2,1-3H3",
+    "standard_inchi_key": "KNHUKKLJHYUCFP-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Atromid",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "ATROMID"
+    },
+    {
+      "molecule_synonym": "Atromid-s",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "ATROMID-S"
+    },
+    {
+      "molecule_synonym": "AY-61123",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "AY-61123"
+    },
+    {
+      "molecule_synonym": "Chlorfenisate",
+      "syn_type": "OTHER",
+      "synonyms": "CHLORFENISATE"
+    },
+    {
+      "molecule_synonym": "Clofibrate",
+      "syn_type": "ATC",
+      "synonyms": "CLOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Clofibrate",
+      "syn_type": "BAN",
+      "synonyms": "CLOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Clofibrate",
+      "syn_type": "BNF",
+      "synonyms": "CLOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Clofibrate",
+      "syn_type": "FDA",
+      "synonyms": "CLOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Clofibrate",
+      "syn_type": "INN",
+      "synonyms": "CLOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Clofibrate",
+      "syn_type": "JAN",
+      "synonyms": "CLOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Clofibrate",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "CLOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Clofibrate",
+      "syn_type": "OTHER",
+      "synonyms": "CLOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Clofibrate",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "CLOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Clofibrate",
+      "syn_type": "USAN",
+      "synonyms": "CLOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Clofibrate",
+      "syn_type": "USP",
+      "synonyms": "CLOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Clofibrato",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "CLOFIBRATO"
+    },
+    {
+      "molecule_synonym": "Ethyl p-chlorophenoxyisobutyrate",
+      "syn_type": "OTHER",
+      "synonyms": "ETHYL P-CHLOROPHENOXYISOBUTYRATE"
+    },
+    {
+      "molecule_synonym": "ICI 28257",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ICI 28257"
+    },
+    {
+      "molecule_synonym": "ICI-28257",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ICI-28257"
+    },
+    {
+      "molecule_synonym": "NSC-79389",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NSC-79389"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "CLOFIBRATE",
+  "prodrug": 1,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-fibrate",
+  "usan_stem_definition": "antihyperlipidemics (clofibrate type)",
+  "usan_substem": "-fibrate",
+  "usan_year": 1963,
+  "veterinary": 0,
+  "withdrawn_flag": true
+}

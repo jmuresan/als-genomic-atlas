@@ -1,0 +1,220 @@
+{
+  "atc_classifications": [
+    "C10AB05"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [
+    {
+      "xref_id": "fenofibrate",
+      "xref_name": "fenofibrate",
+      "xref_src": "DailyMed"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 1993,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL672",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL981",
+    "molecule_chembl_id": "CHEMBL672",
+    "parent_chembl_id": "CHEMBL672"
+  },
+  "molecule_properties": {
+    "alogp": "4.68",
+    "aromatic_rings": 2,
+    "full_molformula": "C20H21ClO4",
+    "full_mwt": "360.84",
+    "hba": 4,
+    "hbd": 0,
+    "heavy_atoms": 25,
+    "mw_freebase": "360.84",
+    "np_likeness_score": "-0.58",
+    "num_ro5_violations": 0,
+    "psa": "52.60",
+    "qed_weighted": "0.55",
+    "ro3_pass": "N",
+    "rtb": 6
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1",
+    "molfile": "\n     RDKit          2D\n\n 25 26  0  0  0  0  0  0  0  0999 V2000\n    4.2792   -1.9042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6625   -1.5542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5667   -0.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.0500   -1.9167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.8625   -1.5042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1875   -0.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0458   -0.8667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.2750   -2.6250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5542    0.2083    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1875   -1.5667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.6750   -0.5417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0375   -1.5792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8125   -0.4792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4292   -1.5667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.2583   -1.6167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8125   -1.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4292   -0.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.2458   -0.8917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.6333   -1.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.8500   -1.9792    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    4.0125   -0.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3042   -0.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4875   -1.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4875   -2.5417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0542   -1.4917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  1  0\n  3  6  1  0\n  4  2  1  0\n  5  1  1  0\n  6 13  2  0\n  7  3  1  0\n  8  1  2  0\n  9  3  2  0\n 10 16  2  0\n 11  7  2  0\n 12  7  1  0\n 13 17  1  0\n 14  4  1  0\n 15 19  1  0\n 16 14  1  0\n 17 14  2  0\n 18 11  1  0\n 19 12  2  0\n 20 15  1  0\n 21  2  1  0\n 22  2  1  0\n 23  5  1  0\n 24 23  1  0\n 25 23  1  0\n 10  6  1  0\n 18 15  2  0\nM  END\n> <chembl_id>\nCHEMBL672\n\n> <chembl_pref_name>\nFENOFIBRATE",
+    "standard_inchi": "InChI=1S/C20H21ClO4/c1-13(2)24-19(23)20(3,4)25-17-11-7-15(8-12-17)18(22)14-5-9-16(21)10-6-14/h5-13H,1-4H3",
+    "standard_inchi_key": "YMTINGFKWWXKFG-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Antara",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "ANTARA"
+    },
+    {
+      "molecule_synonym": "Antara (micronized)",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "ANTARA (MICRONIZED)"
+    },
+    {
+      "molecule_synonym": "Fenofibrate",
+      "syn_type": "ATC",
+      "synonyms": "FENOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Fenofibrate",
+      "syn_type": "BAN",
+      "synonyms": "FENOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Fenofibrate",
+      "syn_type": "BNF",
+      "synonyms": "FENOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Fenofibrate",
+      "syn_type": "FDA",
+      "synonyms": "FENOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Fenofibrate",
+      "syn_type": "INN",
+      "synonyms": "FENOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Fenofibrate",
+      "syn_type": "JAN",
+      "synonyms": "FENOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Fenofibrate",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "FENOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Fenofibrate",
+      "syn_type": "OTHER",
+      "synonyms": "FENOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Fenofibrate",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "FENOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Fenofibrate",
+      "syn_type": "USAN",
+      "synonyms": "FENOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Fenofibrate",
+      "syn_type": "USP",
+      "synonyms": "FENOFIBRATE"
+    },
+    {
+      "molecule_synonym": "Fenofibrate delayed release",
+      "syn_type": "OTHER",
+      "synonyms": "FENOFIBRATE DELAYED RELEASE"
+    },
+    {
+      "molecule_synonym": "Fenofibrate (micronized)",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "FENOFIBRATE (MICRONIZED)"
+    },
+    {
+      "molecule_synonym": "Fenofibrate micronized",
+      "syn_type": "OTHER",
+      "synonyms": "FENOFIBRATE MICRONIZED"
+    },
+    {
+      "molecule_synonym": "Fenofibrato",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "FENOFIBRATO"
+    },
+    {
+      "molecule_synonym": "Fenogal",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "FENOGAL"
+    },
+    {
+      "molecule_synonym": "Fenoglide",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "FENOGLIDE"
+    },
+    {
+      "molecule_synonym": "Lipantil",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "LIPANTIL"
+    },
+    {
+      "molecule_synonym": "Lipantil micro 200",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "LIPANTIL MICRO 200"
+    },
+    {
+      "molecule_synonym": "Lipantil micro 267",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "LIPANTIL MICRO 267"
+    },
+    {
+      "molecule_synonym": "Lipantil micro 67",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "LIPANTIL MICRO 67"
+    },
+    {
+      "molecule_synonym": "Lipidil",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "LIPIDIL"
+    },
+    {
+      "molecule_synonym": "Lipofen",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "LIPOFEN"
+    },
+    {
+      "molecule_synonym": "NSC-281319",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "NSC-281319"
+    },
+    {
+      "molecule_synonym": "Supralip 160",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "SUPRALIP 160"
+    },
+    {
+      "molecule_synonym": "Tricor",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "TRICOR"
+    },
+    {
+      "molecule_synonym": "Tricor (micronized)",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "TRICOR (MICRONIZED)"
+    },
+    {
+      "molecule_synonym": "Triglide",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "TRIGLIDE"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "FENOFIBRATE",
+  "prodrug": 1,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-fibrate",
+  "usan_stem_definition": "antihyperlipidemics (clofibrate type)",
+  "usan_substem": "-fibrate",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

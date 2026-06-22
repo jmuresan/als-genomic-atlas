@@ -1,0 +1,24 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL463981",
+      "name": "BEGACESTAT",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Gamma-secretase inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "Alzheimer disease"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL4650349",
+      "name": "CHIGLITAZAR",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "non-alcoholic steatohepatitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "kidney disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "liver disease"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

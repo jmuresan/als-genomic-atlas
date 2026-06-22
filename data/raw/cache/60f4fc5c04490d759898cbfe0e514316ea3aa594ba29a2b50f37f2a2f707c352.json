@@ -1,0 +1,107 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL190083",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL190083",
+    "molecule_chembl_id": "CHEMBL190083",
+    "parent_chembl_id": "CHEMBL190083"
+  },
+  "molecule_properties": {
+    "alogp": "3.68",
+    "aromatic_rings": 2,
+    "full_molformula": "C15H13FO2",
+    "full_mwt": "244.26",
+    "hba": 1,
+    "hbd": 1,
+    "heavy_atoms": 18,
+    "mw_freebase": "244.26",
+    "np_likeness_score": "-0.43",
+    "num_ro5_violations": 0,
+    "psa": "37.30",
+    "qed_weighted": "0.89",
+    "ro3_pass": "N",
+    "rtb": 3
+  },
+  "molecule_structures": {
+    "canonical_smiles": "C[C@@H](C(=O)O)c1ccc(-c2ccccc2)c(F)c1",
+    "molfile": "\n     RDKit          2D\n\n 18 19  0  0  0  0  0  0  0  0999 V2000\n  -20.9491  -15.8518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -21.6636  -16.2643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -21.6636  -17.0893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -20.9491  -17.5018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -20.2346  -17.0893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -20.2346  -16.2643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -19.5201  -15.8518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -18.8057  -16.2643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -18.0912  -15.8518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -18.0912  -15.0268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -18.8057  -14.6142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -19.5202  -15.0268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -17.3767  -14.6143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -17.3767  -13.7893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -16.6623  -15.0268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -15.9478  -14.6142    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  -16.6623  -15.8518    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  -20.2346  -14.6143    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  1  6  1  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  6  2  0\n  6  7  1  0\n  7  8  2  0\n  7 12  1  0\n  8  9  1  0\n  9 10  2  0\n 10 11  1  0\n 11 12  2  0\n 10 13  1  0\n 13 14  1  1\n 13 15  1  0\n 15 16  1  0\n 15 17  2  0\n 12 18  1  0\nM  END\n> <chembl_id>\nCHEMBL190083\n\n> <chembl_pref_name>\nTARENFLURBIL",
+    "standard_inchi": "InChI=1S/C15H13FO2/c1-10(15(17)18)12-7-8-13(14(16)9-12)11-5-3-2-4-6-11/h2-10H,1H3,(H,17,18)/t10-/m1/s1",
+    "standard_inchi_key": "SYTBZMRGLBWNTM-SNVBAGLBSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "E-7869",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "E-7869"
+    },
+    {
+      "molecule_synonym": "Flurbiprofen, (r)-",
+      "syn_type": "OTHER",
+      "synonyms": "FLURBIPROFEN, (R)-"
+    },
+    {
+      "molecule_synonym": "MPC-7869",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "MPC-7869"
+    },
+    {
+      "molecule_synonym": "R-flurbiprofen",
+      "syn_type": "OTHER",
+      "synonyms": "R-FLURBIPROFEN"
+    },
+    {
+      "molecule_synonym": "Tarenflurbil",
+      "syn_type": "INN",
+      "synonyms": "TARENFLURBIL"
+    },
+    {
+      "molecule_synonym": "Tarenflurbil",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "TARENFLURBIL"
+    },
+    {
+      "molecule_synonym": "Tarenflurbil",
+      "syn_type": "OTHER",
+      "synonyms": "TARENFLURBIL"
+    },
+    {
+      "molecule_synonym": "Tarenflurbil",
+      "syn_type": "USAN",
+      "synonyms": "TARENFLURBIL"
+    },
+    {
+      "molecule_synonym": "Tarenflurbilo",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "TARENFLURBILO"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "TARENFLURBIL",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": null,
+  "usan_stem_definition": null,
+  "usan_substem": null,
+  "usan_year": 2005,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

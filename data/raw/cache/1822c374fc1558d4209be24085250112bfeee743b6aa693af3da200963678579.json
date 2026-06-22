@@ -1,0 +1,99 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL284348",
+      "name": "DALFAMPRIDINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Voltage-gated potassium channel blocker"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "motor neuron disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "hereditary spastic paraplegia"
+            }
+          },
+          {
+            "disease": {
+              "name": "short-term memory"
+            }
+          },
+          {
+            "disease": {
+              "name": "prostate disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple sclerosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "cerebral palsy"
+            }
+          },
+          {
+            "disease": {
+              "name": "Renal insufficiency"
+            }
+          },
+          {
+            "disease": {
+              "name": "Ischemic stroke"
+            }
+          },
+          {
+            "disease": {
+              "name": "stroke"
+            }
+          },
+          {
+            "disease": {
+              "name": "spinal cord injury"
+            }
+          },
+          {
+            "disease": {
+              "name": "obstructive sleep apnea"
+            }
+          },
+          {
+            "disease": {
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "injury"
+            }
+          },
+          {
+            "disease": {
+              "name": "proximal spinal muscular atrophy"
+            }
+          },
+          {
+            "disease": {
+              "name": "optic neuritis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Guillain-Barre syndrome"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

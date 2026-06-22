@@ -1,0 +1,97 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL354077",
+      "name": "AMIFAMPRIDINE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Voltage-gated potassium channel blocker"
+          },
+          {
+            "mechanismOfAction": "Voltage-gated potassium channel blocker"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "neuromuscular disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "botulism"
+            }
+          },
+          {
+            "disease": {
+              "name": "Myasthenia gravis"
+            }
+          },
+          {
+            "disease": {
+              "name": "immune system disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "nervous system disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "paraneoplastic neurologic syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple sclerosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "nervous system neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "neurodegenerative disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "Lambert-Eaton myasthenic syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "neuromuscular junction disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "autoimmune disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "autoimmune disorder of the nervous system"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

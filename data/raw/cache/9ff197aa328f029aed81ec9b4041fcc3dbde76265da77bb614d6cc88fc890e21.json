@@ -1,0 +1,29 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL424133",
+      "name": "LY-518674",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "hypertension"
+            }
+          },
+          {
+            "disease": {
+              "name": "metabolic syndrome"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

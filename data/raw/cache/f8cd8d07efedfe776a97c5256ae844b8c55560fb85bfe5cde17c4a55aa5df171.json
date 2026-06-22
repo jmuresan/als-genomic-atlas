@@ -1,0 +1,39 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1200728",
+      "name": "GUANIDINE HYDROCHLORIDE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Voltage-gated potassium channel blocker"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "Myasthenia gravis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Muscle weakness"
+            }
+          },
+          {
+            "disease": {
+              "name": "Increased muscle fatiguability"
+            }
+          },
+          {
+            "disease": {
+              "name": "small cell carcinoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

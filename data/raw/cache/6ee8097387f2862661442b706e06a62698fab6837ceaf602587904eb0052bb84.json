@@ -1,0 +1,248 @@
+{
+  "approvedSymbol": "TNFSF11",
+  "drugs": [
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1237023",
+        "name": "DENOSUMAB",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Tumor necrosis factor ligand superfamily member 11 inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "multiple myeloma"
+              }
+            },
+            {
+              "disease": {
+                "name": "gout"
+              }
+            },
+            {
+              "disease": {
+                "name": "Hypercalcemia"
+              }
+            },
+            {
+              "disease": {
+                "name": "osteogenesis imperfecta"
+              }
+            },
+            {
+              "disease": {
+                "name": "aortic stenosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "non-small cell lung carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "fibrous dysplasia"
+              }
+            },
+            {
+              "disease": {
+                "name": "cutaneous melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "giant cell tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "bone neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "type 1 diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "osteosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "bone metastasis"
+              }
+            },
+            {
+              "disease": {
+                "name": "osteoporosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "anorexia nervosa"
+              }
+            },
+            {
+              "disease": {
+                "name": "Osteolysis"
+              }
+            },
+            {
+              "disease": {
+                "name": "bone resorption"
+              }
+            },
+            {
+              "disease": {
+                "name": "total hip arthroplasty"
+              }
+            },
+            {
+              "disease": {
+                "name": "kidney disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "bone giant cell tumor"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "bone fracture"
+              }
+            },
+            {
+              "disease": {
+                "name": "Langerhans Cell Histiocytosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "postmenopausal osteoporosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "rheumatoid arthritis"
+              }
+            },
+            {
+              "disease": {
+                "name": "osteoarthritis, hand"
+              }
+            },
+            {
+              "disease": {
+                "name": "metastasis"
+              }
+            },
+            {
+              "disease": {
+                "name": "diabetes mellitus"
+              }
+            },
+            {
+              "disease": {
+                "name": "lung cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "allergic disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "bone resorption disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "melanoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "renal cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "osteoarthritis, knee"
+              }
+            },
+            {
+              "disease": {
+                "name": "bone disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "male infertility"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "thyroid cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "Crohn's disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Osteopenia"
+              }
+            },
+            {
+              "disease": {
+                "name": "osteoarthritis, hip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

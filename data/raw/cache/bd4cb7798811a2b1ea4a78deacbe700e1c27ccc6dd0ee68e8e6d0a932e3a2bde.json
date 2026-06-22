@@ -1,0 +1,72 @@
+{
+  "atc_classifications": [],
+  "availability_type": 0,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": 1939,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL821",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL821",
+    "molecule_chembl_id": "CHEMBL821",
+    "parent_chembl_id": "CHEMBL821"
+  },
+  "molecule_properties": {
+    "alogp": "-1.16",
+    "aromatic_rings": 0,
+    "full_molformula": "CH5N3",
+    "full_mwt": "59.07",
+    "hba": 1,
+    "hbd": 3,
+    "heavy_atoms": 4,
+    "mw_freebase": "59.07",
+    "np_likeness_score": "0.32",
+    "num_ro5_violations": 0,
+    "psa": "75.89",
+    "qed_weighted": "0.24",
+    "ro3_pass": "N",
+    "rtb": 0
+  },
+  "molecule_structures": {
+    "canonical_smiles": "N=C(N)N",
+    "molfile": "\n     RDKit          2D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n    0.0183    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4308    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4308   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8067    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  1  3  1  0\n  1  4  1  0\nM  END\n> <chembl_id>\nCHEMBL821\n\n> <chembl_pref_name>\nGUANIDINE",
+    "standard_inchi": "InChI=1S/CH5N3/c2-1(3)4/h(H5,2,3,4)",
+    "standard_inchi_key": "ZRALSGWEFCBTJO-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Guanidine",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "GUANIDINE"
+    },
+    {
+      "molecule_synonym": "Guanidine",
+      "syn_type": "OTHER",
+      "synonyms": "GUANIDINE"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "GUANIDINE",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "guan-",
+  "usan_stem_definition": "antihypertensives (guanidine derivatives)",
+  "usan_substem": "guan-",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

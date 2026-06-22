@@ -1,0 +1,534 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "SIGMAR1",
+      "drugAndClinicalCandidates": {
+        "count": 9,
+        "rows": [
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL52440",
+              "name": "DEXTROMETHORPHAN",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+                  },
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "autism"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "drug interaction"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "voice disorders"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "opioid dependence"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "prostate cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Parkinson disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "schizophrenia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "bipolar disorder"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diabetic neuropathy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "amyotrophic lateral sclerosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Rett syndrome"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Proteinuria"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cytomegalovirus infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "trypanosomiasis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "multiple sclerosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "relapsing-remitting multiple sclerosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "attention deficit hyperactivity disorder"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastasis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "type 2 diabetes mellitus"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "toxic encephalopathy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuropathic pain"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neurodegenerative disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hypertrophy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "peripheral neuropathy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "fibromyalgia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Cough"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "irritable bowel syndrome"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Cognitive impairment"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL87493",
+              "name": "FENFLURAMINE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Serotonin 2c (5-HT2c) receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor antagonist"
+                  },
+                  {
+                    "mechanismOfAction": "Serotonin 1d (5-HT1d) receptor agonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "obesity"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "genetic developmental and epileptic encephalopathy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "epilepsy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "myoclonic epilepsy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cocaine dependence"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Lennox-Gastaut syndrome"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Dravet syndrome"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1256818",
+              "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "Alzheimer disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "allergic disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rheumatoid arthritis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Back pain"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "sinusitis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diabetic macular edema"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "depressive disorder"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "migraine disorder"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Nasal congestion"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Cough"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "major depressive disorder"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Oral ulcer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pharyngitis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Fever"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "amyotrophic lateral sclerosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Headache"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "seasonal allergic rhinitis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Parkinson disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "common cold"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL3989510",
+              "name": "PENTAZOCINE HYDROCHLORIDE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor modulator"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "Pain"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1256696",
+              "name": "CARBETAPENTANE CITRATE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "sinusitis"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1201461",
+              "name": "DEXTROMETHORPHAN POLISTIREX",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "autism spectrum disorder"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL100116",
+              "name": "PENTAZOCINE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor modulator"
+                  },
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor modulator"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "bipolar disorder"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Pain"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL2106217",
+              "name": "FENFLURAMINE HYDROCHLORIDE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Serotonin 2c (5-HT2c) receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor antagonist"
+                  },
+                  {
+                    "mechanismOfAction": "Serotonin 1d (5-HT1d) receptor agonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "epilepsy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "photosensitive epilepsy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "craniodiaphyseal dysplasia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Dravet syndrome"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Seizure"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL73234",
+              "name": "CARBETAPENTANE",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "Cough"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

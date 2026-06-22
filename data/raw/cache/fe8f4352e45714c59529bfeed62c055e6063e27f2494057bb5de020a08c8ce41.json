@@ -1,0 +1,72 @@
+{
+  "molecules": [
+    {
+      "atc_classifications": [],
+      "availability_type": null,
+      "biotherapeutic": null,
+      "black_box_warning": 0,
+      "chemical_probe": 0,
+      "chirality": 1,
+      "cross_references": [],
+      "dosed_ingredient": false,
+      "first_approval": null,
+      "first_in_class": 0,
+      "helm_notation": null,
+      "inorganic_flag": 0,
+      "max_phase": "3.0",
+      "molecule_chembl_id": "CHEMBL4297530",
+      "molecule_hierarchy": {
+        "active_chembl_id": "CHEMBL4297530",
+        "molecule_chembl_id": "CHEMBL4297530",
+        "parent_chembl_id": "CHEMBL4297530"
+      },
+      "molecule_properties": {
+        "alogp": "5.30",
+        "aromatic_rings": 3,
+        "full_molformula": "C25H29NO4S",
+        "full_mwt": "439.58",
+        "hba": 5,
+        "hbd": 1,
+        "heavy_atoms": 31,
+        "mw_freebase": "439.58",
+        "np_likeness_score": "-0.87",
+        "num_ro5_violations": 1,
+        "psa": "60.69",
+        "qed_weighted": "0.41",
+        "ro3_pass": "N",
+        "rtb": 11
+      },
+      "molecule_structures": {
+        "canonical_smiles": "CCO[C@@H](Cc1ccc(OCCn2c(C)ccc2-c2ccc(SC)cc2)cc1)C(=O)O",
+        "molfile": "\n     RDKit          2D\n\n 31 33  0  0  1  0  0  0  0  0999 V2000\n   11.5718   -6.6461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.8573   -7.0586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.8573   -7.8836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.5718   -5.8211    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   12.2862   -7.0586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   11.5718   -8.2961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   12.2862   -7.8836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.0007   -8.2961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.0007   -9.1211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   12.2862   -9.5336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.5718   -9.1211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.7152   -9.5336    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   14.4297   -9.1211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.1441   -9.5336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.8586   -9.1211    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   16.6123   -9.4567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   17.1643   -8.8436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   16.7518   -8.1291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.9448   -8.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.3317   -7.7486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   14.5471   -8.0036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.9340   -7.4515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   14.1056   -6.6446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   14.8902   -6.3896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.5033   -6.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.4925   -6.0925    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n   12.7078   -6.3475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   16.7838  -10.2637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.1428   -6.6461    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    9.4284   -7.0586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.7139   -6.6461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  6\n  1  4  2  0\n  1  5  1  0\n  6  7  1  0\n  7  8  2  0\n  8  9  1  0\n  9 10  2  0\n 10 11  1  0\n  6 11  2  0\n 13 14  1  0\n 12 13  1  0\n 15 16  1  0\n 16 17  2  0\n 17 18  1  0\n 18 19  2  0\n 15 19  1  0\n 20 21  1  0\n 21 22  2  0\n 22 23  1  0\n 23 24  2  0\n 24 25  1  0\n 20 25  2  0\n 26 27  1  0\n 23 26  1  0\n 19 20  1  0\n 16 28  1  0\n 14 15  1  0\n  9 12  1  0\n  3  6  1  0\n 30 31  1  0\n 29 30  1  0\n  2 29  1  0\nM  END\n> <chembl_id>\nCHEMBL4297530\n\n> <chembl_pref_name>\nSAROGLITAZAR",
+        "standard_inchi": "InChI=1S/C25H29NO4S/c1-4-29-24(25(27)28)17-19-6-10-21(11-7-19)30-16-15-26-18(2)5-14-23(26)20-8-12-22(31-3)13-9-20/h5-14,24H,4,15-17H2,1-3H3,(H,27,28)/t24-/m0/s1",
+        "standard_inchi_key": "MRWFZSLZNUJVQW-DEOSSOPVSA-N"
+      },
+      "molecule_type": "Small molecule",
+      "natural_product": 1,
+      "oral": false,
+      "orphan": 0,
+      "parenteral": false,
+      "polymer_flag": 0,
+      "pref_name": "SAROGLITAZAR",
+      "prodrug": 0,
+      "similarity": "100",
+      "structure_type": "MOL",
+      "therapeutic_flag": false,
+      "topical": false,
+      "usan_stem": "-glitazar",
+      "usan_stem_definition": "peroxisome proliferator activating receptor (PPAR) agonists (not thiazolidene derivatives)",
+      "usan_substem": "-glitazar",
+      "usan_year": null,
+      "veterinary": 0,
+      "withdrawn_flag": false
+    }
+  ],
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

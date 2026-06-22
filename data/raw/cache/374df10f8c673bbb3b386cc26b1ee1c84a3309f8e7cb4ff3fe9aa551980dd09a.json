@@ -1,0 +1,79 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL457",
+      "name": "GEMFIBROZIL",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "alcohol dependence"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hypertriglyceridemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "familial hyperlipidemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "Alzheimer disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "Parkinson disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "smoking cessation"
+            }
+          },
+          {
+            "disease": {
+              "name": "coronary artery disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "Abdominal pain"
+            }
+          },
+          {
+            "disease": {
+              "name": "cardiovascular disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "nicotine dependence"
+            }
+          },
+          {
+            "disease": {
+              "name": "anemia (phenotype)"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [],
+    "description": "Pritumumab (human mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2108045"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL2108045",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2108045",
+    "molecule_chembl_id": "CHEMBL2108045",
+    "parent_chembl_id": "CHEMBL2108045"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "ACA-11",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ACA-11"
+    },
+    {
+      "molecule_synonym": "ACA11",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ACA11"
+    },
+    {
+      "molecule_synonym": "CLNH-11",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CLNH-11"
+    },
+    {
+      "molecule_synonym": "CLNH11",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CLNH11"
+    },
+    {
+      "molecule_synonym": "CLN-IGG",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CLN-IGG"
+    },
+    {
+      "molecule_synonym": "CLNIGG",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CLNIGG"
+    },
+    {
+      "molecule_synonym": "Pritumumab",
+      "syn_type": "INN",
+      "synonyms": "PRITUMUMAB"
+    },
+    {
+      "molecule_synonym": "Pritumumab",
+      "syn_type": "OTHER",
+      "synonyms": "PRITUMUMAB"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "PRITUMUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human",
+  "usan_substem": "-mab (-umab)",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

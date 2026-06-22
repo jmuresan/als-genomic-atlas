@@ -1,0 +1,32 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL592054",
+      "name": "IMIGLITAZAR",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          },
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor gamma agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

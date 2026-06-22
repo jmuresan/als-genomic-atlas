@@ -1,0 +1,28 @@
+{
+  "approvedSymbol": "VIM",
+  "drugs": [
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL2108045",
+        "name": "PRITUMUMAB",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Vimentin other"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "glioma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

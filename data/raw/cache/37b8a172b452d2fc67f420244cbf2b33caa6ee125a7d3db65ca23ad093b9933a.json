@@ -1,0 +1,114 @@
+{
+  "atc_classifications": [
+    "A05AX06"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": true,
+  "first_approval": 2024,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL3707395",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3707395",
+    "molecule_chembl_id": "CHEMBL3707395",
+    "parent_chembl_id": "CHEMBL3707395"
+  },
+  "molecule_properties": {
+    "alogp": "5.16",
+    "aromatic_rings": 2,
+    "full_molformula": "C22H24O4S",
+    "full_mwt": "384.50",
+    "hba": 4,
+    "hbd": 1,
+    "heavy_atoms": 27,
+    "mw_freebase": "384.50",
+    "np_likeness_score": "-0.21",
+    "num_ro5_violations": 1,
+    "psa": "63.60",
+    "qed_weighted": "0.41",
+    "ro3_pass": "N",
+    "rtb": 7
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CSc1ccc(C(=O)/C=C/c2cc(C)c(OC(C)(C)C(=O)O)c(C)c2)cc1",
+    "molfile": "\n     RDKit          2D\n\n 27 28  0  0  0  0  0  0  0  0999 V2000\n   -2.2982    3.8009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0127    3.3884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0127    2.5634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2982    2.1509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5837    2.5634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5837    3.3884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8692    3.8009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1548    3.3884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8693    4.6259    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5597    3.8009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2742    3.3884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2742    2.5634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9886    2.1509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7031    2.5634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7031    3.3885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9887    3.8009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4176    3.8010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4176    2.1509    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9887    1.3259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.1321    2.5634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.8465    2.1509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5487    3.1468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.5446    3.2779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.5610    2.5634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.8465    1.3259    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7272    2.1509    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.4417    2.5634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  1  6  2  0\n  2  3  2  0\n  3  4  1  0\n  4  5  2  0\n  5  6  1  0\n  6  7  1  0\n  7  8  1  0\n  7  9  2  0\n  8 10  2  0\n 10 11  1  0\n 11 12  1  0\n 11 16  2  0\n 12 13  2  0\n 13 14  1  0\n 14 15  2  0\n 15 16  1  0\n 15 17  1  0\n 14 18  1  0\n 13 19  1  0\n 18 20  1  0\n 20 21  1  0\n 20 22  1  0\n 20 23  1  0\n 21 24  1  0\n 21 25  2  0\n  3 26  1  0\n 26 27  1  0\nM  END\n> <chembl_id>\nCHEMBL3707395\n\n> <chembl_pref_name>\nELAFIBRANOR",
+    "standard_inchi": "InChI=1S/C22H24O4S/c1-14-12-16(13-15(2)20(14)26-22(3,4)21(24)25)6-11-19(23)17-7-9-18(27-5)10-8-17/h6-13H,1-5H3,(H,24,25)/b11-6+",
+    "standard_inchi_key": "AFLFKFHDSCQHOL-IZZDOVSWSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Elafibranor",
+      "syn_type": "ATC",
+      "synonyms": "ELAFIBRANOR"
+    },
+    {
+      "molecule_synonym": "Elafibranor",
+      "syn_type": "FDA",
+      "synonyms": "ELAFIBRANOR"
+    },
+    {
+      "molecule_synonym": "Elafibranor",
+      "syn_type": "INN",
+      "synonyms": "ELAFIBRANOR"
+    },
+    {
+      "molecule_synonym": "Elafibranor",
+      "syn_type": "OTHER",
+      "synonyms": "ELAFIBRANOR"
+    },
+    {
+      "molecule_synonym": "Elafibranor",
+      "syn_type": "USAN",
+      "synonyms": "ELAFIBRANOR"
+    },
+    {
+      "molecule_synonym": "GFT-505",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "GFT-505"
+    },
+    {
+      "molecule_synonym": "Gft505",
+      "syn_type": "OTHER",
+      "synonyms": "GFT505"
+    },
+    {
+      "molecule_synonym": "GFT505",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "GFT505"
+    },
+    {
+      "molecule_synonym": "Iqirvo",
+      "syn_type": "OTHER",
+      "synonyms": "IQIRVO"
+    },
+    {
+      "molecule_synonym": "Iqirvo",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "IQIRVO"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "ELAFIBRANOR",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": null,
+  "usan_stem_definition": null,
+  "usan_substem": null,
+  "usan_year": 2015,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

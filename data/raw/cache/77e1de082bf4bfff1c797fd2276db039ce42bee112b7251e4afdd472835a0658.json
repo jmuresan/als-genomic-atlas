@@ -1,0 +1,184 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL672",
+      "name": "FENOFIBRATE",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Peroxisome proliferator-activated receptor alpha agonist"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "diabetic retinopathy"
+            }
+          },
+          {
+            "disease": {
+              "name": "diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "liver transplant"
+            }
+          },
+          {
+            "disease": {
+              "name": "hyperlipoproteinemia type 3"
+            }
+          },
+          {
+            "disease": {
+              "name": "inherited lipid metabolism disorder"
+            }
+          },
+          {
+            "disease": {
+              "name": "HIV-1 infection"
+            }
+          },
+          {
+            "disease": {
+              "name": "metabolic syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hypertriglyceridemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "Disorder of lipid metabolism"
+            }
+          },
+          {
+            "disease": {
+              "name": "cardiovascular disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "neonatal jaundice"
+            }
+          },
+          {
+            "disease": {
+              "name": "burn"
+            }
+          },
+          {
+            "disease": {
+              "name": "type 2 diabetes mellitus"
+            }
+          },
+          {
+            "disease": {
+              "name": "familial hyperlipidemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "hypothyroidism"
+            }
+          },
+          {
+            "disease": {
+              "name": "Abnormal circulating lipid concentration"
+            }
+          },
+          {
+            "disease": {
+              "name": "diabetic nephropathy"
+            }
+          },
+          {
+            "disease": {
+              "name": "hyperlipidemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "Combined hyperlipidemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-alcoholic steatohepatitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "obesity"
+            }
+          },
+          {
+            "disease": {
+              "name": "Huntington disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "COVID-19"
+            }
+          },
+          {
+            "disease": {
+              "name": "Hypercholesterolemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "alcohol dependence"
+            }
+          },
+          {
+            "disease": {
+              "name": "sclerosing cholangitis"
+            }
+          },
+          {
+            "disease": {
+              "name": "metabolic disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "macular telangiectasia type 2"
+            }
+          },
+          {
+            "disease": {
+              "name": "polycystic ovary syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "primary biliary cirrhosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "inflammatory bowel disease"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

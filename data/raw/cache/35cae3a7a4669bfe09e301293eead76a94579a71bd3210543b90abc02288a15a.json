@@ -1,0 +1,74 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL4297422",
+      "name": "RG-4733",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Gamma-secretase inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "renal cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "rectum cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "ovarian carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "clear cell renal carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "non-small cell lung carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "Fallopian Tube Carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "malignant colon neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "melanoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

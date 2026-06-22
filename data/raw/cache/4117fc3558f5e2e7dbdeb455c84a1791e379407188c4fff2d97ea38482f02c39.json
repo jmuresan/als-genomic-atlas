@@ -1,0 +1,377 @@
+{
+  "approvedSymbol": "KCNH6",
+  "drugs": [
+    {
+      "maxClinicalStage": "PHASE_2",
+      "drug": {
+        "id": "CHEMBL2107762",
+        "name": "NERISPIRDINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Voltage-gated potassium channel blocker"
+            },
+            {
+              "mechanismOfAction": "Sodium channel alpha subunit blocker"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "spinal cord injury"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple sclerosis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL284348",
+        "name": "DALFAMPRIDINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Voltage-gated potassium channel blocker"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "motor neuron disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "hereditary spastic paraplegia"
+              }
+            },
+            {
+              "disease": {
+                "name": "short-term memory"
+              }
+            },
+            {
+              "disease": {
+                "name": "prostate disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple sclerosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "cerebral palsy"
+              }
+            },
+            {
+              "disease": {
+                "name": "Renal insufficiency"
+              }
+            },
+            {
+              "disease": {
+                "name": "Ischemic stroke"
+              }
+            },
+            {
+              "disease": {
+                "name": "stroke"
+              }
+            },
+            {
+              "disease": {
+                "name": "spinal cord injury"
+              }
+            },
+            {
+              "disease": {
+                "name": "obstructive sleep apnea"
+              }
+            },
+            {
+              "disease": {
+                "name": "Parkinson disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "injury"
+              }
+            },
+            {
+              "disease": {
+                "name": "proximal spinal muscular atrophy"
+              }
+            },
+            {
+              "disease": {
+                "name": "optic neuritis"
+              }
+            },
+            {
+              "disease": {
+                "name": "Guillain-Barre syndrome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL3301611",
+        "name": "AMIFAMPRIDINE PHOSPHATE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Voltage-gated potassium channel blocker"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "congenital myasthenic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "spinal muscular atrophy"
+              }
+            },
+            {
+              "disease": {
+                "name": "Congenital myasthenic syndromes"
+              }
+            },
+            {
+              "disease": {
+                "name": "Lambert-Eaton myasthenic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "Myasthenia gravis"
+              }
+            },
+            {
+              "disease": {
+                "name": "Brugada syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "Muscle weakness"
+              }
+            },
+            {
+              "disease": {
+                "name": "spinal muscular atrophy, type III"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL113461",
+        "name": "TEDISAMIL",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Voltage-gated potassium channel blocker"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "cardiac arrhythmia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL821",
+        "name": "GUANIDINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Voltage-gated potassium channel blocker"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neuroendocrine neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "metastasis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL354077",
+        "name": "AMIFAMPRIDINE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Voltage-gated potassium channel blocker"
+            },
+            {
+              "mechanismOfAction": "Voltage-gated potassium channel blocker"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neuromuscular disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "botulism"
+              }
+            },
+            {
+              "disease": {
+                "name": "Myasthenia gravis"
+              }
+            },
+            {
+              "disease": {
+                "name": "immune system disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "nervous system disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "paraneoplastic neurologic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "multiple sclerosis"
+              }
+            },
+            {
+              "disease": {
+                "name": "nervous system neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "neurodegenerative disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "Lambert-Eaton myasthenic syndrome"
+              }
+            },
+            {
+              "disease": {
+                "name": "cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neuromuscular junction disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "autoimmune disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "autoimmune disorder of the nervous system"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "APPROVAL",
+      "drug": {
+        "id": "CHEMBL1200728",
+        "name": "GUANIDINE HYDROCHLORIDE",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Voltage-gated potassium channel blocker"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "Myasthenia gravis"
+              }
+            },
+            {
+              "disease": {
+                "name": "Muscle weakness"
+              }
+            },
+            {
+              "disease": {
+                "name": "Increased muscle fatiguability"
+              }
+            },
+            {
+              "disease": {
+                "name": "small cell carcinoma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
