@@ -1,11 +1,12 @@
 """
-ELI-5 explainer for the ALS Genomic Atlas — the 11 data categories.
+Overview of the ALS Genomic Atlas — the 11 data categories.
 
 Render:
-    manim -qm video/als_atlas_eli5.py ALSAtlasELI5      # 720p30
-    manim -qh video/als_atlas_eli5.py ALSAtlasELI5      # 1080p60
+    manim -qm video/als_atlas_overview.py ALSGenomicAtlas      # 720p30
+    manim -qh video/als_atlas_overview.py ALSGenomicAtlas      # 1080p60
 
-Uses only Text (Pango) and vector shapes, so no LaTeX is required.
+Uses Text (Pango) and vector shapes, so no LaTeX is required.
+The SANDO logo is composited from video/assets/sando_logo_soft.png.
 """
 
 import numpy as np
@@ -14,24 +15,22 @@ from manim import *
 BG = "#0d1b2a"
 INK = "#e0e1dd"
 DIM = "#415a77"
+MUTED = "#90a4c4"
+LOGO = "video/assets/sando_logo_soft.png"
 
 
 # --------------------------------------------------------------------------
-# Small icon builders. Each returns a VGroup centered near the origin; the
-# scene normalizes height before placing it, so absolute sizes here are loose.
+# Icons. Each returns a VGroup centered near the origin; the scene normalizes
+# height before placing it, so absolute sizes here are loose. The icons are
+# schematic, not literal depictions.
 # --------------------------------------------------------------------------
 
-def make_pill(color, w=1.4, h=0.55, color2=None):
+def make_pill(color, w=1.4, h=0.55):
     pill = RoundedRectangle(
         width=w, height=h, corner_radius=h / 2,
         fill_color=color, fill_opacity=1, stroke_color=WHITE, stroke_width=3,
     )
     divider = Line(UP * (h / 2 - 0.03), DOWN * (h / 2 - 0.03), color=WHITE, stroke_width=3)
-    if color2 is not None:
-        shade = Rectangle(width=w / 2 - 0.04, height=h - 0.06,
-                          fill_color=color2, fill_opacity=1, stroke_width=0)
-        shade.move_to(pill).shift(RIGHT * w / 4)
-        return VGroup(pill, shade, divider)
     return VGroup(pill, divider)
 
 
@@ -54,13 +53,13 @@ def icon_variants(color):
     seq = VGroup(
         Text("A", font_size=40, color=WHITE),
         Text("C", font_size=40, color=WHITE),
-        Text("G", font_size=40, color=RED, weight=BOLD),
+        Text("G", font_size=40, color=color, weight=BOLD),
         Text("T", font_size=40, color=WHITE),
     ).arrange(RIGHT, buff=0.18)
-    glass = Circle(radius=0.42, color="#ffd166", stroke_width=5).move_to(seq[2])
+    glass = Circle(radius=0.42, color=WHITE, stroke_width=5).move_to(seq[2])
     handle = Line(glass.get_corner(DR),
                   glass.get_corner(DR) + np.array([0.32, -0.32, 0]),
-                  color="#ffd166", stroke_width=6)
+                  color=WHITE, stroke_width=6)
     return VGroup(seq, glass, handle)
 
 
@@ -70,8 +69,7 @@ def icon_regulation(color):
                              fill_color="#1b263b", fill_opacity=1)
     knob = Circle(radius=0.22, color=color, fill_opacity=1, stroke_width=0)
     knob.move_to(track.get_right() + LEFT * 0.3)
-    label = Text("ON", font_size=22, color=color).next_to(track, UP, buff=0.12)
-    return VGroup(track, knob, label)
+    return VGroup(track, knob)
 
 
 def icon_expression(color):
@@ -142,22 +140,23 @@ def icon_repurpose(color):
     return VGroup(pills, top, bot)
 
 
+# (number, short title, two-line factual description, accent color, icon, sources)
 CATEGORIES = [
-    (1,  "Gene & Transcript Map",   ["Find the gene's address", "and read its recipe cards."],   "#4cc9f0", icon_mapping),
-    (2,  "Variants & Pathogenicity", ["Spot the spelling mistakes —", "and which ones are harmful."], "#f72585", icon_variants),
-    (3,  "Regulation & Epigenomics", ["Find the on/off switches", "and the dimmer knobs."],         "#ffd166", icon_regulation),
-    (4,  "Expression & Tissues",    ["See which body parts", "actually use the recipe."],          "#06d6a0", icon_expression),
-    (5,  "Pathways & Function",     ["Learn the protein's job", "and which team it's on."],         "#b5179e", icon_pathways),
-    (6,  "Network Interactions",    ["See which other proteins", "it holds hands with."],           "#4895ef", icon_interactions),
-    (7,  "Drugs & Druggability",    ["Check if a medicine", "can grab onto it."],                   "#ef476f", icon_drug),
-    (8,  "3D Structure",            ["See the shape it folds into,", "like origami."],              "#fb8500", icon_structure),
-    (9,  "Structural Similarity",   ["Find other proteins", "with the same shape."],                "#8ac926", icon_similarity),
-    (10, "Matched-Target Drugs",    ["Borrow medicines made", "for those look-alikes."],           "#ff9e00", icon_matched),
-    (11, "Repurposing Candidates",  ["Find similar medicines", "we could reuse."],                  "#a0c4ff", icon_repurpose),
+    (1,  "Gene & Transcript Map",   ["The gene's location in the genome", "and its transcript isoforms."],   "#4cc9f0", icon_mapping,     "Ensembl, NCBI, UniProt"),
+    (2,  "Variants & Pathogenicity", ["Known DNA variants and their", "assessed clinical significance."],     "#5e8bd6", icon_variants,    "ClinVar, dbSNP, gnomAD, AlphaGenome"),
+    (3,  "Regulation & Epigenomics", ["Promoters, enhancers, and", "transcription-factor binding sites."],     "#ffd166", icon_regulation,  "ENCODE, UCSC, JASPAR, UniBind"),
+    (4,  "Expression & Tissues",    ["Where the gene is expressed,", "including nervous-system tissue."],       "#06d6a0", icon_expression,  "GTEx, Human Protein Atlas"),
+    (5,  "Pathways & Function",     ["Biological pathways, gene functions,", "and protein domains."],            "#b5179e", icon_pathways,    "Reactome, QuickGO, InterPro"),
+    (6,  "Network Interactions",    ["Proteins it physically or", "functionally interacts with."],              "#4895ef", icon_interactions, "STRING"),
+    (7,  "Drugs & Druggability",    ["Associated drugs, clinical trials,", "and target–disease evidence."], "#ef476f", icon_drug,        "Open Targets, ChEMBL, ClinicalTrials.gov"),
+    (8,  "3D Structure",            ["Experimental and predicted", "3D protein structures."],                   "#fb8500", icon_structure,   "AlphaFold, RCSB PDB"),
+    (9,  "Structural Similarity",   ["Other proteins with a", "similar 3D structure."],                         "#8ac926", icon_similarity,  "Foldseek"),
+    (10, "Matched-Target Drugs",    ["Drugs and trials for those", "structurally similar proteins."],           "#ff9e00", icon_matched,     "Foldseek hits via Open Targets"),
+    (11, "Repurposing Candidates",  ["Chemically similar compounds", "flagged for further study."],             "#a0c4ff", icon_repurpose,   "ChEMBL, Open Targets"),
 ]
 
 
-class ALSAtlasELI5(Scene):
+class ALSGenomicAtlas(Scene):
     def construct(self):
         self.camera.background_color = BG
         self.intro()
@@ -166,15 +165,15 @@ class ALSAtlasELI5(Scene):
 
     # ----- intro -------------------------------------------------------
     def intro(self):
-        title = Text("The ALS Genomic Atlas", font_size=56, weight=BOLD, color=WHITE)
-        sub = Text("explained simply", font_size=30, slant=ITALIC, color="#90a4c4")
-        sub.next_to(title, DOWN, buff=0.3)
+        title = Text("ALS Genomic Atlas", font_size=58, weight=BOLD, color=WHITE)
+        logo = ImageMobject(LOGO).scale_to_fit_height(1.1)
+        group = Group(title, logo).arrange(DOWN, buff=0.5)
         self.play(Write(title), run_time=1.2)
-        self.play(FadeIn(sub, shift=UP * 0.2), run_time=0.6)
-        self.wait(1.0)
-        self.play(FadeOut(title), FadeOut(sub), run_time=0.6)
+        self.play(FadeIn(logo), run_time=0.8)
+        self.wait(1.2)
+        self.play(FadeOut(title), FadeOut(logo), run_time=0.7)
 
-        # a motor neuron
+        # motor neuron schematic
         soma = Circle(radius=0.55, color="#4cc9f0", fill_opacity=0.25, stroke_width=3)
         dendrites = VGroup(*[
             Line(soma.get_center(),
@@ -188,35 +187,24 @@ class ALSAtlasELI5(Scene):
                  color="#4cc9f0", stroke_width=3)
             for a in np.deg2rad([30, 0, -30])
         ])
-        neuron = VGroup(dendrites, soma, axon, terminals).move_to(ORIGIN)
-        cap1 = Text("ALS slowly damages motor neurons —", font_size=32, color=INK)
-        cap2 = Text("the cells that move your muscles.", font_size=32, color=INK)
-        VGroup(cap1, cap2).arrange(DOWN, buff=0.18).to_edge(DOWN, buff=0.9)
+        neuron = VGroup(dendrites, soma, axon, terminals).move_to(UP * 0.4)
+        cap = VGroup(
+            Text("Amyotrophic lateral sclerosis is a progressive", font_size=30, color=INK),
+            Text("neurodegenerative disease that affects motor neurons.", font_size=30, color=INK),
+        ).arrange(DOWN, buff=0.16).to_edge(DOWN, buff=1.0)
         self.play(Create(neuron), run_time=1.4)
-        self.play(FadeIn(cap1), FadeIn(cap2), run_time=0.6)
-        self.wait(1.6)
-        self.play(FadeOut(neuron), FadeOut(cap1), FadeOut(cap2), run_time=0.6)
+        self.play(FadeIn(cap), run_time=0.6)
+        self.wait(2.0)
+        self.play(FadeOut(neuron), FadeOut(cap), run_time=0.6)
 
-        # genes + the detective framing
-        line1 = Text("Genes hold the body's instructions.", font_size=36, color=WHITE)
-        line2 = Text("46 genes are linked to ALS.", font_size=36, color="#90a4c4")
-        VGroup(line1, line2).arrange(DOWN, buff=0.3)
-        self.play(FadeIn(line1, shift=UP * 0.2))
-        self.play(FadeIn(line2, shift=UP * 0.2))
-        self.wait(1.4)
-        self.play(FadeOut(line1), FadeOut(line2), run_time=0.5)
-
-        glass = Circle(radius=0.6, color="#ffd166", stroke_width=6)
-        handle = Line(glass.get_corner(DR), glass.get_corner(DR) + np.array([0.5, -0.5, 0]),
-                      color="#ffd166", stroke_width=8)
-        detective = VGroup(glass, handle).scale(0.9).shift(UP * 0.5)
-        framing1 = Text("For each gene, scientists gather 11 kinds of clues", font_size=32, color=INK)
-        framing2 = Text("— like a detective building a case.", font_size=32, color="#90a4c4")
-        VGroup(framing1, framing2).arrange(DOWN, buff=0.18).to_edge(DOWN, buff=1.1)
-        self.play(Create(detective), run_time=0.9)
-        self.play(FadeIn(framing1), FadeIn(framing2), run_time=0.6)
-        self.wait(1.6)
-        self.play(FadeOut(detective), FadeOut(framing1), FadeOut(framing2), run_time=0.6)
+        framing = VGroup(
+            Text("The atlas compiles molecular data for 46 genes", font_size=34, color=WHITE),
+            Text("associated with ALS, organized into 11 categories.", font_size=34, color=WHITE),
+        ).arrange(DOWN, buff=0.2)
+        self.play(FadeIn(framing[0], shift=UP * 0.2))
+        self.play(FadeIn(framing[1], shift=UP * 0.2))
+        self.wait(2.0)
+        self.play(FadeOut(framing), run_time=0.6)
 
     # ----- progress dots ----------------------------------------------
     def build_progress(self):
@@ -239,7 +227,7 @@ class ALSAtlasELI5(Scene):
     # ----- the 11 categories ------------------------------------------
     def run_categories(self):
         self.build_progress()
-        for idx, (num, title, eli5, color, icon_fn) in enumerate(CATEGORIES):
+        for idx, (num, title, desc, color, icon_fn, sources) in enumerate(CATEGORIES):
             self.set_progress(idx)
 
             badge = VGroup(
@@ -250,37 +238,54 @@ class ALSAtlasELI5(Scene):
             title_t = Text(title, font_size=38, weight=BOLD, color=WHITE)
             header = VGroup(badge, title_t).arrange(RIGHT, buff=0.35).to_edge(UP, buff=1.0)
 
-            tag = Text(f"Clue {num} of 11", font_size=24, color=color)
+            tag = Text(f"Category {num} / 11", font_size=24, color=color)
             tag.next_to(header, DOWN, buff=0.3)
 
             icon = icon_fn(color)
-            icon.scale_to_fit_height(2.0).move_to(LEFT * 3.3 + DOWN * 0.3)
+            icon.scale_to_fit_height(2.0).move_to(LEFT * 3.3 + DOWN * 0.2)
 
-            eli5_t = VGroup(*[Text(t, font_size=32, color=INK) for t in eli5])
-            eli5_t.arrange(DOWN, aligned_edge=LEFT, buff=0.22)
-            eli5_t.next_to(icon, RIGHT, buff=1.0).set_y(icon.get_y())
+            desc_t = VGroup(*[Text(t, font_size=31, color=INK) for t in desc])
+            desc_t.arrange(DOWN, aligned_edge=LEFT, buff=0.22)
+            desc_t.next_to(icon, RIGHT, buff=1.0).set_y(icon.get_y() + 0.25)
+
+            src_t = Text(f"Source: {sources}", font_size=22, color=MUTED)
+            src_t.next_to(desc_t, DOWN, aligned_edge=LEFT, buff=0.45)
 
             self.play(FadeIn(badge, scale=0.6), Write(title_t), FadeIn(tag), run_time=0.7)
             self.play(Create(icon), run_time=0.9)
-            self.play(*[FadeIn(t, shift=RIGHT * 0.3) for t in eli5_t], run_time=0.7)
+            self.play(*[FadeIn(t, shift=RIGHT * 0.3) for t in desc_t], run_time=0.6)
+            self.play(FadeIn(src_t), run_time=0.4)
             self.wait(2.2)
-            self.play(FadeOut(header), FadeOut(tag), FadeOut(icon), FadeOut(eli5_t), run_time=0.45)
+            self.play(FadeOut(header), FadeOut(tag), FadeOut(icon),
+                      FadeOut(desc_t), FadeOut(src_t), run_time=0.45)
 
     # ----- outro -------------------------------------------------------
     def outro(self):
         self.play(*[
-            self.dots[j].animate.set_fill(CATEGORIES[j][3], opacity=1).set(width=0.26)
+            self.dots[j].animate.set_fill(CATEGORIES[j][3], opacity=1).set(width=0.24)
             for j in range(len(CATEGORIES))
-        ], run_time=0.8)
+        ], run_time=0.7)
 
-        line1 = Text("11 clues  →  one full picture of a gene.", font_size=38, color=WHITE)
-        line1.move_to(UP * 0.6)
-        self.play(Write(line1), run_time=1.0)
-        self.wait(1.2)
+        closing = VGroup(
+            Text("These 11 categories are compiled for each", font_size=34, color=WHITE),
+            Text("of the 46 ALS-associated genes in the atlas.", font_size=34, color=WHITE),
+        ).arrange(DOWN, buff=0.2)
+        self.play(FadeIn(closing), run_time=0.8)
+        self.wait(2.0)
+        self.play(FadeOut(closing), FadeOut(self.dots), run_time=0.6)
 
-        line2 = Text("× 46 genes  =  the ALS Genomic Atlas", font_size=40, weight=BOLD, color="#4cc9f0")
-        line2.next_to(line1, DOWN, buff=0.5)
-        self.play(FadeIn(line2, shift=UP * 0.2), run_time=0.8)
+        credit = VGroup(
+            Text("All data is drawn from public biological databases,", font_size=26, color=MUTED),
+            Text("including Ensembl, UniProt, ClinVar, gnomAD, GTEx, STRING,", font_size=26, color=MUTED),
+            Text("Reactome, Open Targets, AlphaFold, the RCSB PDB,", font_size=26, color=MUTED),
+            Text("Foldseek, and ChEMBL.", font_size=26, color=MUTED),
+        ).arrange(DOWN, buff=0.18)
+        self.play(FadeIn(credit), run_time=0.8)
+        self.wait(2.4)
+        self.play(FadeOut(credit), run_time=0.6)
+
+        logo = ImageMobject(LOGO).scale_to_fit_height(2.4)
+        self.play(FadeIn(logo), run_time=0.9)
         self.wait(1.8)
-        self.play(FadeOut(line1), FadeOut(line2), FadeOut(self.dots), run_time=0.8)
-        self.wait(0.4)
+        self.play(FadeOut(logo), run_time=0.8)
+        self.wait(0.3)
