@@ -347,7 +347,9 @@ class EnsemblClient(BaseClient):
             return raw
             
         if not isinstance(raw, dict):
-            return self._get_mock_data("symbol_lookup", {"gene": gene_symbol})
+            if self.cache.offline_mode:
+                return self._get_mock_data("symbol_lookup", {"gene": gene_symbol})
+            return {"ensembl_id": None, "symbol": gene_symbol, "transcripts": [], "coordinates": {}}
             
         transcripts_list = []
         raw_txs = raw.get("Transcript", []) or []
@@ -432,12 +434,16 @@ class DbSNPClient(BaseClient):
             return raw
             
         if not isinstance(raw, dict) or "result" not in raw:
-            return self._get_mock_data(f"rs_{rsid}", {"id": rsid})
+            if self.cache.offline_mode:
+                return self._get_mock_data(f"rs_{rsid}", {"id": rsid})
+            return {}
             
         result = raw.get("result", {})
         uids = result.get("uids", [])
         if not uids:
-            return self._get_mock_data(f"rs_{rsid}", {"id": rsid})
+            if self.cache.offline_mode:
+                return self._get_mock_data(f"rs_{rsid}", {"id": rsid})
+            return {}
             
         uid = uids[0]
         snp_info = result.get(uid, {})
@@ -489,7 +495,9 @@ class GnomADClient(BaseClient):
             return raw
             
         if not isinstance(raw, dict) or "data" not in raw:
-            return self._get_mock_data("constraint", {"geneSymbol": gene_symbol})
+            if self.cache.offline_mode:
+                return self._get_mock_data("constraint", {"geneSymbol": gene_symbol})
+            return {"gene": gene_symbol, "pli": None, "loeuf": None, "allele_freq": None}
             
         gene_data = raw.get("data", {}).get("gene", {}) or {}
         constraint = gene_data.get("gnomad_constraint", {}) or {}
@@ -543,7 +551,9 @@ class EncodeClient(BaseClient):
                     end = c.get("end")
                     
         if not chrom or not start or not end:
-            return self._get_mock_data("ccres", {"gene": gene_symbol})
+            if self.cache.offline_mode:
+                return self._get_mock_data("ccres", {"gene": gene_symbol})
+            return {"gene": gene_symbol, "promoters": [], "enhancers": []}
             
         if not str(chrom).startswith("chr"):
             chrom = f"chr{chrom}"
@@ -564,7 +574,9 @@ class EncodeClient(BaseClient):
             return raw
             
         if not isinstance(raw, dict) or "data" not in raw:
-            return self._get_mock_data("ccres", {"gene": gene_symbol})
+            if self.cache.offline_mode:
+                return self._get_mock_data("ccres", {"gene": gene_symbol})
+            return {"gene": gene_symbol, "promoters": [], "enhancers": []}
             
         ccres_list = raw.get("data", {}).get("cCRESCREENSearch", []) or []
         promoters = []
@@ -580,7 +592,9 @@ class EncodeClient(BaseClient):
                     enhancers.append({"id": acc, "score": float(e_score)})
                     
         if not promoters and not enhancers:
-            return self._get_mock_data("ccres", {"gene": gene_symbol})
+            if self.cache.offline_mode:
+                return self._get_mock_data("ccres", {"gene": gene_symbol})
+            return {"gene": gene_symbol, "promoters": [], "enhancers": []}
             
         return {
             "gene": gene_symbol,
@@ -633,7 +647,9 @@ class GtexClient(BaseClient):
                 gencode_id = best_match.get("gencodeId")
                 
         if not gencode_id:
-            return self._get_mock_data("expression", {"gene": gene_symbol})
+            if self.cache.offline_mode:
+                return self._get_mock_data("expression", {"gene": gene_symbol})
+            return {"gene": gene_symbol, "tissues": []}
             
         url = "https://gtexportal.org/api/v2/expression/medianGeneExpression"
         raw = self._request("GET", url, "expression", params={"gencodeId": gencode_id, "datasetId": "gtex_v8", "gene": gene_symbol})
@@ -660,7 +676,9 @@ class GtexClient(BaseClient):
                 })
                 
         if not tissues_list:
-            return self._get_mock_data("expression", {"gene": gene_symbol})
+            if self.cache.offline_mode:
+                return self._get_mock_data("expression", {"gene": gene_symbol})
+            return {"gene": gene_symbol, "tissues": []}
             
         return {
             "gene": gene_symbol,
@@ -686,7 +704,9 @@ class HpaClient(BaseClient):
             return raw
             
         if not isinstance(raw, list) or not raw:
-            return self._get_mock_data("localization", {"gene": gene_symbol})
+            if self.cache.offline_mode:
+                return self._get_mock_data("localization", {"gene": gene_symbol})
+            return {"gene": gene_symbol, "localization": "N/A", "score": "N/A"}
             
         item = raw[0]
         locations = item.get("Subcellular location", []) or []
@@ -719,25 +739,47 @@ class QuickGOClient(BaseClient):
         query_id = f"UniProtKB:{uniprot_id}" if uniprot_id else gene_symbol
         raw = self._request("GET", url, "go_terms", params={"geneProductId": query_id, "gene": gene_symbol})
         
-        if isinstance(raw, dict) and "results" in raw:
-            return raw
+        if not isinstance(raw, dict) or "results" not in raw:
+            return {"results": []}
             
-        if isinstance(raw, dict):
-            results = raw.get("results", []) or []
-            new_results = []
-            for r in results:
-                go_id = r.get("goId")
+        results = raw.get("results", []) or []
+        go_ids = list(set([r.get("goId") for r in results if r.get("goId")]))
+        
+        # Resolve GO term names in batches of 50
+        go_name_map = {}
+        if go_ids and not self.cache.offline_mode:
+            batch_size = 50
+            for i in range(0, len(go_ids), batch_size):
+                batch = go_ids[i:i+batch_size]
+                ids_str = ",".join(batch)
+                terms_url = f"https://www.ebi.ac.uk/QuickGO/services/ontology/go/terms/{ids_str}"
+                try:
+                    resp = requests.get(terms_url, timeout=10)
+                    if resp.status_code == 200:
+                        terms_data = resp.json()
+                        for term in terms_data.get("results", []):
+                            t_id = term.get("id")
+                            t_name = term.get("name")
+                            if t_id and t_name:
+                                go_name_map[t_id] = t_name
+                except Exception as e:
+                    logger.error(f"Error fetching GO term names: {e}")
+                    
+        new_results = []
+        for r in results:
+            go_id = r.get("goId")
+            go_name = go_name_map.get(go_id)
+            if not go_name:
                 go_name = r.get("goName")
-                if go_id and not go_name:
-                    aspect = r.get("goAspect", "").replace("_", " ")
-                    go_name = f"GO annotation ({aspect})" if aspect else "GO annotation"
-                new_results.append({
-                    "goId": go_id,
-                    "goName": go_name
-                })
-            return {"results": new_results}
+            if go_id and not go_name:
+                aspect = r.get("goAspect", "").replace("_", " ")
+                go_name = f"GO annotation ({aspect})" if aspect else "GO annotation"
+            new_results.append({
+                "goId": go_id,
+                "goName": go_name
+            })
             
-        return {"results": []}
+        return {"results": new_results}
 
 class InterProClient(BaseClient):
     def __init__(self, cache):
@@ -892,7 +934,29 @@ class OpenTargetsClient(BaseClient):
         if self.cache.offline_mode:
             return self._get_mock_data(endpoint, query_params)
             
-        # Resolve target name/ID (e.g. UniProt ID) to Ensembl ID
+        # Resolve target name/ID (e.g. UniProt ID) to Gene Symbol if it's a UniProt accession
+        search_term = target_query
+        if re.match(r'^[A-Z0-9]{6,10}$', target_query):
+            try:
+                uniprot_url = f"https://rest.uniprot.org/uniprotkb/{target_query}.json"
+                logger.info(f"Resolving UniProt ID {target_query} to human gene symbol via {uniprot_url}...")
+                resp = requests.get(uniprot_url, timeout=10)
+                if resp.status_code == 200:
+                    up_data = resp.json()
+                    genes_info = up_data.get("genes", [])
+                    if genes_info:
+                        val = genes_info[0].get("geneName", {}).get("value")
+                        if val:
+                            search_term = val.upper()
+                        else:
+                            syns = genes_info[0].get("synonyms", [])
+                            if syns and syns[0].get("value"):
+                                search_term = syns[0].get("value").upper()
+                    logger.info(f"Resolved UniProt ID {target_query} to search term: {search_term}")
+            except Exception as e:
+                logger.error(f"Error resolving UniProt ID {target_query} to gene name: {e}")
+
+        # Resolve target name/ID to Ensembl ID
         ensembl_id = None
         search_query = """
         query searchTarget($queryString: String!) {
@@ -903,7 +967,7 @@ class OpenTargetsClient(BaseClient):
           }
         }
         """
-        search_res = self._request("POST", self.graphql_url, "target_search", json_data={"query": search_query, "variables": {"queryString": target_query}})
+        search_res = self._request("POST", self.graphql_url, "target_search", json_data={"query": search_query, "variables": {"queryString": search_term}})
         if isinstance(search_res, dict):
             hits = search_res.get("data", {}).get("search", {}).get("hits", []) or []
             if hits:
@@ -1048,7 +1112,34 @@ class ClinicalTrialsClient(BaseClient):
 
     def fetch_trials(self, gene_symbol: str) -> Dict[str, Any]:
         url = "https://clinicaltrials.gov/api/v2/studies"
-        return self._request("GET", url, "studies", params={"query.cond": "Amyotrophic Lateral Sclerosis", "query.term": gene_symbol})
+        raw = self._request("GET", url, "studies", params={"query.cond": "Amyotrophic Lateral Sclerosis", "query.term": gene_symbol})
+        
+        if not isinstance(raw, dict):
+            if self.cache.offline_mode:
+                return self._get_mock_data("studies", {"gene": gene_symbol})
+            return {"trials": []}
+            
+        studies = raw.get("studies", [])
+        trials = []
+        for study in studies:
+            protocol = study.get("protocolSection", {})
+            ident = protocol.get("identificationModule", {})
+            status_mod = protocol.get("statusModule", {})
+            
+            nct_id = ident.get("nctId")
+            title = ident.get("briefTitle") or ident.get("officialTitle")
+            status = status_mod.get("overallStatus")
+            
+            if nct_id:
+                trials.append({
+                    "nct_id": nct_id,
+                    "title": title,
+                    "status": status
+                })
+        return {
+            "trial_count": len(trials),
+            "trials": trials
+        }
 
 # --- Category 8 Clients ---
 
@@ -1086,7 +1177,9 @@ class PdbClient(BaseClient):
             return raw
             
         if not isinstance(raw, dict) or "result_set" not in raw:
-            return self._get_mock_data("query_by_gene", {"gene": gene_symbol})
+            if self.cache.offline_mode:
+                return self._get_mock_data("query_by_gene", {"gene": gene_symbol})
+            return {"pdb_ids": [], "method": "N/A"}
             
         pdb_ids = [item["identifier"] for item in raw.get("result_set", [])]
         
@@ -1343,6 +1436,14 @@ class IngestionManager:
                 if q_len > 0 and q_end > q_start:
                     q_cov = min((q_end - q_start + 1) / q_len, 1.0)
                 
+                seq_id_val = hit.get("seqId", hit.get("seqIdentity", hit.get("fident", 0.0)))
+                try:
+                    seq_id_val = float(seq_id_val)
+                    if seq_id_val > 1.0:
+                        seq_id_val /= 100.0
+                except (ValueError, TypeError):
+                    seq_id_val = 0.0
+                
                 filtered_matches.append({
                     "target_id": target,
                     "clean_target": clean_target,
@@ -1350,7 +1451,7 @@ class IngestionManager:
                     "probability": prob,
                     "query_coverage": q_cov,
                     "eval": hit.get("eval", hit.get("eValue", hit.get("evalue", 1000.0))),
-                    "seqId": hit.get("seqId", hit.get("seqIdentity", hit.get("fident", 0.0))),
+                    "seqId": seq_id_val,
                     "alnLength": hit.get("alnLength", hit.get("alnLen", hit.get("alnlen", 0)))
                 })
 
