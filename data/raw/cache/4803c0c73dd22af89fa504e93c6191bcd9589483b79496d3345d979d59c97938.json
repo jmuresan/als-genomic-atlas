@@ -1,0 +1,70 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "CASP2",
+      "drugAndClinicalCandidates": {
+        "count": 1,
+        "rows": [
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL197672",
+              "name": "EMRICASAN",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Caspase inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "cirrhosis of liver"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Hepatic fibrosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastrointestinal disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "COVID-19"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "chronic hepatitis C virus infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Hepatitis, Alcoholic"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "liver disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diabetes mellitus"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

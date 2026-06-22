@@ -1,0 +1,207 @@
+{
+  "atc_classifications": [
+    "S01LA09"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 29308,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn-303 $ Asn-313''''",
+        "tax_id": null
+      },
+      {
+        "component_id": 28959,
+        "component_type": "Protein",
+        "description": "Heavy chain: anti-VEGFA",
+        "organism": null,
+        "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGYDFTHYGMNWVRQAPGKGLEWVGWINTYTGEPTYAADFKRRFTFSLDTSKSTAYLQMNSLRAEDTAVYYCAKYPYYYGTSHWYFDVWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPEAAGGPSVFLFPPKPKDTLMASRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLAQDWLNGKEYKCKVSNKALGAPIEKTISKAKGQPREPQVYTLPPCRDELTKNQVSLWCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNAYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 29732,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "Asn-303 $ Asn-313''",
+        "tax_id": null
+      },
+      {
+        "component_id": 28961,
+        "component_type": "Protein",
+        "description": "Heavy chain: anti-ANGPT2",
+        "organism": null,
+        "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYTFTGYYMHWVRQAPGQGLEWMGWINPNSGGTNYAQKFQGRVTMTRDTSISTAYMELSRLRSDDTAVYYCARSPNPYYYDSSGYYYPGAFDIWGQGTMVTVSSASVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGECDKTHTCPPCPAPEAAGGPSVFLFPPKPKDTLMASRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLAQDWLNGKEYKCKVSNKALGAPIEKTISKAKGQPREPQVCTLPPSRDELTKNQVSLSCAVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLVSKLTVDKSRWQQGNVFSCSVMHEALHNAYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 29733,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22'''-87''' $ 22-96 $ 22''-96'' $ 23'-88' $ 134'-194' $ 137'''-193''' $ 150-206 $ 156''-216'' $ 213'''-236' $ 214'-226 $ 232-242'' $ 235-245'' $ 267-327 $ 277''-337'' $ 360-365'' $ 373-431 $ 383''-441''",
+        "tax_id": null
+      },
+      {
+        "component_id": 30539,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQLTQSPSSLSASVGDRVTITCSASQDISNYLNWYQQKPGKAPKVLIYFTSSLHSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQYSTVPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 29734,
+        "component_type": "Protein",
+        "description": "Light chain: anti-ANGPT2",
+        "organism": null,
+        "sequence": "SYVLTQPPSVSVAPGQTARITCGGNNIGSKSVHWYQQKPGQAPVLVVYDDSDRPSGIPERFSGSNSGNTATLTISRVEAGDEADYYCQVWDSSSDHWVFGGGTKLTVLSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSC",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4297750"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/vabysmo",
+      "xref_name": "vabysmo",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/FARICIMAB/relevant/1/",
+      "xref_name": "FARICIMAB",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2022,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL4297750",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297750",
+    "molecule_chembl_id": "CHEMBL4297750",
+    "parent_chembl_id": "CHEMBL4297750"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Faricimab",
+      "syn_type": "ATC",
+      "synonyms": "FARICIMAB"
+    },
+    {
+      "molecule_synonym": "Faricimab",
+      "syn_type": "EMA",
+      "synonyms": "FARICIMAB"
+    },
+    {
+      "molecule_synonym": "Faricimab",
+      "syn_type": "FDA",
+      "synonyms": "FARICIMAB"
+    },
+    {
+      "molecule_synonym": "Faricimab",
+      "syn_type": "INN",
+      "synonyms": "FARICIMAB"
+    },
+    {
+      "molecule_synonym": "Faricimab",
+      "syn_type": "OTHER",
+      "synonyms": "FARICIMAB"
+    },
+    {
+      "molecule_synonym": "Faricimab",
+      "syn_type": "USAN",
+      "synonyms": "FARICIMAB"
+    },
+    {
+      "molecule_synonym": "Faricimab svoa",
+      "syn_type": "OTHER",
+      "synonyms": "FARICIMAB SVOA"
+    },
+    {
+      "molecule_synonym": "Faricimab-svoa",
+      "syn_type": "FDA",
+      "synonyms": "FARICIMAB-SVOA"
+    },
+    {
+      "molecule_synonym": "Faricimab-svoa",
+      "syn_type": "OTHER",
+      "synonyms": "FARICIMAB-SVOA"
+    },
+    {
+      "molecule_synonym": "Rg-7716",
+      "syn_type": "OTHER",
+      "synonyms": "RG-7716"
+    },
+    {
+      "molecule_synonym": "RG7716",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RG7716"
+    },
+    {
+      "molecule_synonym": "RG77161",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RG77161"
+    },
+    {
+      "molecule_synonym": "RO-6867461",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO-6867461"
+    },
+    {
+      "molecule_synonym": "Ro6867461",
+      "syn_type": "OTHER",
+      "synonyms": "RO6867461"
+    },
+    {
+      "molecule_synonym": "RO6867461",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO6867461"
+    },
+    {
+      "molecule_synonym": "Vabysmo",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "Vabysmo"
+    },
+    {
+      "molecule_synonym": "Vabysmo",
+      "syn_type": "OTHER",
+      "synonyms": "VABYSMO"
+    },
+    {
+      "molecule_synonym": "Y8ha1i28d3",
+      "syn_type": "OTHER",
+      "synonyms": "Y8HA1I28D3"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "FARICIMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": 2018,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

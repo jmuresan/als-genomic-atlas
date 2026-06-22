@@ -1,0 +1,120 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 28475,
+        "component_type": "Protein",
+        "description": "Heavy chain 2",
+        "organism": null,
+        "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGYTFTNYGMNWVRQAPGKGLEWVGWINTYTGEPTYAADFKRRFTFSLDTSKSTAYLQMNSLRAEDTAVYYCAKYPHYYGSSHWYFDVWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPCRDELTKNQVSLWCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 28476,
+        "component_type": "Protein",
+        "description": "Light chain 1",
+        "organism": null,
+        "sequence": "QPGLTQPPSVSVAPGQTARITCGGNNIGSKSVHWYQQKPGQAPVLVVYDDSDRPSGIPERFSGSNSGNTATLTISRVEAGDEADYYCQVWDSSSDHYVFGTGTKVTVLSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSC",
+        "tax_id": null
+      },
+      {
+        "component_id": 28474,
+        "component_type": "Protein",
+        "description": "Heavy chain 1",
+        "organism": null,
+        "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYTFTGYYMHWVRQAPGQGLEWMGWINPNSGGTNYAQKFQGRVTMTRDTSISTAYMELSRLRSDDTAVYYCARSPNPYYYDSSGYYYPGAFDIWGQGTMVTVSSASVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGECDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVCTLPPSRDELTKNQVSLSCAVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLVSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 31379,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSSLSASVGDRVTITCSASQDISNYLNWYQQKPGKAPKVLIYFTSSLHSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQYSTVPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3545259"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL3545259",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3545259",
+    "molecule_chembl_id": "CHEMBL3545259",
+    "parent_chembl_id": "CHEMBL3545259"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "C0u97738ae",
+      "syn_type": "OTHER",
+      "synonyms": "C0U97738AE"
+    },
+    {
+      "molecule_synonym": "RG-7221",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RG-7221"
+    },
+    {
+      "molecule_synonym": "RG7221",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RG7221"
+    },
+    {
+      "molecule_synonym": "RO-5520985",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO-5520985"
+    },
+    {
+      "molecule_synonym": "RO5520985",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RO5520985"
+    },
+    {
+      "molecule_synonym": "Vanucizumab",
+      "syn_type": "INN",
+      "synonyms": "VANUCIZUMAB"
+    },
+    {
+      "molecule_synonym": "Vanucizumab",
+      "syn_type": "OTHER",
+      "synonyms": "VANUCIZUMAB"
+    },
+    {
+      "molecule_synonym": "Vanucizumab",
+      "syn_type": "USAN",
+      "synonyms": "VANUCIZUMAB"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "VANUCIZUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": 2015,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

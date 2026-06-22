@@ -1,0 +1,107 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL197672",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL197672",
+    "molecule_chembl_id": "CHEMBL197672",
+    "parent_chembl_id": "CHEMBL197672"
+  },
+  "molecule_properties": {
+    "alogp": "2.59",
+    "aromatic_rings": 2,
+    "full_molformula": "C26H27F4N3O7",
+    "full_mwt": "569.51",
+    "hba": 6,
+    "hbd": 4,
+    "heavy_atoms": 40,
+    "mw_freebase": "569.51",
+    "np_likeness_score": "-0.90",
+    "num_ro5_violations": 1,
+    "psa": "150.90",
+    "qed_weighted": "0.20",
+    "ro3_pass": "N",
+    "rtb": 10
+  },
+  "molecule_structures": {
+    "canonical_smiles": "C[C@H](NC(=O)C(=O)Nc1ccccc1C(C)(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)COc1c(F)c(F)cc(F)c1F",
+    "molfile": "\n     RDKit          2D\n\n 40 41  0  0  0  0  0  0  0  0999 V2000\n    4.3250    0.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.0417    0.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.3250    1.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8208    0.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1042    0.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0375    0.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.5333    0.3000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7542    0.3000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    5.7542    0.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.0417    1.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.3917    0.7125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4667    0.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.7542    1.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4667    1.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6125    0.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.5333   -0.5250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1833    0.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.2458   -0.9375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1833    1.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.6750    0.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.9625   -0.5250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8958    0.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1042   -0.5250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8208    1.5375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0375    1.5375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1833   -0.5250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1833    2.7750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6125    1.9500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    5.0417   -0.5250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    6.4708    0.3000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    5.0417    2.7750    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8958    1.5375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8208   -0.9375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.2458   -1.7625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.3750   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.6750   -0.1125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.5500    0.1917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.6750   -0.5250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8208   -1.7625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.5333   -2.1750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  2  0\n  3  1  1  0\n  4  5  1  0\n  5 11  1  0\n  6  8  1  0\n  7  4  1  0\n 12  8  1  1\n  9  2  1  0\n 10  3  2  0\n 11 20  1  0\n 12 17  1  0\n 13 10  1  0\n 12 14  1  0\n 15  1  1  0\n 16  7  1  0\n 17 22  1  0\n 18 16  2  0\n 19 14  1  0\n 20  6  1  0\n 21 18  1  0\n 22 15  1  0\n 23  5  2  0\n 24  4  2  0\n 25  6  2  0\n 26 17  2  0\n 27 19  2  0\n 28  3  1  0\n 29  2  1  0\n 30  9  1  0\n 31 10  1  0\n 32 19  1  0\n 33 16  1  0\n 34 18  1  0\n 35 21  1  0\n 36 21  1  0\n 37 21  1  0\n 20 38  1  6\n 39 33  2  0\n 40 39  1  0\n 13  9  2  0\n 34 40  2  0\nM  END\n> <chembl_id>\nCHEMBL197672\n\n> <chembl_pref_name>\nEMRICASAN",
+    "standard_inchi": "InChI=1S/C26H27F4N3O7/c1-12(31-24(38)25(39)32-16-8-6-5-7-13(16)26(2,3)4)23(37)33-17(10-19(35)36)18(34)11-40-22-20(29)14(27)9-15(28)21(22)30/h5-9,12,17H,10-11H2,1-4H3,(H,31,38)(H,32,39)(H,33,37)(H,35,36)/t12-,17-/m0/s1",
+    "standard_inchi_key": "SCVHJVCATBPIHN-SJCJKPOMSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Emricasan",
+      "syn_type": "INN",
+      "synonyms": "EMRICASAN"
+    },
+    {
+      "molecule_synonym": "Emricasan",
+      "syn_type": "OTHER",
+      "synonyms": "EMRICASAN"
+    },
+    {
+      "molecule_synonym": "Emricasan",
+      "syn_type": "USAN",
+      "synonyms": "EMRICASAN"
+    },
+    {
+      "molecule_synonym": "IDN 6556",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "IDN 6556"
+    },
+    {
+      "molecule_synonym": "IDN-6556",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "IDN-6556"
+    },
+    {
+      "molecule_synonym": "PF 03491390",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PF 03491390"
+    },
+    {
+      "molecule_synonym": "PF-03491390",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PF-03491390"
+    },
+    {
+      "molecule_synonym": "VAY-785",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "VAY-785"
+    },
+    {
+      "molecule_synonym": "VAY785",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "VAY785"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "EMRICASAN",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-casan",
+  "usan_stem_definition": "caspase inhibitors",
+  "usan_substem": "-casan",
+  "usan_year": 2007,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,343 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "ANGPT2",
+      "drugAndClinicalCandidates": {
+        "count": 8,
+        "rows": [
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL2108678",
+              "name": "NESVACUMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Angiopoietin-2 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diabetic macular edema"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL2108568",
+              "name": "TREBANANIB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Angiopoietin-1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Angiopoietin-2 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "soft tissue sarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "angiosarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "sexual dysfunction"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neuropathic pain"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Alzheimer disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "asthma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Central Nervous System Neoplasm"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL2109298",
+              "name": "MEDI-3617",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Angiopoietin-2 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ovarian cancer"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL2109586",
+              "name": "AMG-780",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Angiopoietin-1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Angiopoietin-2 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4594470",
+              "name": "CVX-060",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Angiopoietin-2 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "renal cell carcinoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4650486",
+              "name": "ZANSECIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Angiopoietin-2 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "acute respiratory distress syndrome"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "COVID-19"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pneumonia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL4297750",
+              "name": "FARICIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Angiopoietin-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor A inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "cystoid macular edema"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "choroidal neovascularization"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "ocular vascular disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "macular retinal edema"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "macular degeneration"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diabetic macular edema"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "wet macular degeneration"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Abnormality of the eye"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-proliferative diabetic retinopathy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "age-related macular degeneration"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL3545259",
+              "name": "VANUCIZUMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor A inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Angiopoietin-2 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic colorectal cancer"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "approvedSymbol": "ANGPT1",
+  "drugs": [
+    {
+      "maxClinicalStage": "PHASE_3",
+      "drug": {
+        "id": "CHEMBL2108568",
+        "name": "TREBANANIB",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Angiopoietin-1 inhibitor"
+            },
+            {
+              "mechanismOfAction": "Angiopoietin-2 inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "soft tissue sarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "renal cell carcinoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "angiosarcoma"
+              }
+            },
+            {
+              "disease": {
+                "name": "sexual dysfunction"
+              }
+            },
+            {
+              "disease": {
+                "name": "breast cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "ovarian cancer"
+              }
+            },
+            {
+              "disease": {
+                "name": "neuropathic pain"
+              }
+            },
+            {
+              "disease": {
+                "name": "Alzheimer disease"
+              }
+            },
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            },
+            {
+              "disease": {
+                "name": "asthma"
+              }
+            },
+            {
+              "disease": {
+                "name": "Central Nervous System Neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "maxClinicalStage": "PHASE_1",
+      "drug": {
+        "id": "CHEMBL2109586",
+        "name": "AMG-780",
+        "mechanismsOfAction": {
+          "rows": [
+            {
+              "mechanismOfAction": "Angiopoietin-1 inhibitor"
+            },
+            {
+              "mechanismOfAction": "Angiopoietin-2 inhibitor"
+            }
+          ]
+        },
+        "indications": {
+          "rows": [
+            {
+              "disease": {
+                "name": "neoplasm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
