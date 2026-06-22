@@ -1,0 +1,64 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL5416410",
+      "name": "DASATINIB",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Bcr/Abl fusion protein inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "liver disease"
+            }
+          },
+          {
+            "disease": {
+              "name": "gastrointestinal stromal tumor"
+            }
+          },
+          {
+            "disease": {
+              "name": "chronic myelogenous leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute myeloid leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "myelodysplastic syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "multiple myeloma"
+            }
+          },
+          {
+            "disease": {
+              "name": "bladder transitional cell carcinoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute lymphoblastic leukemia"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

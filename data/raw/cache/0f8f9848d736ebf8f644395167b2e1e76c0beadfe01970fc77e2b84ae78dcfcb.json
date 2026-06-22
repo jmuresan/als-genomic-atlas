@@ -1,0 +1,74 @@
+{
+  "molecules": [
+    {
+      "atc_classifications": [
+        "N05CA22"
+      ],
+      "availability_type": -2,
+      "biotherapeutic": null,
+      "black_box_warning": 0,
+      "chemical_probe": 0,
+      "chirality": 0,
+      "cross_references": [],
+      "dosed_ingredient": true,
+      "first_approval": null,
+      "first_in_class": 0,
+      "helm_notation": null,
+      "inorganic_flag": 0,
+      "max_phase": "4.0",
+      "molecule_chembl_id": "CHEMBL2105233",
+      "molecule_hierarchy": {
+        "active_chembl_id": "CHEMBL2105233",
+        "molecule_chembl_id": "CHEMBL2105233",
+        "parent_chembl_id": "CHEMBL2105233"
+      },
+      "molecule_properties": {
+        "alogp": "-0.31",
+        "aromatic_rings": 0,
+        "full_molformula": "C10H14N2O4",
+        "full_mwt": "226.23",
+        "hba": 4,
+        "hbd": 3,
+        "heavy_atoms": 16,
+        "mw_freebase": "226.23",
+        "np_likeness_score": "0.74",
+        "num_ro5_violations": 0,
+        "psa": "95.50",
+        "qed_weighted": "0.45",
+        "ro3_pass": "N",
+        "rtb": 4
+      },
+      "molecule_structures": {
+        "canonical_smiles": "C=CCC1(CC(C)O)C(=O)NC(=O)NC1=O",
+        "molfile": "\n     RDKit          2D\n\n 16 16  0  0  0  0  0  0  0  0999 V2000\n    0.4292    0.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7125    1.4958    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.6958   -0.9792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.2750    1.4958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.2750   -0.9792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4000    0.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5125    1.1833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4500   -2.2417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4292    2.7583    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.8458    0.2583    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5542   -0.6667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.3167   -2.0875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4167   -2.9750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8667    0.7083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.9542    1.6333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1417   -0.6875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  4  1  0\n  3  5  1  0\n  4  1  1  0\n  5  1  1  0\n  6  3  1  0\n  7  1  1  0\n  8  5  2  0\n  9  4  2  0\n 10  6  2  0\n 11  1  1  0\n 12 11  1  0\n 13 12  2  0\n 14  7  1  0\n 15 14  1  0\n 16 14  1  0\n  2  6  1  0\nM  END\n> <chembl_id>\nCHEMBL2105233\n\n> <chembl_pref_name>\nPROXIBARBAL",
+        "standard_inchi": "InChI=1S/C10H14N2O4/c1-3-4-10(5-6(2)13)7(14)11-9(16)12-8(10)15/h3,6,13H,1,4-5H2,2H3,(H2,11,12,14,15,16)",
+        "standard_inchi_key": "VNLMRPAWAMPLNZ-UHFFFAOYSA-N"
+      },
+      "molecule_type": "Small molecule",
+      "natural_product": 0,
+      "oral": false,
+      "orphan": 0,
+      "parenteral": false,
+      "polymer_flag": 0,
+      "pref_name": "PROXIBARBAL",
+      "prodrug": 0,
+      "similarity": "100",
+      "structure_type": "MOL",
+      "therapeutic_flag": false,
+      "topical": false,
+      "usan_stem": "-barb-",
+      "usan_stem_definition": "barbituric acid derivatives",
+      "usan_substem": "-barb-",
+      "usan_year": null,
+      "veterinary": 0,
+      "withdrawn_flag": true
+    }
+  ],
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

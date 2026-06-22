@@ -1,0 +1,50 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL3545085",
+      "name": "XL-228",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Insulin-like growth factor I receptor inhibitor"
+          },
+          {
+            "mechanismOfAction": "SRC inhibitor"
+          },
+          {
+            "mechanismOfAction": "Tyrosine-protein kinase ABL inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "childhood leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "acute lymphoblastic leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "chronic myelogenous leukemia"
+            }
+          },
+          {
+            "disease": {
+              "name": "lymphoma"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

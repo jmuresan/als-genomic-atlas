@@ -1,0 +1,67 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [],
+    "description": "Telimomab aritox (mouse Fab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2108790"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL2108790",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2108790",
+    "molecule_chembl_id": "CHEMBL2108790",
+    "parent_chembl_id": "CHEMBL2108790"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "T-101",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "T-101"
+    },
+    {
+      "molecule_synonym": "T101",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "T101"
+    },
+    {
+      "molecule_synonym": "Telimomab aritox",
+      "syn_type": "INN",
+      "synonyms": "TELIMOMAB ARITOX"
+    },
+    {
+      "molecule_synonym": "Telimomab aritox",
+      "syn_type": "OTHER",
+      "synonyms": "TELIMOMAB ARITOX"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "TELIMOMAB ARITOX",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

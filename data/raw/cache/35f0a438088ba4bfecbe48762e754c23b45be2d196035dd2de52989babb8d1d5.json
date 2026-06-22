@@ -1,0 +1,87 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [],
+    "description": "Zolimomab aritox (mouse mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2108785"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL2108785",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2108785",
+    "molecule_chembl_id": "CHEMBL2108785",
+    "parent_chembl_id": "CHEMBL2108785"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "H-65-RTA",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "H-65-RTA"
+    },
+    {
+      "molecule_synonym": "H-65RTA",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "H-65RTA"
+    },
+    {
+      "molecule_synonym": "H65-RTA",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "H65-RTA"
+    },
+    {
+      "molecule_synonym": "Orthozyme cd 5 plus",
+      "syn_type": "OTHER",
+      "synonyms": "ORTHOZYME CD 5 PLUS"
+    },
+    {
+      "molecule_synonym": "Xoma zyme h 65",
+      "syn_type": "OTHER",
+      "synonyms": "XOMA ZYME H 65"
+    },
+    {
+      "molecule_synonym": "Zolimomab aritox",
+      "syn_type": "INN",
+      "synonyms": "ZOLIMOMAB ARITOX"
+    },
+    {
+      "molecule_synonym": "Zolimomab aritox",
+      "syn_type": "USAN",
+      "synonyms": "ZOLIMOMAB ARITOX"
+    },
+    {
+      "molecule_synonym": "ZX-CD5",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ZX-CD5"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "ZOLIMOMAB ARITOX",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": 1993,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

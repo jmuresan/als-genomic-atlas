@@ -1,0 +1,79 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 28252,
+        "component_type": "Protein",
+        "description": "Light chain: toxin",
+        "organism": null,
+        "sequence": "DIQMTQSPSSLSASVGDRVTITCRSTKSLLHSNGITYLYWYQQKPGKAPKLLIYQMSNLASGVPSRFSSSGSGTDFTLTISSLQPEDFATYYCAQNLEIPRTFGQGTKVELKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGECTRHRQPRGWEQLYNTVSFNLGEAYEYPTFIQDLRNELAKGTPVCQLPVTLQTIADDKRFVLVDITTTSKKTVKVAIDVTDVYVVGYQDKWDGKDRAVFLDKVPTVATSKLFPGVTNRVTLTFDGSYQKLVNAAKADRKALELGVNKLEFSIEAIHGKTINGQEAAKFFLIVIQMVSEAARFKYIETEVVDRGLYGSFKPNFKVLNLENNWGDISDAIHKSSPQCTTINPALQLISPSNDPWVVNKVSQISPDMGILKFKSSK",
+        "tax_id": null
+      },
+      {
+        "component_id": 28253,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "HHHHHHEVQLVQSGPGLVQPGGSVRISCAASGYTFTNYGMNWVKQAPGKGLEWMGWINTYTGESTYADSFKGRFTFSLDTSASAAYLQINSLRAEDTAVYYCARFAIKGDYWGQGTLLTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSC",
+        "tax_id": null
+      }
+    ],
+    "description": "Citatuzumab bogatox (humanized Fab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL1743000"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL1743000",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1743000",
+    "molecule_chembl_id": "CHEMBL1743000",
+    "parent_chembl_id": "CHEMBL1743000"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Citatuzumab bogatox",
+      "syn_type": "INN",
+      "synonyms": "CITATUZUMAB BOGATOX"
+    },
+    {
+      "molecule_synonym": "Citatuzumab bogatox",
+      "syn_type": "OTHER",
+      "synonyms": "CITATUZUMAB BOGATOX"
+    },
+    {
+      "molecule_synonym": "VB6-845",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "VB6-845"
+    }
+  ],
+  "molecule_type": "Antibody drug conjugate",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "CITATUZUMAB BOGATOX",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

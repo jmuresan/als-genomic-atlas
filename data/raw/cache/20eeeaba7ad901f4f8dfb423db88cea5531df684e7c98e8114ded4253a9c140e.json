@@ -1,0 +1,38 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL1980297",
+      "name": "ILORASERTIB",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Platelet-derived growth factor receptor inhibitor"
+          },
+          {
+            "mechanismOfAction": "SRC inhibitor"
+          },
+          {
+            "mechanismOfAction": "Serine/threonine-protein kinase Aurora inhibitor"
+          },
+          {
+            "mechanismOfAction": "Vascular endothelial growth factor receptor inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

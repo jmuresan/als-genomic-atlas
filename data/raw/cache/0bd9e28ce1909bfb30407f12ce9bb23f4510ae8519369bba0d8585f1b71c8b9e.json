@@ -1,0 +1,100 @@
+{
+  "atc_classifications": [
+    "L01EA02"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/dasatinib-accord",
+      "xref_name": "dasatinib-accord",
+      "xref_src": "EMA"
+    },
+    {
+      "xref_id": "human/EPAR/dasatinib-accordpharma",
+      "xref_name": "dasatinib-accordpharma",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2006,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL1421",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1421",
+    "molecule_chembl_id": "CHEMBL1421",
+    "parent_chembl_id": "CHEMBL1421"
+  },
+  "molecule_properties": {
+    "alogp": "3.31",
+    "aromatic_rings": 3,
+    "full_molformula": "C22H26ClN7O2S",
+    "full_mwt": "488.02",
+    "hba": 9,
+    "hbd": 3,
+    "heavy_atoms": 33,
+    "mw_freebase": "488.02",
+    "np_likeness_score": "-2.33",
+    "num_ro5_violations": 0,
+    "psa": "106.51",
+    "qed_weighted": "0.47",
+    "ro3_pass": "N",
+    "rtb": 7
+  },
+  "molecule_structures": {
+    "canonical_smiles": "Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1",
+    "molfile": "\n     RDKit          2D\n\n 33 36  0  0  0  0  0  0  0  0999 V2000\n   -0.0454   -1.7244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8704   -1.7244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.3553   -2.3918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9711    4.4952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4745   -5.1478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8101   -4.3941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.3251   -3.7267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.6607   -2.9730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2566    0.7827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2566    1.6077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9711    2.0202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6855    0.7827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4000    0.3702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2566    3.2577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6855    3.2577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9711    5.3202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6855    5.7327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4579    0.3702    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4579   -0.4548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2096   -0.9397    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.1253   -0.9397    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.0197   -3.1455    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5047   -3.8129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.1691   -4.5666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.6540   -5.2340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3486   -4.6528    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1758   -2.3056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6855    1.6077    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9711    0.3702    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9711    2.8452    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2566    4.0827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6855    4.0827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6855    6.5577    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  1 20  1  0\n  2  3  1  0\n  2 21  1  0\n  3 22  1  0\n  3 27  2  0\n 16  4  1  0\n 31  4  1  0\n 32  4  1  0\n  5  6  2  0\n 25  5  1  0\n  6  7  1  0\n  8  7  1  0\n 23  7  2  0\n  9 10  1  0\n  9 18  1  0\n  9 29  2  0\n 10 11  2  0\n 11 28  1  0\n 11 30  1  0\n 12 13  1  0\n 12 28  2  0\n 12 29  1  0\n 14 30  1  0\n 14 31  1  0\n 15 30  1  0\n 32 15  1  0\n 16 17  1  0\n 17 33  1  0\n 19 18  1  0\n 19 20  2  0\n 19 21  1  0\n 23 22  1  0\n 23 24  1  0\n 24 25  2  0\n 24 26  1  0\nM  END\n> <chembl_id>\nCHEMBL1421\n\n> <chembl_pref_name>\nDASATINIB ANHYDROUS",
+    "standard_inchi": "InChI=1S/C22H26ClN7O2S/c1-14-4-3-5-16(23)20(14)28-21(32)17-13-24-22(33-17)27-18-12-19(26-15(2)25-18)30-8-6-29(7-9-30)10-11-31/h3-5,12-13,31H,6-11H2,1-2H3,(H,28,32)(H,24,25,26,27)",
+    "standard_inchi_key": "ZBNZXTGUTAYRHI-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "BMS-354825",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "BMS-354825"
+    },
+    {
+      "molecule_synonym": "Dasatinib accord",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "DASATINIB ACCORD"
+    },
+    {
+      "molecule_synonym": "Dasatinib accordpharma",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "DASATINIB ACCORDPHARMA"
+    },
+    {
+      "molecule_synonym": "Dasatinib (anhydrous)",
+      "syn_type": "INN",
+      "synonyms": "DASATINIB (ANHYDROUS)"
+    },
+    {
+      "molecule_synonym": "Dasatinib anhydrous",
+      "syn_type": "EMA",
+      "synonyms": "DASATINIB ANHYDROUS"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "DASATINIB ANHYDROUS",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-tinib",
+  "usan_stem_definition": "tyrosine kinase inhibitors",
+  "usan_substem": "-tinib",
+  "usan_year": 2005,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

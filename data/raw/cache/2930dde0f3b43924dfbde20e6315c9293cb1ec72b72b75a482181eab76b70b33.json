@@ -1,0 +1,62 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL4594547",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4594547",
+    "molecule_chembl_id": "CHEMBL4594547",
+    "parent_chembl_id": "CHEMBL4594547"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Gnbac1",
+      "syn_type": "OTHER",
+      "synonyms": "GNBAC1"
+    },
+    {
+      "molecule_synonym": "GNBAC1",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "GNBAC1"
+    },
+    {
+      "molecule_synonym": "Temelimab",
+      "syn_type": "INN",
+      "synonyms": "TEMELIMAB"
+    },
+    {
+      "molecule_synonym": "Temelimab",
+      "syn_type": "OTHER",
+      "synonyms": "TEMELIMAB"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "TEMELIMAB",
+  "prodrug": 0,
+  "structure_type": "NONE",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

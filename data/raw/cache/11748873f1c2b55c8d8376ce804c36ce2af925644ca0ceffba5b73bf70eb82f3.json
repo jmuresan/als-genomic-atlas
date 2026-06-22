@@ -1,0 +1,74 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL256997",
+      "name": "ATALUREN",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "80S Ribosome modulator"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "aniridia"
+            }
+          },
+          {
+            "disease": {
+              "name": "inborn disorder of amino acid metabolism"
+            }
+          },
+          {
+            "disease": {
+              "name": "epilepsy"
+            }
+          },
+          {
+            "disease": {
+              "name": "hemophilia A"
+            }
+          },
+          {
+            "disease": {
+              "name": "muscular dystrophy"
+            }
+          },
+          {
+            "disease": {
+              "name": "cystic fibrosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "mucopolysaccharidosis"
+            }
+          },
+          {
+            "disease": {
+              "name": "Becker muscular dystrophy"
+            }
+          },
+          {
+            "disease": {
+              "name": "Dravet syndrome"
+            }
+          },
+          {
+            "disease": {
+              "name": "hemophilia B"
+            }
+          },
+          {
+            "disease": {
+              "name": "Duchenne muscular dystrophy"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

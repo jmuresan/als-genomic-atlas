@@ -1,0 +1,252 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "RPS3",
+      "drugAndClinicalCandidates": {
+        "count": 6,
+        "rows": [
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL2108785",
+              "name": "ZOLIMOMAB ARITOX",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "T-cell surface glycoprotein CD5 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "80S Ribosome inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "arthritis"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL256997",
+              "name": "ATALUREN",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "80S Ribosome modulator"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "aniridia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "inborn disorder of amino acid metabolism"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "epilepsy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hemophilia A"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "muscular dystrophy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cystic fibrosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "mucopolysaccharidosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Becker muscular dystrophy"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Dravet syndrome"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "hemophilia B"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Duchenne muscular dystrophy"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4297744",
+              "name": "ELX-02",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "80S Ribosome modulator"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "Alport syndrome"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cystic fibrosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cystinosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "kidney disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "genetic disorder"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL2108790",
+              "name": "TELIMOMAB ARITOX",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "T-cell surface glycoprotein CD5 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "80S Ribosome inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "hepatitis B virus infection"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4297789",
+              "name": "MT-3724",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "80S Ribosome inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "B-lymphocyte antigen CD20 binding agent"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "lymphoid leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "chronic lymphocytic leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "B-cell non-Hodgkins lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diffuse large B-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-Hodgkins lymphoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL1743000",
+              "name": "CITATUZUMAB BOGATOX",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epithelial cell adhesion molecule binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "80S Ribosome inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

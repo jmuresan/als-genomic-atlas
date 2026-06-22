@@ -1,0 +1,503 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "FGR",
+      "drugAndClinicalCandidates": {
+        "count": 5,
+        "rows": [
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL403989",
+              "name": "TG100-801",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Ephrin type-B receptor 4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Fibroblast growth factor receptor 1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Platelet-derived growth factor receptor beta inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Fibroblast growth factor receptor 2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "SRC inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor receptor 1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor receptor 2 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "choroidal neovascularization"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "macular degeneration"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL3545085",
+              "name": "XL-228",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Insulin-like growth factor I receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "SRC inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase ABL inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "childhood leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "acute lymphoblastic leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "chronic myelogenous leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL52885",
+              "name": "ENMD-981693",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Fibroblast growth factor receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Platelet-derived growth factor receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "SRC inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor receptor 2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Serine/threonine-protein kinase Aurora-A inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "colorectal cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic carcinoma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1421",
+              "name": "DASATINIB ANHYDROUS",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Bcr/Abl fusion protein inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Bcr/Abl fusion protein inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Ephrin type-A receptor 2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Platelet-derived growth factor receptor beta inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "SRC inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Stem cell growth factor receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase ABL inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "malignant glioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "multiple myeloma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "polycythemia vera"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "HIV infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "obesity"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant colon neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "prostate cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "scleroderma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cutaneous melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rectum cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "HIV-1 infection"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Paraganglioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cholangiocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "brain neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "rhabdomyosarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "acute lymphoblastic leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "non-Hodgkins lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "aging"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "chronic lymphocytic leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lymphoid leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "glioblastoma multiforme"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "COVID-19"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Waldenstrom macroglobulinemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "acute myeloid leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "lung cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "squamous cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic prostate cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "head and neck squamous cell carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "systemic mastocytosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "metastatic melanoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "prostate adenocarcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "idiopathic pulmonary fibrosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gliosarcoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "mesothelioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "chronic kidney disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "pancreatic carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "small cell lung carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "Alzheimer disease"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "chronic myelogenous leukemia"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "breast carcinoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "endometrial cancer"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diffuse large B-cell lymphoma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "diffuse intrinsic pontine glioma"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "gastrointestinal stromal tumor"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "malignant pleural mesothelioma"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL1980297",
+              "name": "ILORASERTIB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Platelet-derived growth factor receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "SRC inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Serine/threonine-protein kinase Aurora inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor receptor inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "neoplasm"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "cancer"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

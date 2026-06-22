@@ -1,0 +1,59 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL52885",
+      "name": "ENMD-981693",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Fibroblast growth factor receptor inhibitor"
+          },
+          {
+            "mechanismOfAction": "Platelet-derived growth factor receptor inhibitor"
+          },
+          {
+            "mechanismOfAction": "SRC inhibitor"
+          },
+          {
+            "mechanismOfAction": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Vascular endothelial growth factor receptor 2 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Serine/threonine-protein kinase Aurora-A inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "colorectal cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "neoplasm"
+            }
+          },
+          {
+            "disease": {
+              "name": "breast cancer"
+            }
+          },
+          {
+            "disease": {
+              "name": "pancreatic carcinoma"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

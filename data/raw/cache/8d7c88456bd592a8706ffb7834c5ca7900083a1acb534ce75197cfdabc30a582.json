@@ -1,0 +1,21 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL2105233",
+      "name": "PROXIBARBAL",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Diamine oxidase activator"
+          },
+          {
+            "mechanismOfAction": "Monoamine oxidase A activator"
+          }
+        ]
+      },
+      "indications": {
+        "rows": []
+      }
+    }
+  }
+}

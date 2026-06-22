@@ -1,0 +1,47 @@
+{
+  "data": {
+    "drug": {
+      "id": "CHEMBL403989",
+      "name": "TG100-801",
+      "mechanismsOfAction": {
+        "rows": [
+          {
+            "mechanismOfAction": "Ephrin type-B receptor 4 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Fibroblast growth factor receptor 1 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Platelet-derived growth factor receptor beta inhibitor"
+          },
+          {
+            "mechanismOfAction": "Fibroblast growth factor receptor 2 inhibitor"
+          },
+          {
+            "mechanismOfAction": "SRC inhibitor"
+          },
+          {
+            "mechanismOfAction": "Vascular endothelial growth factor receptor 1 inhibitor"
+          },
+          {
+            "mechanismOfAction": "Vascular endothelial growth factor receptor 2 inhibitor"
+          }
+        ]
+      },
+      "indications": {
+        "rows": [
+          {
+            "disease": {
+              "name": "choroidal neovascularization"
+            }
+          },
+          {
+            "disease": {
+              "name": "macular degeneration"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

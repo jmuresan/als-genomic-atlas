@@ -1,0 +1,45 @@
+{
+  "data": {
+    "target": {
+      "approvedSymbol": "ERVW-1",
+      "drugAndClinicalCandidates": {
+        "count": 1,
+        "rows": [
+          {
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4594547",
+              "name": "TEMELIMAB",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Syncytin-1 inhibitor"
+                  }
+                ]
+              },
+              "indications": {
+                "rows": [
+                  {
+                    "disease": {
+                      "name": "multiple sclerosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "relapsing-remitting multiple sclerosis"
+                    }
+                  },
+                  {
+                    "disease": {
+                      "name": "type 1 diabetes mellitus"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
