@@ -319,7 +319,9 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | --- | --- | --- |
 | `R-HSA-8876198` | pathway | RAB GEFs exchange GTP for GDP on RABs |
 | `R-HSA-9013149` | pathway | RAC1 GTPase cycle |
+| `GO:0007041` | go_term | None |
 | `GO:0051260` | go_term | None |
+| `GO:0031267` | go_term | None |
 | `GO:0042802` | go_term | None |
 | `GO:0042803` | go_term | None |
 | `GO:0043539` | go_term | None |
@@ -363,6 +365,26 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | Structure ID | Database | pLDDT / Method | Disorder Score |
 | --- | --- | --- | --- |
 | `AF-Q96Q42` | AlphaFold | pLDDT: 74.06 | Disorder: None |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -529,6 +551,9 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `R-HSA-418990` | pathway | Adherens junctions interactions |
 | `R-HSA-9708296` | pathway | tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis |
 | `GO:0001525` | go_term | None |
+| `GO:0003676` | go_term | None |
+| `GO:0003677` | go_term | None |
+| `GO:0003779` | go_term | None |
 | `GO:0004519` | go_term | None |
 | `GO:0004521` | go_term | None |
 | `GO:0004540` | go_term | None |
@@ -569,6 +594,26 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `5M9C` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `5M9G` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `5M9J` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -861,6 +906,7 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | ID | Type | Name |
 | --- | --- | --- |
 | `GO:0001786` | go_term | None |
+| `GO:0005509` | go_term | None |
 | `GO:0005544` | go_term | None |
 | `GO:0008429` | go_term | None |
 | `GO:0023026` | go_term | None |
@@ -888,6 +934,26 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | --- | --- | --- | --- |
 | `AF-P50995` | AlphaFold | pLDDT: 75.81 | Disorder: None |
 | `6TU2` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -1228,7 +1294,9 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 ### Category 5: Pathways & Functional Annotation
 | ID | Type | Name |
 | --- | --- | --- |
+| `GO:0003723` | go_term | None |
 | `GO:0003729` | go_term | None |
+| `GO:0005154` | go_term | None |
 | `IPR009604` | domain | LsmAD domain |
 | `IPR009818` | domain | PAM2 motif |
 | `IPR010920` | domain | LSM domain superfamily |
@@ -1258,6 +1326,28 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | Structure ID | Database | pLDDT / Method | Disorder Score |
 | --- | --- | --- | --- |
 | `AF-Q99700` | AlphaFold | pLDDT: 45.78 | Disorder: None |
+| `1HLN` | PDB | Method: X-RAY DIFFRACTION | N/A |
+| `2C9V` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -1448,9 +1538,11 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 ### Category 5: Pathways & Functional Annotation
 | ID | Type | Name |
 | --- | --- | --- |
+| `R-HSA-70326` | pathway | Superoxide radicals degradation |
 | `GO:1990316` | go_term | None |
 | `GO:0005085` | go_term | None |
 | `GO:0005096` | go_term | None |
+| `GO:0005515` | go_term | None |
 | `IPR027819` | domain | Guanine nucleotide exchange factor C9orf72 |
 
 ### Category 6: Network Interactions (STRING)
@@ -1479,6 +1571,26 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `6V4U` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7MGE` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7O2W` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+| Matched Target | Original Drug | Similar Drug ID | Similar Drug Name | Similarity % | Max Phase | Indications & Mechanism |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL2140266` | CHEMBL2140266 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL1256793` | CHEMBL1256793 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL300458` | CHEMBL300458 | 100.0% | Phase 0.0 | No indication/mechanism details available. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL23293` | SALIRASIB | 100.0% | Phase 2.0 | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+| `AF-P01112-F1` | `CHEMBL23293` | `CHEMBL49890` | CHEMBL49890 | 97.4% | Phase 0.0 | No indication/mechanism details available. |
 
 
 ---
@@ -1676,6 +1788,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P41002` | AlphaFold | pLDDT: 71.56 | Disorder: None |
 | `9CB3` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -1784,6 +1910,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | --- | --- | --- | --- |
 | `AF-O43822` | AlphaFold | pLDDT: 77.62 | Disorder: None |
 | `8AXR` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -1955,6 +2095,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `9OYQ` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `9OYS` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `9OYW` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -2132,6 +2286,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | --- | --- | --- | --- |
 | `AF-Q9UQN3` | AlphaFold | pLDDT: 79.5 | Disorder: None |
 | `2JQK` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -2399,6 +2567,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `7OWC` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7OWD` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -2600,6 +2782,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `4QFD` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `4YJD` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `4YJF` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -2831,6 +3027,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `3E2U` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `3TQ7` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `4RFX` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -3094,6 +3304,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `8PTY` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `8PTZ` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `8PU0` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -3655,7 +3879,6 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `GO:0004713` | go_term | None |
 | `GO:0004714` | go_term | None |
 | `GO:0005006` | go_term | None |
-| `GO:0005154` | go_term | None |
 | `IPR000494` | domain | Receptor L-domain |
 | `IPR001245` | domain | Serine-threonine/tyrosine-protein kinase, catalytic domain |
 | `IPR006211` | domain | Furin-like cysteine-rich domain |
@@ -3715,6 +3938,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `3U2P` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `3U7U` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `3U9U` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -4395,6 +4632,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | --- | --- | --- | --- |
 | `AF-Q96C11` | AlphaFold | pLDDT: 96.0 | Disorder: None |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -4773,6 +5024,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | --- | --- | --- | --- |
 | `AF-Q92562` | AlphaFold | pLDDT: 79.94 | Disorder: None |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -5021,6 +5286,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `4MYT` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `4MYU` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `4WPO` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -5303,6 +5582,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `8RZV` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `8X0N` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -5533,6 +5826,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-Q12840` | AlphaFold | pLDDT: 75.31 | Disorder: None |
 | `9T17` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -5719,6 +6026,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | Structure ID | Database | pLDDT / Method | Disorder Score |
 | --- | --- | --- | --- |
 | `AF-Q9Y561` | AlphaFold | pLDDT: 62.47 | Disorder: None |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -5980,6 +6301,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `7FBR` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7FBV` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -6180,6 +6515,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `8BCK` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `8BCL` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -6340,6 +6689,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | Structure ID | Database | pLDDT / Method | Disorder Score |
 | --- | --- | --- | --- |
 | `AF-P12036` | AlphaFold | pLDDT: 53.47 | Disorder: None |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -6610,6 +6973,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | Structure ID | Database | pLDDT / Method | Disorder Score |
 | --- | --- | --- | --- |
 | `AF-Q96PY6` | AlphaFold | pLDDT: 56.84 | Disorder: None |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -6949,6 +7326,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `9B12` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `9IKQ` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -7088,7 +7479,6 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `GO:0001784` | go_term | None |
 | `GO:0003785` | go_term | None |
 | `GO:0005546` | go_term | None |
-| `GO:0031267` | go_term | None |
 | `IPR005454` | domain | Profilin1/2/3, vertebrate |
 | `IPR005455` | domain | Profilin, eukaryotic type |
 | `IPR027310` | domain | Profilin conserved site |
@@ -7126,6 +7516,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `6NBE` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `6NBW` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7P1H` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -7276,6 +7680,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-P41219` | AlphaFold | pLDDT: 78.25 | Disorder: None |
 | `7ZW1` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `9GKU` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -7548,6 +7966,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `AF-Q8WVM8` | AlphaFold | pLDDT: 84.56 | Disorder: None |
 | `1Y9J` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -7779,8 +8211,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | Structure ID | Database | pLDDT / Method | Disorder Score |
 | --- | --- | --- | --- |
 | `AF-Q7Z333` | AlphaFold | pLDDT: 52.28 | Disorder: None |
-| `1HLN` | PDB | Method: X-RAY DIFFRACTION | N/A |
-| `2C9V` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -7997,6 +8441,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `7W2E` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7W2F` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -8193,6 +8651,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `1PTZ` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `1PU0` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `1RK7` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -8446,6 +8918,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `8YAB` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `8YAD` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `8YAH` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -8745,6 +9231,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `7K0M` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7K0N` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -9012,6 +9512,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `4MJS` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `5YP7` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -9235,6 +9749,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `7EGD` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7EGE` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -9421,7 +9949,6 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | ID | Type | Name |
 | --- | --- | --- |
 | `GO:0000978` | go_term | None |
-| `GO:0003677` | go_term | None |
 | `GO:0003690` | go_term | None |
 | `IPR041105` | domain | TAR DNA-binding protein 43, N-terminal |
 | `IPR049124` | domain | TAR DNA-binding protein 43, C-terminal |
@@ -9463,6 +9990,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `4IUF` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `4Y00` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `4Y0F` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -9737,6 +10278,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `4IWP` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `4IWQ` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -9947,7 +10502,6 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | ID | Type | Name |
 | --- | --- | --- |
 | `R-HSA-6803529` | pathway | FGFR2 alternative splicing |
-| `GO:0003676` | go_term | None |
 | `GO:0003730` | go_term | None |
 | `GO:0008143` | go_term | None |
 | `GO:0035925` | go_term | None |
@@ -9994,6 +10548,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `6ELD` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `9KTY` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `9KTZ` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -10136,7 +10704,6 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | --- | --- | --- |
 | `GO:0051117` | go_term | None |
 | `GO:0007040` | go_term | None |
-| `GO:0007041` | go_term | None |
 | `GO:0032418` | go_term | None |
 | `GO:0048813` | go_term | None |
 | `GO:0005764` | go_term | None |
@@ -10174,6 +10741,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `7U16` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7U17` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7U18` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -10365,7 +10946,6 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | ID | Type | Name |
 | --- | --- | --- |
 | `R-HSA-3295583` | pathway | TRP channels |
-| `GO:0003779` | go_term | None |
 | `GO:0004672` | go_term | None |
 | `GO:0004674` | go_term | None |
 | `GO:0005262` | go_term | None |
@@ -10420,6 +11000,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `8SI8` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `8SIA` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `8SIB` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -10750,6 +11344,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `8IXF` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `8IXG` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -10895,6 +11503,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `2NBV` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `6MUN` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7F7X` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -11055,6 +11677,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | --- | --- | --- | --- |
 | `AF-Q9NRR5` | AlphaFold | pLDDT: 60.72 | Disorder: None |
 | `2KNZ` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -11227,8 +11863,6 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 ### Category 5: Pathways & Functional Annotation
 | ID | Type | Name |
 | --- | --- | --- |
-| `R-HSA-70326` | pathway | Superoxide radicals degradation |
-| `GO:0005509` | go_term | None |
 | `GO:0005516` | go_term | None |
 | `GO:0005543` | go_term | None |
 | `GO:0017075` | go_term | None |
@@ -11288,6 +11922,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `6NYT` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7T7C` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `7T7R` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
@@ -11547,6 +12195,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `9H6C` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `9H6D` | PDB | Method: X-RAY DIFFRACTION | N/A |
 
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
+
 
 ---
 
@@ -11759,8 +12421,6 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `R-HSA-9918487` | pathway | Dengue Virus Genome Translation and Replication |
 | `R-HSA-9931269` | pathway | AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274) |
 | `R-HSA-9954709` | pathway | Ribosome Quality Control (RQC) complex extracts and degrades nascent peptide |
-| `GO:0003723` | go_term | None |
-| `GO:0005515` | go_term | None |
 | `IPR003338` | domain | CDC48, N-terminal subdomain |
 | `IPR003593` | domain | AAA+ ATPase domain |
 | `IPR003959` | domain | ATPase, AAA-type, core |
@@ -11804,6 +12464,20 @@ A publication-quality molecular and genomic landscape map of Amyotrophic Lateral
 | `3CF1` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `3CF2` | PDB | Method: X-RAY DIFFRACTION | N/A |
 | `3CF3` | PDB | Method: X-RAY DIFFRACTION | N/A |
+
+### Category 9: Foldseek Structural Similarity Matches
+| Target ID | Database | Probability | Query Coverage | E-value | Seq Identity | Aln Length |
+| --- | --- | --- | --- | --- | --- | --- |
+| `AF-P02144-F1` | afdb-swissprot | 0.950 | 100.0% | 1e-10 | 45.0% | 154 |
+| `AF-P01112-F1` | afdb-swissprot | 0.880 | 97.4% | 1e-08 | 38.0% | 150 |
+
+### Category 10: Matched Target Drugs & Clinical Trials
+| Matched Target | Drug/Trial ID | Name/Title | Type | Phase/Status | Purpose / Description |
+| --- | --- | --- | --- | --- | --- |
+| `AF-P01112-F1` | `CHEMBL23293` | SALIRASIB | Drug | N/A | Indicated for: lung cancer, pancreatic neoplasm, Malignant Pancreatic Neoplasm, non-small cell lung carcinoma. Mechanism: RAS inhibitor. |
+
+### Category 11: Similar Compounds & Repurposing Candidates
+*No similar compounds with qualifying max clinical phase found.*
 
 
 ---
