@@ -9,3 +9,6 @@ temp.fasta
 # Regenerable API-response cache (1.9 GB). Not versioned; rebuilt from the
 # public APIs by run_pipeline.py. Purged from history on 2026-06-22.
 data/raw/cache/
+
+# Manim build output. Regenerated from video/*.py by `manim`.
+media/
