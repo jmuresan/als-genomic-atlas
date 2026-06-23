@@ -2,6 +2,10 @@
 
 This document serves as a reference manual for the node and edge types, attributes, and biological data sources represented in the exported GraphML network (`outputs/als_genomic_atlas.graphml`).
 
+<img width="1402" height="874" alt="Screenshot 2026-06-23 at 14 54 41" src="https://github.com/user-attachments/assets/01555743-6287-4322-a9cd-ecf46b79d0af" />
+<img width="235" height="167" alt="Screenshot 2026-06-23 at 14 55 21" src="https://github.com/user-attachments/assets/e679076b-6033-470f-9c0e-eca42f6dc840" />
+
+
 ---
 
 ## Node Types
