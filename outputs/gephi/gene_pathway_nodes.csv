@@ -1,0 +1,701 @@
+Id,Label,node_type,term_type,term_name
+FUS,FUS,gene,,
+SIGMAR1,SIGMAR1,gene,,
+VCP,VCP,gene,,
+CHMP2B,CHMP2B,gene,,
+ATXN2,ATXN2,gene,,
+SCFD1,SCFD1,gene,,
+PFN1,PFN1,gene,,
+SOD1,SOD1,gene,,
+C9orf72,C9orf72,gene,,
+DAO,DAO,gene,,
+MATR3,MATR3,gene,,
+ALS2,ALS2,gene,,
+ANG,ANG,gene,,
+CYLD,CYLD,gene,,
+TIA1,TIA1,gene,,
+TUBA4A,TUBA4A,gene,,
+UBQLN4,UBQLN4,gene,,
+VAPB,VAPB,gene,,
+CCNF,CCNF,gene,,
+NEFH,NEFH,gene,,
+OPTN,OPTN,gene,,
+SQSTM1,SQSTM1,gene,,
+LRP12,LRP12,gene,,
+SPTLC1,SPTLC1,gene,,
+UNC13A,UNC13A,gene,,
+CHCHD10,CHCHD10,gene,,
+SPG11,SPG11,gene,,
+TARDBP,TARDBP,gene,,
+ERBB4,ERBB4,gene,,
+NEK1,NEK1,gene,,
+TMEM106B,TMEM106B,gene,,
+TRPM7,TRPM7,gene,,
+ANXA11,ANXA11,gene,,
+DCTN1,DCTN1,gene,,
+MOBP,MOBP,gene,,
+FIG4,FIG4,gene,,
+PRPH,PRPH,gene,,
+UBQLN2,UBQLN2,gene,,
+CFAP410,CFAP410,gene,,
+ELP3,ELP3,gene,,
+TAF15,TAF15,gene,,
+KIF5A,KIF5A,gene,,
+TBK1,TBK1,gene,,
+FGGY,FGGY,gene,,
+HNRNPA1,HNRNPA1,gene,,
+SETX,SETX,gene,,
+GO:0005096,GTPase activator activity,annotation,go_term,GTPase activator activity
+GO:0042803,protein homodimerization activity,annotation,go_term,protein homodimerization activity
+GO:0051036,regulation of endosome size,annotation,go_term,regulation of endosome size
+GO:0005739,mitochondrion,annotation,go_term,mitochondrion
+R-HSA-5357905,Regulation of TNFR1 signaling,annotation,pathway,Regulation of TNFR1 signaling
+R-HSA-936440,Negative regulators of DDX58/IFIH1 signaling,annotation,pathway,Negative regulators of DDX58/IFIH1 signaling
+GO:0030496,midbody,annotation,go_term,midbody
+IPR038765,Papain-like cysteine peptidase superfamily,annotation,domain,Papain-like cysteine peptidase superfamily
+GO:0002098,tRNA wobble uridine modification,annotation,go_term,tRNA wobble uridine modification
+R-HSA-1963642,PI3K events in ERBB2 signaling,annotation,pathway,PI3K events in ERBB2 signaling
+IPR036941,Receptor L-domain superfamily,annotation,domain,Receptor L-domain superfamily
+R-HSA-72163,mRNA Splicing - Major Pathway,annotation,pathway,mRNA Splicing - Major Pathway
+R-HSA-9770562,mRNA Polyadenylation,annotation,pathway,mRNA Polyadenylation
+GO:0003713,transcription coactivator activity,annotation,go_term,transcription coactivator activity
+IPR034870,TAF15/EWS/TLS family,annotation,domain,TAF15/EWS/TLS family
+IPR034845,"hnRNP A1, RNA recognition motif 1",annotation,domain,"hnRNP A1, RNA recognition motif 1"
+GO:0047496,vesicle transport along microtubule,annotation,go_term,vesicle transport along microtubule
+IPR019821,"Kinesin motor domain, conserved site",annotation,domain,"Kinesin motor domain, conserved site"
+GO:0005178,integrin binding,annotation,go_term,integrin binding
+IPR034928,"Matrin-3, RNA recognition motif 1",annotation,domain,"Matrin-3, RNA recognition motif 1"
+R-HSA-9861718,Regulation of pyruvate metabolism,annotation,pathway,Regulation of pyruvate metabolism
+GO:0106310,protein serine kinase activity,annotation,go_term,protein serine kinase activity
+GO:0051223,regulation of protein transport,annotation,go_term,regulation of protein transport
+IPR036045,Sec1-like superfamily,annotation,domain,Sec1-like superfamily
+GO:0007040,lysosome organization,annotation,go_term,lysosome organization
+GO:0004758,serine C-palmitoyltransferase activity,annotation,go_term,serine C-palmitoyltransferase activity
+R-HSA-9020702,Interleukin-1 signaling,annotation,pathway,Interleukin-1 signaling
+IPR000433,"Zinc finger, ZZ-type",annotation,domain,"Zinc finger, ZZ-type"
+R-HSA-167172,Transcription of the HIV genome,annotation,pathway,Transcription of the HIV genome
+R-HSA-73779,RNA Polymerase II Transcription Pre-Initiation And Promoter Opening,annotation,pathway,RNA Polymerase II Transcription Pre-Initiation And Promoter Opening
+IPR034830,"TIA-1, RNA recognition motif 2",annotation,domain,"TIA-1, RNA recognition motif 2"
+GO:0006829,zinc ion transport,annotation,go_term,zinc ion transport
+GO:0010960,magnesium ion homeostasis,annotation,go_term,magnesium ion homeostasis
+IPR004166,"Alpha-type protein kinase, alpha-kinase domain",annotation,domain,"Alpha-type protein kinase, alpha-kinase domain"
+IPR037162,"TRPM, tetramerisation domain superfamily",annotation,domain,"TRPM, tetramerisation domain superfamily"
+R-HSA-9609690,HCMV Early Events,annotation,pathway,HCMV Early Events
+IPR003008,"Tubulin/FtsZ, GTPase domain",annotation,domain,"Tubulin/FtsZ, GTPase domain"
+IPR018316,"Tubulin/FtsZ, 2-layer sandwich domain",annotation,domain,"Tubulin/FtsZ, 2-layer sandwich domain"
+R-HSA-5689877,Josephin domain DUBs,annotation,pathway,Josephin domain DUBs
+IPR003959,"ATPase, AAA-type, core",annotation,domain,"ATPase, AAA-type, core"
+GO:0045860,positive regulation of protein kinase activity,annotation,go_term,positive regulation of protein kinase activity
+IPR035899,Dbl homology (DH) domain superfamily,annotation,domain,Dbl homology (DH) domain superfamily
+IPR051984,Alsin,annotation,domain,Alsin
+GO:0004540,RNA nuclease activity,annotation,go_term,RNA nuclease activity
+GO:0003729,mRNA binding,annotation,go_term,mRNA binding
+R-HSA-983168,Antigen processing: Ubiquitination & Proteasome degradation,annotation,pathway,Antigen processing: Ubiquitination & Proteasome degradation
+IPR032675,Leucine-rich repeat domain superfamily,annotation,domain,Leucine-rich repeat domain superfamily
+R-HSA-162588,Budding and maturation of HIV virion,annotation,pathway,Budding and maturation of HIV virion
+R-HSA-9679504,Translation of Replicase and Assembly of the Replication Transcription Complex,annotation,pathway,Translation of Replicase and Assembly of the Replication Transcription Complex
+GO:0005764,lysosome,annotation,go_term,lysosome
+GO:0001778,plasma membrane repair,annotation,go_term,plasma membrane repair
+IPR061979,"CYLD, SH3 domain",annotation,domain,"CYLD, SH3 domain"
+R-HSA-2132295,MHC class II antigen presentation,annotation,pathway,MHC class II antigen presentation
+GO:0019321,pentose metabolic process,annotation,go_term,pentose metabolic process
+R-HSA-1660516,Synthesis of PIPs at the early endosome membrane,annotation,pathway,Synthesis of PIPs at the early endosome membrane
+GO:0106027,neuron projection organization,annotation,go_term,neuron projection organization
+IPR010790,Repeat of unknown function DUF1388,annotation,domain,Repeat of unknown function DUF1388
+IPR036140,Profilin superfamily,annotation,domain,Profilin superfamily
+GO:0000139,Golgi membrane,annotation,go_term,Golgi membrane
+GO:0032580,Golgi cisterna membrane,annotation,go_term,Golgi cisterna membrane
+GO:0150052,regulation of postsynapse assembly,annotation,go_term,regulation of postsynapse assembly
+GO:0098978,glutamatergic synapse,annotation,go_term,glutamatergic synapse
+GO:0005507,copper ion binding,annotation,go_term,copper ion binding
+GO:0046513,ceramide biosynthetic process,annotation,go_term,ceramide biosynthetic process
+R-HSA-9664873,Pexophagy,annotation,pathway,Pexophagy
+R-HSA-73776,RNA Polymerase II Promoter Escape,annotation,pathway,RNA Polymerase II Promoter Escape
+GO:0003723,GO annotation (molecular function),annotation,go_term,GO annotation (molecular function)
+R-HSA-933541,TRAF6 mediated IRF7 activation,annotation,pathway,TRAF6 mediated IRF7 activation
+IPR034496,"TIAR, RNA recognition motif 3",annotation,domain,"TIAR, RNA recognition motif 3"
+IPR029601,"Transient receptor potential cation channel subfamily M member 7, alpha-kinase domain",annotation,domain,"Transient receptor potential cation channel subfamily M member 7, alpha-kinase domain"
+IPR056336,"Calcium channel YVC1-like, C-terminal transmembrane domain",annotation,domain,"Calcium channel YVC1-like, C-terminal transmembrane domain"
+R-HSA-389977,Post-chaperonin tubulin folding pathway,annotation,pathway,Post-chaperonin tubulin folding pathway
+R-HSA-9648025,EML4 and NUDC in mitotic spindle formation,annotation,pathway,EML4 and NUDC in mitotic spindle formation
+GO:0035249,"synaptic transmission, glutamatergic",annotation,go_term,"synaptic transmission, glutamatergic"
+GO:0099011,neuronal dense core vesicle exocytosis,annotation,go_term,neuronal dense core vesicle exocytosis
+R-HSA-5358346,Hedgehog ligand biogenesis,annotation,pathway,Hedgehog ligand biogenesis
+R-HSA-8876725,Protein methylation,annotation,pathway,Protein methylation
+R-HSA-9954709,Ribosome Quality Control (RQC) complex extracts and degrades nascent peptide,annotation,pathway,Ribosome Quality Control (RQC) complex extracts and degrades nascent peptide
+IPR003593,AAA+ ATPase domain,annotation,domain,AAA+ ATPase domain
+GO:0005515,protein binding,annotation,go_term,protein binding
+IPR003409,MORN repeat,annotation,domain,MORN repeat
+GO:0097733,photoreceptor cell cilium,annotation,go_term,photoreceptor cell cilium
+IPR003603,"U2A'/phosphoprotein 32 family A, C-terminal",annotation,domain,"U2A'/phosphoprotein 32 family A, C-terminal"
+R-HSA-9610379,HCMV Late Events,annotation,pathway,HCMV Late Events
+GO:0005768,endosome,annotation,go_term,endosome
+GO:0045296,cadherin binding,annotation,go_term,cadherin binding
+GO:0005741,mitochondrial outer membrane,annotation,go_term,mitochondrial outer membrane
+R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes,annotation,pathway,Recruitment of mitotic centrosome proteins and complexes
+GO:0005938,cell cortex,annotation,go_term,cell cortex
+R-HSA-3214847,HATs acetylate histones,annotation,pathway,HATs acetylate histones
+IPR034687,Elongator complex protein 3-like,annotation,domain,Elongator complex protein 3-like
+R-HSA-1227986,Signaling by ERBB2,annotation,pathway,Signaling by ERBB2
+R-HSA-1257604,PIP3 activates AKT signaling,annotation,pathway,PIP3 activates AKT signaling
+GO:0038138,ERBB4-ERBB4 signaling pathway,annotation,go_term,ERBB4-ERBB4 signaling pathway
+GO:0005006,epidermal growth factor receptor activity,annotation,go_term,epidermal growth factor receptor activity
+R-HSA-1660517,Synthesis of PIPs at the late endosome membrane,annotation,pathway,Synthesis of PIPs at the late endosome membrane
+IPR001876,"Zinc finger, RanBP2-type",annotation,domain,"Zinc finger, RanBP2-type"
+GO:0016192,vesicle-mediated transport,annotation,go_term,vesicle-mediated transport
+GO:0099185,postsynaptic intermediate filament cytoskeleton organization,annotation,go_term,postsynaptic intermediate filament cytoskeleton organization
+GO:0005801,cis-Golgi network,annotation,go_term,cis-Golgi network
+GO:0004386,helicase activity,annotation,go_term,helicase activity
+IPR015421,"Pyridoxal phosphate-dependent transferase, major domain",annotation,domain,"Pyridoxal phosphate-dependent transferase, major domain"
+GO:0005080,protein kinase C binding,annotation,go_term,protein kinase C binding
+R-HSA-9705671,SARS-CoV-2 activates/modulates innate and adaptive immune responses,annotation,pathway,SARS-CoV-2 activates/modulates innate and adaptive immune responses
+GO:0017148,negative regulation of translation,annotation,go_term,negative regulation of translation
+GO:0031902,late endosome membrane,annotation,go_term,late endosome membrane
+R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC,annotation,pathway,Formation of tubulin folding intermediates by CCT/TriC
+IPR002219,"Protein kinase C-like, phorbol ester/diacylglycerol-binding domain",annotation,domain,"Protein kinase C-like, phorbol ester/diacylglycerol-binding domain"
+R-HSA-9013405,RHOD GTPase cycle,annotation,pathway,RHOD GTPase cycle
+R-HSA-5689896,Ovarian tumor domain proteases,annotation,pathway,Ovarian tumor domain proteases
+R-HSA-9694614,Attachment and Entry,annotation,pathway,Attachment and Entry
+GO:0007041,lysosomal transport,annotation,go_term,lysosomal transport
+GO:0043539,protein serine/threonine kinase activator activity,annotation,go_term,protein serine/threonine kinase activator activity
+IPR000219,Dbl homology domain,annotation,domain,Dbl homology domain
+GO:0004549,tRNA-specific ribonuclease activity,annotation,go_term,tRNA-specific ribonuclease activity
+IPR023412,Ribonuclease A-domain,annotation,domain,Ribonuclease A-domain
+GO:1990316,Atg1/ULK1 kinase complex,annotation,go_term,Atg1/ULK1 kinase complex
+GO:0005829,cytosol,annotation,go_term,cytosol
+GO:0007005,mitochondrion organization,annotation,go_term,mitochondrion organization
+GO:0005758,mitochondrial intermembrane space,annotation,go_term,mitochondrial intermembrane space
+GO:0009898,cytoplasmic side of plasma membrane,annotation,go_term,cytoplasmic side of plasma membrane
+IPR000938,CAP Gly-rich domain,annotation,domain,CAP Gly-rich domain
+IPR028889,"Ubiquitin specific protease UPS, catalytic domain",annotation,domain,"Ubiquitin specific protease UPS, catalytic domain"
+GO:0003884,D-amino-acid oxidase activity,annotation,go_term,D-amino-acid oxidase activity
+R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,annotation,pathway,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
+R-HSA-1250342,PI3K events in ERBB4 signaling,annotation,pathway,PI3K events in ERBB4 signaling
+GO:0000976,transcription cis-regulatory region binding,annotation,go_term,transcription cis-regulatory region binding
+GO:0016301,kinase activity,annotation,go_term,kinase activity
+GO:0034593,phosphatidylinositol bisphosphate phosphatase activity,annotation,go_term,phosphatidylinositol bisphosphate phosphatase activity
+R-HSA-9735869,SARS-CoV-1 modulates host translation machinery,annotation,pathway,SARS-CoV-1 modulates host translation machinery
+IPR002172,Low-density lipoprotein (LDL) receptor class A repeat,annotation,domain,Low-density lipoprotein (LDL) receptor class A repeat
+GO:0019911,structural constituent of myelin sheath,annotation,go_term,structural constituent of myelin sheath
+GO:0007399,nervous system development,annotation,go_term,nervous system development
+GO:0033693,neurofilament bundle assembly,annotation,go_term,neurofilament bundle assembly
+R-HSA-8854214,TBC/RABGAPs,annotation,pathway,TBC/RABGAPs
+R-HSA-9828211,"Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation",annotation,pathway,"Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation"
+R-HSA-376176,Signaling by ROBO receptors,annotation,pathway,Signaling by ROBO receptors
+GO:0060628,regulation of ER to Golgi vesicle-mediated transport,annotation,go_term,regulation of ER to Golgi vesicle-mediated transport
+IPR043154,"Sec1-like, domain 1",annotation,domain,"Sec1-like, domain 1"
+GO:1990708,conditioned place preference,annotation,go_term,conditioned place preference
+R-HSA-8950505,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,annotation,pathway,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation
+GO:0003676,GO annotation (molecular function),annotation,go_term,GO annotation (molecular function)
+GO:0140517,protein-RNA adaptor activity,annotation,go_term,protein-RNA adaptor activity
+IPR034827,"TIA-1, RNA recognition motif 1",annotation,domain,"TIA-1, RNA recognition motif 1"
+IPR009790,Transmembrane protein 106,annotation,domain,Transmembrane protein 106
+R-HSA-2467813,Separation of Sister Chromatids,annotation,pathway,Separation of Sister Chromatids
+R-HSA-9619483,Activation of AMPK downstream of NMDARs,annotation,pathway,Activation of AMPK downstream of NMDARs
+GO:0030182,neuron differentiation,annotation,go_term,neuron differentiation
+IPR000217,Tubulin,annotation,domain,Tubulin
+IPR023123,"Tubulin, C-terminal",annotation,domain,"Tubulin, C-terminal"
+IPR036525,"Tubulin/FtsZ, GTPase domain superfamily",annotation,domain,"Tubulin/FtsZ, GTPase domain superfamily"
+IPR015496,Ubiquilin,annotation,domain,Ubiquilin
+GO:0031597,cytosolic proteasome complex,annotation,go_term,cytosolic proteasome complex
+GO:0016082,synaptic vesicle priming,annotation,go_term,synaptic vesicle priming
+GO:1903861,positive regulation of dendrite extension,annotation,go_term,positive regulation of dendrite extension
+R-HSA-532668,N-glycan trimming in the ER and Calnexin/Calreticulin cycle,annotation,pathway,N-glycan trimming in the ER and Calnexin/Calreticulin cycle
+R-HSA-6798695,Neutrophil degranulation,annotation,pathway,Neutrophil degranulation
+IPR003338,"CDC48, N-terminal subdomain",annotation,domain,"CDC48, N-terminal subdomain"
+GO:0004521,RNA endonuclease activity,annotation,go_term,RNA endonuclease activity
+GO:0005544,calcium-dependent phospholipid binding,annotation,go_term,calcium-dependent phospholipid binding
+GO:0008429,phosphatidylethanolamine binding,annotation,go_term,phosphatidylethanolamine binding
+GO:0044548,S100 protein binding,annotation,go_term,S100 protein binding
+IPR037104,Annexin superfamily,annotation,domain,Annexin superfamily
+GO:0005634,nucleus,annotation,go_term,nucleus
+IPR010625,CHCH,annotation,domain,CHCH
+R-HSA-5357786,TNFR1-induced proapoptotic signaling,annotation,pathway,TNFR1-induced proapoptotic signaling
+R-HSA-5689880,Ub-specific processing proteases,annotation,pathway,Ub-specific processing proteases
+GO:0005881,cytoplasmic microtubule,annotation,go_term,cytoplasmic microtubule
+IPR023209,D-amino-acid oxidase,annotation,domain,D-amino-acid oxidase
+R-HSA-381038,XBP1(S) activates chaperone genes,annotation,pathway,XBP1(S) activates chaperone genes
+R-HSA-9620244,Long-term potentiation,annotation,pathway,Long-term potentiation
+GO:0004438,phosphatidylinositol-3-phosphate phosphatase activity,annotation,go_term,phosphatidylinositol-3-phosphate phosphatase activity
+IPR021662,"Heterogeneous nuclear ribonucleoprotein A1/A2, C-terminal",annotation,domain,"Heterogeneous nuclear ribonucleoprotein A1/A2, C-terminal"
+R-HSA-264876,Insulin processing,annotation,pathway,Insulin processing
+GO:0008574,plus-end-directed microtubule motor activity,annotation,go_term,plus-end-directed microtubule motor activity
+GO:0019894,kinesin binding,annotation,go_term,kinesin binding
+GO:0040008,regulation of growth,annotation,go_term,regulation of growth
+IPR051131,"NEK Ser/Thr protein kinase family, NIMA subfamily",annotation,domain,"NEK Ser/Thr protein kinase family, NIMA subfamily"
+IPR021063,"NF-kappa-B essential modulator NEMO, N-terminal",annotation,domain,"NF-kappa-B essential modulator NEMO, N-terminal"
+IPR032419,"NF-kappa-B essential modulator NEMO, CC2-LZ domain",annotation,domain,"NF-kappa-B essential modulator NEMO, CC2-LZ domain"
+GO:0003785,actin monomer binding,annotation,go_term,actin monomer binding
+GO:0045019,negative regulation of nitric oxide biosynthetic process,annotation,go_term,negative regulation of nitric oxide biosynthetic process
+GO:0005635,nuclear envelope,annotation,go_term,nuclear envelope
+GO:0004784,superoxide dismutase activity,annotation,go_term,superoxide dismutase activity
+IPR028107,"Spatacsin, C-terminal domain",annotation,domain,"Spatacsin, C-terminal domain"
+R-HSA-209543,p75NTR recruits signalling complexes,annotation,pathway,p75NTR recruits signalling complexes
+IPR034866,"Sequestosome-1, PB1 domain",annotation,domain,"Sequestosome-1, PB1 domain"
+R-HSA-167161,HIV Transcription Initiation,annotation,pathway,HIV Transcription Initiation
+R-HSA-674695,RNA Polymerase II Pre-transcription Events,annotation,pathway,RNA Polymerase II Pre-transcription Events
+R-HSA-9692916,SARS-CoV-1 activates/modulates innate immune responses,annotation,pathway,SARS-CoV-1 activates/modulates innate immune responses
+IPR050927,Transient receptor potential cation channel M,annotation,domain,Transient receptor potential cation channel M
+R-HSA-437239,Recycling pathway of L1,annotation,pathway,Recycling pathway of L1
+R-HSA-5620924,Intraflagellar transport,annotation,pathway,Intraflagellar transport
+IPR002452,Alpha tubulin,annotation,domain,Alpha tubulin
+GO:0019992,diacylglycerol binding,annotation,go_term,diacylglycerol binding
+GO:0030672,synaptic vesicle membrane,annotation,go_term,synaptic vesicle membrane
+IPR027080,Protein Unc-13,annotation,domain,Protein Unc-13
+R-HSA-382556,ABC-family protein mediated transport,annotation,pathway,ABC-family protein mediated transport
+GO:0042802,identical protein binding,annotation,go_term,identical protein binding
+GO:0048812,neuron projection morphogenesis,annotation,go_term,neuron projection morphogenesis
+GO:0001786,phosphatidylserine binding,annotation,go_term,phosphatidylserine binding
+GO:0010997,anaphase-promoting complex binding,annotation,go_term,anaphase-promoting complex binding
+R-HSA-1632852,Macroautophagy,annotation,pathway,Macroautophagy
+GO:0019904,protein domain specific binding,annotation,go_term,protein domain specific binding
+R-HSA-168638,NOD1/2 Signaling Pathway,annotation,pathway,NOD1/2 Signaling Pathway
+GO:0001764,neuron migration,annotation,go_term,neuron migration
+R-HSA-6785631,ERBB2 Regulates Cell Motility,annotation,pathway,ERBB2 Regulates Cell Motility
+GO:0004672,protein kinase activity,annotation,go_term,protein kinase activity
+GO:0003712,transcription coregulator activity,annotation,go_term,transcription coregulator activity
+IPR000504,RNA recognition motif domain,annotation,domain,RNA recognition motif domain
+R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic,annotation,pathway,COPI-dependent Golgi-to-ER retrograde traffic
+R-HSA-983189,Kinesins,annotation,pathway,Kinesins
+GO:0098957,anterograde axonal transport of mitochondrion,annotation,go_term,anterograde axonal transport of mitochondrion
+IPR027417,P-loop containing nucleoside triphosphate hydrolase,annotation,domain,P-loop containing nucleoside triphosphate hydrolase
+R-HSA-975634,Retinoid metabolism and transport,annotation,pathway,Retinoid metabolism and transport
+GO:0007165,signal transduction,annotation,go_term,signal transduction
+R-HSA-5205685,PINK1-PRKN Mediated Mitophagy,annotation,pathway,PINK1-PRKN Mediated Mitophagy
+GO:0001784,phosphotyrosine residue binding,annotation,go_term,phosphotyrosine residue binding
+GO:0005546,"phosphatidylinositol-4,5-bisphosphate binding",annotation,go_term,"phosphatidylinositol-4,5-bisphosphate binding"
+GO:0044877,protein-containing complex binding,annotation,go_term,protein-containing complex binding
+GO:1902902,negative regulation of autophagosome assembly,annotation,go_term,negative regulation of autophagosome assembly
+GO:1904504,positive regulation of lipophagy,annotation,go_term,positive regulation of lipophagy
+IPR015940,Ubiquitin-associated domain,annotation,domain,Ubiquitin-associated domain
+GO:0003730,GO annotation (molecular function),annotation,go_term,GO annotation (molecular function)
+GO:0045893,GO annotation (biological process),annotation,go_term,GO annotation (biological process)
+GO:0003690,double-stranded DNA binding,annotation,go_term,double-stranded DNA binding
+IPR041309,"TANK-binding kinase 1, coiled-coil domain 1",annotation,domain,"TANK-binding kinase 1, coiled-coil domain 1"
+R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin,annotation,pathway,Carboxyterminal post-translational modifications of tubulin
+IPR000626,Ubiquitin-like domain,annotation,domain,Ubiquitin-like domain
+GO:0007269,neurotransmitter secretion,annotation,go_term,neurotransmitter secretion
+R-HSA-9013404,RAC2 GTPase cycle,annotation,pathway,RAC2 GTPase cycle
+IPR029067,CDC48 domain 2-like superfamily,annotation,domain,CDC48 domain 2-like superfamily
+IPR050168,AAA ATPase domain-containing protein,annotation,domain,AAA ATPase domain-containing protein
+GO:0035022,positive regulation of Rac protein signal transduction,annotation,go_term,positive regulation of Rac protein signal transduction
+IPR011993,PH-like domain superfamily,annotation,domain,PH-like domain superfamily
+IPR057248,"Alsin-like, PH-like domain",annotation,domain,"Alsin-like, PH-like domain"
+IPR018252,"Annexin repeat, conserved site",annotation,domain,"Annexin repeat, conserved site"
+IPR018502,Annexin repeat,annotation,domain,Annexin repeat
+GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity,annotation,go_term,cyclin-dependent protein serine/threonine kinase regulator activity
+IPR036047,F-box-like domain superfamily,annotation,domain,F-box-like domain superfamily
+GO:0061617,MICOS complex,annotation,go_term,MICOS complex
+IPR001394,"Peptidase C19, ubiquitin carboxyl-terminal hydrolase",annotation,domain,"Peptidase C19, ubiquitin carboxyl-terminal hydrolase"
+IPR018200,"Ubiquitin specific protease, conserved site",annotation,domain,"Ubiquitin specific protease, conserved site"
+R-HSA-5620912,Anchoring of the basal body to the plasma membrane,annotation,pathway,Anchoring of the basal body to the plasma membrane
+R-HSA-1250347,SHC1 events in ERBB4 signaling,annotation,pathway,SHC1 events in ERBB4 signaling
+GO:0038130,ERBB4 signaling pathway,annotation,go_term,ERBB4 signaling pathway
+IPR020635,"Tyrosine-protein kinase, catalytic domain",annotation,domain,"Tyrosine-protein kinase, catalytic domain"
+GO:0046835,carbohydrate phosphorylation,annotation,go_term,carbohydrate phosphorylation
+IPR043129,"ATPase, nucleotide binding domain",annotation,domain,"ATPase, nucleotide binding domain"
+GO:0004439,"phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity",annotation,go_term,"phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity"
+IPR012677,Nucleotide-binding alpha-beta plait domain superfamily,annotation,domain,Nucleotide-binding alpha-beta plait domain superfamily
+R-HSA-5625970,RHO GTPases activate KTN1,annotation,pathway,RHO GTPases activate KTN1
+GO:0008017,microtubule binding,annotation,go_term,microtubule binding
+GO:0006897,endocytosis,annotation,go_term,endocytosis
+R-HSA-8986944,Transcriptional Regulation by MECP2,annotation,pathway,Transcriptional Regulation by MECP2
+GO:0019901,protein kinase binding,annotation,go_term,protein kinase binding
+GO:0045110,intermediate filament bundle assembly,annotation,go_term,intermediate filament bundle assembly
+GO:0006468,protein phosphorylation,annotation,go_term,protein phosphorylation
+R-HSA-936964,"Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)",annotation,pathway,"Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)"
+GO:0006886,intracellular protein transport,annotation,go_term,intracellular protein transport
+GO:0033677,DNA/RNA helicase activity,annotation,go_term,DNA/RNA helicase activity
+GO:0030148,sphingolipid biosynthetic process,annotation,go_term,sphingolipid biosynthetic process
+GO:0005515,GO annotation (molecular function),annotation,go_term,GO annotation (molecular function)
+GO:0005654,GO annotation (cellular component),annotation,go_term,GO annotation (cellular component)
+GO:0051117,ATPase binding,annotation,go_term,ATPase binding
+GO:0048813,dendrite morphogenesis,annotation,go_term,dendrite morphogenesis
+GO:0005765,lysosomal membrane,annotation,go_term,lysosomal membrane
+GO:0005262,calcium channel activity,annotation,go_term,calcium channel activity
+R-HSA-5610787,Hedgehog 'off' state,annotation,pathway,Hedgehog 'off' state
+GO:0003924,GTPase activity,annotation,go_term,GTPase activity
+GO:0000278,mitotic cell cycle,annotation,go_term,mitotic cell cycle
+GO:0031594,neuromuscular junction,annotation,go_term,neuromuscular junction
+GO:0042734,presynaptic membrane,annotation,go_term,presynaptic membrane
+IPR009010,Aspartate decarboxylase-like domain superfamily,annotation,domain,Aspartate decarboxylase-like domain superfamily
+GO:0007032,endosome organization,annotation,go_term,endosome organization
+IPR037191,VPS9 domain superfamily,annotation,domain,VPS9 domain superfamily
+R-HSA-9708296,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",annotation,pathway,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis"
+IPR025852,"Ataxin 2, SM domain",annotation,domain,"Ataxin 2, SM domain"
+IPR045117,Ataxin2-like,annotation,domain,Ataxin2-like
+IPR011990,Tetratricopeptide-like helical domain superfamily,annotation,domain,Tetratricopeptide-like helical domain superfamily
+R-HSA-917729,Endosomal Sorting Complex Required For Transport (ESCRT),annotation,pathway,Endosomal Sorting Complex Required For Transport (ESCRT)
+GO:0006997,nucleus organization,annotation,go_term,nucleus organization
+R-HSA-5357956,TNFR1-induced NF-kappa-B signaling pathway,annotation,pathway,TNFR1-induced NF-kappa-B signaling pathway
+R-HSA-9033241,Peroxisomal protein import,annotation,pathway,Peroxisomal protein import
+R-HSA-380259,Loss of Nlp from mitotic centrosomes,annotation,pathway,Loss of Nlp from mitotic centrosomes
+GO:0106261,tRNA uridine(34) acetyltransferase activity,annotation,go_term,tRNA uridine(34) acetyltransferase activity
+IPR016181,Acyl-CoA N-acyltransferase,annotation,domain,Acyl-CoA N-acyltransferase
+IPR039661,ELP3/YhcC,annotation,domain,ELP3/YhcC
+R-HSA-2219530,Constitutive Signaling by Aberrant PI3K in Cancer,annotation,pathway,Constitutive Signaling by Aberrant PI3K in Cancer
+R-HSA-8847993,ERBB2 Activates PTK6 Signaling,annotation,pathway,ERBB2 Activates PTK6 Signaling
+GO:0004713,protein tyrosine kinase activity,annotation,go_term,protein tyrosine kinase activity
+GO:0004714,transmembrane receptor protein tyrosine kinase activity,annotation,go_term,transmembrane receptor protein tyrosine kinase activity
+IPR009030,Growth factor receptor cysteine-rich domain superfamily,annotation,domain,Growth factor receptor cysteine-rich domain superfamily
+IPR000577,"Carbohydrate kinase, FGGY",annotation,domain,"Carbohydrate kinase, FGGY"
+IPR006003,"FGGY carbohydrate kinase, pentulose kinase",annotation,domain,"FGGY carbohydrate kinase, pentulose kinase"
+GO:0043812,phosphatidylinositol-4-phosphate phosphatase activity,annotation,go_term,phosphatidylinositol-4-phosphate phosphatase activity
+R-HSA-9918481,Dengue Virus-Host Interactions,annotation,pathway,Dengue Virus-Host Interactions
+R-HSA-6803529,FGFR2 alternative splicing,annotation,pathway,FGFR2 alternative splicing
+GO:0003777,microtubule motor activity,annotation,go_term,microtubule motor activity
+IPR059182,"Kinesin heavy chain, C-terminal domain",annotation,domain,"Kinesin heavy chain, C-terminal domain"
+GO:0003281,ventricular septum development,annotation,go_term,ventricular septum development
+IPR003604,"Matrin/U1-C-like, C2H2-type zinc finger",annotation,domain,"Matrin/U1-C-like, C2H2-type zinc finger"
+GO:0030674,protein-macromolecule adaptor activity,annotation,go_term,protein-macromolecule adaptor activity
+R-HSA-9013973,TICAM1-dependent activation of IRF3/IRF7,annotation,pathway,TICAM1-dependent activation of IRF3/IRF7
+R-HSA-9824878,"Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7 ",annotation,pathway,"Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7 "
+R-HSA-4086400,PCP/CE pathway,annotation,pathway,PCP/CE pathway
+R-HSA-5663220,RHO GTPases Activate Formins,annotation,pathway,RHO GTPases Activate Formins
+GO:0006888,endoplasmic reticulum to Golgi vesicle-mediated transport,annotation,go_term,endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0009636,response to toxic substance,annotation,go_term,response to toxic substance
+IPR001619,Sec1-like protein,annotation,domain,Sec1-like protein
+IPR043127,"Sec1-like, domain 3a",annotation,domain,"Sec1-like, domain 3a"
+IPR045055,DNA2/NAM7-like helicase,annotation,domain,DNA2/NAM7-like helicase
+GO:1905897,regulation of response to endoplasmic reticulum stress,annotation,go_term,regulation of response to endoplasmic reticulum stress
+IPR001424,"Superoxide dismutase, copper/zinc binding domain",annotation,domain,"Superoxide dismutase, copper/zinc binding domain"
+IPR024134,Superoxide dismutase (Cu/Zn)/superoxide dismutase copper chaperone,annotation,domain,Superoxide dismutase (Cu/Zn)/superoxide dismutase copper chaperone
+R-HSA-1660661,Sphingolipid de novo biosynthesis,annotation,pathway,Sphingolipid de novo biosynthesis
+R-HSA-209560,NF-kB is activated and signals survival,annotation,pathway,NF-kB is activated and signals survival
+IPR043145,"Zinc finger, ZZ-type superfamily",annotation,domain,"Zinc finger, ZZ-type superfamily"
+R-HSA-75953,RNA Polymerase II Transcription Initiation,annotation,pathway,RNA Polymerase II Transcription Initiation
+GO:0005634,GO annotation (cellular component),annotation,go_term,GO annotation (cellular component)
+R-HSA-1606341,IRF3 mediated activation of type 1 IFN,annotation,pathway,IRF3 mediated activation of type 1 IFN
+R-HSA-3249367,STAT6-mediated induction of chemokines,annotation,pathway,STAT6-mediated induction of chemokines
+R-HSA-3270619,IRF3-mediated induction of type I IFN,annotation,pathway,IRF3-mediated induction of type I IFN
+R-HSA-9008059,Interleukin-37 signaling,annotation,pathway,Interleukin-37 signaling
+GO:0000381,"regulation of alternative mRNA splicing, via spliceosome",annotation,go_term,"regulation of alternative mRNA splicing, via spliceosome"
+GO:0015095,magnesium ion transmembrane transporter activity,annotation,go_term,magnesium ion transmembrane transporter activity
+R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane,annotation,pathway,Translocation of SLC2A4 (GLUT4) to the plasma membrane
+R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane,annotation,pathway,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
+R-HSA-5626467,RHO GTPases activate IQGAPs,annotation,pathway,RHO GTPases activate IQGAPs
+IPR014770,Munc13 homology 1,annotation,domain,Munc13 homology 1
+R-HSA-5678895,Defective CFTR causes cystic fibrosis,annotation,pathway,Defective CFTR causes cystic fibrosis
+R-HSA-9013149,RAC1 GTPase cycle,annotation,pathway,RAC1 GTPase cycle
+IPR009091,Regulator of chromosome condensation 1/beta-lactamase-inhibitor protein II,annotation,domain,Regulator of chromosome condensation 1/beta-lactamase-inhibitor protein II
+GO:0005154,epidermal growth factor receptor binding,annotation,go_term,epidermal growth factor receptor binding
+IPR047575,Sm domain,annotation,domain,Sm domain
+GO:0000082,G1/S transition of mitotic cell cycle,annotation,go_term,G1/S transition of mitotic cell cycle
+R-HSA-9615710,Late endosomal microautophagy,annotation,pathway,Late endosomal microautophagy
+GO:0005770,late endosome,annotation,go_term,late endosome
+IPR006181,"D-amino acid oxidase, conserved site",annotation,domain,"D-amino acid oxidase, conserved site"
+R-HSA-6807878,COPI-mediated anterograde transport,annotation,pathway,COPI-mediated anterograde transport
+GO:0002926,tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridinylation,annotation,go_term,tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridinylation
+R-HSA-6811558,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",annotation,pathway,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling"
+IPR032778,Growth factor receptor domain 4,annotation,domain,Growth factor receptor domain 4
+GO:0016773,"phosphotransferase activity, alcohol group as acceptor",annotation,go_term,"phosphotransferase activity, alcohol group as acceptor"
+GO:0005975,carbohydrate metabolic process,annotation,go_term,carbohydrate metabolic process
+GO:0048255,mRNA stabilization,annotation,go_term,mRNA stabilization
+GO:0003682,chromatin binding,annotation,go_term,chromatin binding
+GO:0007268,chemical synaptic transmission,annotation,go_term,chemical synaptic transmission
+GO:0005198,structural molecule activity,annotation,go_term,structural molecule activity
+IPR008271,"Serine/threonine-protein kinase, active site",annotation,domain,"Serine/threonine-protein kinase, active site"
+IPR051301,Optineurin/NF-kappa-B Essential Modulator,annotation,domain,Optineurin/NF-kappa-B Essential Modulator
+R-HSA-8980692,RHOA GTPase cycle,annotation,pathway,RHOA GTPase cycle
+IPR041677,"DNA2/NAM7 helicase, helicase domain",annotation,domain,"DNA2/NAM7 helicase, helicase domain"
+IPR047187,"Upf1-like, C-terminal helicase domain",annotation,domain,"Upf1-like, C-terminal helicase domain"
+R-HSA-9679191,Potential therapeutics for SARS,annotation,pathway,Potential therapeutics for SARS
+GO:0097305,response to alcohol,annotation,go_term,response to alcohol
+GO:0005783,endoplasmic reticulum,annotation,go_term,endoplasmic reticulum
+IPR006716,ERG2/sigma1 receptor-like,annotation,domain,ERG2/sigma1 receptor-like
+GO:0043410,positive regulation of MAPK cascade,annotation,go_term,positive regulation of MAPK cascade
+IPR050087,8-amino-7-oxononanoate synthase class-II,annotation,domain,8-amino-7-oxononanoate synthase class-II
+IPR049124,"TAR DNA-binding protein 43, C-terminal",annotation,domain,"TAR DNA-binding protein 43, C-terminal"
+R-HSA-3134975,Regulation of innate immune responses to cytosolic DNA,annotation,pathway,Regulation of innate immune responses to cytosolic DNA
+R-HSA-918233,TRAF3-dependent IRF activation pathway,annotation,pathway,TRAF3-dependent IRF activation pathway
+IPR003954,"RNA recognition motif domain, eukaryotic-type",annotation,domain,"RNA recognition motif domain, eukaryotic-type"
+IPR032415,"TRPM, tetramerisation domain",annotation,domain,"TRPM, tetramerisation domain"
+R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint,annotation,pathway,The role of GTSE1 in G2/M progression after G2 checkpoint
+R-HSA-9646399,Aggrephagy,annotation,pathway,Aggrephagy
+IPR016024,Armadillo-type fold,annotation,domain,Armadillo-type fold
+IPR029071,Ubiquitin-like domain superfamily,annotation,domain,Ubiquitin-like domain superfamily
+GO:0051966,"regulation of synaptic transmission, glutamatergic",annotation,go_term,"regulation of synaptic transmission, glutamatergic"
+IPR014772,"Mammalian uncoordinated homology 13, domain 2",annotation,domain,"Mammalian uncoordinated homology 13, domain 2"
+R-HSA-8866654,E3 ubiquitin ligases ubiquitinate target proteins,annotation,pathway,E3 ubiquitin ligases ubiquitinate target proteins
+R-HSA-9918487,Dengue Virus Genome Translation and Replication,annotation,pathway,Dengue Virus Genome Translation and Replication
+IPR005938,"AAA ATPase, CDC48 family",annotation,domain,"AAA ATPase, CDC48 family"
+GO:0043547,positive regulation of GTPase activity,annotation,go_term,positive regulation of GTPase activity
+GO:0003676,nucleic acid binding,annotation,go_term,nucleic acid binding
+IPR023411,"Ribonuclease A, active site",annotation,domain,"Ribonuclease A, active site"
+GO:0003723,RNA binding,annotation,go_term,RNA binding
+GO:0010564,regulation of cell cycle process,annotation,go_term,regulation of cell cycle process
+GO:0003674,molecular_function,annotation,go_term,molecular_function
+GO:0007007,inner mitochondrial membrane organization,annotation,go_term,inner mitochondrial membrane organization
+R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III,annotation,pathway,Sealing of the nuclear envelope (NE) by ESCRT-III
+R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition,annotation,pathway,Regulation of PLK1 Activity at G2/M Transition
+R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic,annotation,pathway,COPI-independent Golgi-to-ER retrograde traffic
+R-HSA-8854518,AURKA Activation by TPX2,annotation,pathway,AURKA Activation by TPX2
+GO:0098930,axonal transport,annotation,go_term,axonal transport
+GO:0030904,retromer complex,annotation,go_term,retromer complex
+GO:0006417,regulation of translation,annotation,go_term,regulation of translation
+GO:0030335,positive regulation of cell migration,annotation,go_term,positive regulation of cell migration
+IPR058240,Radical SAM superfamily,annotation,domain,Radical SAM superfamily
+R-HSA-9018519,Estrogen-dependent gene expression,annotation,pathway,Estrogen-dependent gene expression
+R-HSA-9665686,Signaling by ERBB2 TMD/JMD mutants,annotation,pathway,Signaling by ERBB2 TMD/JMD mutants
+IPR001245,"Serine-threonine/tyrosine-protein kinase, catalytic domain",annotation,domain,"Serine-threonine/tyrosine-protein kinase, catalytic domain"
+IPR008266,"Tyrosine-protein kinase, active site",annotation,domain,"Tyrosine-protein kinase, active site"
+GO:0019150,D-ribulokinase activity,annotation,go_term,D-ribulokinase activity
+GO:0034485,"phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity",annotation,go_term,"phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity"
+R-HSA-9692914,SARS-CoV-1-host interactions,annotation,pathway,SARS-CoV-1-host interactions
+IPR001752,Kinesin motor domain,annotation,domain,Kinesin motor domain
+IPR027640,Kinesin-like protein,annotation,domain,Kinesin-like protein
+IPR036055,LDL receptor-like superfamily,annotation,domain,LDL receptor-like superfamily
+GO:0003170,heart valve development,annotation,go_term,heart valve development
+IPR018039,"Intermediate filament protein, conserved site",annotation,domain,"Intermediate filament protein, conserved site"
+IPR034735,"NEMO, Zinc finger",annotation,domain,"NEMO, Zinc finger"
+IPR005454,"Profilin1/2/3, vertebrate",annotation,domain,"Profilin1/2/3, vertebrate"
+IPR027310,Profilin conserved site,annotation,domain,Profilin conserved site
+GO:0014069,postsynaptic density,annotation,go_term,postsynaptic density
+GO:0006665,sphingolipid metabolic process,annotation,go_term,sphingolipid metabolic process
+GO:0048255,GO annotation (biological process),annotation,go_term,GO annotation (biological process)
+IPR041105,"TAR DNA-binding protein 43, N-terminal",annotation,domain,"TAR DNA-binding protein 43, N-terminal"
+GO:0032728,positive regulation of interferon-beta production,annotation,go_term,positive regulation of interferon-beta production
+IPR048509,"Transmembrane protein 106, C-terminal domain",annotation,domain,"Transmembrane protein 106, C-terminal domain"
+IPR046349,C1-like domain superfamily,annotation,domain,C1-like domain superfamily
+R-HSA-110320,Translesion Synthesis by POLH,annotation,pathway,Translesion Synthesis by POLH
+IPR004201,"CDC48, domain 2",annotation,domain,"CDC48, domain 2"
+R-HSA-8876198,RAB GEFs exchange GTP for GDP on RABs,annotation,pathway,RAB GEFs exchange GTP for GDP on RABs
+IPR001427,Pancreatic ribonuclease,annotation,domain,Pancreatic ribonuclease
+IPR009818,PAM2 motif,annotation,domain,PAM2 motif
+IPR001810,F-box domain,annotation,domain,F-box domain
+IPR039361,Cyclin,annotation,domain,Cyclin
+GO:0001750,photoreceptor outer segment,annotation,go_term,photoreceptor outer segment
+GO:0005886,plasma membrane,annotation,go_term,plasma membrane
+R-HSA-5620971,Pyroptosis,annotation,pathway,Pyroptosis
+R-HSA-389661,Glyoxylate metabolism and glycine degradation,annotation,pathway,Glyoxylate metabolism and glycine degradation
+IPR006076,FAD dependent oxidoreductase,annotation,domain,FAD dependent oxidoreductase
+GO:0006357,regulation of transcription by RNA polymerase II,annotation,go_term,regulation of transcription by RNA polymerase II
+IPR006638,"Elp3/MiaA/NifB-like, radical SAM core domain",annotation,domain,"Elp3/MiaA/NifB-like, radical SAM core domain"
+IPR032432,"Radical SAM, C-terminal extension",annotation,domain,"Radical SAM, C-terminal extension"
+R-HSA-1253288,Downregulation of ERBB4 signaling,annotation,pathway,Downregulation of ERBB4 signaling
+IPR006212,Furin-like repeat,annotation,domain,Furin-like repeat
+IPR018485,"Carbohydrate kinase FGGY, C-terminal",annotation,domain,"Carbohydrate kinase FGGY, C-terminal"
+GO:0016791,phosphatase activity,annotation,go_term,phosphatase activity
+R-HSA-72203,Processing of Capped Intron-Containing Pre-mRNA,annotation,pathway,Processing of Capped Intron-Containing Pre-mRNA
+IPR036443,"Zinc finger, RanBP2-type superfamily",annotation,domain,"Zinc finger, RanBP2-type superfamily"
+GO:0048489,synaptic vesicle transport,annotation,go_term,synaptic vesicle transport
+IPR000859,CUB domain,annotation,domain,CUB domain
+IPR000690,"Matrin/U1-C, C2H2-type zinc finger",annotation,domain,"Matrin/U1-C, C2H2-type zinc finger"
+GO:0061564,axon development,annotation,go_term,axon development
+GO:0006890,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",annotation,go_term,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum"
+GO:0006892,post-Golgi vesicle-mediated transport,annotation,go_term,post-Golgi vesicle-mediated transport
+GO:1903573,negative regulation of response to endoplasmic reticulum stress,annotation,go_term,negative regulation of response to endoplasmic reticulum stress
+GO:0098794,postsynapse,annotation,go_term,postsynapse
+GO:1905037,autophagosome organization,annotation,go_term,autophagosome organization
+R-HSA-205043,NRIF signals cell death from the nucleus,annotation,pathway,NRIF signals cell death from the nucleus
+R-HSA-9755511,KEAP1-NFE2L2 pathway,annotation,pathway,KEAP1-NFE2L2 pathway
+IPR033741,"Sequestosome-1, UBA domain",annotation,domain,"Sequestosome-1, UBA domain"
+IPR052260,Autophagy Receptor and Signaling Regulator,annotation,domain,Autophagy Receptor and Signaling Regulator
+GO:0008143,poly(A) binding,annotation,go_term,poly(A) binding
+GO:0035925,mRNA 3'-UTR AU-rich region binding,annotation,go_term,mRNA 3'-UTR AU-rich region binding
+GO:0017022,myosin binding,annotation,go_term,myosin binding
+IPR041491,"TRPM, SLOG domain",annotation,domain,"TRPM, SLOG domain"
+R-HSA-68877,Mitotic Prometaphase,annotation,pathway,Mitotic Prometaphase
+R-HSA-9833482,PKR-mediated signaling,annotation,pathway,PKR-mediated signaling
+GO:0019899,enzyme binding,annotation,go_term,enzyme binding
+R-HSA-8856825,Cargo recognition for clathrin-mediated endocytosis,annotation,pathway,Cargo recognition for clathrin-mediated endocytosis
+IPR000535,Major sperm protein (MSP) domain,annotation,domain,Major sperm protein (MSP) domain
+IPR013783,Immunoglobulin-like fold,annotation,domain,Immunoglobulin-like fold
+R-HSA-9013407,RHOH GTPase cycle,annotation,pathway,RHOH GTPase cycle
+R-HSA-9931269,AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274),annotation,pathway,AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274)
+IPR001464,Annexin,annotation,domain,Annexin
+GO:0010826,negative regulation of centrosome duplication,annotation,go_term,negative regulation of centrosome duplication
+IPR036915,Cyclin-like superfamily,annotation,domain,Cyclin-like superfamily
+IPR001611,Leucine-rich repeat,annotation,domain,Leucine-rich repeat
+GO:0007006,mitochondrial membrane organization,annotation,go_term,mitochondrial membrane organization
+R-HSA-9694676,Translation of Replicase and Assembly of the Replication Transcription Complex,annotation,pathway,Translation of Replicase and Assembly of the Replication Transcription Complex
+GO:0032935,sterol sensor activity,annotation,go_term,sterol sensor activity
+GO:0016407,acetyltransferase activity,annotation,go_term,acetyltransferase activity
+IPR056591,"ELP3-like, N-terminal domain",annotation,domain,"ELP3-like, N-terminal domain"
+R-HSA-1236394,Signaling by ERBB4,annotation,pathway,Signaling by ERBB4
+R-HSA-1251985,Nuclear signaling by ERBB4,annotation,pathway,Nuclear signaling by ERBB4
+R-HSA-1963640,GRB2 events in ERBB2 signaling,annotation,pathway,GRB2 events in ERBB2 signaling
+IPR000719,Protein kinase domain,annotation,domain,Protein kinase domain
+IPR011009,Protein kinase-like domain superfamily,annotation,domain,Protein kinase-like domain superfamily
+IPR017441,"Protein kinase, ATP binding site",annotation,domain,"Protein kinase, ATP binding site"
+IPR018484,"Carbohydrate kinase FGGY, N-terminal",annotation,domain,"Carbohydrate kinase FGGY, N-terminal"
+GO:0004722,protein serine/threonine phosphatase activity,annotation,go_term,protein serine/threonine phosphatase activity
+IPR034516,"hnRNP A1/3, RNA recognition motif 2",annotation,domain,"hnRNP A1/3, RNA recognition motif 2"
+IPR041282,FYVE-type zinc finger,annotation,domain,FYVE-type zinc finger
+GO:0099184,structural constituent of postsynaptic intermediate filament cytoskeleton,annotation,go_term,structural constituent of postsynaptic intermediate filament cytoskeleton
+IPR002957,"Keratin, type I",annotation,domain,"Keratin, type I"
+IPR006821,"Intermediate filament head, DNA-binding domain",annotation,domain,"Intermediate filament head, DNA-binding domain"
+R-HSA-204005,COPII-mediated vesicle transport,annotation,pathway,COPII-mediated vesicle transport
+GO:0019905,syntaxin binding,annotation,go_term,syntaxin binding
+GO:0005789,endoplasmic reticulum membrane,annotation,go_term,endoplasmic reticulum membrane
+GO:0038023,signaling receptor activity,annotation,go_term,signaling receptor activity
+GO:0070207,protein homotrimerization,annotation,go_term,protein homotrimerization
+IPR036423,"Superoxide dismutase-like, copper/zinc binding domain superfamily",annotation,domain,"Superoxide dismutase-like, copper/zinc binding domain superfamily"
+IPR009060,UBA-like superfamily,annotation,domain,UBA-like superfamily
+GO:0003712,GO annotation (molecular function),annotation,go_term,GO annotation (molecular function)
+R-HSA-3295583,TRP channels,annotation,pathway,TRP channels
+GO:0005385,zinc ion transmembrane transporter activity,annotation,go_term,zinc ion transmembrane transporter activity
+IPR057366,TRPM-like domain,annotation,domain,TRPM-like domain
+R-HSA-5620920,Cargo trafficking to the periciliary membrane,annotation,pathway,Cargo trafficking to the periciliary membrane
+GO:0005874,microtubule,annotation,go_term,microtubule
+IPR008280,"Tubulin/FtsZ, C-terminal",annotation,domain,"Tubulin/FtsZ, C-terminal"
+IPR000008,C2 domain,annotation,domain,C2 domain
+IPR037302,"Protein Unc-13, C2B domain",annotation,domain,"Protein Unc-13, C2B domain"
+R-HSA-5362768,Hh mutants are degraded by ERAD,annotation,pathway,Hh mutants are degraded by ERAD
+IPR003960,"ATPase, AAA-type, conserved site",annotation,domain,"ATPase, AAA-type, conserved site"
+GO:0005085,guanyl-nucleotide exchange factor activity,annotation,go_term,guanyl-nucleotide exchange factor activity
+GO:0031267,small GTPase binding,annotation,go_term,small GTPase binding
+GO:0016197,endosomal transport,annotation,go_term,endosomal transport
+IPR003123,VPS9 domain,annotation,domain,VPS9 domain
+IPR036816,Ribonuclease A-like domain superfamily,annotation,domain,Ribonuclease A-like domain superfamily
+R-HSA-8951664,Neddylation,annotation,pathway,Neddylation
+IPR006671,"Cyclin, N-terminal",annotation,domain,"Cyclin, N-terminal"
+IPR013763,Cyclin-like domain,annotation,domain,Cyclin-like domain
+IPR048258,"Cyclins, cyclin-box",annotation,domain,"Cyclins, cyclin-box"
+GO:0032391,photoreceptor connecting cilium,annotation,go_term,photoreceptor connecting cilium
+GO:0036064,ciliary basal body,annotation,go_term,ciliary basal body
+R-HSA-1268020,Mitochondrial protein import,annotation,pathway,Mitochondrial protein import
+R-HSA-380320,Recruitment of NuMA to mitotic centrosomes,annotation,pathway,Recruitment of NuMA to mitotic centrosomes
+R-HSA-9725370,Signaling by ALK fusions and activated point mutants,annotation,pathway,Signaling by ALK fusions and activated point mutants
+GO:0016747,"acyltransferase activity, transferring groups other than amino-acyl groups",annotation,go_term,"acyltransferase activity, transferring groups other than amino-acyl groups"
+R-HSA-1250196,SHC1 events in ERBB2 signaling,annotation,pathway,SHC1 events in ERBB2 signaling
+R-HSA-8863795,Downregulation of ERBB2 signaling,annotation,pathway,Downregulation of ERBB2 signaling
+IPR006211,Furin-like cysteine-rich domain,annotation,domain,Furin-like cysteine-rich domain
+IPR050122,Receptor Tyrosine Kinase,annotation,domain,Receptor Tyrosine Kinase
+GO:0043813,"phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity",annotation,go_term,"phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity"
+GO:0003774,cytoskeletal motor activity,annotation,go_term,cytoskeletal motor activity
+GO:0007018,microtubule-based movement,annotation,go_term,microtubule-based movement
+IPR036961,Kinesin motor domain superfamily,annotation,domain,Kinesin motor domain superfamily
+IPR035914,"Spermadhesin, CUB domain superfamily",annotation,domain,"Spermadhesin, CUB domain superfamily"
+GO:0048471,perinuclear region of cytoplasm,annotation,go_term,perinuclear region of cytoplasm
+GO:0060271,cilium assembly,annotation,go_term,cilium assembly
+IPR050405,Intermediate filament structural protein,annotation,domain,Intermediate filament structural protein
+R-HSA-6804756,Regulation of TP53 Activity through Phosphorylation,annotation,pathway,Regulation of TP53 Activity through Phosphorylation
+GO:0006355,GO annotation (biological process),annotation,go_term,GO annotation (biological process)
+GO:0006816,calcium ion transport,annotation,go_term,calcium ion transport
+IPR017975,"Tubulin, conserved site",annotation,domain,"Tubulin, conserved site"
+GO:0005516,calmodulin binding,annotation,go_term,calmodulin binding
+GO:0005543,phospholipid binding,annotation,go_term,phospholipid binding
+GO:0017075,syntaxin-1 binding,annotation,go_term,syntaxin-1 binding
+IPR010439,MUN domain,annotation,domain,MUN domain
+R-HSA-9013106,RHOC GTPase cycle,annotation,pathway,RHOC GTPase cycle
+GO:0070971,endoplasmic reticulum exit site,annotation,go_term,endoplasmic reticulum exit site
+R-HSA-3371511,HSF1 activation,annotation,pathway,HSF1 activation
+IPR041569,"AAA ATPase, AAA+ lid domain",annotation,domain,"AAA ATPase, AAA+ lid domain"
+GO:0003677,DNA binding,annotation,go_term,DNA binding
+GO:0005509,calcium ion binding,annotation,go_term,calcium ion binding
+GO:0023026,MHC class II protein complex binding,annotation,go_term,MHC class II protein complex binding
+GO:0005737,cytoplasm,annotation,go_term,cytoplasm
+IPR005024,Snf7 family,annotation,domain,Snf7 family
+IPR036859,CAP Gly-rich domain superfamily,annotation,domain,CAP Gly-rich domain superfamily
+IPR000494,Receptor L-domain,annotation,domain,Receptor L-domain
+IPR049328,"Epidermal growth factor receptor-like, transmembrane-juxtamembrane segment",annotation,domain,"Epidermal growth factor receptor-like, transmembrane-juxtamembrane segment"
+IPR002013,SAC domain,annotation,domain,SAC domain
+IPR035979,RNA-binding domain superfamily,annotation,domain,RNA-binding domain superfamily
+GO:0005524,ATP binding,annotation,go_term,ATP binding
+GO:0031175,neuron projection development,annotation,go_term,neuron projection development
+IPR023415,"Low-density lipoprotein (LDL) receptor class A, conserved site",annotation,domain,"Low-density lipoprotein (LDL) receptor class A, conserved site"
+GO:0005200,structural constituent of cytoskeleton,annotation,go_term,structural constituent of cytoskeleton
+GO:0007409,axonogenesis,annotation,go_term,axonogenesis
+GO:0019896,axonal transport of mitochondrion,annotation,go_term,axonal transport of mitochondrion
+IPR039008,"Intermediate filament, rod domain",annotation,domain,"Intermediate filament, rod domain"
+GO:0004674,protein serine/threonine kinase activity,annotation,go_term,protein serine/threonine kinase activity
+GO:2000001,regulation of DNA damage checkpoint,annotation,go_term,regulation of DNA damage checkpoint
+R-HSA-114608,Platelet degranulation ,annotation,pathway,Platelet degranulation 
+IPR005455,"Profilin, eukaryotic type",annotation,domain,"Profilin, eukaryotic type"
+GO:0005798,Golgi-associated vesicle,annotation,go_term,Golgi-associated vesicle
+GO:0004985,G protein-coupled opioid receptor activity,annotation,go_term,G protein-coupled opioid receptor activity
+GO:0019371,cyclooxygenase pathway,annotation,go_term,cyclooxygenase pathway
+GO:1904751,positive regulation of protein localization to nucleolus,annotation,go_term,positive regulation of protein localization to nucleolus
+IPR018152,"Superoxide dismutase, copper/zinc, binding site",annotation,domain,"Superoxide dismutase, copper/zinc, binding site"
+IPR004839,"Aminotransferase, class I/classII, large domain",annotation,domain,"Aminotransferase, class I/classII, large domain"
+IPR015422,"Pyridoxal phosphate-dependent transferase, small domain",annotation,domain,"Pyridoxal phosphate-dependent transferase, small domain"
+R-HSA-9759194,Nuclear events mediated by NFE2L2,annotation,pathway,Nuclear events mediated by NFE2L2
+GO:0005730,GO annotation (cellular component),annotation,go_term,GO annotation (cellular component)
+GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,annotation,go_term,RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0006915,apoptotic process,annotation,go_term,apoptotic process
+R-HSA-2500257,Resolution of Sister Chromatid Cohesion,annotation,pathway,Resolution of Sister Chromatid Cohesion
+R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC,annotation,pathway,Prefoldin mediated transfer of substrate  to CCT/TriC
+R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors,annotation,pathway,Assembly and cell surface presentation of NMDA receptors
+GO:0005525,GTP binding,annotation,go_term,GTP binding
+R-HSA-9678110,Attachment and Entry,annotation,pathway,Attachment and Entry
+GO:0051260,protein homooligomerization,annotation,go_term,protein homooligomerization
+IPR000408,"Regulator of chromosome condensation, RCC1",annotation,domain,"Regulator of chromosome condensation, RCC1"
+IPR059093,"Alsin, helical array domain",annotation,domain,"Alsin, helical array domain"
+GO:0004519,endonuclease activity,annotation,go_term,endonuclease activity
+IPR008157,Annexin A11,annotation,domain,Annexin A11
+GO:1990756,ubiquitin-like ligase-substrate adaptor activity,annotation,go_term,ubiquitin-like ligase-substrate adaptor activity
+GO:0004843,cysteine-type deubiquitinase activity,annotation,go_term,cysteine-type deubiquitinase activity
+R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome,annotation,pathway,Loss of proteins required for interphase microtubule organization from the centrosome
+IPR059265,"Dynactin subunit 1, DUF8221",annotation,domain,"Dynactin subunit 1, DUF8221"
+GO:0003824,catalytic activity,annotation,go_term,catalytic activity
+IPR000182,GNAT domain,annotation,domain,GNAT domain
+IPR016245,"Tyrosine protein kinase, EGF/ERB/XmrK receptor",annotation,domain,"Tyrosine protein kinase, EGF/ERB/XmrK receptor"
+GO:0003697,single-stranded DNA binding,annotation,go_term,single-stranded DNA binding
+GO:0003727,single-stranded RNA binding,annotation,go_term,single-stranded RNA binding
+GO:0005041,low-density lipoprotein particle receptor activity,annotation,go_term,low-density lipoprotein particle receptor activity
+GO:0070840,dynein complex binding,annotation,go_term,dynein complex binding
+GO:0099170,postsynaptic modulation of chemical synaptic transmission,annotation,go_term,postsynaptic modulation of chemical synaptic transmission
+GO:0038003,G protein-coupled opioid receptor signaling pathway,annotation,go_term,G protein-coupled opioid receptor signaling pathway
+GO:0043523,regulation of neuron apoptotic process,annotation,go_term,regulation of neuron apoptotic process
+GO:0043524,negative regulation of neuron apoptotic process,annotation,go_term,negative regulation of neuron apoptotic process
+GO:1904313,response to methamphetamine hydrochloride,annotation,go_term,response to methamphetamine hydrochloride
+GO:0030170,pyridoxal phosphate binding,annotation,go_term,pyridoxal phosphate binding
+IPR015424,Pyridoxal phosphate-dependent transferase,annotation,domain,Pyridoxal phosphate-dependent transferase
+IPR053793,PB1-like domain,annotation,domain,PB1-like domain
+R-HSA-167162,RNA Polymerase II HIV Promoter Escape,annotation,pathway,RNA Polymerase II HIV Promoter Escape
+R-HSA-168928,DDX58/IFIH1-mediated induction of interferon-alpha/beta,annotation,pathway,DDX58/IFIH1-mediated induction of interferon-alpha/beta
+IPR041087,"TANK binding kinase 1, ubiquitin-like domain",annotation,domain,"TANK binding kinase 1, ubiquitin-like domain"
+IPR051180,Inhibitor of nuclear factor kappa-B kinase,annotation,domain,Inhibitor of nuclear factor kappa-B kinase
+GO:0015085,calcium ion transmembrane transporter activity,annotation,go_term,calcium ion transmembrane transporter activity
+R-HSA-190861,Gap junction assembly,annotation,pathway,Gap junction assembly
+GO:0000226,microtubule cytoskeleton organization,annotation,go_term,microtubule cytoskeleton organization
+GO:0005576,extracellular region,annotation,go_term,extracellular region
+GO:0031595,nuclear proteasome complex,annotation,go_term,nuclear proteasome complex
+GO:0061789,dense core granule priming,annotation,go_term,dense core granule priming
+GO:0043195,terminal bouton,annotation,go_term,terminal bouton
+IPR035892,C2 domain superfamily,annotation,domain,C2 domain superfamily
+R-HSA-418990,Adherens junctions interactions,annotation,pathway,Adherens junctions interactions
+GO:0001525,angiogenesis,annotation,go_term,angiogenesis
+GO:0003779,actin binding,annotation,go_term,actin binding
+IPR009604,LsmAD domain,annotation,domain,LsmAD domain
+IPR010920,LSM domain superfamily,annotation,domain,LSM domain superfamily
+IPR027819,Guanine nucleotide exchange factor C9orf72,annotation,domain,Guanine nucleotide exchange factor C9orf72
+IPR004367,"Cyclin, C-terminal domain",annotation,domain,"Cyclin, C-terminal domain"
+IPR055304,Coiled-coil-helix-coiled-coil-helix domain-containing protein 2/10-like,annotation,domain,Coiled-coil-helix-coiled-coil-helix domain-containing protein 2/10-like
+GO:0006914,autophagy,annotation,go_term,autophagy
+IPR022157,Dynein associated protein,annotation,domain,Dynein associated protein
+GO:0051536,iron-sulfur cluster binding,annotation,go_term,iron-sulfur cluster binding
+GO:0007417,central nervous system development,annotation,go_term,central nervous system development
+IPR007197,Radical SAM,annotation,domain,Radical SAM
+R-HSA-5673001,RAF/MAP kinase cascade,annotation,pathway,RAF/MAP kinase cascade
+R-HSA-9664565,Signaling by ERBB2 KD Mutants,annotation,pathway,Signaling by ERBB2 KD Mutants
+GO:0070050,neuron cellular homeostasis,annotation,go_term,neuron cellular homeostasis
+R-HSA-1660514,Synthesis of PIPs at the Golgi membrane,annotation,pathway,Synthesis of PIPs at the Golgi membrane
+IPR043573,Polyphosphoinositide phosphatase Fig4-like,annotation,domain,Polyphosphoinositide phosphatase Fig4-like
+GO:0003730,mRNA 3'-UTR binding,annotation,go_term,mRNA 3'-UTR binding
+GO:0016887,ATP hydrolysis activity,annotation,go_term,ATP hydrolysis activity
+GO:0016020,membrane,annotation,go_term,membrane
+IPR034930,"Matrin-3, RNA recognition motif 2",annotation,domain,"Matrin-3, RNA recognition motif 2"
+GO:0036464,cytoplasmic ribonucleoprotein granule,annotation,go_term,cytoplasmic ribonucleoprotein granule
+IPR051745,Intracellular Transport Effector,annotation,domain,Intracellular Transport Effector
+GO:0071889,14-3-3 protein binding,annotation,go_term,14-3-3 protein binding
+GO:0000774,adenyl-nucleotide exchange factor activity,annotation,go_term,adenyl-nucleotide exchange factor activity
+IPR048278,Profilin,annotation,domain,Profilin
+IPR027482,"Sec1-like, domain 2",annotation,domain,"Sec1-like, domain 2"
+GO:0001147,transcription termination site sequence-specific DNA binding,annotation,go_term,transcription termination site sequence-specific DNA binding
+GO:0003678,DNA helicase activity,annotation,go_term,DNA helicase activity
+IPR041679,"DNA2/NAM7 helicase-like, C-terminal",annotation,domain,"DNA2/NAM7 helicase-like, C-terminal"
+GO:0001516,prostaglandin biosynthetic process,annotation,go_term,prostaglandin biosynthetic process
+R-HSA-3299685,Detoxification of Reactive Oxygen Species,annotation,pathway,Detoxification of Reactive Oxygen Species
+IPR028103,Spatacsin,annotation,domain,Spatacsin
+IPR000270,PB1 domain,annotation,domain,PB1 domain
+R-HSA-76042,RNA Polymerase II Transcription Initiation And Promoter Clearance,annotation,pathway,RNA Polymerase II Transcription Initiation And Promoter Clearance
+GO:0032418,lysosome localization,annotation,go_term,lysosome localization
+IPR048511,"Transmembrane protein 106, N-terminal",annotation,domain,"Transmembrane protein 106, N-terminal"
+GO:0007017,microtubule-based process,annotation,go_term,microtubule-based process
+IPR037103,"Tubulin/FtsZ-like, C-terminal domain",annotation,domain,"Tubulin/FtsZ-like, C-terminal domain"
+IPR006636,Heat shock chaperonin-binding,annotation,domain,Heat shock chaperonin-binding
+R-HSA-9013408,RHOG GTPase cycle,annotation,pathway,RHOG GTPase cycle
+IPR008962,PapD-like superfamily,annotation,domain,PapD-like superfamily
+IPR016763,Vesicle-associated membrane-protein-associated protein,annotation,domain,Vesicle-associated membrane-protein-associated protein

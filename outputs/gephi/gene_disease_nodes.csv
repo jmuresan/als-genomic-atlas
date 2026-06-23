@@ -1,0 +1,111 @@
+Id,Label,node_type,als_seed,ensembl_id,uniprot_id,protein_description,clinvar_row_count
+ALS2,ALS2,gene,1,ENSG00000003393,Q96Q42,Alsin,20
+ANG,ANG,gene,1,ENSG00000214274,P03950,Angiogenin,20
+ANXA11,ANXA11,gene,1,ENSG00000122359,P50995,Annexin A11,20
+ATXN2,ATXN2,gene,1,ENSG00000204842,Q99700,Ataxin-2,3
+C9orf72,C9orf72,gene,1,ENSG00000147894,Q96LT7,Guanine nucleotide exchange factor C9orf72,20
+CCNF,CCNF,gene,1,ENSG00000162063,P41002,Cyclin-F,15
+CFAP410,CFAP410,gene,1,ENSG00000160226,O43822,Cilia- and flagella-associated protein 410,1
+CHCHD10,CHCHD10,gene,1,ENSG00000250479,Q8WYQ3,"Coiled-coil-helix-coiled-coil-helix domain-containing protein 10, mitochondrial",20
+CHMP2B,CHMP2B,gene,1,ENSG00000083937,Q9UQN3,Charged multivesicular body protein 2b,20
+CYLD,CYLD,gene,1,ENSG00000083799,Q9NQC7,Ubiquitin carboxyl-terminal hydrolase CYLD,20
+DAO,DAO,gene,1,ENSG00000110887,P14920,D-amino-acid oxidase,8
+DCTN1,DCTN1,gene,1,ENSG00000204843,Q14203,Dynactin subunit 1,20
+ELP3,ELP3,gene,1,ENSG00000134014,Q9H9T3,Elongator complex protein 3,1
+ERBB4,ERBB4,gene,1,ENSG00000178568,Q15303,Receptor tyrosine-protein kinase erbB-4,20
+FIG4,FIG4,gene,1,ENSG00000112367,Q92562,Polyphosphoinositide phosphatase,20
+FUS,FUS,gene,1,ENSG00000089280,P35637,RNA-binding protein FUS,20
+HNRNPA1,HNRNPA1,gene,1,ENSG00000135486,P09651,Heterogeneous nuclear ribonucleoprotein A1,10
+KIF5A,KIF5A,gene,1,ENSG00000155980,Q12840,Kinesin heavy chain isoform 5A,20
+LRP12,LRP12,gene,1,ENSG00000147650,Q9Y561,Low-density lipoprotein receptor-related protein 12,3
+MATR3,MATR3,gene,1,ENSG00000015479,P43243,Matrin-3,20
+MOBP,MOBP,gene,1,ENSG00000168314,Q13875,Myelin-associated oligodendrocyte basic protein,1
+NEFH,NEFH,gene,1,ENSG00000100285,P12036,Neurofilament heavy polypeptide,20
+NEK1,NEK1,gene,1,ENSG00000137601,Q96PY6,Serine/threonine-protein kinase Nek1,20
+OPTN,OPTN,gene,1,ENSG00000123240,Q96CV9,Optineurin,20
+PFN1,PFN1,gene,1,ENSG00000108518,P07737,Profilin-1,13
+PRPH,PRPH,gene,1,ENSG00000135406,P41219,Peripherin,18
+SCFD1,SCFD1,gene,1,ENSG00000092108,Q8WVM8,Sec1 family domain-containing protein 1,2
+SETX,SETX,gene,1,ENSG00000107290,Q7Z333,Helicase senataxin,20
+SIGMAR1,SIGMAR1,gene,1,ENSG00000147955,Q99720,Sigma non-opioid intracellular receptor 1,20
+SOD1,SOD1,gene,1,ENSG00000142168,P00441,Superoxide dismutase [Cu-Zn],20
+SPG11,SPG11,gene,1,ENSG00000104133,Q96JI7,Spatacsin,20
+SPTLC1,SPTLC1,gene,1,ENSG00000090054,O15269,Serine palmitoyltransferase 1,19
+SQSTM1,SQSTM1,gene,1,ENSG00000161011,Q13501,Sequestosome-1,20
+TAF15,TAF15,gene,1,ENSG00000270647,Q92804,TATA-binding protein-associated factor 2N,13
+TARDBP,TARDBP,gene,1,ENSG00000120948,Q13148,TAR DNA-binding protein 43,20
+TBK1,TBK1,gene,1,ENSG00000183735,Q9UHD2,Serine/threonine-protein kinase TBK1,20
+TIA1,TIA1,gene,1,ENSG00000116001,P31483,Cytotoxic granule associated RNA binding protein TIA1,10
+TRPM7,TRPM7,gene,1,ENSG00000092439,Q96QT4,Transient receptor potential cation channel subfamily M member 7,20
+TUBA4A,TUBA4A,gene,1,ENSG00000127824,P68366,Tubulin alpha-4A chain,20
+UBQLN2,UBQLN2,gene,1,ENSG00000188021,Q9UHD9,Ubiquilin-2,20
+UNC13A,UNC13A,gene,1,ENSG00000130477,Q9UPW8,Protein unc-13 homolog A,6
+VAPB,VAPB,gene,1,ENSG00000124164,O95292,Vesicle-associated membrane protein-associated protein B/C,20
+VCP,VCP,gene,1,ENSG00000165280,P55072,Transitional endoplasmic reticulum ATPase,20
+FGGY,FGGY,gene,1,ENSG00000172456,Q96C11,FGGY carbohydrate kinase domain-containing protein,0
+TMEM106B,TMEM106B,gene,1,ENSG00000106460,Q9NUM4,Transmembrane protein 106B,0
+UBQLN4,UBQLN4,gene,1,ENSG00000160803,Q9NRR5,Ubiquilin-4,0
+DISEASE:Inclusion body myositis,Inclusion body myositis,disease,0,,,,
+DISEASE:DAO-related disorder,DAO-related disorder,disease,0,,,,
+"DISEASE:Myoclonus, intractable, neonatal","Myoclonus, intractable, neonatal",disease,0,,,,
+"DISEASE:Amyotrophic lateral sclerosis, susceptibility to, 25","Amyotrophic lateral sclerosis, susceptibility to, 25",disease,0,,,,
+DISEASE:TAF15-related disorder,TAF15-related disorder,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis 26 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 26 with or without frontotemporal dementia,disease,0,,,,
+DISEASE:Hereditary spastic paraplegia 11,Hereditary spastic paraplegia 11,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 9,Amyotrophic lateral sclerosis type 9,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 18,Amyotrophic lateral sclerosis type 18,disease,0,,,,
+"DISEASE:Amyotrophic lateral sclerosis, susceptibility to","Amyotrophic lateral sclerosis, susceptibility to",disease,0,,,,
+DISEASE:Infantile-onset ascending hereditary spastic paralysis,Infantile-onset ascending hereditary spastic paralysis,disease,0,,,,
+DISEASE:PFN1-related disorder,PFN1-related disorder,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 23,Amyotrophic lateral sclerosis type 23,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 22,Amyotrophic lateral sclerosis type 22,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 8,Amyotrophic lateral sclerosis type 8,disease,0,,,,
+DISEASE:Frontotemporal dementia and/or amyotrophic lateral sclerosis 5,Frontotemporal dementia and/or amyotrophic lateral sclerosis 5,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 6,Amyotrophic lateral sclerosis type 6,disease,0,,,,
+"DISEASE:Amyotrophic lateral sclerosis, susceptibility to, 24","Amyotrophic lateral sclerosis, susceptibility to, 24",disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 15,Amyotrophic lateral sclerosis type 15,disease,0,,,,
+DISEASE:Short-rib thoracic dysplasia 6 with or without polydactyly,Short-rib thoracic dysplasia 6 with or without polydactyly,disease,0,,,,
+DISEASE:Welander distal myopathy,Welander distal myopathy,disease,0,,,,
+DISEASE:Oculopharyngodistal myopathy 1,Oculopharyngodistal myopathy 1,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 5,Amyotrophic lateral sclerosis type 5,disease,0,,,,
+"DISEASE:FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED","FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, TARDBP-RELATED",disease,0,,,,
+DISEASE:Frontotemporal dementia and/or amyotrophic lateral sclerosis 4,Frontotemporal dementia and/or amyotrophic lateral sclerosis 4,disease,0,,,,
+DISEASE:Ptosis,Ptosis,disease,0,,,,
+DISEASE:Frontotemporal dementia and/or amyotrophic lateral sclerosis 2,Frontotemporal dementia and/or amyotrophic lateral sclerosis 2,disease,0,,,,
+DISEASE:Familial cylindromatosis,Familial cylindromatosis,disease,0,,,,
+DISEASE:Charcot-Marie-Tooth disease type 4J,Charcot-Marie-Tooth disease type 4J,disease,0,,,,
+"DISEASE:Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 2","Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 2",disease,0,,,,
+DISEASE:Autosomal recessive distal spinal muscular atrophy 2,Autosomal recessive distal spinal muscular atrophy 2,disease,0,,,,
+"DISEASE:Neuropathy, hereditary sensory and autonomic, type 1A","Neuropathy, hereditary sensory and autonomic, type 1A",disease,0,,,,
+"DISEASE:Adult-onset proximal spinal muscular atrophy, autosomal dominant","Adult-onset proximal spinal muscular atrophy, autosomal dominant",disease,0,,,,
+DISEASE:Frontotemporal dementia and/or amyotrophic lateral sclerosis 7,Frontotemporal dementia and/or amyotrophic lateral sclerosis 7,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 21,Amyotrophic lateral sclerosis type 21,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 12,Amyotrophic lateral sclerosis type 12,disease,0,,,,
+DISEASE:Hereditary sensory and autonomic neuropathy type 1,Hereditary sensory and autonomic neuropathy type 1,disease,0,,,,
+DISEASE:not specified,not specified,disease,0,,,,
+DISEASE:NEFH-related disorder,NEFH-related disorder,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 16,Amyotrophic lateral sclerosis type 16,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis-parkinsonism-dementia complex,Amyotrophic lateral sclerosis-parkinsonism-dementia complex,disease,0,,,,
+DISEASE:UNC13A-related disorder,UNC13A-related disorder,disease,0,,,,
+DISEASE:Frontotemporal dementia and/or amyotrophic lateral sclerosis 1,Frontotemporal dementia and/or amyotrophic lateral sclerosis 1,disease,0,,,,
+DISEASE:not provided,not provided,disease,0,,,,
+DISEASE:Inclusion body myopathy with Paget disease of bone and frontotemporal dementia,Inclusion body myopathy with Paget disease of bone and frontotemporal dementia,disease,0,,,,
+DISEASE:Charcot-Marie-Tooth disease axonal type 2CC,Charcot-Marie-Tooth disease axonal type 2CC,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 10,Amyotrophic lateral sclerosis type 10,disease,0,,,,
+"DISEASE:Amyotrophic lateral sclerosis, susceptibility to, 13","Amyotrophic lateral sclerosis, susceptibility to, 13",disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,disease,0,,,,
+DISEASE:Frontotemporal dementia and/or amyotrophic lateral sclerosis 8,Frontotemporal dementia and/or amyotrophic lateral sclerosis 8,disease,0,,,,
+DISEASE:Inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia 3,Inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia 3,disease,0,,,,
+DISEASE:Mohr syndrome,Mohr syndrome,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 1,Amyotrophic lateral sclerosis type 1,disease,0,,,,
+DISEASE:Charcot-Marie-Tooth disease type 4,Charcot-Marie-Tooth disease type 4,disease,0,,,,
+"DISEASE:Tremor, hereditary essential, 4","Tremor, hereditary essential, 4",disease,0,,,,
+DISEASE:Spastic paraplegia,Spastic paraplegia,disease,0,,,,
+DISEASE:Primary open angle glaucoma,Primary open angle glaucoma,disease,0,,,,
+"DISEASE:Amyotrophic lateral sclerosis 27, juvenile","Amyotrophic lateral sclerosis 27, juvenile",disease,0,,,,
+DISEASE:ANXA11-related disorder,ANXA11-related disorder,disease,0,,,,
+DISEASE:Lower motor neuron syndrome with late-adult onset,Lower motor neuron syndrome with late-adult onset,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 19,Amyotrophic lateral sclerosis type 19,disease,0,,,,
+DISEASE:Amyotrophic lateral sclerosis type 11,Amyotrophic lateral sclerosis type 11,disease,0,,,,
+DISEASE:Inborn genetic diseases,Inborn genetic diseases,disease,0,,,,
+DISEASE:Proximal lower limb amyotrophy,Proximal lower limb amyotrophy,disease,0,,,,

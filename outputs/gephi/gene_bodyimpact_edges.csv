@@ -1,0 +1,2377 @@
+Source,Target,Weight
+ALS2,Adipose Subcutaneous,10.1134
+ALS2,Adipose Visceral Omentum,8.58557
+ALS2,Adrenal Gland,5.5386
+ALS2,Artery Aorta,10.2901
+ALS2,Artery Coronary,9.76554
+ALS2,Artery Tibial,9.2319
+ALS2,Bladder,9.54999
+ALS2,Brain Amygdala,4.44524
+ALS2,Brain Anterior cingulate cortex BA24,6.31968
+ALS2,Brain Caudate basal ganglia,5.53815
+ALS2,Brain Cerebellar Hemisphere,126.825
+ALS2,Brain Cerebellum,115.555
+ALS2,Brain Cortex,11.3145
+ALS2,Brain Frontal Cortex BA9,11.3338
+ALS2,Brain Hippocampus,5.69022
+ALS2,Brain Hypothalamus,6.48496
+ALS2,Brain Nucleus accumbens basal ganglia,6.1773
+ALS2,Brain Putamen basal ganglia,4.67472
+ALS2,Brain Spinal cord cervical c-1,7.584860000000001
+ALS2,Brain Substantia nigra,5.1866
+ALS2,Breast Mammary Tissue,9.43011
+ALS2,Cells Cultured fibroblasts,15.9472
+ALS2,Cells EBV-transformed lymphocytes,6.08345
+ALS2,Cervix Ectocervix,11.1516
+ALS2,Cervix Endocervix,12.0242
+ALS2,Colon Sigmoid,9.2739
+ALS2,Colon Transverse,5.8756
+ALS2,Esophagus Gastroesophageal Junction,8.76385
+ALS2,Esophagus Mucosa,5.22313
+ALS2,Esophagus Muscularis,8.600769999999999
+ALS2,Fallopian Tube,11.4029
+ALS2,Heart Atrial Appendage,8.16582
+ALS2,Heart Left Ventricle,7.13766
+ALS2,Kidney Cortex,5.5909699999999996
+ALS2,Kidney Medulla,7.83385
+ALS2,Liver,7.19753
+ALS2,Lung,11.0118
+ALS2,Minor Salivary Gland,6.77129
+ALS2,Muscle Skeletal,8.13682
+ALS2,Nerve Tibial,18.7931
+ALS2,Ovary,10.3013
+ALS2,Pancreas,2.93055
+ALS2,Pituitary,14.899000000000001
+ALS2,Prostate,9.0906
+ALS2,Skin Not Sun Exposed Suprapubic,8.32804
+ALS2,Skin Sun Exposed Lower leg,9.27988
+ALS2,Small Intestine Terminal Ileum,8.27079
+ALS2,Spleen,6.91621
+ALS2,Stomach,6.47867
+ALS2,Testis,9.2558
+ALS2,Thyroid,11.3803
+ALS2,Uterus,12.4331
+ALS2,Vagina,8.75653
+ALS2,Whole Blood,0.9914040000000001
+ANG,Adipose Subcutaneous,47.2942
+ANG,Adipose Visceral Omentum,44.9404
+ANG,Adrenal Gland,2.90718
+ANG,Artery Aorta,53.4138
+ANG,Artery Coronary,40.8274
+ANG,Artery Tibial,46.325
+ANG,Bladder,38.181
+ANG,Brain Amygdala,1.36175
+ANG,Brain Anterior cingulate cortex BA24,1.33256
+ANG,Brain Caudate basal ganglia,1.5046700000000002
+ANG,Brain Cerebellar Hemisphere,1.1074899999999999
+ANG,Brain Cerebellum,1.40654
+ANG,Brain Cortex,1.20688
+ANG,Brain Frontal Cortex BA9,1.04609
+ANG,Brain Hippocampus,1.59277
+ANG,Brain Hypothalamus,1.58907
+ANG,Brain Nucleus accumbens basal ganglia,1.6057
+ANG,Brain Putamen basal ganglia,1.3334
+ANG,Brain Spinal cord cervical c-1,3.2166200000000003
+ANG,Brain Substantia nigra,1.8766
+ANG,Breast Mammary Tissue,50.9571
+ANG,Cells Cultured fibroblasts,15.3097
+ANG,Cells EBV-transformed lymphocytes,2.8768700000000003
+ANG,Cervix Ectocervix,59.3022
+ANG,Cervix Endocervix,61.8642
+ANG,Colon Sigmoid,30.0579
+ANG,Colon Transverse,33.4381
+ANG,Esophagus Gastroesophageal Junction,32.9996
+ANG,Esophagus Mucosa,9.69368
+ANG,Esophagus Muscularis,26.7647
+ANG,Fallopian Tube,56.1944
+ANG,Heart Atrial Appendage,10.581
+ANG,Heart Left Ventricle,3.45497
+ANG,Kidney Cortex,10.5742
+ANG,Kidney Medulla,7.72279
+ANG,Liver,726.803
+ANG,Lung,28.623
+ANG,Minor Salivary Gland,53.1289
+ANG,Muscle Skeletal,2.98253
+ANG,Nerve Tibial,48.2723
+ANG,Ovary,91.0703
+ANG,Pancreas,14.6331
+ANG,Pituitary,6.78857
+ANG,Prostate,46.2147
+ANG,Skin Not Sun Exposed Suprapubic,31.916999999999998
+ANG,Skin Sun Exposed Lower leg,34.1244
+ANG,Small Intestine Terminal Ileum,28.6714
+ANG,Spleen,8.36468
+ANG,Stomach,42.7231
+ANG,Testis,17.6262
+ANG,Thyroid,15.1833
+ANG,Uterus,51.5241
+ANG,Vagina,46.6646
+ANG,Whole Blood,6.4141
+ANXA11,Adipose Subcutaneous,103.601
+ANXA11,Adipose Visceral Omentum,66.2591
+ANXA11,Adrenal Gland,16.2904
+ANXA11,Artery Aorta,126.414
+ANXA11,Artery Coronary,99.3536
+ANXA11,Artery Tibial,113.417
+ANXA11,Bladder,76.5129
+ANXA11,Brain Amygdala,15.7792
+ANXA11,Brain Anterior cingulate cortex BA24,21.708000000000002
+ANXA11,Brain Caudate basal ganglia,19.9625
+ANXA11,Brain Cerebellar Hemisphere,25.9798
+ANXA11,Brain Cerebellum,24.4097
+ANXA11,Brain Cortex,29.4999
+ANXA11,Brain Frontal Cortex BA9,30.665
+ANXA11,Brain Hippocampus,13.7183
+ANXA11,Brain Hypothalamus,6.593030000000001
+ANXA11,Brain Nucleus accumbens basal ganglia,21.043000000000003
+ANXA11,Brain Putamen basal ganglia,14.055
+ANXA11,Brain Spinal cord cervical c-1,10.8245
+ANXA11,Brain Substantia nigra,8.686860000000001
+ANXA11,Breast Mammary Tissue,74.4464
+ANXA11,Cells Cultured fibroblasts,76.5178
+ANXA11,Cells EBV-transformed lymphocytes,71.8725
+ANXA11,Cervix Ectocervix,72.509
+ANXA11,Cervix Endocervix,66.2615
+ANXA11,Colon Sigmoid,62.7496
+ANXA11,Colon Transverse,64.3444
+ANXA11,Esophagus Gastroesophageal Junction,73.9977
+ANXA11,Esophagus Mucosa,104.421
+ANXA11,Esophagus Muscularis,74.5797
+ANXA11,Fallopian Tube,68.3936
+ANXA11,Heart Atrial Appendage,65.9137
+ANXA11,Heart Left Ventricle,62.2579
+ANXA11,Kidney Cortex,47.6067
+ANXA11,Kidney Medulla,71.67699999999999
+ANXA11,Liver,12.1989
+ANXA11,Lung,84.441
+ANXA11,Minor Salivary Gland,55.7321
+ANXA11,Muscle Skeletal,48.0646
+ANXA11,Nerve Tibial,69.1235
+ANXA11,Ovary,59.0285
+ANXA11,Pancreas,24.0902
+ANXA11,Pituitary,21.0549
+ANXA11,Prostate,66.7959
+ANXA11,Skin Not Sun Exposed Suprapubic,43.7061
+ANXA11,Skin Sun Exposed Lower leg,52.198
+ANXA11,Small Intestine Terminal Ileum,68.2412
+ANXA11,Spleen,52.3466
+ANXA11,Stomach,58.0711
+ANXA11,Testis,18.4901
+ANXA11,Thyroid,56.9878
+ANXA11,Uterus,64.5467
+ANXA11,Vagina,79.2602
+ANXA11,Whole Blood,92.0807
+ATXN2,Adipose Subcutaneous,20.9266
+ATXN2,Adipose Visceral Omentum,17.4722
+ATXN2,Adrenal Gland,19.2362
+ATXN2,Artery Aorta,22.0792
+ATXN2,Artery Coronary,22.4908
+ATXN2,Artery Tibial,26.8009
+ATXN2,Bladder,24.1303
+ATXN2,Brain Amygdala,10.001
+ATXN2,Brain Anterior cingulate cortex BA24,12.3008
+ATXN2,Brain Caudate basal ganglia,11.7204
+ATXN2,Brain Cerebellar Hemisphere,29.5922
+ATXN2,Brain Cerebellum,33.0979
+ATXN2,Brain Cortex,17.8165
+ATXN2,Brain Frontal Cortex BA9,17.0481
+ATXN2,Brain Hippocampus,10.8997
+ATXN2,Brain Hypothalamus,14.5234
+ATXN2,Brain Nucleus accumbens basal ganglia,12.5554
+ATXN2,Brain Putamen basal ganglia,9.34056
+ATXN2,Brain Spinal cord cervical c-1,18.4664
+ATXN2,Brain Substantia nigra,12.3474
+ATXN2,Breast Mammary Tissue,18.2866
+ATXN2,Cells Cultured fibroblasts,22.601999999999997
+ATXN2,Cells EBV-transformed lymphocytes,15.8544
+ATXN2,Cervix Ectocervix,28.2621
+ATXN2,Cervix Endocervix,30.3729
+ATXN2,Colon Sigmoid,24.6884
+ATXN2,Colon Transverse,15.2159
+ATXN2,Esophagus Gastroesophageal Junction,21.1918
+ATXN2,Esophagus Mucosa,11.4874
+ATXN2,Esophagus Muscularis,21.3003
+ATXN2,Fallopian Tube,29.2651
+ATXN2,Heart Atrial Appendage,11.0027
+ATXN2,Heart Left Ventricle,8.20554
+ATXN2,Kidney Cortex,10.2799
+ATXN2,Kidney Medulla,12.8749
+ATXN2,Liver,8.94925
+ATXN2,Lung,24.2633
+ATXN2,Minor Salivary Gland,14.3377
+ATXN2,Muscle Skeletal,9.68393
+ATXN2,Nerve Tibial,33.7462
+ATXN2,Ovary,36.2383
+ATXN2,Pancreas,5.36489
+ATXN2,Pituitary,26.7272
+ATXN2,Prostate,25.6947
+ATXN2,Skin Not Sun Exposed Suprapubic,12.4155
+ATXN2,Skin Sun Exposed Lower leg,14.4731
+ATXN2,Small Intestine Terminal Ileum,13.5499
+ATXN2,Spleen,14.5293
+ATXN2,Stomach,11.7011
+ATXN2,Testis,29.8345
+ATXN2,Thyroid,23.7561
+ATXN2,Uterus,30.5382
+ATXN2,Vagina,23.8771
+ATXN2,Whole Blood,4.04825
+C9orf72,Adipose Subcutaneous,13.135
+C9orf72,Adipose Visceral Omentum,13.1242
+C9orf72,Adrenal Gland,6.5781600000000005
+C9orf72,Artery Aorta,12.5193
+C9orf72,Artery Coronary,11.8563
+C9orf72,Artery Tibial,14.4173
+C9orf72,Bladder,11.8444
+C9orf72,Brain Amygdala,4.809819999999999
+C9orf72,Brain Anterior cingulate cortex BA24,6.45563
+C9orf72,Brain Caudate basal ganglia,5.53444
+C9orf72,Brain Cerebellar Hemisphere,49.1738
+C9orf72,Brain Cerebellum,47.383
+C9orf72,Brain Cortex,8.20899
+C9orf72,Brain Frontal Cortex BA9,10.5689
+C9orf72,Brain Hippocampus,5.62478
+C9orf72,Brain Hypothalamus,11.3207
+C9orf72,Brain Nucleus accumbens basal ganglia,6.30651
+C9orf72,Brain Putamen basal ganglia,4.13515
+C9orf72,Brain Spinal cord cervical c-1,11.7024
+C9orf72,Brain Substantia nigra,7.21612
+C9orf72,Breast Mammary Tissue,13.0285
+C9orf72,Cells Cultured fibroblasts,4.57104
+C9orf72,Cells EBV-transformed lymphocytes,6.1424
+C9orf72,Cervix Ectocervix,13.2353
+C9orf72,Cervix Endocervix,20.81
+C9orf72,Colon Sigmoid,12.0527
+C9orf72,Colon Transverse,7.94377
+C9orf72,Esophagus Gastroesophageal Junction,10.6035
+C9orf72,Esophagus Mucosa,7.097239999999999
+C9orf72,Esophagus Muscularis,9.81731
+C9orf72,Fallopian Tube,27.8938
+C9orf72,Heart Atrial Appendage,5.85259
+C9orf72,Heart Left Ventricle,3.50273
+C9orf72,Kidney Cortex,3.3491
+C9orf72,Kidney Medulla,5.81196
+C9orf72,Liver,3.7307900000000003
+C9orf72,Lung,28.2207
+C9orf72,Minor Salivary Gland,7.4336
+C9orf72,Muscle Skeletal,6.0789800000000005
+C9orf72,Nerve Tibial,15.4079
+C9orf72,Ovary,35.3974
+C9orf72,Pancreas,3.9668099999999997
+C9orf72,Pituitary,20.2531
+C9orf72,Prostate,13.5535
+C9orf72,Skin Not Sun Exposed Suprapubic,10.8194
+C9orf72,Skin Sun Exposed Lower leg,10.5028
+C9orf72,Small Intestine Terminal Ileum,10.5509
+C9orf72,Spleen,21.9506
+C9orf72,Stomach,7.23008
+C9orf72,Testis,13.8928
+C9orf72,Thyroid,22.5634
+C9orf72,Uterus,17.6473
+C9orf72,Vagina,12.7158
+C9orf72,Whole Blood,18.0283
+CCNF,Adipose Subcutaneous,1.6041
+CCNF,Adipose Visceral Omentum,1.66668
+CCNF,Adrenal Gland,1.48046
+CCNF,Artery Aorta,0.955382
+CCNF,Artery Coronary,1.15792
+CCNF,Artery Tibial,0.6299100000000001
+CCNF,Bladder,2.45245
+CCNF,Brain Amygdala,1.82682
+CCNF,Brain Anterior cingulate cortex BA24,2.4698700000000002
+CCNF,Brain Caudate basal ganglia,1.52797
+CCNF,Brain Cerebellar Hemisphere,10.376
+CCNF,Brain Cerebellum,10.5801
+CCNF,Brain Cortex,4.02645
+CCNF,Brain Frontal Cortex BA9,3.8655
+CCNF,Brain Hippocampus,1.7027299999999999
+CCNF,Brain Hypothalamus,2.7387799999999998
+CCNF,Brain Nucleus accumbens basal ganglia,1.95902
+CCNF,Brain Putamen basal ganglia,1.18049
+CCNF,Brain Spinal cord cervical c-1,0.9292969999999999
+CCNF,Brain Substantia nigra,1.1178
+CCNF,Breast Mammary Tissue,2.5646
+CCNF,Cells Cultured fibroblasts,7.397530000000001
+CCNF,Cells EBV-transformed lymphocytes,31.3945
+CCNF,Cervix Ectocervix,2.80882
+CCNF,Cervix Endocervix,2.45359
+CCNF,Colon Sigmoid,1.2482799999999998
+CCNF,Colon Transverse,1.9836900000000002
+CCNF,Esophagus Gastroesophageal Junction,1.13306
+CCNF,Esophagus Mucosa,6.763539999999999
+CCNF,Esophagus Muscularis,1.14229
+CCNF,Fallopian Tube,2.2603
+CCNF,Heart Atrial Appendage,0.587174
+CCNF,Heart Left Ventricle,0.439879
+CCNF,Kidney Cortex,0.781659
+CCNF,Kidney Medulla,1.20984
+CCNF,Liver,0.75971
+CCNF,Lung,2.39042
+CCNF,Minor Salivary Gland,2.49363
+CCNF,Muscle Skeletal,1.19119
+CCNF,Nerve Tibial,1.9272
+CCNF,Ovary,2.28485
+CCNF,Pancreas,0.701006
+CCNF,Pituitary,2.5350900000000003
+CCNF,Prostate,3.92573
+CCNF,Skin Not Sun Exposed Suprapubic,5.87564
+CCNF,Skin Sun Exposed Lower leg,6.6039699999999995
+CCNF,Small Intestine Terminal Ileum,3.02218
+CCNF,Spleen,4.2260599999999995
+CCNF,Stomach,1.2822
+CCNF,Testis,8.93635
+CCNF,Thyroid,2.22588
+CCNF,Uterus,1.99442
+CCNF,Vagina,3.5118400000000003
+CCNF,Whole Blood,1.2143
+CHCHD10,Adipose Subcutaneous,43.2357
+CHCHD10,Adipose Visceral Omentum,61.9912
+CHCHD10,Adrenal Gland,43.6247
+CHCHD10,Artery Aorta,30.8001
+CHCHD10,Artery Coronary,39.3151
+CHCHD10,Artery Tibial,34.2133
+CHCHD10,Bladder,51.8103
+CHCHD10,Brain Amygdala,46.9221
+CHCHD10,Brain Anterior cingulate cortex BA24,67.1084
+CHCHD10,Brain Caudate basal ganglia,73.9294
+CHCHD10,Brain Cerebellar Hemisphere,46.2211
+CHCHD10,Brain Cerebellum,51.6385
+CHCHD10,Brain Cortex,73.6572
+CHCHD10,Brain Frontal Cortex BA9,83.884
+CHCHD10,Brain Hippocampus,47.8105
+CHCHD10,Brain Hypothalamus,60.1146
+CHCHD10,Brain Nucleus accumbens basal ganglia,78.5046
+CHCHD10,Brain Putamen basal ganglia,65.4115
+CHCHD10,Brain Spinal cord cervical c-1,32.1362
+CHCHD10,Brain Substantia nigra,51.0177
+CHCHD10,Breast Mammary Tissue,43.6626
+CHCHD10,Cells Cultured fibroblasts,26.9302
+CHCHD10,Cells EBV-transformed lymphocytes,67.5433
+CHCHD10,Cervix Ectocervix,27.039
+CHCHD10,Cervix Endocervix,34.5881
+CHCHD10,Colon Sigmoid,73.8507
+CHCHD10,Colon Transverse,94.2261
+CHCHD10,Esophagus Gastroesophageal Junction,79.8909
+CHCHD10,Esophagus Mucosa,52.0839
+CHCHD10,Esophagus Muscularis,88.8605
+CHCHD10,Fallopian Tube,23.0858
+CHCHD10,Heart Atrial Appendage,224.145
+CHCHD10,Heart Left Ventricle,248.48
+CHCHD10,Kidney Cortex,86.5934
+CHCHD10,Kidney Medulla,124.38
+CHCHD10,Liver,123.09
+CHCHD10,Lung,26.7996
+CHCHD10,Minor Salivary Gland,52.4245
+CHCHD10,Muscle Skeletal,229.704
+CHCHD10,Nerve Tibial,23.7178
+CHCHD10,Ovary,15.3413
+CHCHD10,Pancreas,18.0609
+CHCHD10,Pituitary,51.5235
+CHCHD10,Prostate,47.7385
+CHCHD10,Skin Not Sun Exposed Suprapubic,26.743000000000002
+CHCHD10,Skin Sun Exposed Lower leg,28.2538
+CHCHD10,Small Intestine Terminal Ileum,58.728
+CHCHD10,Spleen,40.5429
+CHCHD10,Stomach,48.7381
+CHCHD10,Testis,19.0172
+CHCHD10,Thyroid,117.32700000000001
+CHCHD10,Uterus,13.9777
+CHCHD10,Vagina,42.0357
+CHCHD10,Whole Blood,10.9449
+CHMP2B,Adipose Subcutaneous,41.0337
+CHMP2B,Adipose Visceral Omentum,34.2177
+CHMP2B,Adrenal Gland,26.488000000000003
+CHMP2B,Artery Aorta,56.477
+CHMP2B,Artery Coronary,51.7957
+CHMP2B,Artery Tibial,73.5696
+CHMP2B,Bladder,45.8973
+CHMP2B,Brain Amygdala,17.6228
+CHMP2B,Brain Anterior cingulate cortex BA24,18.0819
+CHMP2B,Brain Caudate basal ganglia,19.1014
+CHMP2B,Brain Cerebellar Hemisphere,21.5492
+CHMP2B,Brain Cerebellum,17.7027
+CHMP2B,Brain Cortex,16.4178
+CHMP2B,Brain Frontal Cortex BA9,22.6224
+CHMP2B,Brain Hippocampus,16.5822
+CHMP2B,Brain Hypothalamus,24.2986
+CHMP2B,Brain Nucleus accumbens basal ganglia,18.9056
+CHMP2B,Brain Putamen basal ganglia,15.7992
+CHMP2B,Brain Spinal cord cervical c-1,66.4115
+CHMP2B,Brain Substantia nigra,28.0645
+CHMP2B,Breast Mammary Tissue,38.5862
+CHMP2B,Cells Cultured fibroblasts,44.2143
+CHMP2B,Cells EBV-transformed lymphocytes,36.3069
+CHMP2B,Cervix Ectocervix,57.9977
+CHMP2B,Cervix Endocervix,44.6169
+CHMP2B,Colon Sigmoid,41.9324
+CHMP2B,Colon Transverse,40.0984
+CHMP2B,Esophagus Gastroesophageal Junction,38.8621
+CHMP2B,Esophagus Mucosa,41.9465
+CHMP2B,Esophagus Muscularis,40.1375
+CHMP2B,Fallopian Tube,50.6711
+CHMP2B,Heart Atrial Appendage,20.5729
+CHMP2B,Heart Left Ventricle,13.4309
+CHMP2B,Kidney Cortex,19.4248
+CHMP2B,Kidney Medulla,24.9795
+CHMP2B,Liver,14.7981
+CHMP2B,Lung,38.5092
+CHMP2B,Minor Salivary Gland,31.7166
+CHMP2B,Muscle Skeletal,22.4803
+CHMP2B,Nerve Tibial,43.2859
+CHMP2B,Ovary,48.0426
+CHMP2B,Pancreas,15.6659
+CHMP2B,Pituitary,52.8241
+CHMP2B,Prostate,42.8587
+CHMP2B,Skin Not Sun Exposed Suprapubic,37.7303
+CHMP2B,Skin Sun Exposed Lower leg,37.6999
+CHMP2B,Small Intestine Terminal Ileum,36.6055
+CHMP2B,Spleen,24.2847
+CHMP2B,Stomach,25.2833
+CHMP2B,Testis,21.5047
+CHMP2B,Thyroid,56.2653
+CHMP2B,Uterus,55.1488
+CHMP2B,Vagina,50.8152
+CHMP2B,Whole Blood,16.3126
+CYLD,Adipose Subcutaneous,13.8581
+CYLD,Adipose Visceral Omentum,11.3006
+CYLD,Adrenal Gland,15.8684
+CYLD,Artery Aorta,24.3115
+CYLD,Artery Coronary,19.7767
+CYLD,Artery Tibial,26.3537
+CYLD,Bladder,16.0791
+CYLD,Brain Amygdala,9.87865
+CYLD,Brain Anterior cingulate cortex BA24,10.1318
+CYLD,Brain Caudate basal ganglia,14.7196
+CYLD,Brain Cerebellar Hemisphere,21.9285
+CYLD,Brain Cerebellum,17.8691
+CYLD,Brain Cortex,10.866
+CYLD,Brain Frontal Cortex BA9,14.8124
+CYLD,Brain Hippocampus,10.0461
+CYLD,Brain Hypothalamus,15.1085
+CYLD,Brain Nucleus accumbens basal ganglia,14.3999
+CYLD,Brain Putamen basal ganglia,11.5301
+CYLD,Brain Spinal cord cervical c-1,16.4522
+CYLD,Brain Substantia nigra,12.7931
+CYLD,Breast Mammary Tissue,13.2615
+CYLD,Cells Cultured fibroblasts,11.6979
+CYLD,Cells EBV-transformed lymphocytes,45.4604
+CYLD,Cervix Ectocervix,18.1844
+CYLD,Cervix Endocervix,17.5929
+CYLD,Colon Sigmoid,14.4747
+CYLD,Colon Transverse,10.814
+CYLD,Esophagus Gastroesophageal Junction,15.8174
+CYLD,Esophagus Mucosa,14.1832
+CYLD,Esophagus Muscularis,14.8218
+CYLD,Fallopian Tube,16.7613
+CYLD,Heart Atrial Appendage,7.11942
+CYLD,Heart Left Ventricle,5.17566
+CYLD,Kidney Cortex,5.1675
+CYLD,Kidney Medulla,6.0850800000000005
+CYLD,Liver,5.33513
+CYLD,Lung,21.266
+CYLD,Minor Salivary Gland,13.8094
+CYLD,Muscle Skeletal,16.0367
+CYLD,Nerve Tibial,20.6691
+CYLD,Ovary,18.2703
+CYLD,Pancreas,4.2895900000000005
+CYLD,Pituitary,22.6255
+CYLD,Prostate,15.8092
+CYLD,Skin Not Sun Exposed Suprapubic,17.6445
+CYLD,Skin Sun Exposed Lower leg,16.7512
+CYLD,Small Intestine Terminal Ileum,15.4886
+CYLD,Spleen,25.5808
+CYLD,Stomach,8.3179
+CYLD,Testis,19.3166
+CYLD,Thyroid,21.4343
+CYLD,Uterus,18.1958
+CYLD,Vagina,18.7116
+CYLD,Whole Blood,13.3458
+DAO,Adipose Subcutaneous,0.0
+DAO,Adipose Visceral Omentum,0.00705734
+DAO,Adrenal Gland,0.00649514
+DAO,Artery Aorta,0.0307248
+DAO,Artery Coronary,0.0302635
+DAO,Artery Tibial,0.060622
+DAO,Bladder,0.0
+DAO,Brain Amygdala,0.044142400000000005
+DAO,Brain Anterior cingulate cortex BA24,0.0629906
+DAO,Brain Caudate basal ganglia,0.0494083
+DAO,Brain Cerebellar Hemisphere,26.6697
+DAO,Brain Cerebellum,40.1242
+DAO,Brain Cortex,0.0624555
+DAO,Brain Frontal Cortex BA9,0.07873480000000001
+DAO,Brain Hippocampus,0.287335
+DAO,Brain Hypothalamus,0.626638
+DAO,Brain Nucleus accumbens basal ganglia,0.0629679
+DAO,Brain Putamen basal ganglia,0.0410279
+DAO,Brain Spinal cord cervical c-1,15.6872
+DAO,Brain Substantia nigra,5.90664
+DAO,Breast Mammary Tissue,0.0
+DAO,Cells Cultured fibroblasts,0.0
+DAO,Cells EBV-transformed lymphocytes,0.0
+DAO,Cervix Ectocervix,0.0
+DAO,Cervix Endocervix,0.0
+DAO,Colon Sigmoid,0.0
+DAO,Colon Transverse,0.128564
+DAO,Esophagus Gastroesophageal Junction,0.0
+DAO,Esophagus Mucosa,0.0
+DAO,Esophagus Muscularis,0.0
+DAO,Fallopian Tube,0.0164811
+DAO,Heart Atrial Appendage,0.0
+DAO,Heart Left Ventricle,0.0
+DAO,Kidney Cortex,5.00652
+DAO,Kidney Medulla,1.51999
+DAO,Liver,23.7389
+DAO,Lung,0.0444566
+DAO,Minor Salivary Gland,0.0
+DAO,Muscle Skeletal,0.00800359
+DAO,Nerve Tibial,0.0276471
+DAO,Ovary,0.0
+DAO,Pancreas,0.0
+DAO,Pituitary,0.12554300000000002
+DAO,Prostate,0.013426800000000001
+DAO,Skin Not Sun Exposed Suprapubic,0.0
+DAO,Skin Sun Exposed Lower leg,0.0
+DAO,Small Intestine Terminal Ileum,0.00775605
+DAO,Spleen,0.026655599999999998
+DAO,Stomach,0.0
+DAO,Testis,0.288644
+DAO,Thyroid,0.0256279
+DAO,Uterus,0.0
+DAO,Vagina,0.0
+DAO,Whole Blood,0.011376100000000002
+DCTN1,Adipose Subcutaneous,73.8913
+DCTN1,Adipose Visceral Omentum,62.6271
+DCTN1,Adrenal Gland,61.6681
+DCTN1,Artery Aorta,109.286
+DCTN1,Artery Coronary,95.7092
+DCTN1,Artery Tibial,115.274
+DCTN1,Bladder,82.6779
+DCTN1,Brain Amygdala,73.0614
+DCTN1,Brain Anterior cingulate cortex BA24,97.0366
+DCTN1,Brain Caudate basal ganglia,91.2857
+DCTN1,Brain Cerebellar Hemisphere,212.62900000000002
+DCTN1,Brain Cerebellum,206.331
+DCTN1,Brain Cortex,156.541
+DCTN1,Brain Frontal Cortex BA9,173.898
+DCTN1,Brain Hippocampus,81.4476
+DCTN1,Brain Hypothalamus,95.0985
+DCTN1,Brain Nucleus accumbens basal ganglia,103.49
+DCTN1,Brain Putamen basal ganglia,85.3505
+DCTN1,Brain Spinal cord cervical c-1,101.99
+DCTN1,Brain Substantia nigra,81.988
+DCTN1,Breast Mammary Tissue,68.5396
+DCTN1,Cells Cultured fibroblasts,125.72399999999999
+DCTN1,Cells EBV-transformed lymphocytes,56.6079
+DCTN1,Cervix Ectocervix,101.09899999999999
+DCTN1,Cervix Endocervix,100.67
+DCTN1,Colon Sigmoid,88.9671
+DCTN1,Colon Transverse,60.007
+DCTN1,Esophagus Gastroesophageal Junction,92.5685
+DCTN1,Esophagus Mucosa,60.4165
+DCTN1,Esophagus Muscularis,92.8079
+DCTN1,Fallopian Tube,87.3953
+DCTN1,Heart Atrial Appendage,44.0391
+DCTN1,Heart Left Ventricle,50.1428
+DCTN1,Kidney Cortex,29.4951
+DCTN1,Kidney Medulla,33.9869
+DCTN1,Liver,16.2214
+DCTN1,Lung,78.0163
+DCTN1,Minor Salivary Gland,90.381
+DCTN1,Muscle Skeletal,52.2299
+DCTN1,Nerve Tibial,108.154
+DCTN1,Ovary,89.8545
+DCTN1,Pancreas,21.3227
+DCTN1,Pituitary,134.32299999999998
+DCTN1,Prostate,66.072
+DCTN1,Skin Not Sun Exposed Suprapubic,65.2817
+DCTN1,Skin Sun Exposed Lower leg,69.645
+DCTN1,Small Intestine Terminal Ileum,52.8274
+DCTN1,Spleen,55.5352
+DCTN1,Stomach,47.3689
+DCTN1,Testis,133.773
+DCTN1,Thyroid,75.5158
+DCTN1,Uterus,114.306
+DCTN1,Vagina,77.5046
+DCTN1,Whole Blood,27.8073
+ELP3,Adipose Subcutaneous,14.8352
+ELP3,Adipose Visceral Omentum,12.7448
+ELP3,Adrenal Gland,12.969000000000001
+ELP3,Artery Aorta,14.1103
+ELP3,Artery Coronary,14.5696
+ELP3,Artery Tibial,16.8859
+ELP3,Bladder,17.9226
+ELP3,Brain Amygdala,9.07726
+ELP3,Brain Anterior cingulate cortex BA24,11.8573
+ELP3,Brain Caudate basal ganglia,10.5961
+ELP3,Brain Cerebellar Hemisphere,22.4623
+ELP3,Brain Cerebellum,21.1192
+ELP3,Brain Cortex,17.1037
+ELP3,Brain Frontal Cortex BA9,17.8956
+ELP3,Brain Hippocampus,8.69469
+ELP3,Brain Hypothalamus,11.8663
+ELP3,Brain Nucleus accumbens basal ganglia,12.3392
+ELP3,Brain Putamen basal ganglia,8.91657
+ELP3,Brain Spinal cord cervical c-1,11.8386
+ELP3,Brain Substantia nigra,9.39628
+ELP3,Breast Mammary Tissue,14.0199
+ELP3,Cells Cultured fibroblasts,21.4407
+ELP3,Cells EBV-transformed lymphocytes,26.1576
+ELP3,Cervix Ectocervix,18.2638
+ELP3,Cervix Endocervix,19.6058
+ELP3,Colon Sigmoid,16.9602
+ELP3,Colon Transverse,11.3381
+ELP3,Esophagus Gastroesophageal Junction,15.1253
+ELP3,Esophagus Mucosa,11.2076
+ELP3,Esophagus Muscularis,15.4664
+ELP3,Fallopian Tube,18.4369
+ELP3,Heart Atrial Appendage,7.7911399999999995
+ELP3,Heart Left Ventricle,7.05232
+ELP3,Kidney Cortex,8.05335
+ELP3,Kidney Medulla,13.0977
+ELP3,Liver,7.81458
+ELP3,Lung,13.6893
+ELP3,Minor Salivary Gland,10.0705
+ELP3,Muscle Skeletal,14.6518
+ELP3,Nerve Tibial,18.5778
+ELP3,Ovary,19.1642
+ELP3,Pancreas,4.63426
+ELP3,Pituitary,14.7656
+ELP3,Prostate,15.3489
+ELP3,Skin Not Sun Exposed Suprapubic,12.124
+ELP3,Skin Sun Exposed Lower leg,13.7513
+ELP3,Small Intestine Terminal Ileum,12.4777
+ELP3,Spleen,15.2526
+ELP3,Stomach,9.13017
+ELP3,Testis,17.1276
+ELP3,Thyroid,16.7162
+ELP3,Uterus,20.7563
+ELP3,Vagina,14.7871
+ELP3,Whole Blood,4.46796
+ERBB4,Adipose Subcutaneous,0.185977
+ERBB4,Adipose Visceral Omentum,0.35727800000000004
+ERBB4,Adrenal Gland,0.0343242
+ERBB4,Artery Aorta,8.63187
+ERBB4,Artery Coronary,1.94303
+ERBB4,Artery Tibial,2.7492799999999997
+ERBB4,Bladder,0.07582989999999999
+ERBB4,Brain Amygdala,6.24643
+ERBB4,Brain Anterior cingulate cortex BA24,8.62047
+ERBB4,Brain Caudate basal ganglia,7.56412
+ERBB4,Brain Cerebellar Hemisphere,9.09125
+ERBB4,Brain Cerebellum,6.996519999999999
+ERBB4,Brain Cortex,5.48165
+ERBB4,Brain Frontal Cortex BA9,7.96545
+ERBB4,Brain Hippocampus,4.03177
+ERBB4,Brain Hypothalamus,4.39377
+ERBB4,Brain Nucleus accumbens basal ganglia,6.663939999999999
+ERBB4,Brain Putamen basal ganglia,5.5451
+ERBB4,Brain Spinal cord cervical c-1,2.37852
+ERBB4,Brain Substantia nigra,4.02936
+ERBB4,Breast Mammary Tissue,1.44308
+ERBB4,Cells Cultured fibroblasts,0.0113357
+ERBB4,Cells EBV-transformed lymphocytes,0.010151299999999999
+ERBB4,Cervix Ectocervix,0.155219
+ERBB4,Cervix Endocervix,0.20938099999999998
+ERBB4,Colon Sigmoid,0.11163599999999999
+ERBB4,Colon Transverse,0.052994000000000006
+ERBB4,Esophagus Gastroesophageal Junction,0.0988455
+ERBB4,Esophagus Mucosa,0.0356548
+ERBB4,Esophagus Muscularis,0.06542680000000001
+ERBB4,Fallopian Tube,1.28746
+ERBB4,Heart Atrial Appendage,2.17049
+ERBB4,Heart Left Ventricle,0.795177
+ERBB4,Kidney Cortex,2.11775
+ERBB4,Kidney Medulla,3.57154
+ERBB4,Liver,0.013386600000000002
+ERBB4,Lung,0.8821110000000001
+ERBB4,Minor Salivary Gland,2.81777
+ERBB4,Muscle Skeletal,0.751188
+ERBB4,Nerve Tibial,1.17867
+ERBB4,Ovary,0.131654
+ERBB4,Pancreas,0.323239
+ERBB4,Pituitary,2.3988
+ERBB4,Prostate,0.25158200000000003
+ERBB4,Skin Not Sun Exposed Suprapubic,0.364579
+ERBB4,Skin Sun Exposed Lower leg,0.343868
+ERBB4,Small Intestine Terminal Ileum,0.0332406
+ERBB4,Spleen,0.064898
+ERBB4,Stomach,0.36693000000000003
+ERBB4,Testis,5.01788
+ERBB4,Thyroid,2.1905799999999997
+ERBB4,Uterus,0.13791099999999998
+ERBB4,Vagina,0.116529
+ERBB4,Whole Blood,0.00360439
+FGGY,Adipose Subcutaneous,1.20512
+FGGY,Adipose Visceral Omentum,1.06178
+FGGY,Adrenal Gland,3.4921699999999998
+FGGY,Artery Aorta,1.65274
+FGGY,Artery Coronary,1.4739799999999998
+FGGY,Artery Tibial,1.6479400000000002
+FGGY,Bladder,2.1847
+FGGY,Brain Amygdala,0.9470049999999999
+FGGY,Brain Anterior cingulate cortex BA24,1.04986
+FGGY,Brain Caudate basal ganglia,1.06639
+FGGY,Brain Cerebellar Hemisphere,3.91911
+FGGY,Brain Cerebellum,3.58236
+FGGY,Brain Cortex,0.9677389999999999
+FGGY,Brain Frontal Cortex BA9,0.997275
+FGGY,Brain Hippocampus,0.691837
+FGGY,Brain Hypothalamus,1.15991
+FGGY,Brain Nucleus accumbens basal ganglia,1.29403
+FGGY,Brain Putamen basal ganglia,0.866016
+FGGY,Brain Spinal cord cervical c-1,0.8384659999999999
+FGGY,Brain Substantia nigra,1.21353
+FGGY,Breast Mammary Tissue,1.57574
+FGGY,Cells Cultured fibroblasts,2.5300599999999998
+FGGY,Cells EBV-transformed lymphocytes,1.7927799999999998
+FGGY,Cervix Ectocervix,2.56448
+FGGY,Cervix Endocervix,2.49421
+FGGY,Colon Sigmoid,1.31324
+FGGY,Colon Transverse,1.4141700000000001
+FGGY,Esophagus Gastroesophageal Junction,1.24585
+FGGY,Esophagus Mucosa,1.3206799999999999
+FGGY,Esophagus Muscularis,1.2459
+FGGY,Fallopian Tube,1.96537
+FGGY,Heart Atrial Appendage,1.00404
+FGGY,Heart Left Ventricle,1.07069
+FGGY,Kidney Cortex,1.85484
+FGGY,Kidney Medulla,1.9838200000000001
+FGGY,Liver,6.32673
+FGGY,Lung,1.8475599999999999
+FGGY,Minor Salivary Gland,2.77695
+FGGY,Muscle Skeletal,3.97022
+FGGY,Nerve Tibial,2.45529
+FGGY,Ovary,1.96392
+FGGY,Pancreas,1.30714
+FGGY,Pituitary,3.34695
+FGGY,Prostate,2.25615
+FGGY,Skin Not Sun Exposed Suprapubic,1.7512599999999998
+FGGY,Skin Sun Exposed Lower leg,1.55769
+FGGY,Small Intestine Terminal Ileum,1.43729
+FGGY,Spleen,0.954844
+FGGY,Stomach,1.33066
+FGGY,Testis,1.9423700000000002
+FGGY,Thyroid,2.0405599999999997
+FGGY,Uterus,2.26075
+FGGY,Vagina,2.04146
+FGGY,Whole Blood,0.5157069999999999
+FIG4,Adipose Subcutaneous,15.0544
+FIG4,Adipose Visceral Omentum,11.2967
+FIG4,Adrenal Gland,13.6641
+FIG4,Artery Aorta,22.1653
+FIG4,Artery Coronary,19.4948
+FIG4,Artery Tibial,25.0406
+FIG4,Bladder,16.4043
+FIG4,Brain Amygdala,8.978589999999999
+FIG4,Brain Anterior cingulate cortex BA24,12.1553
+FIG4,Brain Caudate basal ganglia,14.7618
+FIG4,Brain Cerebellar Hemisphere,16.937
+FIG4,Brain Cerebellum,15.606
+FIG4,Brain Cortex,18.2637
+FIG4,Brain Frontal Cortex BA9,22.9376
+FIG4,Brain Hippocampus,8.99261
+FIG4,Brain Hypothalamus,14.0893
+FIG4,Brain Nucleus accumbens basal ganglia,18.1112
+FIG4,Brain Putamen basal ganglia,11.0693
+FIG4,Brain Spinal cord cervical c-1,15.4098
+FIG4,Brain Substantia nigra,10.1529
+FIG4,Breast Mammary Tissue,13.4103
+FIG4,Cells Cultured fibroblasts,13.709000000000001
+FIG4,Cells EBV-transformed lymphocytes,17.8443
+FIG4,Cervix Ectocervix,17.708
+FIG4,Cervix Endocervix,16.9567
+FIG4,Colon Sigmoid,16.1524
+FIG4,Colon Transverse,11.918
+FIG4,Esophagus Gastroesophageal Junction,14.4785
+FIG4,Esophagus Mucosa,11.972000000000001
+FIG4,Esophagus Muscularis,15.2293
+FIG4,Fallopian Tube,14.862
+FIG4,Heart Atrial Appendage,5.27067
+FIG4,Heart Left Ventricle,4.10838
+FIG4,Kidney Cortex,6.84594
+FIG4,Kidney Medulla,9.10944
+FIG4,Liver,3.17251
+FIG4,Lung,17.8435
+FIG4,Minor Salivary Gland,14.0582
+FIG4,Muscle Skeletal,6.78543
+FIG4,Nerve Tibial,19.5523
+FIG4,Ovary,15.7542
+FIG4,Pancreas,4.45308
+FIG4,Pituitary,20.7341
+FIG4,Prostate,13.5479
+FIG4,Skin Not Sun Exposed Suprapubic,10.7258
+FIG4,Skin Sun Exposed Lower leg,11.6999
+FIG4,Small Intestine Terminal Ileum,12.9656
+FIG4,Spleen,20.8296
+FIG4,Stomach,9.73352
+FIG4,Testis,15.8468
+FIG4,Thyroid,15.5028
+FIG4,Uterus,17.669
+FIG4,Vagina,14.4966
+FIG4,Whole Blood,10.2865
+FUS,Adipose Subcutaneous,78.7933
+FUS,Adipose Visceral Omentum,83.6047
+FUS,Adrenal Gland,52.638000000000005
+FUS,Artery Aorta,85.3466
+FUS,Artery Coronary,83.0467
+FUS,Artery Tibial,85.0536
+FUS,Bladder,93.613
+FUS,Brain Amygdala,36.2033
+FUS,Brain Anterior cingulate cortex BA24,45.9992
+FUS,Brain Caudate basal ganglia,49.8052
+FUS,Brain Cerebellar Hemisphere,173.58900000000003
+FUS,Brain Cerebellum,158.981
+FUS,Brain Cortex,54.3015
+FUS,Brain Frontal Cortex BA9,60.1237
+FUS,Brain Hippocampus,41.953
+FUS,Brain Hypothalamus,51.715
+FUS,Brain Nucleus accumbens basal ganglia,53.1508
+FUS,Brain Putamen basal ganglia,42.446999999999996
+FUS,Brain Spinal cord cervical c-1,58.41
+FUS,Brain Substantia nigra,42.8534
+FUS,Breast Mammary Tissue,89.275
+FUS,Cells Cultured fibroblasts,110.37899999999999
+FUS,Cells EBV-transformed lymphocytes,148.023
+FUS,Cervix Ectocervix,155.52200000000002
+FUS,Cervix Endocervix,152.733
+FUS,Colon Sigmoid,79.9987
+FUS,Colon Transverse,66.1562
+FUS,Esophagus Gastroesophageal Junction,76.0108
+FUS,Esophagus Mucosa,63.4193
+FUS,Esophagus Muscularis,66.9726
+FUS,Fallopian Tube,141.875
+FUS,Heart Atrial Appendage,37.7998
+FUS,Heart Left Ventricle,27.2707
+FUS,Kidney Cortex,41.8664
+FUS,Kidney Medulla,88.4752
+FUS,Liver,21.4023
+FUS,Lung,88.009
+FUS,Minor Salivary Gland,64.1628
+FUS,Muscle Skeletal,43.7743
+FUS,Nerve Tibial,137.707
+FUS,Ovary,193.19400000000002
+FUS,Pancreas,26.538
+FUS,Pituitary,90.7878
+FUS,Prostate,88.2145
+FUS,Skin Not Sun Exposed Suprapubic,77.6844
+FUS,Skin Sun Exposed Lower leg,77.0396
+FUS,Small Intestine Terminal Ileum,87.3014
+FUS,Spleen,123.366
+FUS,Stomach,52.0289
+FUS,Testis,141.404
+FUS,Thyroid,117.37700000000001
+FUS,Uterus,148.52700000000002
+FUS,Vagina,99.1093
+FUS,Whole Blood,29.5878
+HNRNPA1,Adipose Subcutaneous,333.796
+HNRNPA1,Adipose Visceral Omentum,350.91900000000004
+HNRNPA1,Adrenal Gland,221.263
+HNRNPA1,Artery Aorta,329.41900000000004
+HNRNPA1,Artery Coronary,310.35400000000004
+HNRNPA1,Artery Tibial,343.375
+HNRNPA1,Bladder,388.344
+HNRNPA1,Brain Amygdala,121.56700000000001
+HNRNPA1,Brain Anterior cingulate cortex BA24,113.39399999999999
+HNRNPA1,Brain Caudate basal ganglia,123.43700000000001
+HNRNPA1,Brain Cerebellar Hemisphere,426.347
+HNRNPA1,Brain Cerebellum,333.98900000000003
+HNRNPA1,Brain Cortex,111.868
+HNRNPA1,Brain Frontal Cortex BA9,132.657
+HNRNPA1,Brain Hippocampus,114.74600000000001
+HNRNPA1,Brain Hypothalamus,148.35299999999998
+HNRNPA1,Brain Nucleus accumbens basal ganglia,137.58100000000002
+HNRNPA1,Brain Putamen basal ganglia,107.132
+HNRNPA1,Brain Spinal cord cervical c-1,248.813
+HNRNPA1,Brain Substantia nigra,151.13299999999998
+HNRNPA1,Breast Mammary Tissue,389.279
+HNRNPA1,Cells Cultured fibroblasts,572.063
+HNRNPA1,Cells EBV-transformed lymphocytes,728.8539999999999
+HNRNPA1,Cervix Ectocervix,629.54
+HNRNPA1,Cervix Endocervix,629.419
+HNRNPA1,Colon Sigmoid,307.52299999999997
+HNRNPA1,Colon Transverse,265.719
+HNRNPA1,Esophagus Gastroesophageal Junction,282.101
+HNRNPA1,Esophagus Mucosa,313.184
+HNRNPA1,Esophagus Muscularis,257.038
+HNRNPA1,Fallopian Tube,507.426
+HNRNPA1,Heart Atrial Appendage,143.265
+HNRNPA1,Heart Left Ventricle,88.6226
+HNRNPA1,Kidney Cortex,155.56
+HNRNPA1,Kidney Medulla,239.94299999999998
+HNRNPA1,Liver,72.7916
+HNRNPA1,Lung,331.336
+HNRNPA1,Minor Salivary Gland,257.402
+HNRNPA1,Muscle Skeletal,133.753
+HNRNPA1,Nerve Tibial,422.43199999999996
+HNRNPA1,Ovary,1092.5
+HNRNPA1,Pancreas,157.407
+HNRNPA1,Pituitary,249.88299999999998
+HNRNPA1,Prostate,344.32
+HNRNPA1,Skin Not Sun Exposed Suprapubic,358.74699999999996
+HNRNPA1,Skin Sun Exposed Lower leg,320.29400000000004
+HNRNPA1,Small Intestine Terminal Ileum,290.612
+HNRNPA1,Spleen,284.592
+HNRNPA1,Stomach,230.114
+HNRNPA1,Testis,156.062
+HNRNPA1,Thyroid,362.591
+HNRNPA1,Uterus,591.6709999999999
+HNRNPA1,Vagina,454.912
+HNRNPA1,Whole Blood,86.4666
+KIF5A,Adipose Subcutaneous,0.42576099999999995
+KIF5A,Adipose Visceral Omentum,0.376424
+KIF5A,Adrenal Gland,0.409378
+KIF5A,Artery Aorta,5.78463
+KIF5A,Artery Coronary,2.7897
+KIF5A,Artery Tibial,1.2179200000000001
+KIF5A,Bladder,1.00829
+KIF5A,Brain Amygdala,620.826
+KIF5A,Brain Anterior cingulate cortex BA24,848.872
+KIF5A,Brain Caudate basal ganglia,320.305
+KIF5A,Brain Cerebellar Hemisphere,218.53400000000002
+KIF5A,Brain Cerebellum,206.048
+KIF5A,Brain Cortex,1160.24
+KIF5A,Brain Frontal Cortex BA9,1084.97
+KIF5A,Brain Hippocampus,266.95799999999997
+KIF5A,Brain Hypothalamus,142.34
+KIF5A,Brain Nucleus accumbens basal ganglia,311.741
+KIF5A,Brain Putamen basal ganglia,311.471
+KIF5A,Brain Spinal cord cervical c-1,70.0855
+KIF5A,Brain Substantia nigra,65.7081
+KIF5A,Breast Mammary Tissue,0.848249
+KIF5A,Cells Cultured fibroblasts,0.643196
+KIF5A,Cells EBV-transformed lymphocytes,0.47643
+KIF5A,Cervix Ectocervix,2.02215
+KIF5A,Cervix Endocervix,5.35516
+KIF5A,Colon Sigmoid,8.72494
+KIF5A,Colon Transverse,3.74255
+KIF5A,Esophagus Gastroesophageal Junction,3.40151
+KIF5A,Esophagus Mucosa,0.593653
+KIF5A,Esophagus Muscularis,3.65089
+KIF5A,Fallopian Tube,1.49094
+KIF5A,Heart Atrial Appendage,0.409401
+KIF5A,Heart Left Ventricle,0.208168
+KIF5A,Kidney Cortex,0.698457
+KIF5A,Kidney Medulla,0.963551
+KIF5A,Liver,0.08940830000000001
+KIF5A,Lung,0.574531
+KIF5A,Minor Salivary Gland,0.847724
+KIF5A,Muscle Skeletal,0.185055
+KIF5A,Nerve Tibial,12.2626
+KIF5A,Ovary,1.1375600000000001
+KIF5A,Pancreas,0.5407489999999999
+KIF5A,Pituitary,41.0988
+KIF5A,Prostate,1.56552
+KIF5A,Skin Not Sun Exposed Suprapubic,0.5077119999999999
+KIF5A,Skin Sun Exposed Lower leg,0.474912
+KIF5A,Small Intestine Terminal Ileum,2.70305
+KIF5A,Spleen,0.477659
+KIF5A,Stomach,1.02293
+KIF5A,Testis,9.23118
+KIF5A,Thyroid,2.31508
+KIF5A,Uterus,7.39723
+KIF5A,Vagina,2.3581
+KIF5A,Whole Blood,0.199733
+LRP12,Adipose Subcutaneous,6.16769
+LRP12,Adipose Visceral Omentum,4.96875
+LRP12,Adrenal Gland,3.75105
+LRP12,Artery Aorta,9.50685
+LRP12,Artery Coronary,8.0294
+LRP12,Artery Tibial,10.5122
+LRP12,Bladder,6.00451
+LRP12,Brain Amygdala,4.14406
+LRP12,Brain Anterior cingulate cortex BA24,5.230230000000001
+LRP12,Brain Caudate basal ganglia,5.58752
+LRP12,Brain Cerebellar Hemisphere,8.80587
+LRP12,Brain Cerebellum,5.978269999999999
+LRP12,Brain Cortex,4.10105
+LRP12,Brain Frontal Cortex BA9,7.27013
+LRP12,Brain Hippocampus,4.43661
+LRP12,Brain Hypothalamus,4.28533
+LRP12,Brain Nucleus accumbens basal ganglia,7.35164
+LRP12,Brain Putamen basal ganglia,4.4646300000000005
+LRP12,Brain Spinal cord cervical c-1,3.16457
+LRP12,Brain Substantia nigra,2.49512
+LRP12,Breast Mammary Tissue,4.81235
+LRP12,Cells Cultured fibroblasts,21.2546
+LRP12,Cells EBV-transformed lymphocytes,0.725184
+LRP12,Cervix Ectocervix,8.535919999999999
+LRP12,Cervix Endocervix,8.89792
+LRP12,Colon Sigmoid,5.80818
+LRP12,Colon Transverse,4.1695
+LRP12,Esophagus Gastroesophageal Junction,5.84802
+LRP12,Esophagus Mucosa,2.05935
+LRP12,Esophagus Muscularis,5.882219999999999
+LRP12,Fallopian Tube,10.3006
+LRP12,Heart Atrial Appendage,5.37905
+LRP12,Heart Left Ventricle,4.2689900000000005
+LRP12,Kidney Cortex,1.52957
+LRP12,Kidney Medulla,2.04244
+LRP12,Liver,0.47518900000000003
+LRP12,Lung,5.74833
+LRP12,Minor Salivary Gland,4.325830000000001
+LRP12,Muscle Skeletal,4.94773
+LRP12,Nerve Tibial,6.724660000000001
+LRP12,Ovary,6.79718
+LRP12,Pancreas,1.55331
+LRP12,Pituitary,7.36193
+LRP12,Prostate,4.57166
+LRP12,Skin Not Sun Exposed Suprapubic,4.5507599999999995
+LRP12,Skin Sun Exposed Lower leg,5.14538
+LRP12,Small Intestine Terminal Ileum,2.56458
+LRP12,Spleen,2.70067
+LRP12,Stomach,2.43873
+LRP12,Testis,5.72654
+LRP12,Thyroid,5.77971
+LRP12,Uterus,17.0335
+LRP12,Vagina,7.1054
+LRP12,Whole Blood,0.172379
+MOBP,Adipose Subcutaneous,0.101353
+MOBP,Adipose Visceral Omentum,0.0666615
+MOBP,Adrenal Gland,0.021678299999999998
+MOBP,Artery Aorta,0.083284
+MOBP,Artery Coronary,0.0985385
+MOBP,Artery Tibial,0.120999
+MOBP,Bladder,0.09914830000000001
+MOBP,Brain Amygdala,125.816
+MOBP,Brain Anterior cingulate cortex BA24,35.9097
+MOBP,Brain Caudate basal ganglia,50.9779
+MOBP,Brain Cerebellar Hemisphere,27.1413
+MOBP,Brain Cerebellum,22.2657
+MOBP,Brain Cortex,33.9807
+MOBP,Brain Frontal Cortex BA9,42.0727
+MOBP,Brain Hippocampus,204.303
+MOBP,Brain Hypothalamus,115.766
+MOBP,Brain Nucleus accumbens basal ganglia,40.1795
+MOBP,Brain Putamen basal ganglia,89.5492
+MOBP,Brain Spinal cord cervical c-1,1389.8
+MOBP,Brain Substantia nigra,392.80300000000005
+MOBP,Breast Mammary Tissue,0.08336260000000001
+MOBP,Cells Cultured fibroblasts,0.0193079
+MOBP,Cells EBV-transformed lymphocytes,0.0868711
+MOBP,Cervix Ectocervix,0.0351875
+MOBP,Cervix Endocervix,0.07505980000000001
+MOBP,Colon Sigmoid,0.06892689999999999
+MOBP,Colon Transverse,0.234033
+MOBP,Esophagus Gastroesophageal Junction,0.0846855
+MOBP,Esophagus Mucosa,0.0314261
+MOBP,Esophagus Muscularis,0.0677556
+MOBP,Fallopian Tube,0.15023599999999998
+MOBP,Heart Atrial Appendage,0.06771410000000001
+MOBP,Heart Left Ventricle,0.041366599999999996
+MOBP,Kidney Cortex,0.0402411
+MOBP,Kidney Medulla,0.205921
+MOBP,Liver,0.0185028
+MOBP,Lung,0.195027
+MOBP,Minor Salivary Gland,0.129659
+MOBP,Muscle Skeletal,0.0545586
+MOBP,Nerve Tibial,0.780518
+MOBP,Ovary,0.29023499999999997
+MOBP,Pancreas,0.019108700000000003
+MOBP,Pituitary,0.120619
+MOBP,Prostate,0.06647549999999999
+MOBP,Skin Not Sun Exposed Suprapubic,0.07624600000000001
+MOBP,Skin Sun Exposed Lower leg,0.09006460000000001
+MOBP,Small Intestine Terminal Ileum,0.056925
+MOBP,Spleen,0.0322096
+MOBP,Stomach,0.0384897
+MOBP,Testis,5.4846
+MOBP,Thyroid,0.10700899999999999
+MOBP,Uterus,0.157683
+MOBP,Vagina,0.061663
+MOBP,Whole Blood,0.041849199999999996
+NEFH,Adipose Subcutaneous,0.657895
+NEFH,Adipose Visceral Omentum,0.721511
+NEFH,Adrenal Gland,34.4467
+NEFH,Artery Aorta,0.635935
+NEFH,Artery Coronary,0.739445
+NEFH,Artery Tibial,0.400106
+NEFH,Bladder,0.827741
+NEFH,Brain Amygdala,9.40201
+NEFH,Brain Anterior cingulate cortex BA24,31.8043
+NEFH,Brain Caudate basal ganglia,15.1719
+NEFH,Brain Cerebellar Hemisphere,32.561
+NEFH,Brain Cerebellum,54.0621
+NEFH,Brain Cortex,67.0042
+NEFH,Brain Frontal Cortex BA9,104.348
+NEFH,Brain Hippocampus,17.7272
+NEFH,Brain Hypothalamus,63.3056
+NEFH,Brain Nucleus accumbens basal ganglia,16.6344
+NEFH,Brain Putamen basal ganglia,16.4908
+NEFH,Brain Spinal cord cervical c-1,19.2643
+NEFH,Brain Substantia nigra,56.2009
+NEFH,Breast Mammary Tissue,0.8410549999999999
+NEFH,Cells Cultured fibroblasts,5.09529
+NEFH,Cells EBV-transformed lymphocytes,2.88729
+NEFH,Cervix Ectocervix,1.2948
+NEFH,Cervix Endocervix,1.39713
+NEFH,Colon Sigmoid,2.71812
+NEFH,Colon Transverse,1.35931
+NEFH,Esophagus Gastroesophageal Junction,1.8308900000000001
+NEFH,Esophagus Mucosa,0.51393
+NEFH,Esophagus Muscularis,2.6960599999999997
+NEFH,Fallopian Tube,0.894192
+NEFH,Heart Atrial Appendage,0.396285
+NEFH,Heart Left Ventricle,0.128629
+NEFH,Kidney Cortex,0.639922
+NEFH,Kidney Medulla,0.625731
+NEFH,Liver,0.129776
+NEFH,Lung,0.693732
+NEFH,Minor Salivary Gland,0.594357
+NEFH,Muscle Skeletal,0.22014699999999998
+NEFH,Nerve Tibial,1.4886
+NEFH,Ovary,29.8059
+NEFH,Pancreas,0.251844
+NEFH,Pituitary,29.6069
+NEFH,Prostate,158.946
+NEFH,Skin Not Sun Exposed Suprapubic,0.42708500000000005
+NEFH,Skin Sun Exposed Lower leg,0.47156499999999996
+NEFH,Small Intestine Terminal Ileum,1.51209
+NEFH,Spleen,2.42262
+NEFH,Stomach,0.43453400000000003
+NEFH,Testis,20.8616
+NEFH,Thyroid,0.804721
+NEFH,Uterus,0.8840950000000001
+NEFH,Vagina,1.2719799999999999
+NEFH,Whole Blood,0.478296
+NEK1,Adipose Subcutaneous,6.853610000000001
+NEK1,Adipose Visceral Omentum,5.97867
+NEK1,Adrenal Gland,5.75809
+NEK1,Artery Aorta,8.71627
+NEK1,Artery Coronary,9.89149
+NEK1,Artery Tibial,10.4294
+NEK1,Bladder,8.84114
+NEK1,Brain Amygdala,5.61265
+NEK1,Brain Anterior cingulate cortex BA24,5.8246
+NEK1,Brain Caudate basal ganglia,6.8783199999999995
+NEK1,Brain Cerebellar Hemisphere,13.0001
+NEK1,Brain Cerebellum,13.0048
+NEK1,Brain Cortex,6.87435
+NEK1,Brain Frontal Cortex BA9,6.91728
+NEK1,Brain Hippocampus,4.86612
+NEK1,Brain Hypothalamus,6.828289999999999
+NEK1,Brain Nucleus accumbens basal ganglia,7.55777
+NEK1,Brain Putamen basal ganglia,4.978190000000001
+NEK1,Brain Spinal cord cervical c-1,8.23527
+NEK1,Brain Substantia nigra,6.22748
+NEK1,Breast Mammary Tissue,6.51163
+NEK1,Cells Cultured fibroblasts,12.1048
+NEK1,Cells EBV-transformed lymphocytes,8.48855
+NEK1,Cervix Ectocervix,10.8415
+NEK1,Cervix Endocervix,11.9501
+NEK1,Colon Sigmoid,8.52558
+NEK1,Colon Transverse,4.75742
+NEK1,Esophagus Gastroesophageal Junction,7.47928
+NEK1,Esophagus Mucosa,3.9926199999999996
+NEK1,Esophagus Muscularis,7.3569
+NEK1,Fallopian Tube,9.64685
+NEK1,Heart Atrial Appendage,4.418
+NEK1,Heart Left Ventricle,2.90092
+NEK1,Kidney Cortex,2.77862
+NEK1,Kidney Medulla,3.5402699999999996
+NEK1,Liver,1.5671899999999999
+NEK1,Lung,6.20507
+NEK1,Minor Salivary Gland,4.48618
+NEK1,Muscle Skeletal,2.89502
+NEK1,Nerve Tibial,63.8843
+NEK1,Ovary,12.2311
+NEK1,Pancreas,1.67595
+NEK1,Pituitary,8.63744
+NEK1,Prostate,6.68998
+NEK1,Skin Not Sun Exposed Suprapubic,3.6013900000000003
+NEK1,Skin Sun Exposed Lower leg,3.7524599999999997
+NEK1,Small Intestine Terminal Ileum,4.28147
+NEK1,Spleen,4.13906
+NEK1,Stomach,5.10744
+NEK1,Testis,14.3113
+NEK1,Thyroid,8.54974
+NEK1,Uterus,10.9141
+NEK1,Vagina,7.524139999999999
+NEK1,Whole Blood,0.42753199999999997
+OPTN,Adipose Subcutaneous,91.434
+OPTN,Adipose Visceral Omentum,76.4886
+OPTN,Adrenal Gland,62.9026
+OPTN,Artery Aorta,88.8203
+OPTN,Artery Coronary,87.7423
+OPTN,Artery Tibial,110.66
+OPTN,Bladder,52.2052
+OPTN,Brain Amygdala,33.1046
+OPTN,Brain Anterior cingulate cortex BA24,40.1394
+OPTN,Brain Caudate basal ganglia,32.9044
+OPTN,Brain Cerebellar Hemisphere,75.9558
+OPTN,Brain Cerebellum,58.1417
+OPTN,Brain Cortex,49.9482
+OPTN,Brain Frontal Cortex BA9,67.1683
+OPTN,Brain Hippocampus,30.0808
+OPTN,Brain Hypothalamus,43.3333
+OPTN,Brain Nucleus accumbens basal ganglia,27.9217
+OPTN,Brain Putamen basal ganglia,28.6781
+OPTN,Brain Spinal cord cervical c-1,68.5013
+OPTN,Brain Substantia nigra,40.9228
+OPTN,Breast Mammary Tissue,66.5395
+OPTN,Cells Cultured fibroblasts,88.7958
+OPTN,Cells EBV-transformed lymphocytes,48.0941
+OPTN,Cervix Ectocervix,70.1029
+OPTN,Cervix Endocervix,60.7636
+OPTN,Colon Sigmoid,59.7477
+OPTN,Colon Transverse,44.8287
+OPTN,Esophagus Gastroesophageal Junction,59.4834
+OPTN,Esophagus Mucosa,39.9484
+OPTN,Esophagus Muscularis,58.006
+OPTN,Fallopian Tube,59.7597
+OPTN,Heart Atrial Appendage,40.9288
+OPTN,Heart Left Ventricle,45.946999999999996
+OPTN,Kidney Cortex,31.5932
+OPTN,Kidney Medulla,29.7495
+OPTN,Liver,21.46
+OPTN,Lung,67.1597
+OPTN,Minor Salivary Gland,38.5473
+OPTN,Muscle Skeletal,366.995
+OPTN,Nerve Tibial,85.5213
+OPTN,Ovary,99.9279
+OPTN,Pancreas,13.7974
+OPTN,Pituitary,41.0866
+OPTN,Prostate,38.2151
+OPTN,Skin Not Sun Exposed Suprapubic,62.7791
+OPTN,Skin Sun Exposed Lower leg,66.4858
+OPTN,Small Intestine Terminal Ileum,46.5582
+OPTN,Spleen,43.3228
+OPTN,Stomach,29.1989
+OPTN,Testis,98.9581
+OPTN,Thyroid,35.7612
+OPTN,Uterus,66.1446
+OPTN,Vagina,67.0522
+OPTN,Whole Blood,22.1624
+PFN1,Adipose Subcutaneous,369.476
+PFN1,Adipose Visceral Omentum,382.342
+PFN1,Adrenal Gland,259.06
+PFN1,Artery Aorta,763.3760000000001
+PFN1,Artery Coronary,665.405
+PFN1,Artery Tibial,683.003
+PFN1,Bladder,558.868
+PFN1,Brain Amygdala,71.6445
+PFN1,Brain Anterior cingulate cortex BA24,66.4275
+PFN1,Brain Caudate basal ganglia,71.3163
+PFN1,Brain Cerebellar Hemisphere,108.35799999999999
+PFN1,Brain Cerebellum,101.361
+PFN1,Brain Cortex,70.3806
+PFN1,Brain Frontal Cortex BA9,78.5689
+PFN1,Brain Hippocampus,75.9415
+PFN1,Brain Hypothalamus,84.4499
+PFN1,Brain Nucleus accumbens basal ganglia,70.5198
+PFN1,Brain Putamen basal ganglia,68.9488
+PFN1,Brain Spinal cord cervical c-1,165.984
+PFN1,Brain Substantia nigra,102.51899999999999
+PFN1,Breast Mammary Tissue,332.92
+PFN1,Cells Cultured fibroblasts,924.74
+PFN1,Cells EBV-transformed lymphocytes,1612.44
+PFN1,Cervix Ectocervix,372.97
+PFN1,Cervix Endocervix,431.213
+PFN1,Colon Sigmoid,777.015
+PFN1,Colon Transverse,546.743
+PFN1,Esophagus Gastroesophageal Junction,679.5260000000001
+PFN1,Esophagus Mucosa,411.62
+PFN1,Esophagus Muscularis,727.3789999999999
+PFN1,Fallopian Tube,541.6080000000001
+PFN1,Heart Atrial Appendage,133.727
+PFN1,Heart Left Ventricle,94.7822
+PFN1,Kidney Cortex,219.851
+PFN1,Kidney Medulla,292.603
+PFN1,Liver,213.06099999999998
+PFN1,Lung,551.442
+PFN1,Minor Salivary Gland,255.356
+PFN1,Muscle Skeletal,118.56
+PFN1,Nerve Tibial,324.301
+PFN1,Ovary,230.894
+PFN1,Pancreas,77.2476
+PFN1,Pituitary,187.95
+PFN1,Prostate,378.827
+PFN1,Skin Not Sun Exposed Suprapubic,342.20300000000003
+PFN1,Skin Sun Exposed Lower leg,346.436
+PFN1,Small Intestine Terminal Ileum,506.9
+PFN1,Spleen,689.7860000000001
+PFN1,Stomach,286.035
+PFN1,Testis,127.11200000000001
+PFN1,Thyroid,296.144
+PFN1,Uterus,642.493
+PFN1,Vagina,394.094
+PFN1,Whole Blood,955.5360000000001
+PRPH,Adipose Subcutaneous,3.4210300000000005
+PRPH,Adipose Visceral Omentum,3.4653400000000003
+PRPH,Adrenal Gland,0.303829
+PRPH,Artery Aorta,1.95387
+PRPH,Artery Coronary,4.6662
+PRPH,Artery Tibial,1.21787
+PRPH,Bladder,2.3559400000000004
+PRPH,Brain Amygdala,0.33274499999999996
+PRPH,Brain Anterior cingulate cortex BA24,0.21138400000000002
+PRPH,Brain Caudate basal ganglia,0.14387
+PRPH,Brain Cerebellar Hemisphere,1.60982
+PRPH,Brain Cerebellum,1.55095
+PRPH,Brain Cortex,0.277993
+PRPH,Brain Frontal Cortex BA9,0.265334
+PRPH,Brain Hippocampus,0.426231
+PRPH,Brain Hypothalamus,0.628692
+PRPH,Brain Nucleus accumbens basal ganglia,0.16058
+PRPH,Brain Putamen basal ganglia,0.07449220000000001
+PRPH,Brain Spinal cord cervical c-1,1.64515
+PRPH,Brain Substantia nigra,0.480074
+PRPH,Breast Mammary Tissue,2.23413
+PRPH,Cells Cultured fibroblasts,0.0362975
+PRPH,Cells EBV-transformed lymphocytes,0.028635300000000002
+PRPH,Cervix Ectocervix,6.39433
+PRPH,Cervix Endocervix,3.88044
+PRPH,Colon Sigmoid,25.3101
+PRPH,Colon Transverse,11.3721
+PRPH,Esophagus Gastroesophageal Junction,5.22805
+PRPH,Esophagus Mucosa,0.301073
+PRPH,Esophagus Muscularis,5.968
+PRPH,Fallopian Tube,4.9095
+PRPH,Heart Atrial Appendage,0.69819
+PRPH,Heart Left Ventricle,0.123849
+PRPH,Kidney Cortex,0.23496
+PRPH,Kidney Medulla,1.2797100000000001
+PRPH,Liver,0.065986
+PRPH,Lung,1.26973
+PRPH,Minor Salivary Gland,0.786281
+PRPH,Muscle Skeletal,0.129977
+PRPH,Nerve Tibial,2.7433400000000003
+PRPH,Ovary,0.8899809999999999
+PRPH,Pancreas,0.616282
+PRPH,Pituitary,3.59679
+PRPH,Prostate,2.17877
+PRPH,Skin Not Sun Exposed Suprapubic,0.9644780000000001
+PRPH,Skin Sun Exposed Lower leg,1.54125
+PRPH,Small Intestine Terminal Ileum,5.24074
+PRPH,Spleen,1.86338
+PRPH,Stomach,1.1759600000000001
+PRPH,Testis,46.2424
+PRPH,Thyroid,0.987801
+PRPH,Uterus,2.57782
+PRPH,Vagina,5.6999699999999995
+PRPH,Whole Blood,0.0
+SCFD1,Adipose Subcutaneous,29.6048
+SCFD1,Adipose Visceral Omentum,25.3239
+SCFD1,Adrenal Gland,24.3413
+SCFD1,Artery Aorta,31.9277
+SCFD1,Artery Coronary,31.2224
+SCFD1,Artery Tibial,31.1954
+SCFD1,Bladder,25.8528
+SCFD1,Brain Amygdala,11.2406
+SCFD1,Brain Anterior cingulate cortex BA24,13.4999
+SCFD1,Brain Caudate basal ganglia,14.8733
+SCFD1,Brain Cerebellar Hemisphere,26.5596
+SCFD1,Brain Cerebellum,23.2551
+SCFD1,Brain Cortex,16.3572
+SCFD1,Brain Frontal Cortex BA9,18.1618
+SCFD1,Brain Hippocampus,11.6648
+SCFD1,Brain Hypothalamus,16.3655
+SCFD1,Brain Nucleus accumbens basal ganglia,16.1528
+SCFD1,Brain Putamen basal ganglia,11.9875
+SCFD1,Brain Spinal cord cervical c-1,15.1804
+SCFD1,Brain Substantia nigra,11.8747
+SCFD1,Breast Mammary Tissue,28.0024
+SCFD1,Cells Cultured fibroblasts,50.1245
+SCFD1,Cells EBV-transformed lymphocytes,39.9363
+SCFD1,Cervix Ectocervix,39.5801
+SCFD1,Cervix Endocervix,38.5542
+SCFD1,Colon Sigmoid,23.6278
+SCFD1,Colon Transverse,21.361
+SCFD1,Esophagus Gastroesophageal Junction,22.0975
+SCFD1,Esophagus Mucosa,28.2923
+SCFD1,Esophagus Muscularis,20.891
+SCFD1,Fallopian Tube,31.6623
+SCFD1,Heart Atrial Appendage,13.183
+SCFD1,Heart Left Ventricle,9.96435
+SCFD1,Kidney Cortex,13.065999999999999
+SCFD1,Kidney Medulla,18.276
+SCFD1,Liver,13.1451
+SCFD1,Lung,29.3584
+SCFD1,Minor Salivary Gland,27.1205
+SCFD1,Muscle Skeletal,14.3068
+SCFD1,Nerve Tibial,37.0131
+SCFD1,Ovary,33.2301
+SCFD1,Pancreas,18.0469
+SCFD1,Pituitary,51.9694
+SCFD1,Prostate,28.3556
+SCFD1,Skin Not Sun Exposed Suprapubic,21.3646
+SCFD1,Skin Sun Exposed Lower leg,21.6085
+SCFD1,Small Intestine Terminal Ileum,21.9795
+SCFD1,Spleen,25.305999999999997
+SCFD1,Stomach,19.9415
+SCFD1,Testis,33.4149
+SCFD1,Thyroid,36.3505
+SCFD1,Uterus,35.1487
+SCFD1,Vagina,33.4843
+SCFD1,Whole Blood,8.5829
+SETX,Adipose Subcutaneous,21.6297
+SETX,Adipose Visceral Omentum,18.459
+SETX,Adrenal Gland,13.0268
+SETX,Artery Aorta,20.9258
+SETX,Artery Coronary,21.0351
+SETX,Artery Tibial,23.2938
+SETX,Bladder,22.9441
+SETX,Brain Amygdala,6.331259999999999
+SETX,Brain Anterior cingulate cortex BA24,6.2727
+SETX,Brain Caudate basal ganglia,7.31033
+SETX,Brain Cerebellar Hemisphere,22.4169
+SETX,Brain Cerebellum,20.840999999999998
+SETX,Brain Cortex,8.269969999999999
+SETX,Brain Frontal Cortex BA9,8.449160000000001
+SETX,Brain Hippocampus,6.35495
+SETX,Brain Hypothalamus,7.822939999999999
+SETX,Brain Nucleus accumbens basal ganglia,7.61481
+SETX,Brain Putamen basal ganglia,6.42862
+SETX,Brain Spinal cord cervical c-1,12.1497
+SETX,Brain Substantia nigra,7.665719999999999
+SETX,Breast Mammary Tissue,19.7643
+SETX,Cells Cultured fibroblasts,25.6023
+SETX,Cells EBV-transformed lymphocytes,39.3794
+SETX,Cervix Ectocervix,24.9806
+SETX,Cervix Endocervix,24.5365
+SETX,Colon Sigmoid,21.3347
+SETX,Colon Transverse,15.155
+SETX,Esophagus Gastroesophageal Junction,20.0552
+SETX,Esophagus Mucosa,14.2054
+SETX,Esophagus Muscularis,19.6595
+SETX,Fallopian Tube,25.2104
+SETX,Heart Atrial Appendage,9.090869999999999
+SETX,Heart Left Ventricle,6.14958
+SETX,Kidney Cortex,7.43918
+SETX,Kidney Medulla,13.5248
+SETX,Liver,7.38135
+SETX,Lung,25.8986
+SETX,Minor Salivary Gland,14.3717
+SETX,Muscle Skeletal,8.42999
+SETX,Nerve Tibial,25.0163
+SETX,Ovary,23.5299
+SETX,Pancreas,5.7379999999999995
+SETX,Pituitary,18.2842
+SETX,Prostate,21.965999999999998
+SETX,Skin Not Sun Exposed Suprapubic,16.2044
+SETX,Skin Sun Exposed Lower leg,16.9749
+SETX,Small Intestine Terminal Ileum,21.1123
+SETX,Spleen,32.8112
+SETX,Stomach,11.0261
+SETX,Testis,50.3839
+SETX,Thyroid,36.1316
+SETX,Uterus,25.7063
+SETX,Vagina,19.9867
+SETX,Whole Blood,11.0368
+SIGMAR1,Adipose Subcutaneous,54.0045
+SIGMAR1,Adipose Visceral Omentum,54.1219
+SIGMAR1,Adrenal Gland,63.0702
+SIGMAR1,Artery Aorta,80.645
+SIGMAR1,Artery Coronary,74.4414
+SIGMAR1,Artery Tibial,77.8375
+SIGMAR1,Bladder,70.4711
+SIGMAR1,Brain Amygdala,20.4247
+SIGMAR1,Brain Anterior cingulate cortex BA24,23.9321
+SIGMAR1,Brain Caudate basal ganglia,23.9034
+SIGMAR1,Brain Cerebellar Hemisphere,44.143
+SIGMAR1,Brain Cerebellum,45.9137
+SIGMAR1,Brain Cortex,31.3318
+SIGMAR1,Brain Frontal Cortex BA9,31.0133
+SIGMAR1,Brain Hippocampus,20.1465
+SIGMAR1,Brain Hypothalamus,31.6556
+SIGMAR1,Brain Nucleus accumbens basal ganglia,26.5721
+SIGMAR1,Brain Putamen basal ganglia,20.0026
+SIGMAR1,Brain Spinal cord cervical c-1,29.7425
+SIGMAR1,Brain Substantia nigra,20.1254
+SIGMAR1,Breast Mammary Tissue,57.4477
+SIGMAR1,Cells Cultured fibroblasts,143.92600000000002
+SIGMAR1,Cells EBV-transformed lymphocytes,38.0284
+SIGMAR1,Cervix Ectocervix,101.125
+SIGMAR1,Cervix Endocervix,93.491
+SIGMAR1,Colon Sigmoid,56.056000000000004
+SIGMAR1,Colon Transverse,49.4136
+SIGMAR1,Esophagus Gastroesophageal Junction,70.0683
+SIGMAR1,Esophagus Mucosa,62.8762
+SIGMAR1,Esophagus Muscularis,63.8845
+SIGMAR1,Fallopian Tube,84.3659
+SIGMAR1,Heart Atrial Appendage,25.098000000000003
+SIGMAR1,Heart Left Ventricle,14.3945
+SIGMAR1,Kidney Cortex,18.6747
+SIGMAR1,Kidney Medulla,24.872
+SIGMAR1,Liver,106.613
+SIGMAR1,Lung,44.8232
+SIGMAR1,Minor Salivary Gland,42.6294
+SIGMAR1,Muscle Skeletal,10.7224
+SIGMAR1,Nerve Tibial,79.6032
+SIGMAR1,Ovary,78.1391
+SIGMAR1,Pancreas,24.6225
+SIGMAR1,Pituitary,33.9549
+SIGMAR1,Prostate,60.0104
+SIGMAR1,Skin Not Sun Exposed Suprapubic,70.997
+SIGMAR1,Skin Sun Exposed Lower leg,68.867
+SIGMAR1,Small Intestine Terminal Ileum,51.6062
+SIGMAR1,Spleen,34.7694
+SIGMAR1,Stomach,41.8252
+SIGMAR1,Testis,39.4839
+SIGMAR1,Thyroid,55.722
+SIGMAR1,Uterus,86.7629
+SIGMAR1,Vagina,71.3726
+SIGMAR1,Whole Blood,13.1594
+SOD1,Adipose Subcutaneous,200.187
+SOD1,Adipose Visceral Omentum,176.017
+SOD1,Adrenal Gland,377.499
+SOD1,Artery Aorta,276.404
+SOD1,Artery Coronary,237.98
+SOD1,Artery Tibial,253.493
+SOD1,Bladder,198.016
+SOD1,Brain Amygdala,205.257
+SOD1,Brain Anterior cingulate cortex BA24,272.235
+SOD1,Brain Caudate basal ganglia,243.548
+SOD1,Brain Cerebellar Hemisphere,234.27200000000002
+SOD1,Brain Cerebellum,202.718
+SOD1,Brain Cortex,245.22400000000002
+SOD1,Brain Frontal Cortex BA9,347.651
+SOD1,Brain Hippocampus,203.74099999999999
+SOD1,Brain Hypothalamus,301.111
+SOD1,Brain Nucleus accumbens basal ganglia,262.98400000000004
+SOD1,Brain Putamen basal ganglia,196.951
+SOD1,Brain Spinal cord cervical c-1,289.02
+SOD1,Brain Substantia nigra,247.236
+SOD1,Breast Mammary Tissue,177.733
+SOD1,Cells Cultured fibroblasts,216.563
+SOD1,Cells EBV-transformed lymphocytes,179.274
+SOD1,Cervix Ectocervix,197.208
+SOD1,Cervix Endocervix,182.793
+SOD1,Colon Sigmoid,180.483
+SOD1,Colon Transverse,161.602
+SOD1,Esophagus Gastroesophageal Junction,186.815
+SOD1,Esophagus Mucosa,141.721
+SOD1,Esophagus Muscularis,182.93900000000002
+SOD1,Fallopian Tube,174.50599999999997
+SOD1,Heart Atrial Appendage,150.091
+SOD1,Heart Left Ventricle,156.168
+SOD1,Kidney Cortex,178.735
+SOD1,Kidney Medulla,236.537
+SOD1,Liver,378.478
+SOD1,Lung,134.971
+SOD1,Minor Salivary Gland,111.898
+SOD1,Muscle Skeletal,136.548
+SOD1,Nerve Tibial,215.584
+SOD1,Ovary,269.823
+SOD1,Pancreas,33.4015
+SOD1,Pituitary,196.65200000000002
+SOD1,Prostate,174.12900000000002
+SOD1,Skin Not Sun Exposed Suprapubic,110.818
+SOD1,Skin Sun Exposed Lower leg,112.681
+SOD1,Small Intestine Terminal Ileum,150.99
+SOD1,Spleen,113.02
+SOD1,Stomach,115.485
+SOD1,Testis,145.477
+SOD1,Thyroid,192.199
+SOD1,Uterus,184.812
+SOD1,Vagina,187.822
+SOD1,Whole Blood,33.0538
+SPG11,Adipose Subcutaneous,17.9237
+SPG11,Adipose Visceral Omentum,14.924000000000001
+SPG11,Adrenal Gland,16.4862
+SPG11,Artery Aorta,15.8108
+SPG11,Artery Coronary,16.2072
+SPG11,Artery Tibial,16.9314
+SPG11,Bladder,19.39
+SPG11,Brain Amygdala,4.7274400000000005
+SPG11,Brain Anterior cingulate cortex BA24,5.184069999999999
+SPG11,Brain Caudate basal ganglia,5.93117
+SPG11,Brain Cerebellar Hemisphere,12.9736
+SPG11,Brain Cerebellum,12.9858
+SPG11,Brain Cortex,6.76365
+SPG11,Brain Frontal Cortex BA9,6.47981
+SPG11,Brain Hippocampus,5.093999999999999
+SPG11,Brain Hypothalamus,5.93422
+SPG11,Brain Nucleus accumbens basal ganglia,5.55265
+SPG11,Brain Putamen basal ganglia,4.7868
+SPG11,Brain Spinal cord cervical c-1,9.48278
+SPG11,Brain Substantia nigra,6.087000000000001
+SPG11,Breast Mammary Tissue,17.5517
+SPG11,Cells Cultured fibroblasts,23.2993
+SPG11,Cells EBV-transformed lymphocytes,32.9908
+SPG11,Cervix Ectocervix,19.9036
+SPG11,Cervix Endocervix,22.031
+SPG11,Colon Sigmoid,15.957
+SPG11,Colon Transverse,15.7179
+SPG11,Esophagus Gastroesophageal Junction,14.0539
+SPG11,Esophagus Mucosa,15.727
+SPG11,Esophagus Muscularis,14.1071
+SPG11,Fallopian Tube,19.2345
+SPG11,Heart Atrial Appendage,8.243780000000001
+SPG11,Heart Left Ventricle,6.771719999999999
+SPG11,Kidney Cortex,8.0878
+SPG11,Kidney Medulla,10.4318
+SPG11,Liver,6.5414699999999995
+SPG11,Lung,22.7266
+SPG11,Minor Salivary Gland,18.1383
+SPG11,Muscle Skeletal,8.46012
+SPG11,Nerve Tibial,21.480999999999998
+SPG11,Ovary,20.5848
+SPG11,Pancreas,7.72395
+SPG11,Pituitary,15.5498
+SPG11,Prostate,18.6623
+SPG11,Skin Not Sun Exposed Suprapubic,19.2543
+SPG11,Skin Sun Exposed Lower leg,20.569000000000003
+SPG11,Small Intestine Terminal Ileum,19.0418
+SPG11,Spleen,26.5454
+SPG11,Stomach,13.7789
+SPG11,Testis,22.3484
+SPG11,Thyroid,29.2456
+SPG11,Uterus,20.3288
+SPG11,Vagina,19.9102
+SPG11,Whole Blood,13.0189
+SPTLC1,Adipose Subcutaneous,27.8074
+SPTLC1,Adipose Visceral Omentum,23.8612
+SPTLC1,Adrenal Gland,21.1079
+SPTLC1,Artery Aorta,25.62
+SPTLC1,Artery Coronary,24.1857
+SPTLC1,Artery Tibial,26.4862
+SPTLC1,Bladder,24.791999999999998
+SPTLC1,Brain Amygdala,8.3959
+SPTLC1,Brain Anterior cingulate cortex BA24,9.768460000000001
+SPTLC1,Brain Caudate basal ganglia,11.5774
+SPTLC1,Brain Cerebellar Hemisphere,18.4367
+SPTLC1,Brain Cerebellum,16.1806
+SPTLC1,Brain Cortex,9.45598
+SPTLC1,Brain Frontal Cortex BA9,13.2649
+SPTLC1,Brain Hippocampus,9.313880000000001
+SPTLC1,Brain Hypothalamus,12.9394
+SPTLC1,Brain Nucleus accumbens basal ganglia,12.0532
+SPTLC1,Brain Putamen basal ganglia,8.52476
+SPTLC1,Brain Spinal cord cervical c-1,20.8244
+SPTLC1,Brain Substantia nigra,10.2589
+SPTLC1,Breast Mammary Tissue,26.0977
+SPTLC1,Cells Cultured fibroblasts,55.6405
+SPTLC1,Cells EBV-transformed lymphocytes,29.38
+SPTLC1,Cervix Ectocervix,36.8481
+SPTLC1,Cervix Endocervix,34.0963
+SPTLC1,Colon Sigmoid,19.6207
+SPTLC1,Colon Transverse,19.3779
+SPTLC1,Esophagus Gastroesophageal Junction,18.8473
+SPTLC1,Esophagus Mucosa,37.5727
+SPTLC1,Esophagus Muscularis,18.2514
+SPTLC1,Fallopian Tube,28.1881
+SPTLC1,Heart Atrial Appendage,8.85416
+SPTLC1,Heart Left Ventricle,4.7893300000000005
+SPTLC1,Kidney Cortex,9.215760000000001
+SPTLC1,Kidney Medulla,13.7109
+SPTLC1,Liver,5.297619999999999
+SPTLC1,Lung,25.3241
+SPTLC1,Minor Salivary Gland,24.1131
+SPTLC1,Muscle Skeletal,5.60161
+SPTLC1,Nerve Tibial,31.1875
+SPTLC1,Ovary,36.8185
+SPTLC1,Pancreas,8.708789999999999
+SPTLC1,Pituitary,18.3695
+SPTLC1,Prostate,17.3541
+SPTLC1,Skin Not Sun Exposed Suprapubic,29.9585
+SPTLC1,Skin Sun Exposed Lower leg,32.2135
+SPTLC1,Small Intestine Terminal Ileum,20.1512
+SPTLC1,Spleen,15.7863
+SPTLC1,Stomach,15.6587
+SPTLC1,Testis,23.396
+SPTLC1,Thyroid,31.3418
+SPTLC1,Uterus,32.2567
+SPTLC1,Vagina,36.4776
+SPTLC1,Whole Blood,8.31427
+SQSTM1,Adipose Subcutaneous,114.586
+SQSTM1,Adipose Visceral Omentum,86.0316
+SQSTM1,Adrenal Gland,131.265
+SQSTM1,Artery Aorta,135.564
+SQSTM1,Artery Coronary,100.694
+SQSTM1,Artery Tibial,140.41
+SQSTM1,Bladder,113.345
+SQSTM1,Brain Amygdala,24.5088
+SQSTM1,Brain Anterior cingulate cortex BA24,28.5072
+SQSTM1,Brain Caudate basal ganglia,26.2952
+SQSTM1,Brain Cerebellar Hemisphere,74.9535
+SQSTM1,Brain Cerebellum,66.1473
+SQSTM1,Brain Cortex,35.4774
+SQSTM1,Brain Frontal Cortex BA9,38.8814
+SQSTM1,Brain Hippocampus,21.9477
+SQSTM1,Brain Hypothalamus,29.9459
+SQSTM1,Brain Nucleus accumbens basal ganglia,28.4048
+SQSTM1,Brain Putamen basal ganglia,23.6374
+SQSTM1,Brain Spinal cord cervical c-1,36.5794
+SQSTM1,Brain Substantia nigra,28.5678
+SQSTM1,Breast Mammary Tissue,92.0202
+SQSTM1,Cells Cultured fibroblasts,133.968
+SQSTM1,Cells EBV-transformed lymphocytes,47.0178
+SQSTM1,Cervix Ectocervix,89.229
+SQSTM1,Cervix Endocervix,108.073
+SQSTM1,Colon Sigmoid,79.6421
+SQSTM1,Colon Transverse,54.5825
+SQSTM1,Esophagus Gastroesophageal Junction,91.8471
+SQSTM1,Esophagus Mucosa,48.7482
+SQSTM1,Esophagus Muscularis,84.3134
+SQSTM1,Fallopian Tube,85.3519
+SQSTM1,Heart Atrial Appendage,50.6942
+SQSTM1,Heart Left Ventricle,39.7057
+SQSTM1,Kidney Cortex,38.3363
+SQSTM1,Kidney Medulla,42.5739
+SQSTM1,Liver,40.5774
+SQSTM1,Lung,95.2226
+SQSTM1,Minor Salivary Gland,79.58800000000001
+SQSTM1,Muscle Skeletal,155.165
+SQSTM1,Nerve Tibial,92.905
+SQSTM1,Ovary,95.5382
+SQSTM1,Pancreas,35.686
+SQSTM1,Pituitary,57.5528
+SQSTM1,Prostate,70.9347
+SQSTM1,Skin Not Sun Exposed Suprapubic,50.5473
+SQSTM1,Skin Sun Exposed Lower leg,57.4097
+SQSTM1,Small Intestine Terminal Ileum,57.5311
+SQSTM1,Spleen,53.4799
+SQSTM1,Stomach,63.745
+SQSTM1,Testis,33.3126
+SQSTM1,Thyroid,124.78200000000001
+SQSTM1,Uterus,95.8294
+SQSTM1,Vagina,76.9359
+SQSTM1,Whole Blood,34.3939
+TAF15,Adipose Subcutaneous,97.7866
+TAF15,Adipose Visceral Omentum,88.241
+TAF15,Adrenal Gland,92.0145
+TAF15,Artery Aorta,93.2814
+TAF15,Artery Coronary,88.5796
+TAF15,Artery Tibial,98.2961
+TAF15,Bladder,127.375
+TAF15,Brain Amygdala,54.86600000000001
+TAF15,Brain Anterior cingulate cortex BA24,56.1785
+TAF15,Brain Caudate basal ganglia,61.9646
+TAF15,Brain Cerebellar Hemisphere,135.562
+TAF15,Brain Cerebellum,112.71
+TAF15,Brain Cortex,63.6766
+TAF15,Brain Frontal Cortex BA9,76.2569
+TAF15,Brain Hippocampus,56.6571
+TAF15,Brain Hypothalamus,68.3501
+TAF15,Brain Nucleus accumbens basal ganglia,64.6725
+TAF15,Brain Putamen basal ganglia,54.7664
+TAF15,Brain Spinal cord cervical c-1,93.4464
+TAF15,Brain Substantia nigra,65.7008
+TAF15,Breast Mammary Tissue,92.1865
+TAF15,Cells Cultured fibroblasts,180.02
+TAF15,Cells EBV-transformed lymphocytes,199.62
+TAF15,Cervix Ectocervix,132.44
+TAF15,Cervix Endocervix,136.149
+TAF15,Colon Sigmoid,112.17200000000001
+TAF15,Colon Transverse,91.8379
+TAF15,Esophagus Gastroesophageal Junction,126.603
+TAF15,Esophagus Mucosa,128.803
+TAF15,Esophagus Muscularis,141.225
+TAF15,Fallopian Tube,123.447
+TAF15,Heart Atrial Appendage,50.4312
+TAF15,Heart Left Ventricle,43.0698
+TAF15,Kidney Cortex,40.4184
+TAF15,Kidney Medulla,69.6382
+TAF15,Liver,46.4413
+TAF15,Lung,104.98700000000001
+TAF15,Minor Salivary Gland,90.9146
+TAF15,Muscle Skeletal,67.9551
+TAF15,Nerve Tibial,129.236
+TAF15,Ovary,127.507
+TAF15,Pancreas,42.0927
+TAF15,Pituitary,128.27200000000002
+TAF15,Prostate,115.749
+TAF15,Skin Not Sun Exposed Suprapubic,114.18700000000001
+TAF15,Skin Sun Exposed Lower leg,116.32799999999999
+TAF15,Small Intestine Terminal Ileum,114.20200000000001
+TAF15,Spleen,121.073
+TAF15,Stomach,84.4878
+TAF15,Testis,191.92
+TAF15,Thyroid,118.95100000000001
+TAF15,Uterus,137.953
+TAF15,Vagina,126.536
+TAF15,Whole Blood,36.904
+TARDBP,Adipose Subcutaneous,70.0366
+TARDBP,Adipose Visceral Omentum,62.5182
+TARDBP,Adrenal Gland,49.934
+TARDBP,Artery Aorta,91.7253
+TARDBP,Artery Coronary,86.3784
+TARDBP,Artery Tibial,92.0825
+TARDBP,Bladder,85.5851
+TARDBP,Brain Amygdala,32.2323
+TARDBP,Brain Anterior cingulate cortex BA24,32.076
+TARDBP,Brain Caudate basal ganglia,37.8987
+TARDBP,Brain Cerebellar Hemisphere,114.93799999999999
+TARDBP,Brain Cerebellum,103.935
+TARDBP,Brain Cortex,36.056999999999995
+TARDBP,Brain Frontal Cortex BA9,43.9303
+TARDBP,Brain Hippocampus,32.9443
+TARDBP,Brain Hypothalamus,40.1141
+TARDBP,Brain Nucleus accumbens basal ganglia,39.2429
+TARDBP,Brain Putamen basal ganglia,32.1721
+TARDBP,Brain Spinal cord cervical c-1,57.3304
+TARDBP,Brain Substantia nigra,39.115
+TARDBP,Breast Mammary Tissue,72.9861
+TARDBP,Cells Cultured fibroblasts,83.1337
+TARDBP,Cells EBV-transformed lymphocytes,96.7138
+TARDBP,Cervix Ectocervix,103.198
+TARDBP,Cervix Endocervix,104.868
+TARDBP,Colon Sigmoid,83.749
+TARDBP,Colon Transverse,64.262
+TARDBP,Esophagus Gastroesophageal Junction,78.1183
+TARDBP,Esophagus Mucosa,69.4639
+TARDBP,Esophagus Muscularis,76.5341
+TARDBP,Fallopian Tube,98.7372
+TARDBP,Heart Atrial Appendage,34.7478
+TARDBP,Heart Left Ventricle,26.706999999999997
+TARDBP,Kidney Cortex,35.4854
+TARDBP,Kidney Medulla,56.9888
+TARDBP,Liver,36.2955
+TARDBP,Lung,88.3095
+TARDBP,Minor Salivary Gland,67.1162
+TARDBP,Muscle Skeletal,44.93899999999999
+TARDBP,Nerve Tibial,121.205
+TARDBP,Ovary,111.444
+TARDBP,Pancreas,25.5769
+TARDBP,Pituitary,87.7797
+TARDBP,Prostate,88.6881
+TARDBP,Skin Not Sun Exposed Suprapubic,76.1884
+TARDBP,Skin Sun Exposed Lower leg,78.2626
+TARDBP,Small Intestine Terminal Ileum,71.3707
+TARDBP,Spleen,77.186
+TARDBP,Stomach,50.5088
+TARDBP,Testis,74.0076
+TARDBP,Thyroid,105.54
+TARDBP,Uterus,114.846
+TARDBP,Vagina,88.7943
+TARDBP,Whole Blood,15.5799
+TBK1,Adipose Subcutaneous,26.5881
+TBK1,Adipose Visceral Omentum,22.4289
+TBK1,Adrenal Gland,27.3478
+TBK1,Artery Aorta,24.8469
+TBK1,Artery Coronary,24.2907
+TBK1,Artery Tibial,27.1089
+TBK1,Bladder,24.811999999999998
+TBK1,Brain Amygdala,8.207189999999999
+TBK1,Brain Anterior cingulate cortex BA24,10.1335
+TBK1,Brain Caudate basal ganglia,9.12168
+TBK1,Brain Cerebellar Hemisphere,26.5023
+TBK1,Brain Cerebellum,22.5323
+TBK1,Brain Cortex,13.3599
+TBK1,Brain Frontal Cortex BA9,16.7588
+TBK1,Brain Hippocampus,8.94417
+TBK1,Brain Hypothalamus,13.6161
+TBK1,Brain Nucleus accumbens basal ganglia,8.88909
+TBK1,Brain Putamen basal ganglia,7.890210000000001
+TBK1,Brain Spinal cord cervical c-1,15.2279
+TBK1,Brain Substantia nigra,10.597999999999999
+TBK1,Breast Mammary Tissue,25.1589
+TBK1,Cells Cultured fibroblasts,35.0447
+TBK1,Cells EBV-transformed lymphocytes,50.2511
+TBK1,Cervix Ectocervix,30.0245
+TBK1,Cervix Endocervix,28.1412
+TBK1,Colon Sigmoid,23.0007
+TBK1,Colon Transverse,17.839000000000002
+TBK1,Esophagus Gastroesophageal Junction,22.1114
+TBK1,Esophagus Mucosa,19.1035
+TBK1,Esophagus Muscularis,22.4706
+TBK1,Fallopian Tube,27.1535
+TBK1,Heart Atrial Appendage,8.87113
+TBK1,Heart Left Ventricle,6.94693
+TBK1,Kidney Cortex,9.3292
+TBK1,Kidney Medulla,13.6696
+TBK1,Liver,10.6025
+TBK1,Lung,30.8139
+TBK1,Minor Salivary Gland,19.6366
+TBK1,Muscle Skeletal,16.9666
+TBK1,Nerve Tibial,27.557
+TBK1,Ovary,24.7445
+TBK1,Pancreas,6.30506
+TBK1,Pituitary,22.9045
+TBK1,Prostate,24.4721
+TBK1,Skin Not Sun Exposed Suprapubic,17.8534
+TBK1,Skin Sun Exposed Lower leg,18.4358
+TBK1,Small Intestine Terminal Ileum,23.1496
+TBK1,Spleen,28.7869
+TBK1,Stomach,16.5434
+TBK1,Testis,42.8403
+TBK1,Thyroid,23.7953
+TBK1,Uterus,30.289
+TBK1,Vagina,25.5537
+TBK1,Whole Blood,8.29851
+TIA1,Adipose Subcutaneous,37.9356
+TIA1,Adipose Visceral Omentum,33.8979
+TIA1,Adrenal Gland,38.3893
+TIA1,Artery Aorta,46.9366
+TIA1,Artery Coronary,48.8453
+TIA1,Artery Tibial,48.1997
+TIA1,Bladder,55.7797
+TIA1,Brain Amygdala,14.6242
+TIA1,Brain Anterior cingulate cortex BA24,15.5977
+TIA1,Brain Caudate basal ganglia,18.0677
+TIA1,Brain Cerebellar Hemisphere,84.5471
+TIA1,Brain Cerebellum,78.987
+TIA1,Brain Cortex,19.9561
+TIA1,Brain Frontal Cortex BA9,19.2518
+TIA1,Brain Hippocampus,17.9105
+TIA1,Brain Hypothalamus,21.3333
+TIA1,Brain Nucleus accumbens basal ganglia,18.121
+TIA1,Brain Putamen basal ganglia,14.6986
+TIA1,Brain Spinal cord cervical c-1,30.1975
+TIA1,Brain Substantia nigra,16.9443
+TIA1,Breast Mammary Tissue,47.3028
+TIA1,Cells Cultured fibroblasts,35.3889
+TIA1,Cells EBV-transformed lymphocytes,42.9799
+TIA1,Cervix Ectocervix,100.314
+TIA1,Cervix Endocervix,105.166
+TIA1,Colon Sigmoid,58.0449
+TIA1,Colon Transverse,45.6434
+TIA1,Esophagus Gastroesophageal Junction,49.96
+TIA1,Esophagus Mucosa,28.6306
+TIA1,Esophagus Muscularis,47.1264
+TIA1,Fallopian Tube,98.4832
+TIA1,Heart Atrial Appendage,17.7516
+TIA1,Heart Left Ventricle,12.7863
+TIA1,Kidney Cortex,23.2856
+TIA1,Kidney Medulla,42.086999999999996
+TIA1,Liver,17.7124
+TIA1,Lung,46.9342
+TIA1,Minor Salivary Gland,49.3144
+TIA1,Muscle Skeletal,13.339
+TIA1,Nerve Tibial,67.2559
+TIA1,Ovary,112.72399999999999
+TIA1,Pancreas,20.9051
+TIA1,Pituitary,72.5005
+TIA1,Prostate,65.62100000000001
+TIA1,Skin Not Sun Exposed Suprapubic,31.1424
+TIA1,Skin Sun Exposed Lower leg,29.243000000000002
+TIA1,Small Intestine Terminal Ileum,56.2701
+TIA1,Spleen,70.319
+TIA1,Stomach,37.1064
+TIA1,Testis,29.7159
+TIA1,Thyroid,78.9362
+TIA1,Uterus,102.59700000000001
+TIA1,Vagina,58.5036
+TIA1,Whole Blood,9.63804
+TMEM106B,Adipose Subcutaneous,8.12623
+TMEM106B,Adipose Visceral Omentum,6.643960000000001
+TMEM106B,Adrenal Gland,13.7214
+TMEM106B,Artery Aorta,10.1477
+TMEM106B,Artery Coronary,9.58313
+TMEM106B,Artery Tibial,10.9446
+TMEM106B,Bladder,8.7076
+TMEM106B,Brain Amygdala,4.68115
+TMEM106B,Brain Anterior cingulate cortex BA24,5.23727
+TMEM106B,Brain Caudate basal ganglia,5.28605
+TMEM106B,Brain Cerebellar Hemisphere,12.0232
+TMEM106B,Brain Cerebellum,10.3608
+TMEM106B,Brain Cortex,4.93886
+TMEM106B,Brain Frontal Cortex BA9,6.90408
+TMEM106B,Brain Hippocampus,4.847519999999999
+TMEM106B,Brain Hypothalamus,6.46745
+TMEM106B,Brain Nucleus accumbens basal ganglia,5.5325
+TMEM106B,Brain Putamen basal ganglia,4.21278
+TMEM106B,Brain Spinal cord cervical c-1,10.3211
+TMEM106B,Brain Substantia nigra,5.24235
+TMEM106B,Breast Mammary Tissue,7.30437
+TMEM106B,Cells Cultured fibroblasts,11.6508
+TMEM106B,Cells EBV-transformed lymphocytes,3.64014
+TMEM106B,Cervix Ectocervix,14.3433
+TMEM106B,Cervix Endocervix,14.8039
+TMEM106B,Colon Sigmoid,9.99789
+TMEM106B,Colon Transverse,7.22185
+TMEM106B,Esophagus Gastroesophageal Junction,8.36025
+TMEM106B,Esophagus Mucosa,5.37866
+TMEM106B,Esophagus Muscularis,8.089039999999999
+TMEM106B,Fallopian Tube,12.2406
+TMEM106B,Heart Atrial Appendage,4.66176
+TMEM106B,Heart Left Ventricle,3.1248099999999996
+TMEM106B,Kidney Cortex,4.18201
+TMEM106B,Kidney Medulla,6.1637900000000005
+TMEM106B,Liver,4.2804400000000005
+TMEM106B,Lung,6.958880000000001
+TMEM106B,Minor Salivary Gland,8.21166
+TMEM106B,Muscle Skeletal,5.25157
+TMEM106B,Nerve Tibial,11.8998
+TMEM106B,Ovary,11.1415
+TMEM106B,Pancreas,2.99892
+TMEM106B,Pituitary,9.6699
+TMEM106B,Prostate,8.63898
+TMEM106B,Skin Not Sun Exposed Suprapubic,6.23607
+TMEM106B,Skin Sun Exposed Lower leg,6.67512
+TMEM106B,Small Intestine Terminal Ileum,6.57131
+TMEM106B,Spleen,4.92914
+TMEM106B,Stomach,4.92096
+TMEM106B,Testis,5.19551
+TMEM106B,Thyroid,10.9044
+TMEM106B,Uterus,14.4768
+TMEM106B,Vagina,8.87524
+TMEM106B,Whole Blood,1.01201
+TRPM7,Adipose Subcutaneous,12.9699
+TRPM7,Adipose Visceral Omentum,11.4979
+TRPM7,Adrenal Gland,8.04815
+TRPM7,Artery Aorta,12.1778
+TRPM7,Artery Coronary,12.2473
+TRPM7,Artery Tibial,11.9257
+TRPM7,Bladder,14.3553
+TRPM7,Brain Amygdala,1.96764
+TRPM7,Brain Anterior cingulate cortex BA24,2.35698
+TRPM7,Brain Caudate basal ganglia,3.04245
+TRPM7,Brain Cerebellar Hemisphere,17.0874
+TRPM7,Brain Cerebellum,15.8027
+TRPM7,Brain Cortex,3.29032
+TRPM7,Brain Frontal Cortex BA9,3.5601300000000005
+TRPM7,Brain Hippocampus,2.52166
+TRPM7,Brain Hypothalamus,2.9373299999999998
+TRPM7,Brain Nucleus accumbens basal ganglia,3.17469
+TRPM7,Brain Putamen basal ganglia,2.40047
+TRPM7,Brain Spinal cord cervical c-1,4.26733
+TRPM7,Brain Substantia nigra,2.81169
+TRPM7,Breast Mammary Tissue,11.5155
+TRPM7,Cells Cultured fibroblasts,22.2765
+TRPM7,Cells EBV-transformed lymphocytes,25.3255
+TRPM7,Cervix Ectocervix,15.8788
+TRPM7,Cervix Endocervix,16.4457
+TRPM7,Colon Sigmoid,11.1077
+TRPM7,Colon Transverse,9.47596
+TRPM7,Esophagus Gastroesophageal Junction,12.3567
+TRPM7,Esophagus Mucosa,7.3431
+TRPM7,Esophagus Muscularis,11.0107
+TRPM7,Fallopian Tube,14.3852
+TRPM7,Heart Atrial Appendage,7.1799800000000005
+TRPM7,Heart Left Ventricle,6.40802
+TRPM7,Kidney Cortex,6.4688
+TRPM7,Kidney Medulla,6.49495
+TRPM7,Liver,8.02567
+TRPM7,Lung,12.3091
+TRPM7,Minor Salivary Gland,9.8461
+TRPM7,Muscle Skeletal,4.5176099999999995
+TRPM7,Nerve Tibial,16.2446
+TRPM7,Ovary,18.5663
+TRPM7,Pancreas,4.24156
+TRPM7,Pituitary,8.394060000000001
+TRPM7,Prostate,10.5149
+TRPM7,Skin Not Sun Exposed Suprapubic,12.2506
+TRPM7,Skin Sun Exposed Lower leg,11.8405
+TRPM7,Small Intestine Terminal Ileum,11.1555
+TRPM7,Spleen,10.4191
+TRPM7,Stomach,7.54564
+TRPM7,Testis,9.2072
+TRPM7,Thyroid,14.6365
+TRPM7,Uterus,17.8931
+TRPM7,Vagina,13.1906
+TRPM7,Whole Blood,1.6868599999999998
+TUBA4A,Adipose Subcutaneous,15.1659
+TUBA4A,Adipose Visceral Omentum,19.6462
+TUBA4A,Adrenal Gland,21.1957
+TUBA4A,Artery Aorta,69.315
+TUBA4A,Artery Coronary,37.3786
+TUBA4A,Artery Tibial,45.793
+TUBA4A,Bladder,34.6263
+TUBA4A,Brain Amygdala,44.4777
+TUBA4A,Brain Anterior cingulate cortex BA24,83.7867
+TUBA4A,Brain Caudate basal ganglia,38.5917
+TUBA4A,Brain Cerebellar Hemisphere,132.025
+TUBA4A,Brain Cerebellum,118.915
+TUBA4A,Brain Cortex,132.11
+TUBA4A,Brain Frontal Cortex BA9,175.87
+TUBA4A,Brain Hippocampus,41.8587
+TUBA4A,Brain Hypothalamus,67.036
+TUBA4A,Brain Nucleus accumbens basal ganglia,44.8515
+TUBA4A,Brain Putamen basal ganglia,31.5535
+TUBA4A,Brain Spinal cord cervical c-1,13.299000000000001
+TUBA4A,Brain Substantia nigra,34.5511
+TUBA4A,Breast Mammary Tissue,20.1765
+TUBA4A,Cells Cultured fibroblasts,15.1107
+TUBA4A,Cells EBV-transformed lymphocytes,164.77700000000002
+TUBA4A,Cervix Ectocervix,11.6872
+TUBA4A,Cervix Endocervix,13.1797
+TUBA4A,Colon Sigmoid,41.9441
+TUBA4A,Colon Transverse,40.1836
+TUBA4A,Esophagus Gastroesophageal Junction,45.5178
+TUBA4A,Esophagus Mucosa,108.40700000000001
+TUBA4A,Esophagus Muscularis,46.3948
+TUBA4A,Fallopian Tube,26.1849
+TUBA4A,Heart Atrial Appendage,31.5925
+TUBA4A,Heart Left Ventricle,41.9094
+TUBA4A,Kidney Cortex,24.2437
+TUBA4A,Kidney Medulla,25.8599
+TUBA4A,Liver,14.2262
+TUBA4A,Lung,41.7503
+TUBA4A,Minor Salivary Gland,45.5095
+TUBA4A,Muscle Skeletal,203.543
+TUBA4A,Nerve Tibial,13.5901
+TUBA4A,Ovary,17.2872
+TUBA4A,Pancreas,9.37031
+TUBA4A,Pituitary,35.1309
+TUBA4A,Prostate,31.307
+TUBA4A,Skin Not Sun Exposed Suprapubic,197.31599999999997
+TUBA4A,Skin Sun Exposed Lower leg,202.824
+TUBA4A,Small Intestine Terminal Ileum,46.1376
+TUBA4A,Spleen,82.9602
+TUBA4A,Stomach,32.7265
+TUBA4A,Testis,77.863
+TUBA4A,Thyroid,19.4716
+TUBA4A,Uterus,16.0561
+TUBA4A,Vagina,73.4643
+TUBA4A,Whole Blood,239.898
+UBQLN2,Adipose Subcutaneous,25.0412
+UBQLN2,Adipose Visceral Omentum,21.5158
+UBQLN2,Adrenal Gland,24.6876
+UBQLN2,Artery Aorta,35.249
+UBQLN2,Artery Coronary,30.1966
+UBQLN2,Artery Tibial,35.3015
+UBQLN2,Bladder,31.2521
+UBQLN2,Brain Amygdala,26.1543
+UBQLN2,Brain Anterior cingulate cortex BA24,34.2742
+UBQLN2,Brain Caudate basal ganglia,34.9206
+UBQLN2,Brain Cerebellar Hemisphere,75.5094
+UBQLN2,Brain Cerebellum,48.0067
+UBQLN2,Brain Cortex,27.609
+UBQLN2,Brain Frontal Cortex BA9,52.463
+UBQLN2,Brain Hippocampus,25.2049
+UBQLN2,Brain Hypothalamus,33.7726
+UBQLN2,Brain Nucleus accumbens basal ganglia,42.8803
+UBQLN2,Brain Putamen basal ganglia,25.9047
+UBQLN2,Brain Spinal cord cervical c-1,26.9298
+UBQLN2,Brain Substantia nigra,20.7992
+UBQLN2,Breast Mammary Tissue,23.2254
+UBQLN2,Cells Cultured fibroblasts,38.4459
+UBQLN2,Cells EBV-transformed lymphocytes,32.258
+UBQLN2,Cervix Ectocervix,30.7675
+UBQLN2,Cervix Endocervix,30.8203
+UBQLN2,Colon Sigmoid,30.9572
+UBQLN2,Colon Transverse,20.4431
+UBQLN2,Esophagus Gastroesophageal Junction,28.4264
+UBQLN2,Esophagus Mucosa,28.7915
+UBQLN2,Esophagus Muscularis,28.6824
+UBQLN2,Fallopian Tube,35.5137
+UBQLN2,Heart Atrial Appendage,12.7223
+UBQLN2,Heart Left Ventricle,12.5616
+UBQLN2,Kidney Cortex,10.4804
+UBQLN2,Kidney Medulla,17.5306
+UBQLN2,Liver,11.7495
+UBQLN2,Lung,25.7256
+UBQLN2,Minor Salivary Gland,22.3041
+UBQLN2,Muscle Skeletal,22.0616
+UBQLN2,Nerve Tibial,30.9593
+UBQLN2,Ovary,34.5571
+UBQLN2,Pancreas,5.92523
+UBQLN2,Pituitary,34.4213
+UBQLN2,Prostate,24.9539
+UBQLN2,Skin Not Sun Exposed Suprapubic,21.5076
+UBQLN2,Skin Sun Exposed Lower leg,23.8591
+UBQLN2,Small Intestine Terminal Ileum,21.5706
+UBQLN2,Spleen,21.4258
+UBQLN2,Stomach,13.7759
+UBQLN2,Testis,7.97721
+UBQLN2,Thyroid,33.1515
+UBQLN2,Uterus,34.7919
+UBQLN2,Vagina,23.9519
+UBQLN2,Whole Blood,13.2365
+UBQLN4,Adipose Subcutaneous,31.1125
+UBQLN4,Adipose Visceral Omentum,26.7198
+UBQLN4,Adrenal Gland,23.0957
+UBQLN4,Artery Aorta,36.2973
+UBQLN4,Artery Coronary,34.8096
+UBQLN4,Artery Tibial,36.8569
+UBQLN4,Bladder,45.0914
+UBQLN4,Brain Amygdala,28.2894
+UBQLN4,Brain Anterior cingulate cortex BA24,41.9028
+UBQLN4,Brain Caudate basal ganglia,39.7258
+UBQLN4,Brain Cerebellar Hemisphere,51.4131
+UBQLN4,Brain Cerebellum,51.9235
+UBQLN4,Brain Cortex,53.3113
+UBQLN4,Brain Frontal Cortex BA9,52.4558
+UBQLN4,Brain Hippocampus,25.138
+UBQLN4,Brain Hypothalamus,25.6882
+UBQLN4,Brain Nucleus accumbens basal ganglia,36.2562
+UBQLN4,Brain Putamen basal ganglia,30.7313
+UBQLN4,Brain Spinal cord cervical c-1,27.7627
+UBQLN4,Brain Substantia nigra,24.5576
+UBQLN4,Breast Mammary Tissue,31.1935
+UBQLN4,Cells Cultured fibroblasts,30.1692
+UBQLN4,Cells EBV-transformed lymphocytes,32.1065
+UBQLN4,Cervix Ectocervix,64.1289
+UBQLN4,Cervix Endocervix,68.0323
+UBQLN4,Colon Sigmoid,39.308
+UBQLN4,Colon Transverse,28.6982
+UBQLN4,Esophagus Gastroesophageal Junction,33.3366
+UBQLN4,Esophagus Mucosa,42.1484
+UBQLN4,Esophagus Muscularis,33.4362
+UBQLN4,Fallopian Tube,63.1597
+UBQLN4,Heart Atrial Appendage,19.2046
+UBQLN4,Heart Left Ventricle,14.5222
+UBQLN4,Kidney Cortex,20.3559
+UBQLN4,Kidney Medulla,26.9001
+UBQLN4,Liver,18.6837
+UBQLN4,Lung,38.0145
+UBQLN4,Minor Salivary Gland,32.7626
+UBQLN4,Muscle Skeletal,40.0518
+UBQLN4,Nerve Tibial,56.9923
+UBQLN4,Ovary,40.3806
+UBQLN4,Pancreas,18.4264
+UBQLN4,Pituitary,18.7718
+UBQLN4,Prostate,44.5471
+UBQLN4,Skin Not Sun Exposed Suprapubic,38.755
+UBQLN4,Skin Sun Exposed Lower leg,40.5844
+UBQLN4,Small Intestine Terminal Ileum,27.5236
+UBQLN4,Spleen,30.0442
+UBQLN4,Stomach,32.9513
+UBQLN4,Testis,39.4145
+UBQLN4,Thyroid,34.9821
+UBQLN4,Uterus,57.6495
+UBQLN4,Vagina,46.2931
+UBQLN4,Whole Blood,6.00216
+UNC13A,Adipose Subcutaneous,0.189392
+UNC13A,Adipose Visceral Omentum,0.189338
+UNC13A,Adrenal Gland,1.68765
+UNC13A,Artery Aorta,2.79497
+UNC13A,Artery Coronary,0.9417540000000001
+UNC13A,Artery Tibial,0.9792569999999999
+UNC13A,Bladder,0.18932100000000002
+UNC13A,Brain Amygdala,17.8504
+UNC13A,Brain Anterior cingulate cortex BA24,35.1447
+UNC13A,Brain Caudate basal ganglia,20.6167
+UNC13A,Brain Cerebellar Hemisphere,89.7925
+UNC13A,Brain Cerebellum,86.6024
+UNC13A,Brain Cortex,52.0506
+UNC13A,Brain Frontal Cortex BA9,64.2854
+UNC13A,Brain Hippocampus,18.8473
+UNC13A,Brain Hypothalamus,14.0571
+UNC13A,Brain Nucleus accumbens basal ganglia,28.397
+UNC13A,Brain Putamen basal ganglia,12.9514
+UNC13A,Brain Spinal cord cervical c-1,3.1999299999999997
+UNC13A,Brain Substantia nigra,4.61092
+UNC13A,Breast Mammary Tissue,0.129491
+UNC13A,Cells Cultured fibroblasts,0.138973
+UNC13A,Cells EBV-transformed lymphocytes,0.286472
+UNC13A,Cervix Ectocervix,0.690507
+UNC13A,Cervix Endocervix,0.83206
+UNC13A,Colon Sigmoid,0.565443
+UNC13A,Colon Transverse,0.40626
+UNC13A,Esophagus Gastroesophageal Junction,0.180376
+UNC13A,Esophagus Mucosa,0.08292580000000001
+UNC13A,Esophagus Muscularis,0.17814000000000002
+UNC13A,Fallopian Tube,0.359919
+UNC13A,Heart Atrial Appendage,0.067942
+UNC13A,Heart Left Ventricle,0.0460974
+UNC13A,Kidney Cortex,0.298439
+UNC13A,Kidney Medulla,0.203706
+UNC13A,Liver,0.0351431
+UNC13A,Lung,0.384073
+UNC13A,Minor Salivary Gland,0.0798339
+UNC13A,Muscle Skeletal,0.030193200000000003
+UNC13A,Nerve Tibial,0.328704
+UNC13A,Ovary,0.422882
+UNC13A,Pancreas,0.861534
+UNC13A,Pituitary,69.3576
+UNC13A,Prostate,0.270816
+UNC13A,Skin Not Sun Exposed Suprapubic,0.0895717
+UNC13A,Skin Sun Exposed Lower leg,0.13761400000000001
+UNC13A,Small Intestine Terminal Ileum,0.49236199999999997
+UNC13A,Spleen,2.14824
+UNC13A,Stomach,0.575063
+UNC13A,Testis,1.82569
+UNC13A,Thyroid,0.5254479999999999
+UNC13A,Uterus,0.31489
+UNC13A,Vagina,0.25743
+UNC13A,Whole Blood,0.0219595
+VAPB,Adipose Subcutaneous,14.6585
+VAPB,Adipose Visceral Omentum,13.9243
+VAPB,Adrenal Gland,23.7976
+VAPB,Artery Aorta,24.4132
+VAPB,Artery Coronary,23.2702
+VAPB,Artery Tibial,26.7426
+VAPB,Bladder,18.7327
+VAPB,Brain Amygdala,17.0704
+VAPB,Brain Anterior cingulate cortex BA24,19.1753
+VAPB,Brain Caudate basal ganglia,16.6928
+VAPB,Brain Cerebellar Hemisphere,36.076
+VAPB,Brain Cerebellum,26.5138
+VAPB,Brain Cortex,20.9243
+VAPB,Brain Frontal Cortex BA9,28.9391
+VAPB,Brain Hippocampus,16.5309
+VAPB,Brain Hypothalamus,23.1504
+VAPB,Brain Nucleus accumbens basal ganglia,18.9906
+VAPB,Brain Putamen basal ganglia,15.6157
+VAPB,Brain Spinal cord cervical c-1,36.0655
+VAPB,Brain Substantia nigra,21.3693
+VAPB,Breast Mammary Tissue,15.2895
+VAPB,Cells Cultured fibroblasts,18.5138
+VAPB,Cells EBV-transformed lymphocytes,13.6786
+VAPB,Cervix Ectocervix,18.5715
+VAPB,Cervix Endocervix,19.6652
+VAPB,Colon Sigmoid,26.0439
+VAPB,Colon Transverse,17.8302
+VAPB,Esophagus Gastroesophageal Junction,22.8386
+VAPB,Esophagus Mucosa,14.9177
+VAPB,Esophagus Muscularis,23.2367
+VAPB,Fallopian Tube,21.4949
+VAPB,Heart Atrial Appendage,10.9608
+VAPB,Heart Left Ventricle,10.6926
+VAPB,Kidney Cortex,12.7717
+VAPB,Kidney Medulla,15.3602
+VAPB,Liver,10.0775
+VAPB,Lung,16.695
+VAPB,Minor Salivary Gland,14.126
+VAPB,Muscle Skeletal,23.7173
+VAPB,Nerve Tibial,24.2294
+VAPB,Ovary,22.9039
+VAPB,Pancreas,7.0639899999999995
+VAPB,Pituitary,21.0392
+VAPB,Prostate,18.9195
+VAPB,Skin Not Sun Exposed Suprapubic,11.3747
+VAPB,Skin Sun Exposed Lower leg,11.8032
+VAPB,Small Intestine Terminal Ileum,16.264
+VAPB,Spleen,13.1236
+VAPB,Stomach,13.5383
+VAPB,Testis,11.7469
+VAPB,Thyroid,30.7027
+VAPB,Uterus,25.3376
+VAPB,Vagina,15.1134
+VAPB,Whole Blood,3.3828
+VCP,Adipose Subcutaneous,151.805
+VCP,Adipose Visceral Omentum,131.847
+VCP,Adrenal Gland,164.24099999999999
+VCP,Artery Aorta,172.37400000000002
+VCP,Artery Coronary,156.217
+VCP,Artery Tibial,164.25099999999998
+VCP,Bladder,148.827
+VCP,Brain Amygdala,40.3799
+VCP,Brain Anterior cingulate cortex BA24,54.9023
+VCP,Brain Caudate basal ganglia,48.4321
+VCP,Brain Cerebellar Hemisphere,108.986
+VCP,Brain Cerebellum,97.7967
+VCP,Brain Cortex,71.8836
+VCP,Brain Frontal Cortex BA9,79.4881
+VCP,Brain Hippocampus,42.4188
+VCP,Brain Hypothalamus,63.9864
+VCP,Brain Nucleus accumbens basal ganglia,55.3872
+VCP,Brain Putamen basal ganglia,41.0316
+VCP,Brain Spinal cord cervical c-1,80.7809
+VCP,Brain Substantia nigra,53.1406
+VCP,Breast Mammary Tissue,134.387
+VCP,Cells Cultured fibroblasts,229.14700000000002
+VCP,Cells EBV-transformed lymphocytes,209.113
+VCP,Cervix Ectocervix,154.49
+VCP,Cervix Endocervix,155.19299999999998
+VCP,Colon Sigmoid,125.20100000000001
+VCP,Colon Transverse,104.81700000000001
+VCP,Esophagus Gastroesophageal Junction,136.713
+VCP,Esophagus Mucosa,167.158
+VCP,Esophagus Muscularis,138.952
+VCP,Fallopian Tube,153.27100000000002
+VCP,Heart Atrial Appendage,101.085
+VCP,Heart Left Ventricle,109.759
+VCP,Kidney Cortex,65.7365
+VCP,Kidney Medulla,88.4599
+VCP,Liver,60.2701
+VCP,Lung,165.635
+VCP,Minor Salivary Gland,135.769
+VCP,Muscle Skeletal,193.158
+VCP,Nerve Tibial,160.433
+VCP,Ovary,136.564
+VCP,Pancreas,45.7057
+VCP,Pituitary,142.207
+VCP,Prostate,137.406
+VCP,Skin Not Sun Exposed Suprapubic,140.489
+VCP,Skin Sun Exposed Lower leg,153.35399999999998
+VCP,Small Intestine Terminal Ileum,121.07600000000001
+VCP,Spleen,150.767
+VCP,Stomach,95.7774
+VCP,Testis,143.105
+VCP,Thyroid,146.709
+VCP,Uterus,171.21400000000003
+VCP,Vagina,146.474
+VCP,Whole Blood,57.6616
