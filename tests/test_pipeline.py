@@ -217,3 +217,57 @@ def test_report_generation():
             content = f.read()
             assert "# ALS Genomic Atlas" in content
             assert "## SOD1" in content
+
+def test_graphml_export():
+    from scripts.export_graphml import export_graphml
+    import networkx as nx
+    with tempfile.TemporaryDirectory() as tmpdir:
+        db_path = os.path.join(tmpdir, "test.duckdb")
+        out_path = os.path.join(tmpdir, "test_output.graphml")
+        
+        conn = duckdb.connect(db_path)
+        create_tables(conn)
+        
+        # Populate with some minimal test data
+        conn.execute("""
+            INSERT INTO genes (gene_symbol, ensembl_id, uniprot_id, chromosome, start_pos, end_pos, protein_description)
+            VALUES ('SOD1', 'ENSG00000142168', 'P00441', '21', 31659693, 31668931, 'Superoxide dismutase')
+        """)
+        conn.execute("""
+            INSERT INTO transcripts (transcript_id, gene_symbol, mane_select, length, exons)
+            VALUES ('ENST00000270142', 'SOD1', true, 2000, 5)
+        """)
+        conn.execute("""
+            INSERT INTO interactions (gene_a, gene_b, confidence_score)
+            VALUES ('SOD1', 'CCS', 0.99)
+        """)
+        conn.close()
+        
+        # Run export
+        G = export_graphml(db_path, out_path)
+        
+        assert os.path.exists(out_path)
+        
+        # Verify graph structure and attributes
+        assert G.has_node("SOD1")
+        assert G.nodes["SOD1"]["node_type"] == "gene"
+        assert G.nodes["SOD1"]["als_seed"] == 1
+        
+        assert G.has_node("ENST00000270142")
+        assert G.nodes["ENST00000270142"]["node_type"] == "transcript"
+        
+        assert G.has_node("CCS")
+        assert G.nodes["CCS"]["node_type"] == "gene"
+        assert G.nodes["CCS"]["als_seed"] == 0
+        
+        assert G.has_edge("SOD1", "ENST00000270142")
+        assert G.edges["SOD1", "ENST00000270142"]["edge_type"] == "has_transcript"
+        assert G.edges["SOD1", "ENST00000270142"]["network"] == "gene-transcript"
+        
+        assert G.has_edge("CCS", "SOD1") or G.has_edge("SOD1", "CCS")
+        
+        # Verify read back
+        G2 = nx.read_graphml(out_path)
+        assert G2.has_node("SOD1")
+        assert G2.nodes["SOD1"]["node_type"] == "gene"
+

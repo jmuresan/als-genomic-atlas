@@ -12,3 +12,6 @@ data/raw/cache/
 
 # Manim build output. Regenerated from video/*.py by `manim`.
 media/
+
+# Secrets
+.env
