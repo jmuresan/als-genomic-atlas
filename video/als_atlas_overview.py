@@ -11,6 +11,20 @@ The SANDO logo is composited from video/assets/sando_logo_soft.png.
 
 import numpy as np
 from manim import *
+import os
+import subprocess
+
+def get_audio_duration(filename):
+    filepath = os.path.join("video", "audio", f"{filename}.mp3")
+    if not os.path.exists(filepath):
+        return 3.0
+    cmd = f"ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 {filepath}"
+    try:
+        res = subprocess.check_output(cmd.split())
+        return float(res)
+    except Exception:
+        return 3.0
+
 
 BG = "#0d1b2a"
 INK = "#e0e1dd"
@@ -170,7 +184,9 @@ class ALSGenomicAtlas(Scene):
         group = Group(title, logo).arrange(DOWN, buff=0.5)
         self.play(Write(title), run_time=1.2)
         self.play(FadeIn(logo), run_time=0.8)
-        self.wait(1.2)
+        dur = get_audio_duration("01_intro_title")
+        self.add_sound("video/audio/01_intro_title.mp3")
+        self.wait(max(0.5, dur - 2.0))
         self.play(FadeOut(title), FadeOut(logo), run_time=0.7)
 
         # motor neuron schematic
@@ -192,18 +208,22 @@ class ALSGenomicAtlas(Scene):
             Text("Amyotrophic lateral sclerosis is a progressive", font_size=30, color=INK),
             Text("neurodegenerative disease that affects motor neurons.", font_size=30, color=INK),
         ).arrange(DOWN, buff=0.16).to_edge(DOWN, buff=1.0)
+        dur = get_audio_duration("02_intro_neuron")
+        self.add_sound("video/audio/02_intro_neuron.mp3")
         self.play(Create(neuron), run_time=1.4)
         self.play(FadeIn(cap), run_time=0.6)
-        self.wait(2.0)
+        self.wait(max(0.5, dur - 2.0))
         self.play(FadeOut(neuron), FadeOut(cap), run_time=0.6)
 
         framing = VGroup(
             Text("The atlas compiles molecular data for 46 genes", font_size=34, color=WHITE),
             Text("associated with ALS, organized into 11 categories.", font_size=34, color=WHITE),
         ).arrange(DOWN, buff=0.2)
+        dur = get_audio_duration("03_intro_categories")
+        self.add_sound("video/audio/03_intro_categories.mp3")
         self.play(FadeIn(framing[0], shift=UP * 0.2))
         self.play(FadeIn(framing[1], shift=UP * 0.2))
-        self.wait(2.0)
+        self.wait(max(0.5, dur - 0.4))
         self.play(FadeOut(framing), run_time=0.6)
 
     # ----- progress dots ----------------------------------------------
@@ -251,11 +271,14 @@ class ALSGenomicAtlas(Scene):
             src_t = Text(f"Source: {sources}", font_size=22, color=MUTED)
             src_t.next_to(desc_t, DOWN, aligned_edge=LEFT, buff=0.45)
 
+            filename = f"{(num+3):02d}_cat_{num}"
+            dur = get_audio_duration(filename)
+            self.add_sound(f"video/audio/{filename}.mp3")
             self.play(FadeIn(badge, scale=0.6), Write(title_t), FadeIn(tag), run_time=0.7)
             self.play(Create(icon), run_time=0.9)
             self.play(*[FadeIn(t, shift=RIGHT * 0.3) for t in desc_t], run_time=0.6)
             self.play(FadeIn(src_t), run_time=0.4)
-            self.wait(2.2)
+            self.wait(max(0.5, dur - 2.6))
             self.play(FadeOut(header), FadeOut(tag), FadeOut(icon),
                       FadeOut(desc_t), FadeOut(src_t), run_time=0.45)
 
@@ -270,8 +293,10 @@ class ALSGenomicAtlas(Scene):
             Text("These 11 categories are compiled for each", font_size=34, color=WHITE),
             Text("of the 46 ALS-associated genes in the atlas.", font_size=34, color=WHITE),
         ).arrange(DOWN, buff=0.2)
+        dur = get_audio_duration("15_outro_summary")
+        self.add_sound("video/audio/15_outro_summary.mp3")
         self.play(FadeIn(closing), run_time=0.8)
-        self.wait(2.0)
+        self.wait(max(0.5, dur - 0.8))
         self.play(FadeOut(closing), FadeOut(self.dots), run_time=0.6)
 
         credit = VGroup(
@@ -280,8 +305,10 @@ class ALSGenomicAtlas(Scene):
             Text("Reactome, Open Targets, AlphaFold, the RCSB PDB,", font_size=26, color=MUTED),
             Text("Foldseek, and ChEMBL.", font_size=26, color=MUTED),
         ).arrange(DOWN, buff=0.18)
+        dur = get_audio_duration("16_outro_credits")
+        self.add_sound("video/audio/16_outro_credits.mp3")
         self.play(FadeIn(credit), run_time=0.8)
-        self.wait(2.4)
+        self.wait(max(0.5, dur - 0.8))
         self.play(FadeOut(credit), run_time=0.6)
 
         logo = ImageMobject(LOGO).scale_to_fit_height(2.4)

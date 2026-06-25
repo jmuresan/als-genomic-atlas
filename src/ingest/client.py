@@ -623,14 +623,41 @@ class OpenTargetsClient(BaseClient):
         if cached is not None:
             return cached
 
-        # Resolve a UniProt accession to a gene symbol if needed.
+        ensembl_id = None
         search_term = target_query
+
+        # Resolve via UniProt accession
         if re.match(r'^[A-Z0-9]{6,10}$', target_query):
             try:
                 uniprot_url = f"https://rest.uniprot.org/uniprotkb/{target_query}.json"
                 resp = requests.get(uniprot_url, timeout=10)
                 if resp.status_code == 200:
-                    genes_info = resp.json().get("genes", [])
+                    resp_data = resp.json()
+                    
+                    # 1. Enforce target must be human to avoid mapping non-human symbols to human targets
+                    organism = resp_data.get("organism", {})
+                    scientific_name = organism.get("scientificName", "")
+                    if scientific_name.lower() != "homo sapiens":
+                        logger.info(f"Skipping non-human target {target_query} ({scientific_name})")
+                        result = {"approvedSymbol": target_query, "drugs": []}
+                        self.cache.write(self.source_name, endpoint, query_params, result)
+                        return result
+                    
+                    # 2. Try to get Ensembl ID directly from UniProt cross-references to bypass fuzzy search
+                    for ref in resp_data.get("uniProtKBCrossReferences", []):
+                        if ref.get("database") == "Ensembl":
+                            properties = ref.get("properties", [])
+                            for prop in properties:
+                                if prop.get("key") == "GeneId":
+                                    ensembl_id = prop.get("value")
+                                    break
+                            if ensembl_id:
+                                if "." in ensembl_id:
+                                    ensembl_id = ensembl_id.split(".")[0]
+                                break
+                    
+                    # Resolve gene symbol for search fallback
+                    genes_info = resp_data.get("genes", [])
                     if genes_info:
                         val = genes_info[0].get("geneName", {}).get("value")
                         if val:
@@ -642,24 +669,33 @@ class OpenTargetsClient(BaseClient):
             except Exception as e:
                 logger.error(f"Error resolving UniProt ID {target_query} to gene name: {e}")
 
-        ensembl_id = None
-        search_query = """
-        query searchTarget($queryString: String!) {
-          search(queryString: $queryString, entityNames: ["target"]) {
-            hits {
-              id
+        # If Ensembl ID was not found directly in cross-references, fall back to target search
+        if not ensembl_id:
+            search_query = """
+            query searchTarget($queryString: String!) {
+              search(queryString: $queryString, entityNames: ["target"]) {
+                hits {
+                  id
+                  name
+                }
+              }
             }
-          }
-        }
-        """
-        search_res = self._request("POST", self.graphql_url, "target_search", json_data={"query": search_query, "variables": {"queryString": search_term}})
-        if isinstance(search_res, dict):
-            hits = search_res.get("data", {}).get("search", {}).get("hits", []) or []
-            if hits:
-                ensembl_id = hits[0].get("id")
+            """
+            search_res = self._request("POST", self.graphql_url, "target_search", json_data={"query": search_query, "variables": {"queryString": search_term}})
+            if isinstance(search_res, dict):
+                hits = search_res.get("data", {}).get("search", {}).get("hits", []) or []
+                for h in hits:
+                    h_id = h.get("id")
+                    h_name = h.get("name", "")
+                    # Enforce strict validation: target symbol must match search_term exactly
+                    if h_name and h_name.upper() == search_term:
+                        ensembl_id = h_id
+                        break
 
         if not ensembl_id:
-            return {"drugs": []}
+            result = {"approvedSymbol": target_query, "drugs": []}
+            self.cache.write(self.source_name, endpoint, query_params, result)
+            return result
 
         query = """
         query targetDrugsAndIndications($ensemblId: String!) {
