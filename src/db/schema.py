@@ -98,11 +98,22 @@ def create_tables(conn: duckdb.DuckDBPyConnection):
     """)
 
     # 6. Interactions table
+    #
+    # STRING returns per-edge evidence channels in addition to the combined
+    # `score`. We persist the experimental (escore), database/curated (dscore)
+    # and text-mining (tscore) sub-scores so downstream consumers can tell a
+    # physically-supported edge from a co-mention artifact. The combined
+    # `confidence_score` alone CONFLATES these — a high combined score driven
+    # purely by text-mining (escore~0, tscore~1) is a literature co-mention,
+    # not evidence of a physical/functional interaction.
     conn.execute("""
     CREATE TABLE IF NOT EXISTS interactions (
         gene_a VARCHAR,
         gene_b VARCHAR,
         confidence_score DOUBLE,
+        escore DOUBLE,   -- STRING experimental channel (physical evidence)
+        dscore DOUBLE,   -- STRING database/curated channel
+        tscore DOUBLE,   -- STRING text-mining channel (co-mention; NOT physical)
         PRIMARY KEY (gene_a, gene_b)
     )
     """)

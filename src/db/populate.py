@@ -59,19 +59,53 @@ def populate_gene(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
             VALUES (?, ?, ?, ?, ?)
             """, [tx_id, gene_symbol, mane, length, exons])
 
+def _clinvar_grch38_loc(info: Dict[str, Any]):
+    """Per-variant GRCh38 (chromosome, position) from a ClinVar esummary record.
+
+    ClinVar records carry their own authoritative coordinates in
+    variation_set[].variation_loc[]; prefer the GRCh38 assembly entry. Returns
+    (None, None) if unavailable so the caller can fall back.
+    """
+    for vset in (info.get("variation_set") or []):
+        for loc in (vset.get("variation_loc") or []):
+            if loc.get("assembly_name") == "GRCh38" and loc.get("chr"):
+                start = loc.get("start") or loc.get("display_start")
+                try:
+                    pos = int(start) if start not in (None, "") else None
+                except (TypeError, ValueError):
+                    pos = None
+                return loc.get("chr"), pos
+    return None, None
+
+
+def _clinvar_rsid(info: Dict[str, Any]):
+    """Per-variant dbSNP rsid from a ClinVar record's variation_xrefs, if present."""
+    for vset in (info.get("variation_set") or []):
+        for xref in (vset.get("variation_xrefs") or []):
+            if (xref.get("db_source") or "").lower() == "dbsnp":
+                rid = xref.get("db_id")
+                if rid:
+                    rid = str(rid)
+                    return rid if rid.startswith("rs") else "rs" + rid
+    return None
+
+
 def populate_variants(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
     gene_symbol = data.get("gene")
-    
+
     # ClinVar
     clinvar = data.get("clinvar", {}) or {}
     clinvar_result = clinvar.get("result", {}) or {}
-    
-    # dbSNP
+
+    # dbSNP — gene-level fallback ONLY. Historically these per-gene values were
+    # written onto EVERY ClinVar variant of the gene, collapsing all coordinates
+    # to one (corrupt) locus. Real coordinates are now taken per-variant from the
+    # ClinVar record below; dbSNP is used only when ClinVar lacks a coordinate.
     dbsnp = data.get("dbsnp", {}) or {}
-    rsid = dbsnp.get("rsid")
-    chromosome = dbsnp.get("chromosome")
-    position = dbsnp.get("position")
-    hgvs = dbsnp.get("hgvs")
+    fallback_rsid = dbsnp.get("rsid")
+    fallback_chromosome = dbsnp.get("chromosome")
+    fallback_position = dbsnp.get("position")
+    fallback_hgvs = dbsnp.get("hgvs")
     
     # gnomAD
     gnomad = data.get("gnomad", {}) or {}
@@ -96,16 +130,24 @@ def populate_variants(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
         clinical_sig = germline.get("description")
         traits = germline.get("trait_set") or []
         disease_name = traits[0].get("trait_name") if traits else None
-        
+
+        # Per-variant coordinates from the ClinVar record (authoritative),
+        # falling back to the gene-level dbSNP record only if absent.
+        v_chr, v_pos = _clinvar_grch38_loc(info)
+        v_chr = v_chr if v_chr is not None else fallback_chromosome
+        v_pos = v_pos if v_pos is not None else fallback_position
+        v_hgvs = info.get("title") or fallback_hgvs
+        v_rsid = _clinvar_rsid(info) or fallback_rsid
+
         conn.execute("""
         INSERT OR REPLACE INTO variants (
-            variant_id, gene_symbol, clinical_significance, disease_name, 
-            rsid, chromosome, position, hgvs, gnomad_pli, gnomad_loeuf, 
+            variant_id, gene_symbol, clinical_significance, disease_name,
+            rsid, chromosome, position, hgvs, gnomad_pli, gnomad_loeuf,
             gnomad_allele_freq, alphagenome_consequence, alphagenome_pathogenicity
         ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, [
             variant_id, gene_symbol, clinical_sig, disease_name,
-            rsid, chromosome, position, hgvs, pli, loeuf,
+            v_rsid, v_chr, v_pos, v_hgvs, pli, loeuf,
             allele_freq, consequence, pathogenicity
         ])
         variant_found = True
@@ -206,10 +248,14 @@ def populate_interactions(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any])
         score = item.get("score")
         if gene_a and gene_b:
             gene_a, gene_b = sorted([gene_a, gene_b])
+            # Persist the STRING evidence channels alongside the combined score
+            # so consumers can distinguish physical/curated edges (escore/dscore)
+            # from text-mining co-mentions (tscore). All come from the same
+            # cached STRING response, so this stays deterministic on rebuild.
             conn.execute("""
-            INSERT OR REPLACE INTO interactions (gene_a, gene_b, confidence_score)
-            VALUES (?, ?, ?)
-            """, [gene_a, gene_b, score])
+            INSERT OR REPLACE INTO interactions (gene_a, gene_b, confidence_score, escore, dscore, tscore)
+            VALUES (?, ?, ?, ?, ?, ?)
+            """, [gene_a, gene_b, score, item.get("escore"), item.get("dscore"), item.get("tscore")])
 
 def populate_clinical_trials_and_drugs(conn: duckdb.DuckDBPyConnection, data: Dict[str, Any]):
     gene_symbol = data.get("gene")
